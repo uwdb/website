@@ -1,0 +1,56 @@
+html {
+  position: relative;
+  min-height: 99%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 820px;
+  }
+}
+
+p {
+	line-height: 1.5em;
+}
+
+h1 {
+	margin-top: 30px;
+}
+
+h2 {
+	margin-top: 30px;
+}
+
+img.logo {
+	height: 32px;
+	margin-top: -6px;
+}
+
+.container .credit {
+    margin: 20px 0;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+.thumbnail.with-caption {
+  display: inline-block;
+  background: #f5f5f5;
+}
+
+.thumbnail.with-caption p {
+  margin: 0;
+  padding-top: 0.5em;
+}
