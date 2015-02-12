@@ -21,11 +21,12 @@ rank: 1
 * [Eric Gribkoff](http://homes.cs.washington.edu/~eagribko/)
 * Brandon Haynes
 * Jeremy Hyrkas
+* [Shrainik Jain](http://homes.cs.washington.edu/~shrainik/)
 * [Paris Koutris](http://homes.cs.washington.edu/~pkoutris/)
 * Ryan Maas
 * [Dominik Moritz](http://homes.cs.washington.edu/~domoritz/)
 * [Brandon Myers](http://homes.cs.washington.edu/~bdmyers/)
-* Laurel Orr
+* [Laurel Orr](http://homes.cs.washington.edu/~ljorr1/)
 * [Jennifer Ortiz](http://homes.cs.washington.edu/~jortiz16/)
 * Jingjing Wang
 * [Shengliang Xu](http://homes.cs.washington.edu/~slxu/)
