@@ -1,16 +1,7 @@
-{% for rank in (0..10) %}
-  {% for node in pages_list %}
-    {% if node.rank == rank %}
-      {% if group == null or group == node.group %}
-        {% assign url = node.url | replace: 'index.html', '' %}
-        {% if page.url == node.url %}
-          <li class="active"><a href="{{url}}" class="active">{{node.title}}</a></li>
-        {% else %}
-          <li><a href="{{url}}">{{node.title}}</a></li>
-        {% endif %}
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
+<li {% if page.id == 'people' %}class="active"{% endif %}>
+  <a href="{{ site.baseurl }}/people.html">People</a>
+</li>
+
+<li {% if page.id == 'projects' %}class="active"{% endif %}>
+  <a href="{{ site.baseurl }}/projects.html">Research Projects</a>
+</li>

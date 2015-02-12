@@ -2,7 +2,7 @@
 layout: default
 title: People
 group: "navigation"
-rank: 1
+id: "people"
 ---
 
 # People

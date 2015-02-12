@@ -2,8 +2,8 @@
 layout: default
 title: Projects
 group: "navigation"
-rank: 2
+id: "projects"
 ---
 
-# Projects and Software
+# Projects
 
