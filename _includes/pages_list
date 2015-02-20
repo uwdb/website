@@ -5,3 +5,11 @@
 <li {% if page.id == 'projects' %}class="active"{% endif %}>
   <a href="{{ site.baseurl }}/projects.html">Research Projects</a>
 </li>
+
+<li {% if page.id == 'courses' %}class="active"{% endif %}>
+  <a href="{{ site.baseurl }}/courses.html">Courses</a>
+</li>
+
+<li {% if page.id == 'courses' %}class="active"{% endif %}>
+  <a href="{{ site.baseurl }}/readinglist.html">Courses</a>
+</li>
