@@ -13,3 +13,7 @@
 <li {% if page.id == 'readinglist' %}class="active"{% endif %}>
   <a href="{{ site.baseurl }}/readinglist.html">Reading List</a>
 </li>
+
+<li {% if page.id == 'uwds' %}class="active"{% endif %}>
+  <a href="{{ site.baseurl }}/uwds.html">Northwest DB Society</a>
+</li>
