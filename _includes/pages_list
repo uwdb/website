@@ -11,5 +11,5 @@
 </li>
 
 <li {% if page.id == 'readinglist' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/readinglist.html">Courses</a>
+  <a href="{{ site.baseurl }}/readinglist.html">Reading List</a>
 </li>
