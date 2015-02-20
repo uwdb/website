@@ -13,7 +13,7 @@ rank: 0
 	</p>
 </div>
 
-## Current Projects
+# Current Projects
 
 * [Myria](myria.cs.washington.edu): Big Data as a Service.
 * [AstroDB](db.cs.washington.edu/astrodb/): An inter-disciplinary collaboration for new methods and tools for Big Data Astonomy.
