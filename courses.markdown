@@ -1,8 +1,8 @@
 ---
 layout: default
 title: courses
-group: "courses"
-id: "projects"
+group: "navigation"
+id: "courses"
 ---
 
 # Courses Provided by Database Group
