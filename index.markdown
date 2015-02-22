@@ -38,7 +38,7 @@ rank: 0
     <img src="{{ site.baseurl}}/images/nsf_logo.png" class="img-thumbnail">
     </a>
 
-    <a herf="http://www.pnnl.gov/">
+    <a href="http://www.pnnl.gov/">
     <img src="{{ site.baseurl}}/images/pnnl_logo.png" class="img-thumbnail">
     </a>
 
@@ -46,7 +46,7 @@ rank: 0
     <img src="{{ site.baseurl}}/images/emc_logo.png" class="img-thumbnail">
     </a>
 
-    <a herf="http://research.microsoft.com/">
+    <a href="http://research.microsoft.com/">
     <img src="{{ site.baseurl}}/images/msr_logo.png" class="img-thumbnail">
     </a>
 
