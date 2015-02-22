@@ -54,3 +54,12 @@ img.logo {
   margin: 0;
   padding-top: 0.5em;
 }
+
+.img-thumbnail { 
+  min-height:60px; 
+  height:60px;
+  margin-left: 15px;
+  margin-top: 15px;
+  border: 0 none;
+  /*box-shadow: none;*/ 
+}

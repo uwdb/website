@@ -27,6 +27,43 @@ rank: 0
 * [Data Eco$y$tem](cloud-data-pricing.cs.washington.edu): Data management and pricing in the cloud.
 
 
+# Collaborators and Sponsors
+
+<div height="50">
+    <a href="http://escience.washington.edu">
+    <img src="{{ site.baseurl}}/images/eScience_logo.png" class="img-thumbnail">
+    </a>
+
+    <a href="http://www.nsf.gov/">
+    <img src="{{ site.baseurl}}/images/nsf_logo.png" class="img-thumbnail">
+    </a>
+
+    <a herf="http://www.pnnl.gov/">
+    <img src="{{ site.baseurl}}/images/pnnl_logo.png" class="img-thumbnail">
+    </a>
+
+    <a href="http://www.emc.com/">
+    <img src="{{ site.baseurl}}/images/emc_logo.png" class="img-thumbnail">
+    </a>
+
+    <a herf="http://research.microsoft.com/en-us/">
+    <img src="{{ site.baseurl}}/images/msr_logo.png" class="img-thumbnail">
+    </a>
+
+    <a href="http://www.amazon.com/">
+    <img src="{{ site.baseurl}}/images/amazon_logo.png" class="img-thumbnail">
+    </a>
+
+    <a href="http://www.noaa.gov/">
+    <img src="{{ site.baseurl}}/images/noaa_logo.png" class="img-thumbnail">
+    </a>
+
+    <a href="https://www.google.com/">
+    <img src="{{ site.baseurl}}/images/google_logo.png" class="img-thumbnail">
+    </a>
+
+</div>
+
 
 Make changes at [github.com/uwdb/website](https://github.com/uwdb/website)
 
