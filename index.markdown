@@ -31,15 +31,15 @@ rank: 0
 
 <div height="50">
     <a href="http://escience.washington.edu">
-    <img src="{{ site.baseurl}}/images/eScience_logo.png" class="img-thumbnail">
+    <img src="{{ site.baseurl}}/images/eScience_logo.png" class="img-thumbnail" style="min-height:70px; height:70px;">
     </a>
 
     <a href="http://www.nsf.gov/">
-    <img src="{{ site.baseurl}}/images/nsf_logo.png" class="img-thumbnail">
+    <img src="{{ site.baseurl}}/images/nsf_logo.png" class="img-thumbnail" style="min-height:70px; height:70px;">
     </a>
 
     <a href="http://www.pnnl.gov/">
-    <img src="{{ site.baseurl}}/images/pnnl_logo.png" class="img-thumbnail">
+    <img src="{{ site.baseurl}}/images/pnnl_logo.png" class="img-thumbnail" style="min-height:70px; height:70px;">
     </a>
 
     <a href="http://www.emc.com/">
