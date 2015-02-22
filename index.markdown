@@ -46,7 +46,7 @@ rank: 0
     <img src="{{ site.baseurl}}/images/emc_logo.png" class="img-thumbnail">
     </a>
 
-    <a herf="http://research.microsoft.com/en-us/">
+    <a herf="http://research.microsoft.com/">
     <img src="{{ site.baseurl}}/images/msr_logo.png" class="img-thumbnail">
     </a>
 
