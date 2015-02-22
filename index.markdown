@@ -42,6 +42,10 @@ rank: 0
     <img src="{{ site.baseurl}}/images/pnnl_logo.png" class="img-thumbnail" style="min-height:70px; height:70px;">
     </a>
 
+    <a href="http://istc-bigdata.org/">
+    <img src="{{ site.baseurl}}/images/istc_logo.png" class="img-thumbnail" style="min-height:70px; height:70px;">
+    </a>
+
     <a href="http://www.emc.com/">
     <img src="{{ site.baseurl}}/images/emc_logo.png" class="img-thumbnail">
     </a>
@@ -60,6 +64,10 @@ rank: 0
 
     <a href="https://www.google.com/">
     <img src="{{ site.baseurl}}/images/google_logo.png" class="img-thumbnail">
+    </a>
+
+     <a href="https://www.yahoo.com/">
+    <img src="{{ site.baseurl}}/images/yahoo_logo.png" class="img-thumbnail">
     </a>
 
 </div>
