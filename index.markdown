@@ -19,7 +19,7 @@ rank: 0
 * [AstroDB](db.cs.washington.edu/astrodb/): An inter-disciplinary collaboration for new methods and tools for Big Data Astonomy.
 * [SQLShare](escience.washington.edu/sqlshare): Database-as-a-Service for High-Variety Data
 * [CQMS](cqms.cs.washington.edu/CQMS.html): Collaborative Query Management System.
-* [BeliefDB](db.cs.washington.edu/beliefDB/): Adding belief annotations to databases.
+* [Probabilistic Databases](homes.cs.washington.edu/~suciu/project-querycompilation.html): Large scale probabilistic inference using database technology.
 * [Causality](people.cs.umass.edu/~ameli/projects/causality/): Applying causal reasoning in databases.
 * [Nuage](db.cs.washington.edu/nuage/): Data-intensive scalable computing.
 * [QueryViz](queryviz.com): Visualizing SQL queries.
