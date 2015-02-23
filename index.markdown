@@ -15,16 +15,16 @@ rank: 0
 
 # Current Projects
 
-* [Myria](myria.cs.washington.edu): Big Data as a Service.
-* [AstroDB](db.cs.washington.edu/astrodb/): An inter-disciplinary collaboration for new methods and tools for Big Data Astonomy.
-* [SQLShare](escience.washington.edu/sqlshare): Database-as-a-Service for High-Variety Data
-* [CQMS](cqms.cs.washington.edu/CQMS.html): Collaborative Query Management System.
-* [Probabilistic Databases](homes.cs.washington.edu/~suciu/project-querycompilation.html): Large scale probabilistic inference using database technology.
-* [Causality](people.cs.umass.edu/~ameli/projects/causality/): Applying causal reasoning in databases.
-* [Nuage](db.cs.washington.edu/nuage/): Data-intensive scalable computing.
-* [QueryViz](queryviz.com): Visualizing SQL queries.
-* [UW branch of SciDB](scidb.cs.washington.edu): Parallel distributed array database engine.
-* [Data Eco$y$tem](cloud-data-pricing.cs.washington.edu): Data management and pricing in the cloud.
+* [Myria](http://myria.cs.washington.edu): Big Data as a Service.
+* [AstroDB](http://db.cs.washington.edu/astrodb/): An inter-disciplinary collaboration for new methods and tools for Big Data Astonomy.
+* [SQLShare](http://escience.washington.edu/sqlshare): Database-as-a-Service for High-Variety Data
+* [CQMS](http://cqms.cs.washington.edu/CQMS.html): Collaborative Query Management System.
+* [Probabilistic Databases](http://http://homes.cs.washington.edu/~suciu/project-querycompilation.html): Large scale probabilistic inference using database technology.
+* [Causality](http://people.cs.umass.edu/~ameli/projects/causality/): Applying causal reasoning in databases.
+* [Nuage](http://db.cs.washington.edu/nuage/): Data-intensive scalable computing.
+* [QueryViz](http://queryviz.com): Visualizing SQL queries.
+* [UW branch of SciDB](http://scidb.cs.washington.edu): Parallel distributed array database engine.
+* [Data Eco$y$tem](http://cloud-data-pricing.cs.washington.edu): Data management and pricing in the cloud.
 
 
 # Collaborators and Sponsors
