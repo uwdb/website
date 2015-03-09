@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: courses
 group: "navigation"
 id: "courses"

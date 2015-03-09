@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: People
 group: "navigation"
 id: "people"

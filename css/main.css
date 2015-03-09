@@ -44,6 +44,12 @@ img.logo {
   text-align: center;
   border-bottom: 1px solid #E7E7E7;
   background: transparent;
+  background-image: url('../images/bg.jpg');
+  background-position: center;
+  height: 400px;
+  color: white;
+  margin-top: -21px;
+  padding-top: 114px;
 }
 
 .content {

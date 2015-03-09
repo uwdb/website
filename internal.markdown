@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Internal"
 group: "navigation"
 id: "internal"

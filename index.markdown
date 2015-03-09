@@ -1,17 +1,9 @@
 ---
-layout: default
+layout: home
 title: Home
 group: "navigation"
 rank: 0
 ---
-
-<div class="jumbotron">
-	<h1>UW Database Group</h1>
-
-	<p class="lead">
-		Data management, cloud, bah, punchline... at the University of Washington in Seattle.
-	</p>
-</div>
 
 The University of Washington's database group aims at broadening the focus of database and data management techniques beyond their traditional scope.  We do both theoretical and systems work in areas such as probabilistic databases, stream processing, sensor-based monitoring, databases and the web, XML, data management for ubiquitous computing, data integration, and data mining.
 
