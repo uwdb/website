@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700);
+
 html {
   position: relative;
   min-height: 99%;
@@ -11,12 +13,18 @@ body {
 /* Customize container */
 @media (min-width: 768px) {
   .container {
-    max-width: 820px;
+    max-width: 1000px;
   }
 }
 
 p {
 	line-height: 1.5em;
+}
+
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
 }
 
 h1 {
@@ -30,6 +38,16 @@ h2 {
 img.logo {
 	height: 32px;
 	margin-top: -6px;
+}
+
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #E7E7E7;
+  background: transparent;
+}
+
+.content {
+  padding-bottom: 40px;
 }
 
 .container .credit {

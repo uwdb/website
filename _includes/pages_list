@@ -1,19 +1,19 @@
 <li {% if page.id == 'people' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/people.html">People</a>
+  <a href="{{ site.baseurl }}/people.html"><i class="fa fa-users"></i> People</a>
 </li>
 
 <li {% if page.id == 'projects' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/projects.html">Research Projects</a>
+  <a href="{{ site.baseurl }}/projects.html"><i class="fa fa-graduation-cap"></i> Research Projects</a>
 </li>
 
 <li {% if page.id == 'courses' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/courses.html">Courses</a>
+  <a href="{{ site.baseurl }}/courses.html"><i class="fa fa-book"></i> Courses</a>
 </li>
 
-<li {% if page.id == 'readinglist' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/readinglist.html">Reading List</a>
+<li {% if page.id == 'internal' %}class="active"{% endif %}>
+  <a href="{{ site.baseurl }}/internal.html"><i class="fa fa-cog"></i> Internal</a>
 </li>
 
 <li {% if page.id == 'uwds' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/uwds.html">Northwest DB Society</a>
+  <a href="{{ site.baseurl }}/uwds.html"><i class="fa fa-compass"></i> Northwest DB Society</a>
 </li>
