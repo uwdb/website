@@ -8,7 +8,7 @@ ___
 Is yahoo DB Series still a thing
 ___
 # Northwest Database Society (NWDB)
-###Sponsored by ![Yahoo](yahoo.gif)
+####_Sponsored by Yahoo!_
 
 ## Mission Statement
 The goal of NWDS is to bring together researchers and practitioners in the field of databases and data management systems working in the Pacific North-West.
