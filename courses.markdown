@@ -25,5 +25,5 @@ id: "courses"
 ## Undergraduate Level
 
 * [CSE 344](http://www.cs.washington.edu/education/courses/344/), Introduction to Data Management
-* [CSE 444](http://www.cs.washington.edu/education/courses/444/), Introduction to Database Systems
+* [CSE 444](http://www.cs.washington.edu/education/courses/444/), Database Systems Internals
 * CSE 490i, Advanced Internet Systems
