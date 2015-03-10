@@ -11,13 +11,13 @@ The University of Washington's database group aims at broadening the focus of da
 
 ## Current Projects
 
-* M [Myria](http://myria.cs.washington.edu): Big Data as a Service.
-* A [AstroDB](http://db.cs.washington.edu/astrodb/): An inter-disciplinary collaboration for new methods and tools for Big Data Astonomy.
-* S [SQLShare](http://escience.washington.edu/sqlshare): Database-as-a-Service for High-Variety Data
-* P [Probabilistic Databases](http://homes.cs.washington.edu/~suciu/project-querycompilation.html): Large scale probabilistic inference using database technology.
-* C [Causality](http://people.cs.umass.edu/~ameli/projects/causality/): Applying causal reasoning in databases.
-* U [UW branch of SciDB](http://scidb.cs.washington.edu): Parallel distributed array database engine.
-* D [Data Eco$y$tem](http://cloud-data-pricing.cs.washington.edu): Data management and pricing in the cloud.
+* M [Myria](http://myria.cs.washington.edu) Big Data as a Service
+* A [AstroDB](http://db.cs.washington.edu/astrodb/) An inter-disciplinary collaboration for new methods and tools for Big Data Astonomy
+* S [SQLShare](http://escience.washington.edu/sqlshare) Database-as-a-Service for High-Variety Data
+* P [Probabilistic Databases](http://homes.cs.washington.edu/~suciu/project-querycompilation.html) Large scale probabilistic inference using database technology
+* C [Causality](http://people.cs.umass.edu/~ameli/projects/causality/) Applying causal reasoning in databases
+* U [UW branch of SciDB](http://scidb.cs.washington.edu) Parallel distributed array database engine
+* D [Data Eco$y$tem](http://cloud-data-pricing.cs.washington.edu) Data management and pricing in the cloud
 
 
 
