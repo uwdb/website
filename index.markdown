@@ -5,20 +5,23 @@ group: "navigation"
 rank: 0
 ---
 
+<link rel="stylesheet" href="css/projects.css">
+
 The University of Washington's database group aims at broadening the focus of database and data management techniques beyond their traditional scope.  We do both theoretical and systems work in areas such as probabilistic databases, stream processing, sensor-based monitoring, databases and the web, XML, data management for ubiquitous computing, data integration, and data mining.
 
-# Current Projects
+## Current Projects
 
-* [Myria](http://myria.cs.washington.edu): Big Data as a Service.
-* [AstroDB](http://db.cs.washington.edu/astrodb/): An inter-disciplinary collaboration for new methods and tools for Big Data Astonomy.
-* [SQLShare](http://escience.washington.edu/sqlshare): Database-as-a-Service for High-Variety Data
-* [Probabilistic Databases](http://homes.cs.washington.edu/~suciu/project-querycompilation.html): Large scale probabilistic inference using database technology.
-* [Causality](http://people.cs.umass.edu/~ameli/projects/causality/): Applying causal reasoning in databases.
-* [UW branch of SciDB](http://scidb.cs.washington.edu): Parallel distributed array database engine.
-* [Data Eco$y$tem](http://cloud-data-pricing.cs.washington.edu): Data management and pricing in the cloud.
+* M [Myria](http://myria.cs.washington.edu): Big Data as a Service.
+* A [AstroDB](http://db.cs.washington.edu/astrodb/): An inter-disciplinary collaboration for new methods and tools for Big Data Astonomy.
+* S [SQLShare](http://escience.washington.edu/sqlshare): Database-as-a-Service for High-Variety Data
+* P [Probabilistic Databases](http://homes.cs.washington.edu/~suciu/project-querycompilation.html): Large scale probabilistic inference using database technology.
+* C [Causality](http://people.cs.umass.edu/~ameli/projects/causality/): Applying causal reasoning in databases.
+* U [UW branch of SciDB](http://scidb.cs.washington.edu): Parallel distributed array database engine.
+* D [Data Eco$y$tem](http://cloud-data-pricing.cs.washington.edu): Data management and pricing in the cloud.
 
 
-# Collaborators and Sponsors
+
+## Collaborators and Sponsors
 
 <div height="50" class="flexcontainer">
     <a href="http://escience.washington.edu">
