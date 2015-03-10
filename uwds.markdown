@@ -4,21 +4,26 @@ title: "Northwest DB Society"
 group: "navigation"
 id: "uwds"
 ---
+___
+Is yahoo DB Series still a thing
+___
+# Northwest Database Society (NWDB)
+###_Sponsored by ![Yahoo](yahoo.gif)
 
-# Northwest Database Society
 ## Mission Statement
-LAUREL, add YAHOO statement
 The goal of NWDS is to bring together researchers and practitioners in the field of databases and data management systems working in the Pacific North-West.
 
-One of our main activities is a talk series with a variety of distinguished speakers from academia and industry. These talks are also part of the **Yahoo! Database Talk Series, sponsored by Yahoo!**
+One of our main activities is a talk series with a variety of distinguished speakers from academia and industry. These talks are also part of the **Yahoo! Database Talk Series** (sponsored by Yahoo!)
 
-* * *
+___
 
 ##  Upcoming Talks 
 
-* * *
+___
 
 ## Past Talks
+
+Listed in reverse chronological order. Click [here](http://db.cs.washington.edu/nwds/past_talks.htm) for abstracts.
 
 *   Barzan Mozafari, University of Michigan  [[abstract](past_talks.htm#barzan_mozafari_11_22_13)] [[slides](pdf/UW-Google-published.pdf)]
 *   Mike Cafarella, University of Michigan [[abstract](past_talks.htm#mike_cafarella_11_15_13)]
@@ -79,9 +84,7 @@ One of our main activities is a talk series with a variety of distinguished spea
 *   Dennis Lee, Amazon
 *   Shankar Pal, Microsoft Research
 
-Listed in reverse chronological order. Click [here](http://db.cs.washington.edu/nwds/past_talks.htm) for abstracts.
-
-* * *
+___
 
 ## Mailing List
 
@@ -90,9 +93,9 @@ use this list primarily to send announcements for upcoming events. After you reg
 
 To become a member, please contact [Magda](http://www.cs.washington.edu/homes/magda/)
 
-* * *
+___
 
 ## History
 
 The North-West Database Society was founded on January 1st 2006 by [Dan Suciu](http://www.cs.washington.edu/homes/suciu/) and
-[Magdalena Balazinska.](http://www.cs.washington.edu/homes/magda/) It is inspired by the [New-England Database Society](http://www.cse.uconn.edu/neds/).
+[Magdalena Balazinska](http://www.cs.washington.edu/homes/magda/). It is inspired by the [New-England Database Society](http://www.cse.uconn.edu/neds/).
