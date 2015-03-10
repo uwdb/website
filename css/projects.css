@@ -20,7 +20,7 @@ ul:first-of-type li:first-letter {
     border-radius: 4px;
 }
 
-ul:first-of-type li a {
+ul:first-of-type:not(.nav) li a {
     display: block;
     font-size: larger;
     font-weight: bold;
@@ -31,7 +31,7 @@ ul:first-of-type li a {
     color: #5b2a7c;
 }
 
-ul:nth-of-type(2), h2 {
+ul:nth-of-type(2):not(.nav), h2 {
     display: block;
     clear: both;
 }
