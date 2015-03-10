@@ -1,4 +1,4 @@
-ul:first-of-type li {
+ul:first-of-type:not(.nav) li {
     float: left;
     width: 20%;
     height: 200px;
