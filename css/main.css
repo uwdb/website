@@ -54,3 +54,42 @@ img.logo {
   margin: 0;
   padding-top: 0.5em;
 }
+
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: flex-start;
+}
+
+.flex-item {
+  padding: 10px;
+  width: 120px;
+  height: 150px;
+}
+
+.flex-item:hover {
+  opacity: 0.7;
+  filter: alpha(opacity=30);
+}
+
+.flex-item > p {
+  text-align: center;
+  font-size: 1em;
+  font-weight: bold;
+  color: white;
+  margin-top:-20px;
+  text-shadow: 1px 1px 2px #000;
+}
+
+.flex-item > a > img {
+  max-height:100%;
+  max-width:100%;
+  border-radius: 10px;
+}

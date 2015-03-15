@@ -9,27 +9,30 @@ rank: 1
 
 ## Faculty
 
-* [Magdalena Balazinska](http://www.cs.washington.edu/homes/magda/)
-* [Alvin Cheung](http://homes.cs.washington.edu/~akcheung/)
-* [Bill Howe](http://www.cs.washington.edu/homes/billhowe/)
-* [Dan Suciu](http://www.cs.washington.edu/homes/suciu/)
-* [Daniel Halperin](http://homes.cs.washington.edu/~dhalperi/)
+<div class="flex-container">
+{% include people-img.html url="/images/people/magda.jpg" caption="Magda" link="http://www.cs.washington.edu/homes/magda/" %}
+{% include people-img.html url="/images/people/alvin.jpg" caption="Alvin" link="http://homes.cs.washington.edu/~akcheung/" %}
+{% include people-img.html url="/images/people/bill.jpg" caption="Bill" link="http://www.cs.washington.edu/homes/billhowe/" %}
+{% include people-img.html url="/images/people/dan.jpg" caption="Dan" link="http://www.cs.washington.edu/homes/suciu/" %}
+{% include people-img.html url="/images/people/daniel.jpg" caption="Dan" link="http://homes.cs.washington.edu/~dhalperi/" %}
+</div>
 
 ## PhD Students
 
-* [Shumo Chu](http://homes.cs.washington.edu/~chushumo/)
-* [Eric Gribkoff](http://homes.cs.washington.edu/~eagribko/)
-* Brandon Haynes
-* Jeremy Hyrkas
-* [Shrainik Jain](http://homes.cs.washington.edu/~shrainik/)
-* [Paris Koutris](http://homes.cs.washington.edu/~pkoutris/)
-* Ryan Maas
-* [Dominik Moritz](http://homes.cs.washington.edu/~domoritz/)
-* [Brandon Myers](http://homes.cs.washington.edu/~bdmyers/)
-* [Laurel Orr](http://homes.cs.washington.edu/~ljorr1/)
-* [Jennifer Ortiz](http://homes.cs.washington.edu/~jortiz16/)
-* Jingjing Wang
-* [Shengliang Xu](http://homes.cs.washington.edu/~slxu/)
+<div class="flex-container">
+{% include people-img.html url="/images/people/shumo.jpg" caption="Shumo" link="http://homes.cs.washington.edu/~chushumo/" %}
+{% include people-img.html url="/images/people/eric.jpg" caption="Eric" link="http://homes.cs.washington.edu/~eagribko/" %}
+{% include people-img.html url="/images/people/brandonH.jpg" caption="Brandon" link="http://homes.cs.washington.edu/~bhaynes/" %}
+{% include people-img.html url="/images/people/jeremy.jpg" caption="Jeremy" link="http://homes.cs.washington.edu/~hyrkas/" %}
+{% include people-img.html url="/images/people/shrainik.jpg" caption="Shrainik" link="http://homes.cs.washington.edu/~shrainik/" %}
+{% include people-img.html url="/images/people/paris.jpg" caption="Paris" link="http://homes.cs.washington.edu/~pkoutris/" %}
+{% include people-img.html url="/images/people/dominik.jpg" caption="Dominik" link="http://homes.cs.washington.edu/~domoritz/" %}
+{% include people-img.html url="/images/people/brandonM.jpg" caption="Brandon" link="http://homes.cs.washington.edu/~bdmyers/" %}
+{% include people-img.html url="/images/people/laurel.jpg" caption="Laurel" link="http://homes.cs.washington.edu/~ljorr1/" %}
+{% include people-img.html url="/images/people/jennifer.jpg" caption="Jennifer" link="http://homes.cs.washington.edu/~jortiz16/" %}
+{% include people-img.html url="/images/people/jingjing.jpg" caption="Jingjing" link="http://homes.cs.washington.edu/~jwang/" %}
+{% include people-img.html url="/images/people/shengliang.jpg" caption="Shengliang" link="http://homes.cs.washington.edu/~slxu/" %}
+</div>
 
 ## Undergraduate Students
 
@@ -37,4 +40,4 @@ rank: 1
 
 ## Alumni
 
-* [Emad Soroush](http://www.cs.washington.edu/homes/soroush/)
+{% include people-img.html url="/images/people/emad.jpg" caption="Emad" link="http://www.cs.washington.edu/homes/soroush/" %}
