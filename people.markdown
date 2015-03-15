@@ -29,6 +29,7 @@ id: "people"
 {% include people-img.html url="/images/people/shrainik.jpg" caption="Shrainik" link="http://homes.cs.washington.edu/~shrainik/" %}
 {% include people-img.html url="/images/people/paris.jpg" caption="Paris" link="http://homes.cs.washington.edu/~pkoutris/" %}
 {% include people-img.html url="/images/people/dominik.jpg" caption="Dominik" link="http://homes.cs.washington.edu/~domoritz/" %}
+{% include people-img.html url="/images/people/maaz.jpg" caption="Maaz" link="http://homes.cs.washington.edu/~maazsaf/" %}
 {% include people-img.html url="/images/people/ryan.jpg" caption="Ryan" link="http://homes.cs.washington.edu/~maas/" %}
 {% include people-img.html url="/images/people/brandonM.jpg" caption="Brandon" link="http://homes.cs.washington.edu/~bdmyers/" %}
 {% include people-img.html url="/images/people/laurel.jpg" caption="Laurel" link="http://homes.cs.washington.edu/~ljorr1/" %}
