@@ -20,6 +20,7 @@ id: "people"
 ## PhD Students
 
 <div class="flex-container">
+{% include people-img.html url="/images/people/maaz.jpg" caption="Maaz" link="http://homes.cs.washington.edu/~maazsaf/" %}
 {% include people-img.html url="/images/people/shumo.jpg" caption="Shumo" link="http://homes.cs.washington.edu/~chushumo/" %}
 {% include people-img.html url="/images/people/eric.jpg" caption="Eric" link="http://homes.cs.washington.edu/~eagribko/" %}
 {% include people-img.html url="/images/people/brandonH.jpg" caption="Brandon" link="http://homes.cs.washington.edu/~bhaynes/" %}
@@ -29,7 +30,6 @@ id: "people"
 {% include people-img.html url="/images/people/shrainik.jpg" caption="Shrainik" link="http://homes.cs.washington.edu/~shrainik/" %}
 {% include people-img.html url="/images/people/paris.jpg" caption="Paris" link="http://homes.cs.washington.edu/~pkoutris/" %}
 {% include people-img.html url="/images/people/dominik.jpg" caption="Dominik" link="http://homes.cs.washington.edu/~domoritz/" %}
-{% include people-img.html url="/images/people/maaz.jpg" caption="Maaz" link="http://homes.cs.washington.edu/~maazsaf/" %}
 {% include people-img.html url="/images/people/ryan.jpg" caption="Ryan" link="http://homes.cs.washington.edu/~maas/" %}
 {% include people-img.html url="/images/people/brandonM.jpg" caption="Brandon" link="http://homes.cs.washington.edu/~bdmyers/" %}
 {% include people-img.html url="/images/people/laurel.jpg" caption="Laurel" link="http://homes.cs.washington.edu/~ljorr1/" %}
