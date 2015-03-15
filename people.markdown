@@ -46,6 +46,7 @@ id: "people"
 
 ## Postdocs
 <div class="flex-container">
+{% include people-img.html url="/images/people/seunghae.jpg" caption="Seung-Hee" link="http://homes.cs.washington.edu/~shbae/" %}
 {% include people-img.html url="/images/people/sudeepa.jpg" caption="Sudeepa" link="http://homes.cs.washington.edu/~sudeepa/" %}
 </div>
 
