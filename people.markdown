@@ -11,6 +11,7 @@ id: "people"
 
 <div class="flex-container">
 {% include people-img.html url="/images/people/magda.jpg" caption="Magda" link="http://www.cs.washington.edu/homes/magda/" %}
+{% include people-img.html url="/images/people/phil.jpg" caption="Phil" link="http://research.microsoft.com/~philbe/" %}
 {% include people-img.html url="/images/people/alvin.jpg" caption="Alvin" link="http://homes.cs.washington.edu/~akcheung/" %}
 {% include people-img.html url="/images/people/bill.jpg" caption="Bill" link="http://www.cs.washington.edu/homes/billhowe/" %}
 {% include people-img.html url="/images/people/dan.jpg" caption="Dan" link="http://www.cs.washington.edu/homes/suciu/" %}
