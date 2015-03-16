@@ -61,19 +61,17 @@ function extract_authors(html) {
 }
 
 $(function() {
-	if(location.protocol == 'https:')
-		$('#papers').hide();
-	else
-		$.ajax({
-			url: people_url,
-			async: true,
-			dataType: 'html',
-			error: function() { $('#papers').hide() },
-			success: function(html) {
-				authors = extract_authors(html);
+	$.ajax({
+		url: people_url,
+		async: true,
+		dataType: 'html',
+		error: function() { $('#papers').hide() },
+		success: function(html) {
+			authors = extract_authors(html);
+			if(location.protocol != 'https:')
 				$('#papers').show().attr('src', dblp_url + authors);
-				$('#author-popout').show().attr('href', dblp_url + authors);
-			}
+			$('#author-popout').show().attr('href', dblp_url + authors);
+		}
 	});
 });
 </script>
