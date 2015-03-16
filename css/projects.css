@@ -35,3 +35,16 @@ ul:nth-of-type(2):not(.nav), h2 {
     display: block;
     clear: both;
 }
+
+#papers {
+    display: none;
+    margin-left: 2em;
+    width: 100%;
+    height: 600px;
+    border: solid 1px;
+
+}
+
+#author-popout {
+    margin-left: 2em;
+}

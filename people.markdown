@@ -10,12 +10,12 @@ id: "people"
 ## Faculty
 
 <div class="flex-container">
-{% include people-img.html url="/images/people/magda.jpg" caption="Magda" link="http://www.cs.washington.edu/homes/magda/" %}
-{% include people-img.html url="/images/people/phil.jpg" caption="Phil" link="http://research.microsoft.com/~philbe/" %}
-{% include people-img.html url="/images/people/alvin.jpg" caption="Alvin" link="http://homes.cs.washington.edu/~akcheung/" %}
-{% include people-img.html url="/images/people/bill.jpg" caption="Bill" link="http://www.cs.washington.edu/homes/billhowe/" %}
-{% include people-img.html url="/images/people/dan.jpg" caption="Dan" link="http://www.cs.washington.edu/homes/suciu/" %}
-{% include people-img.html url="/images/people/daniel.jpg" caption="Dan" link="http://homes.cs.washington.edu/~dhalperi/" %}
+{% include people-img.html dblp="magdalena_balazinska" url="/images/people/magda.jpg" caption="Magda" link="http://www.cs.washington.edu/homes/magda/" %}
+{% include people-img.html dblp="philip_a_bernstein" url="/images/people/phil.jpg" caption="Phil" link="http://research.microsoft.com/~philbe/" %}
+{% include people-img.html dblp="alvin_cheung" url="/images/people/alvin.jpg" caption="Alvin" link="http://homes.cs.washington.edu/~akcheung/" %}
+{% include people-img.html dblp="bill_howe" url="/images/people/bill.jpg" caption="Bill" link="http://www.cs.washington.edu/homes/billhowe/" %}
+{% include people-img.html dblp="dan_suciu" url="/images/people/dan.jpg" caption="Dan" link="http://www.cs.washington.edu/homes/suciu/" %}
+{% include people-img.html dblp="daniel_halperin" url="/images/people/daniel.jpg" caption="Dan" link="http://homes.cs.washington.edu/~dhalperi/" %}
 </div>
 
 ## PhD Students

@@ -7,7 +7,7 @@ id: "projects"
 
 <link rel="stylesheet" href="css/projects.css">
 
-# Projects
+# Research Projects
 
 ## Current Projects
 
@@ -42,3 +42,35 @@ id: "projects"
 * [Propagation](http://db.cs.washington.edu/propagation/): Evaluating probabilistic queries with deterministic performance guarantees
 * [Lahar](http://lahar.cs.washington.edu/): Answering event (pattern-based) queries and aggregates on high-level, imprecise stream warehouses
 * [Management of Probabilistic Data](http://www.cs.washington.edu/homes/suciu/project-probDB.html)
+
+## Papers
+
+<iframe id="papers" src=""></iframe>
+<p><a id="author-popout" target="_blank">View in new window</a></p>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script type="text/javascript">
+var people_url = 'people.html';
+var dblp_selector = '.person a:not([id=""])';
+var dblp_url = 'http://www.dblp.org/search/index.php#query=';
+
+function extract_authors(html) {
+	return $(dblp_selector, html).map(function(i, name) { return 'author:' + $(name).attr('id') })
+                                 .get()
+		                         .join('|');
+}
+
+$(function() {
+	$.ajax({
+		url: people_url,
+		async: true,
+		dataType: 'html',
+		error: function() { $('#papers').hide() },
+		success: function(html) {
+			authors = extract_authors(html);
+			$('#papers').show().attr('src', dblp_url + authors);
+			$('#author-popout').show().attr('href', dblp_url + authors);
+		}
+	});
+});
+</script>
