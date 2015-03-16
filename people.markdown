@@ -15,6 +15,17 @@ id: "people"
 {% endfor %}
 </div>
 
+## Staff
+<div class="flex-container people image-container">
+{% include person_image image="tobin.jpg" caption="Tobin" %}
+</div>
+
+## Postdocs
+<div class="flex-container people image-container">
+{% include person_image image="seunghee.jpg" caption="Seung-Hee" link="http://homes.cs.washington.edu/~shbae/" %}
+{% include person_image image="sudeepa.jpg" caption="Sudeepa" link="http://homes.cs.washington.edu/~sudeepa/" %}
+</div>
+
 ## PhD Students
 
 <div class="flex-container people image-container">
@@ -42,17 +53,6 @@ id: "people"
 {% include person_image image="brendan.jpg" caption="Brendan" %}
 </div>
 
-## Postdocs
-<div class="flex-container people image-container">
-{% include person_image image="seunghee.jpg" caption="Seung-Hee" link="http://homes.cs.washington.edu/~shbae/" %}
-{% include person_image image="sudeepa.jpg" caption="Sudeepa" link="http://homes.cs.washington.edu/~sudeepa/" %}
-</div>
-
-## Staff
-<div class="flex-container people image-container">
-{% include person_image image="tobin.jpg" caption="Tobin" %}
-</div>
-
 ## Undergraduate Students
 
 <div class="flex-container people image-container">
@@ -64,8 +64,8 @@ id: "people"
 
 <div class="flex-container people image-container">
 {% include person_image image="victor.jpg" caption="Victor" %}
-{% include person_image image="leelee.jpg" caption="Lee Lee" link="www.leeleechoo.com" %}
-{% include person_image image="vaspol.jpg" caption="Vaspol" link="vaspol.me" %}
+{% include person_image image="leelee.jpg" caption="Lee Lee" link="http://www.leeleechoo.com" %}
+{% include person_image image="vaspol.jpg" caption="Vaspol" link="http://vaspol.me" %}
 {% include person_image image="emad.jpg" caption="Emad" link="http://www.cs.washington.edu/homes/soroush/" %}
 {% include person_image image="andrew.jpg" caption="Andrew" %}
 </div>
