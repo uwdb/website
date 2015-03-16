@@ -16,7 +16,7 @@ The University of Washington's database group aims at broadening the focus of da
 
 ## Collaborators and Sponsors
 
-<div height="50" class="flex-container images-container">
+<div height="50" class="flex-container logos images-container">
     <a href="http://escience.washington.edu">
     <img src="{{ site.baseurl}}/images/eScience_logo.png" class="img-thumbnail" style="min-height:70px; height:70px;">
     </a>

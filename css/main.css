@@ -82,6 +82,9 @@ img.logo {
   display: flex;
   flex-flow: row wrap;
   align-items: flex-start;
+}
+
+.logos {
   justify-content: space-around;
 }
 
