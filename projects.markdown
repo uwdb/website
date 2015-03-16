@@ -37,5 +37,5 @@ id: "projects"
 
 ## Papers
 
-<p><a href="http://dblp.uni-trier.de/search/publ?q={{ site.data.faculty | map: 'dblp' | join: '|' }}" target="_blank">View in new window</a></p>
-<iframe class="papers-iframe" src="http://dblp.uni-trier.de/search/publ?q={{ site.data.faculty | map: 'dblp' | join: '|' }}"></iframe>
+<p><a href="//dblp.uni-trier.de/search/publ?q={{ site.data.faculty | map: 'dblp' | join: '|' }}" target="_blank">View in new window</a></p>
+<iframe class="papers-iframe" src="//dblp.uni-trier.de/search/publ?q={{ site.data.faculty | map: 'dblp' | join: '|' }}"></iframe>
