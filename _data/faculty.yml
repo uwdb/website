@@ -1,0 +1,35 @@
+- name: Magdalena Balazinska
+  nickname: Magda
+  website: http://www.cs.washington.edu/homes/magda/
+  image: magda.jpg
+  dblp: ':author:Magdalena_Balazinska:'
+
+- name: Philip Bernstein
+  nickname: Phil
+  website: http://research.microsoft.com/~philbe/
+  image: phil.jpg
+  dblp: ':author:Philip_A._Bernstein:'
+
+- name: Alvin Cheung
+  nickname: Alvin
+  website: http://homes.cs.washington.edu/~akcheung/
+  image: alvin.jpg
+  dblp: ':author:Alvin_Cheung:'
+
+- name: Bill Howe
+  nickname: Bill
+  website: http://www.cs.washington.edu/homes/billhowe/
+  image: bill.jpg
+  dblp: ':author:Bill_Howe:'
+
+- name: Dan Suciu
+  nickname: Dan
+  website: http://www.cs.washington.edu/homes/suciu/
+  image: dan.jpg
+  dblp: ':author:Dan_Suciu:'
+
+- name: Daniel Halperin
+  nickname: Dan
+  website: http://www.cs.washington.edu/homes/~dhalperi/
+  image: daniel.jpg
+  dblp: ':author:Daniel_Halperin:'

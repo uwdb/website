@@ -5,21 +5,11 @@ group: "navigation"
 id: "projects"
 ---
 
-<link rel="stylesheet" href="css/projects.css">
-
 # Research Projects
 
 ## Current Projects
 
-<div class="current-projects flex-container">
-{% include project.html name="Myria" caption="Big Data as a Service" url="/images/projects/myria.png" link="http://myria.cs.washington.edu" %}
-{% include project.html name="AstroDB" caption="An inter-disciplinary collaboration for new methods and tools for Big Data Astonomy" url="/images/projects/astrodb.png" link="http://db.cs.washington.edu/astrodb" %}
-{% include project.html name="SqlShare" caption="Database-as-a-Service for High-Variety Data" url="/images/projects/sqlshare.png" link="http://escience.washington.edu/sqlshare" %}
-{% include project.html name="Probabilistic Databases" caption="Large scale probabilistic inference using database technology" url="/images/projects/probabilistic-databases.png" link="http://homes.cs.washington.edu/~suciu/project-querycompilation.html" %}
-{% include project.html name="Causality in Databases" caption="Applying causal reasoning in databases" url="/images/projects/causality.png" link="http://people.cs.umass.edu/~ameli/projects/causality" %}
-{% include project.html name="UW Branch of SciDB" caption="Parallel distributed array database engine" url="/images/projects/scidb.png" link="http://scidb.cs.washington.edu/" %}
-{% include project.html name="Data Eco$y$tem" caption="Data management and pricing in the cloud" url="/images/projects/data-ecosystem.png" link="http://cloud-data-pricing.cs.washington.edu/" %}
-</div>
+{% include current_projects %}
 
 ## Recently Completed Projects
 
@@ -47,33 +37,5 @@ id: "projects"
 
 ## Papers
 
-<iframe id="papers" src=""></iframe>
-<p><a id="author-popout" target="_blank">View in new window</a></p>
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-<script type="text/javascript">
-var people_url = 'people.html';
-var dblp_selector = '.person a:not([id=""])';
-var dblp_url = 'http://www.dblp.org/search/index.php#query=';
-
-function extract_authors(html) {
-	return $(dblp_selector, html).map(function(i, name) { return 'author:' + $(name).attr('id') })
-                                 .get()
-		                         .join('|');
-}
-
-$(function() {
-	$.ajax({
-		url: people_url,
-		async: true,
-		dataType: 'html',
-		error: function() { $('#papers').hide() },
-		success: function(html) {
-			authors = extract_authors(html);
-			if(location.protocol != 'https:')
-				$('#papers').show().attr('src', dblp_url + authors);
-			$('#author-popout').show().attr('href', dblp_url + authors);
-		}
-	});
-});
-</script>
+<p><a href="http://dblp.uni-trier.de/search/publ?q={{ site.data.faculty | map: 'dblp' | join: '|' }}" target="_blank">View in new window</a></p>
+<iframe class="papers-iframe" src="http://dblp.uni-trier.de/search/publ?q={{ site.data.faculty | map: 'dblp' | join: '|' }}"></iframe>

@@ -9,66 +9,63 @@ id: "people"
 
 ## Faculty
 
-<div class="flex-container">
-{% include people-img.html dblp="magdalena_balazinska" url="/images/people/magda.jpg" caption="Magda" link="http://www.cs.washington.edu/homes/magda/" %}
-{% include people-img.html dblp="philip_a_bernstein" url="/images/people/phil.jpg" caption="Phil" link="http://research.microsoft.com/~philbe/" %}
-{% include people-img.html dblp="alvin_cheung" url="/images/people/alvin.jpg" caption="Alvin" link="http://homes.cs.washington.edu/~akcheung/" %}
-{% include people-img.html dblp="bill_howe" url="/images/people/bill.jpg" caption="Bill" link="http://www.cs.washington.edu/homes/billhowe/" %}
-{% include people-img.html dblp="dan_suciu" url="/images/people/dan.jpg" caption="Dan" link="http://www.cs.washington.edu/homes/suciu/" %}
-{% include people-img.html dblp="daniel_halperin" url="/images/people/daniel.jpg" caption="Dan" link="http://homes.cs.washington.edu/~dhalperi/" %}
+<div class="flex-container people image-container">
+{% for person in site.data.faculty %}
+  {% include person_image image=person.image caption=person.nickname link=person.website title=person.name %}
+{% endfor %}
 </div>
 
 ## PhD Students
 
-<div class="flex-container">
-{% include people-img.html url="/images/people/maaz.jpg" caption="Maaz" link="http://homes.cs.washington.edu/~maazsaf/" %}
-{% include people-img.html url="/images/people/shumo.jpg" caption="Shumo" link="http://homes.cs.washington.edu/~chushumo/" %}
-{% include people-img.html url="/images/people/eric.jpg" caption="Eric" link="http://homes.cs.washington.edu/~eagribko/" %}
-{% include people-img.html url="/images/people/brandonH.jpg" caption="Brandon" link="http://homes.cs.washington.edu/~bhaynes/" %}
-{% include people-img.html url="/images/people/jeremy.jpg" caption="Jeremy" link="http://homes.cs.washington.edu/~hyrkas/" %}
-{% include people-img.html url="/images/people/srini.jpg" caption="Srini" link="http://homes.cs.washington.edu/~sviyer/" %}
-{% include people-img.html url="/images/people/danielL.jpg" caption="Daniel" link="http://homes.cs.washington.edu/~dyli/" %}
-{% include people-img.html url="/images/people/shrainik.jpg" caption="Shrainik" link="http://homes.cs.washington.edu/~shrainik/" %}
-{% include people-img.html url="/images/people/paris.jpg" caption="Paris" link="http://homes.cs.washington.edu/~pkoutris/" %}
-{% include people-img.html url="/images/people/dominik.jpg" caption="Dominik" link="http://homes.cs.washington.edu/~domoritz/" %}
-{% include people-img.html url="/images/people/ryan.jpg" caption="Ryan" link="http://homes.cs.washington.edu/~maas/" %}
-{% include people-img.html url="/images/people/brandonM.jpg" caption="Brandon" link="http://homes.cs.washington.edu/~bdmyers/" %}
-{% include people-img.html url="/images/people/laurel.jpg" caption="Laurel" link="http://homes.cs.washington.edu/~ljorr1/" %}
-{% include people-img.html url="/images/people/jennifer.jpg" caption="Jennifer" link="http://homes.cs.washington.edu/~jortiz16/" %}
-{% include people-img.html url="/images/people/prasang.jpg" caption="Prasang" link="http://homes.cs.washington.edu/~prasang/" %}
-{% include people-img.html url="/images/people/jingjing.jpg" caption="Jingjing" link="http://homes.cs.washington.edu/~jwang/" %}
-{% include people-img.html url="/images/people/shengliang.jpg" caption="Shengliang" link="http://homes.cs.washington.edu/~slxu/" %}
+<div class="flex-container people image-container">
+{% include person_image image="maaz.jpg" caption="Maaz" link="http://homes.cs.washington.edu/~maazsaf/" %}
+{% include person_image image="shumo.jpg" caption="Shumo" link="http://homes.cs.washington.edu/~chushumo/" %}
+{% include person_image image="eric.jpg" caption="Eric" link="http://homes.cs.washington.edu/~eagribko/" %}
+{% include person_image image="brandonH.jpg" caption="Brandon" link="http://homes.cs.washington.edu/~bhaynes/" %}
+{% include person_image image="jeremy.jpg" caption="Jeremy" link="http://homes.cs.washington.edu/~hyrkas/" %}
+{% include person_image image="srini.jpg" caption="Srini" link="http://homes.cs.washington.edu/~sviyer/" %}
+{% include person_image image="danielL.jpg" caption="Daniel" link="http://homes.cs.washington.edu/~dyli/" %}
+{% include person_image image="shrainik.jpg" caption="Shrainik" link="http://homes.cs.washington.edu/~shrainik/" %}
+{% include person_image image="paris.jpg" caption="Paris" link="http://homes.cs.washington.edu/~pkoutris/" %}
+{% include person_image image="dominik.jpg" caption="Dominik" link="http://homes.cs.washington.edu/~domoritz/" %}
+{% include person_image image="ryan.jpg" caption="Ryan" link="http://homes.cs.washington.edu/~maas/" %}
+{% include person_image image="brandonM.jpg" caption="Brandon" link="http://homes.cs.washington.edu/~bdmyers/" %}
+{% include person_image image="laurel.jpg" caption="Laurel" link="http://homes.cs.washington.edu/~ljorr1/" %}
+{% include person_image image="jennifer.jpg" caption="Jennifer" link="http://homes.cs.washington.edu/~jortiz16/" %}
+{% include person_image image="prasang.jpg" caption="Prasang" link="http://homes.cs.washington.edu/~prasang/" %}
+{% include person_image image="jingjing.jpg" caption="Jingjing" link="http://homes.cs.washington.edu/~jwang/" %}
+{% include person_image image="shengliang.jpg" caption="Shengliang" link="http://homes.cs.washington.edu/~slxu/" %}
 </div>
 
 ## Master Students
-<div class="flex-container">
-{% include people-img.html url="/images/people/brendan.jpg" caption="Brendan" %}
+<div class="flex-container people image-container">
+{% include person_image image="brendan.jpg" caption="Brendan" %}
 </div>
 
 ## Postdocs
-<div class="flex-container">
-{% include people-img.html url="/images/people/seunghae.jpg" caption="Seung-Hee" link="http://homes.cs.washington.edu/~shbae/" %}
-{% include people-img.html url="/images/people/sudeepa.jpg" caption="Sudeepa" link="http://homes.cs.washington.edu/~sudeepa/" %}
+<div class="flex-container people image-container">
+{% include person_image image="seunghae.jpg" caption="Seung-Hee" link="http://homes.cs.washington.edu/~shbae/" %}
+{% include person_image image="sudeepa.jpg" caption="Sudeepa" link="http://homes.cs.washington.edu/~sudeepa/" %}
 </div>
 
 ## Staff
-<div class="flex-container">
-{% include people-img.html url="/images/people/tobin.jpg" caption="Tobin" %}
+<div class="flex-container people image-container">
+{% include person_image image="tobin.jpg" caption="Tobin" %}
 </div>
 
 ## Undergraduate Students
 
-<div class="flex-container">
-{% include people-img.html url="/images/people/yuqing.jpg" caption="Yuqing" %}
-{% include people-img.html url="/images/people/danR.jpg" caption="Dan" %}
+<div class="flex-container people image-container">
+{% include person_image image="yuqing.jpg" caption="Yuqing" %}
+{% include person_image image="danR.jpg" caption="Dan" %}
 </div>
 
 ## Alumni
 
-<div class="flex-container">
-{% include people-img.html url="/images/people/victor.jpg" caption="Victor" %}
-{% include people-img.html url="/images/people/leelee.jpg" caption="Lee Lee" link="www.leeleechoo.com" %}
-{% include people-img.html url="/images/people/vaspol.jpg" caption="Vaspol" link="vaspol.me" %}
-{% include people-img.html url="/images/people/emad.jpg" caption="Emad" link="http://www.cs.washington.edu/homes/soroush/" %}
-{% include people-img.html url="/images/people/andrew.jpg" caption="Andrew" %}
+<div class="flex-container people image-container">
+{% include person_image image="victor.jpg" caption="Victor" %}
+{% include person_image image="leelee.jpg" caption="Lee Lee" link="www.leeleechoo.com" %}
+{% include person_image image="vaspol.jpg" caption="Vaspol" link="vaspol.me" %}
+{% include person_image image="emad.jpg" caption="Emad" link="http://www.cs.washington.edu/homes/soroush/" %}
+{% include person_image image="andrew.jpg" caption="Andrew" %}
 </div>
