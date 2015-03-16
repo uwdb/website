@@ -1,39 +1,45 @@
-ul:first-of-type:not(.nav) li {
-    float: left;
-    width: 20%;
-    height: 200px;
-    margin: 1em;
-    list-style-type: none;
-    text-align: center;
-    font-style: italic;
+.current-projects {
+    margin-top: 2em;
 }
 
-ul:first-of-type li:first-letter {
-    font-size: 80px;
-    font-family: 'Arial', 'Helvetica', sans-serif;
-    font-style: normal;
-    background: #5b2a7c;
-    color: #fff;
-    width: 100%;
-    display: block;
-    padding: 0 20px 0 20px;
-    border-radius: 4px;
+.current-projects .project {
+    margin-left: 2em;
+    padding-top: 16px;
+    padding-bottom: 0;
 }
 
-ul:first-of-type:not(.nav) li a {
+.current-projects .project a:hover {
+    text-decoration: none;
+}
+
+.current-projects .project .heading {
     display: block;
-    font-size: larger;
+    margin-top: 8px;
+    font-size: 150%;
     font-weight: bold;
     text-transform: uppercase;
     text-decoration: none;
-    font-family: 'ProximaNova', 'Arial', 'Helvetica', sans-serif;
-    font-style: normal;
-    color: #5b2a7c;
 }
 
-ul:nth-of-type(2):not(.nav), h2 {
-    display: block;
-    clear: both;
+.current-projects .project .caption {
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.current-projects .project {
+    width: 20%;
+    height: auto;
+}
+
+.current-projects .project img {
+    max-width: 100%;
+    border-radius: 16px;
+}
+
+.current-projects .project p {
+    padding: 12px 12px 0 12px;
+    text-shadow: none;
 }
 
 #papers {

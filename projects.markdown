@@ -11,13 +11,15 @@ id: "projects"
 
 ## Current Projects
 
-* M [Myria](http://myria.cs.washington.edu) Big Data as a Service
-* A [AstroDB](http://db.cs.washington.edu/astrodb/) An inter-disciplinary collaboration for new methods and tools for Big Data Astonomy
-* S [SQLShare](http://escience.washington.edu/sqlshare) Database-as-a-Service for High-Variety Data
-* P [Probabilistic Databases](http://homes.cs.washington.edu/~suciu/project-querycompilation.html) Large scale probabilistic inference using database technology
-* C [Causality](http://people.cs.umass.edu/~ameli/projects/causality/) Applying causal reasoning in databases
-* U [UW branch of SciDB](http://scidb.cs.washington.edu) Parallel distributed array database engine
-* D [Data Eco$y$tem](http://cloud-data-pricing.cs.washington.edu) Data management and pricing in the cloud
+<div class="current-projects flex-container">
+{% include project.html name="Myria" caption="Big Data as a Service" url="/images/projects/myria.png" link="http://myria.cs.washington.edu" %}
+{% include project.html name="AstroDB" caption="An inter-disciplinary collaboration for new methods and tools for Big Data Astonomy" url="/images/projects/astrodb.png" link="http://db.cs.washington.edu/astrodb" %}
+{% include project.html name="SqlShare" caption="Database-as-a-Service for High-Variety Data" url="/images/projects/sqlshare.png" link="http://escience.washington.edu/sqlshare" %}
+{% include project.html name="Probabilistic Databases" caption="Large scale probabilistic inference using database technology" url="/images/projects/probabilistic-databases.png" link="http://homes.cs.washington.edu/~suciu/project-querycompilation.html" %}
+{% include project.html name="Causality in Databases" caption="Applying causal reasoning in databases" url="/images/projects/causality.png" link="http://people.cs.umass.edu/~ameli/projects/causality" %}
+{% include project.html name="UW Branch of SciDB" caption="Parallel distributed array database engine" url="/images/projects/scidb.png" link="http://scidb.cs.washington.edu/" %}
+{% include project.html name="Data Eco$y$tem" caption="Data management and pricing in the cloud" url="/images/projects/data-ecosystem.png" link="http://cloud-data-pricing.cs.washington.edu/" %}
+</div>
 
 ## Recently Completed Projects
 
