@@ -10,8 +10,8 @@
   <a href="{{ site.baseurl }}/courses.html"><i class="fa fa-book"></i> Courses</a>
 </li>
 
-<li {% if page.id == 'internal' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/internal.html"><i class="fa fa-cog"></i> Internal</a>
+<li {% if page.id == 'internals' %}class="active"{% endif %}>
+  <a href="{{ site.baseurl }}/internals.html"><i class="fa fa-cog"></i> Internals</a>
 </li>
 
 <li {% if page.id == 'uwds' %}class="active"{% endif %}>
