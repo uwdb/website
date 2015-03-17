@@ -1,4 +1,4 @@
 name: DB group
 markdown: redcarpet
 highlighter: pygments
-baseurl: https://db.cs.washington.edu
+baseurl: http://db.cs.washington.edu
