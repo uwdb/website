@@ -4,9 +4,7 @@ title: "Northwest DB Society"
 group: "navigation"
 id: "uwds"
 ---
-___
-Is yahoo DB Series still a thing
-___
+
 # Northwest Database Society (NWDB)
 ####_Sponsored by Yahoo!_
 
