@@ -7,7 +7,7 @@ id: "internals"
 
 # Internals
 
-on this page, we are collecting links and resources for current faculty and students.
+This page contains resources for current faculty and students.
 
 ## Wiki
 
