@@ -95,9 +95,9 @@ img.logo {
 }
 
 .person {
-  padding: 10px;
-  width: 120px;
-  height: 150px;
+  margin: 10px;
+  width: 110px;
+  height: 140px;
 }
 
 .person p {
@@ -110,9 +110,12 @@ img.logo {
 }
 
 .person img {
-  max-height:100%;
-  max-width:100%;
+  height: 100%;
+  width: 100%;
   border-radius: 6px;
+
+  object-fit: cover;
+  object-position: center;
 }
 
 .image-container> {
