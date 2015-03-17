@@ -2,7 +2,7 @@
 
 Website for the DB group.
 
-See the site in action at [db.cs.washington.edu](http://db.cs.washington.edu/) or [uwdb.github.io/website](https://uwdb.github.io/website) until we fix [https://github.com/uwdb/website/issues/3](#3).
+See the site in action at [db.cs.washington.edu](http://db.cs.washington.edu/).
 
 ## How to make changes
 
