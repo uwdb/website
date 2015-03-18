@@ -27,3 +27,7 @@ id: "courses"
 * [CSE 344](http://www.cs.washington.edu/education/courses/344/), Introduction to Data Management
 * [CSE 444](http://www.cs.washington.edu/education/courses/444/), Database Systems Internals
 * CSE 490i, Advanced Internet Systems
+
+## Online
+
+* [Introduction to Data Science](https://www.coursera.org/course/datasci), Coursera course
