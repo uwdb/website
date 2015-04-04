@@ -6,6 +6,29 @@ id: "nwds_past_talks"
 ---
 
 #  Past Talks
+<a name="anant_bhardwaj_01_19_15"></a>
+**Speaker**: Anant Bhardwaj, MIT
+
+**Title**: DataHub: A Hosted Platform for Organizing, Managing, Sharing, Collaborating, and Processing Data
+
+**Where**: University of Washington, Seattle.  
+Computer Science and Engineering Department.  
+Paul Allen Center, Database Lab, CSE 405.  
+
+**When**: Monday, January 19th, 2015, 3:30pm - 4:20pm.
+
+**Abstract**:  
+In this talk, I will describe DataHub - a hosted data platform we are building at MIT.
+
+The DataHub platform is a) a hosted data-store (files as well as databases) with versioning and collaboration capabilities, and b) an app ecosystem which hosts apps for various data-processing activities such as ingestion, curation, integration, discovery, query, analytics, visualization, machine learning, etc. The DataHub platform exposes a SDK (thrift-based APIs -- can be compiled into any of the 20+ thrift-supported languages) which can be used by developers/vendors to write apps and publish to the DataHub App Center. The DataHub users can use any of the apps from the App Center for processing their data as it fits their need.
+
+I will also discuss some data-processing apps we have built for DataHub - a) Distill: a general purpose example-based data cleaning/extraction tool for converting semi-structured text into a structured table, b) DViz: a simple visualization interface, and c) DataHub Notebook: an IPython extension that enables sophisticated data science directly inside DataHub.
+
+**Bio**:
+[Anant Bhardwaj](http://people.csail.mit.edu/anantb/) is a Ph.D. student in the Computer Science & Artificial Intelligence Laboratory (CSAIL) at MIT, co-advised by David Karger, and Samuel Madden. His primary interest these days is in developing systems and tools for data management. His research projects draw ideas from various fields such as databases, distributed systems, algorithms, machine learning, and human-computer interaction. His current projects are: 1) DataHub: a hosted platform for data management, 2) Distill: a general purpose example-based data cleaning/extraction tool for converting semi-structured text into a structured table, 3) Barista: a distributed, synchronously replicated, fault tolerant, relational data store, and 4) Confer: a tool for conference planning (has been deployed at 13 academic conferences including CHI, CSCW, KDD, ACM MM, SIGMOD, SIGIR, and WSDM; more than 18,000 unique users).
+
+He received a M.S. in Computer Science from Stanford University and a B.E. in Computer Engineering from the University of Pune. At Stanford, he worked in the Human-Computer Interaction (HCI) group with Scott Klemmer and Jeff Heer. 
+* * *
 <a name="barzan_mozafari_11_22_13"></a>
 **Speaker**: Barzan Mozafari, University of Michigan
 
@@ -72,10 +95,10 @@ Paul Allen Center, Database Lab, CSE 405.
 **When**: Friday, November 1st, 2013, 3:30pm - 4:20pm.
 
 **Abstract**:  
- The previous decade was marked by the demands of Web-based applications clashing with the limitations of traditional database management systems (DBMSs). This brought about two scaling solutions to support high-velocity applications: custom sharding middleware and NoSQL systems. These approaches focused on providing high availability and scalability by forgoing strong transactional guarantees. Although such trade-offs are appropriate for certain situations, they are insufficient for many OLTP applications that deal with high-profile data. A contemporary class of relational DBMSs, known as NewSQL, has emerged to provide the same scalable performance of middleware and NoSQL systems for OLTP workloads while maintaining the ACID properties of traditional DBMSs. It is often not clear, however, how these systems actually achieve this goal and which of their features are actually novel. In this talk, I will present an overview of the state-of-the-art in NewSQL systems and discuss recent advancements in scalable transaction processing. I will then discuss the key research problems that need to be overcome in order to enable NewSQL DBMSs to support larger and more complex workloads in the future. I will conclude with a description of my own work in building the elusive high-performance, "one-size-almost-fits-all" distributed DBMS.  
+The previous decade was marked by the demands of Web-based applications clashing with the limitations of traditional database management systems (DBMSs). This brought about two scaling solutions to support high-velocity applications: custom sharding middleware and NoSQL systems. These approaches focused on providing high availability and scalability by forgoing strong transactional guarantees. Although such trade-offs are appropriate for certain situations, they are insufficient for many OLTP applications that deal with high-profile data. A contemporary class of relational DBMSs, known as NewSQL, has emerged to provide the same scalable performance of middleware and NoSQL systems for OLTP workloads while maintaining the ACID properties of traditional DBMSs. It is often not clear, however, how these systems actually achieve this goal and which of their features are actually novel. In this talk, I will present an overview of the state-of-the-art in NewSQL systems and discuss recent advancements in scalable transaction processing. I will then discuss the key research problems that need to be overcome in order to enable NewSQL DBMSs to support larger and more complex workloads in the future. I will conclude with a description of my own work in building the elusive high-performance, "one-size-almost-fits-all" distributed DBMS.  
 
 **Bio**:  
- Andy Pavlo is an Assistant professor in the Computer Science department at Carnegie Mellon University. His research interests center on database management systems, specifically main memory systems, distributed transaction processing systems, and large-scale data analytics. He received his Ph.D. in 2013 from Brown University where he was the lead developer of the H-Store system (since commercialized as VoltDB).
+Andy Pavlo is an Assistant professor in the Computer Science department at Carnegie Mellon University. His research interests center on database management systems, specifically main memory systems, distributed transaction processing systems, and large-scale data analytics. He received his Ph.D. in 2013 from Brown University where he was the lead developer of the H-Store system (since commercialized as VoltDB).
 
 * * *
 <a name="tim_kraska_10_25_13"></a>

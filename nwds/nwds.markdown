@@ -23,6 +23,7 @@ ___
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
 
+*   Anant Bhardwaj, MIT  [[abstract](past_talks.html#anant_bhardwaj_01_19_15)] [[slides](http://people.csail.mit.edu/anantb/files/research/datahub/anantb-datahub-talk.pdf)]
 *   Barzan Mozafari, University of Michigan  [[abstract](past_talks.html#barzan_mozafari_11_22_13)] [[slides](pdf/UW-Google-published.pdf)]
 *   Mike Cafarella, University of Michigan [[abstract](past_talks.html#mike_cafarella_11_15_13)]
 *   Dan Olteanu, University of Oxford [[abstract](past_talks.html#dan_olteanu_11_8_13)] [[slides](pdf/fdb.pdf)]
