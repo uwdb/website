@@ -17,21 +17,31 @@ ___
 
 ##  Upcoming Talks 
 
+**Speaker**: Atri Rudra, University of Buffalo
+
+**Title**: TBA
+
+**Where**: University of Washington, Seattle.  
+Computer Science and Engineering Department.  
+Paul Allen Center, Database Lab, CSE 405.  
+
+**When**: Friday, November 22nd, 2013, 2:00pm - 3:00pm.
+
 ___
 
 ## Past Talks
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
 
-*   Anant Bhardwaj, MIT  [[abstract](past_talks.html#anant_bhardwaj_01_19_15)] [[slides](http://people.csail.mit.edu/anantb/files/research/datahub/anantb-datahub-talk.pdf)]
-*   Barzan Mozafari, University of Michigan  [[abstract](past_talks.html#barzan_mozafari_11_22_13)] [[slides](pdf/UW-Google-published.pdf)]
+*   Anant Bhardwaj, MIT [[abstract](past_talks.html#anant_bhardwaj_01_19_15)] [[slides](http://people.csail.mit.edu/anantb/files/research/datahub/anantb-datahub-talk.pdf)]
+*   Barzan Mozafari, University of Michigan [[abstract](past_talks.html#barzan_mozafari_11_22_13)] [[slides](pdf/UW-Google-published.pdf)]
 *   Mike Cafarella, University of Michigan [[abstract](past_talks.html#mike_cafarella_11_15_13)]
 *   Dan Olteanu, University of Oxford [[abstract](past_talks.html#dan_olteanu_11_8_13)] [[slides](pdf/fdb.pdf)]
-*   Andy Pavlo, CMU  [[abstract](past_talks.html#andy_pavlo_11_1_13)] [[slides](pdf/newsql2013-uw.pdf)]
-*   Tim Kraska, Brown University  [[abstract](past_talks.html#tim_kraska_10_25_13)] [[slides](pdf/2013-MLbase-UW.pdf)]
-*   Donald Kossmann, ETH Zurich  [[abstract](past_talks.html#kossmann_08_02_13)]
-*   Hiroaki Shiokawa, NTT  [[abstract](past_talks.html#shiokawa_07_19_13)] [[slides](pdf/Shiokawa.pdf)]
-*   Molham Aref and Todd Veldhuizen, LogicBlox  [[abstract](past_talks.html#logicblox_1_2_2013)] [[slides](not_available_yet)]
+*   Andy Pavlo, CMU [[abstract](past_talks.html#andy_pavlo_11_1_13)] [[slides](pdf/newsql2013-uw.pdf)]
+*   Tim Kraska, Brown University [[abstract](past_talks.html#tim_kraska_10_25_13)] [[slides](pdf/2013-MLbase-UW.pdf)]
+*   Donald Kossmann, ETH Zurich [[abstract](past_talks.html#kossmann_08_02_13)]
+*   Hiroaki Shiokawa, NTT [[abstract](past_talks.html#shiokawa_07_19_13)] [[slides](pdf/Shiokawa.pdf)]
+*   Molham Aref and Todd Veldhuizen, LogicBlox [[abstract](past_talks.html#logicblox_1_2_2013)] [[slides](not_available_yet)]
 *   Darrick S Sogabe and Doug Brown, Teradata [[abstract](past_talks.html#teradata_22_2_2013)] [[slides](not_available_yet)]
 *   Volker Markl and his students, TU-Berlin [[abstract](past_talks.html#Stratosphere_2_10_12)] [[slides](not_available_yet)]
 *   Ricardo Baeza-Yates, Yahoo! Research [[abstract](past_talks.html#ricardo_baeza-yates_14_5_12)] [[video](https://tegr.it/y/or1b)] [[slides](pdf/Distributed-WR.pdf)]
