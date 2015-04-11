@@ -19,13 +19,20 @@ ___
 
 **Speaker**: Atri Rudra, University of Buffalo
 
-**Title**: TBA
+**Title**: Answering FAQs in CSPs, PGMs, Databases, Logic and Matrix Operations
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
 Paul Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, November 22nd, 2013, 2:00pm - 3:00pm.
+
+**Abstract**:  
+We present a general problem that we call Functional Aggregate Queries (or FAQs), which as special cases includes frequently asked questions in Constraint Satisfaction Problems (CSPs), Probabilistic Graphical Models (PGMs), databases, logic and matrix operations. The problem is to compute sums of products of functions over semi-rings. 
+
+We present a single simple algorithm to solve this general problem that in addition to re-proving a bunch of known results (e.g. our algorithm specialized to computing DFT results in the FFT) also proves new results in counting CSPs with quantification and exact probabilistic inferences in PGMs. Our algorithm has its origin in algorithms designed to compute the natural join query.
+
+The talk will be self-contained and is based on a joint work with Abo Khamis, Ngo and Re.
 
 ___
 
