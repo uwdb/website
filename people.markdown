@@ -17,7 +17,7 @@ id: "people"
 
 ## Staff
 <div class="flex-container people image-container">
-{% include person_image image="tobin.jpg" caption="Tobin" %}
+{% include person_image image="placeholder.jpg" caption="Tobin" %}
 </div>
 
 ## Postdocs
@@ -35,10 +35,11 @@ id: "people"
 {% include person_image image="brandonH.jpg" caption="Brandon" link="http://homes.cs.washington.edu/~bhaynes/" %}
 {% include person_image image="jeremy.jpg" caption="Jeremy" link="http://homes.cs.washington.edu/~hyrkas/" %}
 {% include person_image image="srini.jpg" caption="Srini" link="http://homes.cs.washington.edu/~sviyer/" %}
-{% include person_image image="danielL.jpg" caption="Daniel" link="http://homes.cs.washington.edu/~dyli/" %}
+{% include person_image image="placeholder.jpg" caption="Daniel" link="http://homes.cs.washington.edu/~dyli/" %}
 {% include person_image image="shrainik.jpg" caption="Shrainik" link="http://homes.cs.washington.edu/~shrainik/" %}
 {% include person_image image="paris.jpg" caption="Paris" link="http://homes.cs.washington.edu/~pkoutris/" %}
 {% include person_image image="dominik.jpg" caption="Dominik" link="http://homes.cs.washington.edu/~domoritz/" %}
+{% include person_image image="kristi.png" caption="Kristi" link="https://homes.cs.washington.edu/~kmorton/" %}
 {% include person_image image="ryan.jpg" caption="Ryan" link="http://homes.cs.washington.edu/~maas/" %}
 {% include person_image image="brandonM.jpg" caption="Brandon" link="http://homes.cs.washington.edu/~bdmyers/" %}
 {% include person_image image="laurel.jpg" caption="Laurel" link="http://homes.cs.washington.edu/~ljorr1/" %}
@@ -56,7 +57,7 @@ id: "people"
 ## Undergraduate Students
 
 <div class="flex-container people image-container">
-{% include person_image image="yuqing.jpg" caption="Yuqing" %}
+{% include person_image image="placeholder.jpg" caption="Yuqing" %}
 {% include person_image image="danR.jpg" caption="Dan" %}
 </div>
 
