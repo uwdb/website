@@ -1,0 +1,17 @@
+- name: Victor Ameida
+  nickname: Victor
+  image: victor.jpg
+
+- name: Lee Lee Choo
+  nickname: Lee Lee
+  website: http://www.leeleechoo.com
+  image: leelee.jpg
+  
+- name: Emad Soroush
+  nickname: Emad
+  website: http://www.cs.washington.edu/homes/soroush/
+  image: emad.jpg
+  
+- name: Andrew Whitaker
+  nickname: Andrew
+  image: andrew.jpg
