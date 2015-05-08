@@ -105,8 +105,15 @@ img.logo {
   font-size: 1em;
   font-weight: bold;
   color: white;
-  margin-top:-25px;
+  position: relative;
   text-shadow: 1px 1px 2px black;
+
+  padding-bottom: 4px;
+  bottom: 140px;
+  display: table-cell;
+  vertical-align: bottom;
+  height: 140px;
+  width: 110px;
 }
 
 .person img {
