@@ -57,8 +57,9 @@ id: "people"
 ## Undergraduate Students
 
 <div class="flex-container people image-container">
-{% include person_image image="placeholder.jpg" caption="Yuqing" %}
-{% include person_image image="danR.jpg" caption="Dan" %}
+{% for person in site.data.undergraduates %}
+  {% include person_image image=person.image caption=person.nickname link=person.website title=person.name %}
+{% endfor %}
 </div>
 
 ## Alumni
