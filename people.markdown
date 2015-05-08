@@ -39,7 +39,7 @@ id: "people"
 
 ## Master Students
 <div class="flex-container people image-container">
-{% for person in site.data.masters_students %}
+{% for person in site.data.master_students %}
   {% include person_image image=person.image caption=person.name link=person.website title=person.name %}
 {% endfor %}
 </div>
