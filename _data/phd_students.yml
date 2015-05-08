@@ -1,4 +1,89 @@
+- name: Maaz Ahmad
+  nickname: Maaz
+  website: http://homes.cs.washington.edu/~maazsaf/
+  image: maaz.jpg
+
+- name: Shumo Chu
+  nickname: Shumo
+  website: http://homes.cs.washington.edu/~chushumo/
+  image: shumo.jpg
+
+- name: Eric Gribkoff
+  nickname: Eric
+  website: http://homes.cs.washington.edu/~eagribko/
+  image: eric.jpg
+
+- name: Brandon Haynes
+  nickname: Brandon
+  website: http://homes.cs.washington.edu/~bhaynes/
+  image: brandonH.jpg
+
+- name: Jeremy Hyrkas
+  nickname: Jeremy
+  website: http://homes.cs.washington.edu/~hyrkas/
+  image: jeremy.jpg
+
+- name: Srini Iyer
+  nickname: Srini
+  website: http://homes.cs.washington.edu/~sviyer/
+  image: srini.jpg
+
+- name: Daniel Li
+  nickname: Daniel
+  website: http://homes.cs.washington.edu/~dyli/
+  image: placeholder.jpg
+
+- name: Srainik Jain
+  nickname: Shrainik
+  website: http://homes.cs.washington.edu/~shrainik/
+  image: shrainik.jpg
+
+- name: Paris Koutris
+  nickname: Paris
+  website: http://homes.cs.washington.edu/~pkoutris/
+  image: paris.jpg
+
+- name: Dominik Moritz
+  nickname: Dominik
+  website: http://homes.cs.washington.edu/~domoritz/
+  image: dominik.jpg
+
+- name: Kristi Morton
+  nickname: Kristi
+  website: https://homes.cs.washington.edu/~kmorton/
+  image: kristi.png
+
+- name: Ryan Maas
+  nickname: Ryan
+  website: http://homes.cs.washington.edu/~maas/
+  image: ryan.jpg
+
+- name: Brandon Myers
+  nickname: Brandon
+  website: http://homes.cs.washington.edu/~bdmyers/
+  image: brandonM.jpg
+
 - name: Laurel Orr
   nickname: Laurel
-  website: http://www.cs.washington.edu/homes/ljorr1/
+  website: http://homes.cs.washington.edu/~ljorr1/
   image: laurel.jpg
+
+- name: Jennifer Ortiz
+  nickname: Jennifer
+  website: http://homes.cs.washington.edu/~jortiz16/
+  image: jennifer.jpg
+
+- name: Prasang Upadhyaya
+  nickname: Prasang
+  website: http://homes.cs.washington.edu/~prasang/
+  image: prasang.jpg
+
+- name: Jingjing Wang
+  nickname: Jingjing
+  website: http://homes.cs.washington.edu/~jwang/
+  image: jingjing.jpg
+
+- name: Shengliang Xu
+  nickname: Shengliang
+  website: http://homes.cs.washington.edu/~slxu/
+  image: shengliang.jpg
