@@ -25,7 +25,7 @@ ___
 Computer Science and Engineering Department.  
 Paul Allen Center, Database Lab, CSE 405.  
 
-**When**: Friday, November 22nd, 2013, 2:00pm - 3:00pm.
+**When**: Monday, June 29th, 2015, 2:00pm - 3:00pm.
 
 **Abstract**:  
 We present a general problem that we call Functional Aggregate Queries (or FAQs), which as special cases includes frequently asked questions in Constraint Satisfaction Problems (CSPs), Probabilistic Graphical Models (PGMs), databases, logic and matrix operations. The problem is to compute sums of products of functions over semi-rings. 
