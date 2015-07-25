@@ -1,9 +1,0 @@
-<div class="current-projects flex-container image-container">
-{% include project name="Myria" caption="Big Data as a Service" image="myria.png" link="http://myria.cs.washington.edu" %}
-{% include project name="AstroDB" caption="An inter-disciplinary collaboration for new methods and tools for Big Data Astonomy" image="astrodb.png" link="http://db.cs.washington.edu/astrodb" %}
-{% include project name="SqlShare" caption="Database-as-a-Service for High-Variety Data" image="sqlshare.png" link="http://escience.washington.edu/sqlshare" %}
-{% include project name="Probabilistic Databases" caption="Large scale probabilistic inference using database technology" image="probabilistic-databases.png" link="http://homes.cs.washington.edu/~suciu/project-querycompilation.html" %}
-{% include project name="Causality in Databases" caption="Applying causal reasoning in databases" image="causality.png" link="http://people.cs.umass.edu/~ameli/projects/causality" %}
-{% include project name="UW Branch of SciDB" caption="Parallel distributed array database engine" image="scidb.png" link="http://scidb.cs.washington.edu/" %}
-{% include project name="Data Eco$y$tem" caption="Data management and pricing in the cloud" image="data-ecosystem.png" link="http://cloud-data-pricing.cs.washington.edu/" %}
-</div>
