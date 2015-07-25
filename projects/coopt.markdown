@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Coopt 
+title: Understanding and Fixing Performance Issues in Data-Driven Applications 
 id: "projects"
 ---
 
-# Coopt
+# Understanding and Fixing Performance Issues in Data-Driven Applications
 
 Under Construction
