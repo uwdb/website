@@ -35,6 +35,7 @@ We will then discuss virtual experiments, our method for simulating randomized c
 A virtual experiment declaratively specifies a set of steps for selecting data and applying a statistical hypothesis test to it.  We motivate this work with a real-world use case over clinical data.  This is part of an ongoing effort to make complex science pipelines scalable in a distributed research network.  In particular, we are identifying techniques for efficiently identifying a testable hypothesis space and working interactively with users to explore it.
 
 **Bio**:
+
 Jennie Duggan is the Lisa Wissner-Slivka and Benjamin Slivka Junior Professor in Computer Science at Northwestern University. Before that she was a postdoctoral associate in the Database Group at MIT CSAIL where she worked with Mike Stonebraker and Sam Madden. She received her Ph.D. from Brown University under the guidance of Ugur Cetintemel. Her research interests include the management of science data, federated databases, cloud computing, and database performance modeling. Her Erdös number is 3. 
 
 ___
