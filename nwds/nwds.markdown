@@ -17,22 +17,25 @@ ___
 
 ##  Upcoming Talks 
 
-**Speaker**: Atri Rudra, University of Buffalo
+**Speaker**: Jennie Duggan, Northwestern University
 
-**Title**: Answering FAQs in CSPs, PGMs, Databases, Logic and Matrix Operations
+**Title**: Virtual Experiments for Distributed Research Networks
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
 Paul Allen Center, Database Lab, CSE 405.  
 
-**When**: Monday, June 29th, 2015, 2:00pm - 3:00pm.
+**When**: Friday, October 1st, 2015, 2:30pm - 3:20pm.
 
 **Abstract**:  
-We present a general problem that we call Functional Aggregate Queries (or FAQs), which as special cases includes frequently asked questions in Constraint Satisfaction Problems (CSPs), Probabilistic Graphical Models (PGMs), databases, logic and matrix operations. The problem is to compute sums of products of functions over semi-rings. 
+Data reuse is becoming increasingly prevalent in the sciences.  Here, researchers conduct retrospective studies over data that was collected independently of a carefully designed randomized controlled trial.  Moreover, many disciplines are setting up distributed research networks for pooling massive existing data sets.  Example networks include PCORnet, a clinical data research network, and US census data, which is collected both nationally and on a state-by-state basis.  In the first part of this talk, we will examine the challenges and opportunities associated with this emerging platform.
 
-We present a single simple algorithm to solve this general problem that in addition to re-proving a bunch of known results (e.g. our algorithm specialized to computing DFT results in the FFT) also proves new results in counting CSPs with quantification and exact probabilistic inferences in PGMs. Our algorithm has its origin in algorithms designed to compute the natural join query.
+We will then discuss virtual experiments, our method for simulating randomized controlled trials in-situ over existing data sets.  Virtual experiments are designed to help researchers work interactively with their database to answer questions such as, "What are the most probable causes for disease X?".  This approach differs from conventional machine learning in that we optimize for statistical inference rather than learning predictive models from a high-dimensional feature space.  More concretely, our target workloads typically rely on comparing control and test groups to search for statistically significant relationships in a data set.  
 
-The talk will be self-contained and is based on a joint work with Abo Khamis, Ngo and Re.
+A virtual experiment declaratively specifies a set of steps for selecting data and applying a statistical hypothesis test to it.  We motivate this work with a real-world use case over clinical data.  This is part of an ongoing effort to make complex science pipelines scalable in a distributed research network.  In particular, we are identifying techniques for efficiently identifying a testable hypothesis space and working interactively with users to explore it.
+
+**Bio**:
+Jennie Duggan is the Lisa Wissner-Slivka and Benjamin Slivka Junior Professor in Computer Science at Northwestern University. Before that she was a postdoctoral associate in the Database Group at MIT CSAIL where she worked with Mike Stonebraker and Sam Madden. She received her Ph.D. from Brown University under the guidance of Ugur Cetintemel. Her research interests include the management of science data, federated databases, cloud computing, and database performance modeling. Her Erdös number is 3. 
 
 ___
 
@@ -40,6 +43,7 @@ ___
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
 
+*   Atri Rudra, University of Buffalo [[abstract](past_talks.html#atri_rudra_06_29_15)]
 *   Anant Bhardwaj, MIT [[abstract](past_talks.html#anant_bhardwaj_01_19_15)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/anantb-datahub-talk.pdf)]
 *   Barzan Mozafari, University of Michigan [[abstract](past_talks.html#barzan_mozafari_11_22_13)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/UW-Google-published.pdf)]
 *   Mike Cafarella, University of Michigan [[abstract](past_talks.html#mike_cafarella_11_15_13)]
