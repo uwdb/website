@@ -20,6 +20,9 @@ id: "projects"
 ## Past Projects
 
 * [XML and semi-structured data]({{ site.baseurl }}/projects/xml.html): Querying, transforming, sharing, and modeling irregular data in the XML format
+  * [Piazza]({{ site.baseurl }}/projects/piazza.html): Peer data management system (PDMS)
+  * [Tukwila]({{ site.baseurl }}/projects/tukwila.html): The Tukwila Data Integration System
+  * [X-Scan]({{ site.baseurl }}/projects/x-scan.html): A Foundation for XML Data Integration
 * [Adaptive query processing]({{ site.baseurl }}/projects/adaptive.html): Techniques for efficiently processing queries and providing early results under uncertain conditions
 * [Semex]({{ site.baseurl }}/projects/semex/semex.html) Extracting, managing, integrating, and searching personal information
 * [SharedViews]({{ site.baseurl }}/projects/sharedviews/sharedviews.html): Organizing and selectively sharing dynamic personal data over the Internet
@@ -34,6 +37,16 @@ id: "projects"
 * [Propagation]({{ site.baseurl }}/projects/propagation/): Evaluating probabilistic queries with deterministic performance guarantees
 * [Lahar](http://lahar.cs.washington.edu/): Answering event (pattern-based) queries and aggregates on high-level, imprecise stream warehouses
 * [Management of Probabilistic Data](http://www.cs.washington.edu/homes/suciu/project-probDB.html)
+* [BeliefDB]({{ site.baseurl }}/projects/beliefdb): Adding belief annotations to databases
+* [Coop]({{ site.baseurl }}/projects/coop/dbresearch/): Database Research Search Engine
+* [Sciflex]({{ site.baseurl }}/projects/sciflex/): Scientific data management in the cloud
+* [Tiresias](http://people.cs.umass.edu/~ameli/projects/tiresias/): A How-To Query Engine
+* [Unique Recall](http://uniquerecall.com/): Rules of thumb for knowledge acquisition from redundant data
+* [Minicon]({{ site.baseurl }}/projects/minicon.html): Algorithm for answering queries using views
+* [Model]({{ site.baseurl }}/projects/model.html): Model Management Overview
+* [Automatic Schema Matching]({{ site.baseurl }}/projects/schemaMatching.html)
+* [Woogle]({{ site.baseurl }}/projects/woogle.html): Web Service Search
+
 
 ## Papers
 
