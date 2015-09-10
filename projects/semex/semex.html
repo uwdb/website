@@ -1,0 +1,171 @@
+<html>
+<head>
+<title>Semex--Personal Information Management System</title>
+<link rel=stylesheet type="text/css" href="main.css">
+<base target="_blank">
+<style>
+<!--
+ li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+span.SpellE
+	{}
+span.GramE
+	{}
+-->
+</style>
+</head>
+<body bgcolor=ffffff class=standard>
+      
+<h1 align="left"><font size="6">Personal Information Management</font><br>
+---<font face="Arial">SEMEX (SEMantic EXplorer)</font></h1>
+<p>Personal information management (PIM) is a subject of growing interest to the
+<span class="hl">data</span> management community. We are building the Semex 
+System that offers users a flexible platform for personal information 
+management. First, Semex organizes <span class="hl">data</span> in a 
+semantically meaningful way by providing a domain model consisting of classes 
+and associations between the classes. Second, Semex leverages the PIM 
+environment to support on-the-fly integration of personal <span class="hl">data</span> 
+and public <span class="hl">data</span>. Based on the logical view of personal 
+information, we allow the user to browse information by association and we 
+pursue enriched searching experiences. (See overview papers [1,2] and demo [3])</p>
+<p>Click
+<a href="./screenshots.ppt">here</a> 
+to see what you can do with Semex. Here is a <a href="download/download.htm">
+trial version</a> of Semex.</p>
+<h4>System Architecture </h4>
+<p><img src="architecture.jpg" border="0" width="640" height="417"></p>
+<h4>Related Research</h4>
+<ul>
+  <li><b>Reference Reconciliation</b> </li>
+</ul>
+<blockquote>
+  <p>Since the <span class="hl">data</span> we manage in PIM is very 
+  heterogeneous and we need to support multiple sources of associations, it is 
+  crucial that the <span class="hl">data</span> instances mesh together 
+  seamlessly. To truly follow the chains of associations and find all the 
+  information about a particular individual (or publication, conference, etc.), 
+  Semex needs to be able to reconcile the many references to the same real-world 
+  object.</p>
+  <p>Reference reconciliation in PIM has three challenges: First, the domain 
+  model consists multiple classes and we need to reconcile references of 
+  multiple classes. Considering each class separately will miss the rich 
+  information hidden behind across-class associations. Second, each extracted 
+  instance contains very limited information, i.e., contains values for only a 
+  few atomic attributes. Third, some attributes are multi-valued, so the fact 
+  that two attribute values are different does not imply that the two references 
+  refer to different real-world objects.</p>
+  <p>Our intuition is to exploit the rich information hidden behind the 
+  object-association network. We propose using context information, similarities 
+  computed on related entities, and enriched references during reconciliation. 
+  (See paper [4].)</p>
+</blockquote>
+<ul>
+  <li><b>Indexing</b></li>
+</ul>
+<blockquote>
+	<p>In a personal information management system, it is important that users 
+	are able to specify varying degrees of structure in their queries, and are 
+	able to compose queries that contain keywords and that are structure-aware 
+	(e.g., “a Paper with title ‘SEMEX’ authored by ‘Dong’ and published in ‘CIDR 
+	2005’ ”). To efficiently answer such queries, we designed a generic index 
+	for loosely-coupled heterogeneous data. (See paper [7].) </p>
+	<p>The index extends the traditional inverted list by capturing not only 
+	text values, but also structural information when it is present, including 
+	attributes of instances, associations between instances, synonyms on schema 
+	elements, and hierarchies of schema elements. This index not only speeds up 
+	answering queries that combine keywords and structural information, but also 
+	improves keyword search by returning implicitly relevant objects, which are 
+	associated with objects that explicitly contain the keywords in attribute 
+	values.</p>
+</blockquote>
+<ul>
+	<li><b>Answering structured queries on unstructured data</b></li>
+</ul>
+<blockquote>
+  <p>SEMEX manages both structured data (extracted instances and associations) 
+	and unstructured data (files that contain rich text, such as Word documents 
+	and webpages). The goal of SEMEX is to provide a uniform interface for users 
+	to query the information on one's desktop, regardless of their formats. 
+	Querying structured and unstructured data in isolation has been the main 
+	subject of research for the fields of Databases and Information Retrieval. 
+	Recently the Database Community has studied the problem of answering keyword 
+	queries on structured data such as relational data or XML data. The only 
+	combination that has not been fully explored is answering structured queries 
+	on unstructured data. </p>
+	<p>Traditional approaches solve this problem by first extracting structure 
+	from the text. We instead proposed constructing a keyword query from a given 
+	structured query, and submitting the query to the search engine for 
+	retrieving unstructured data (see paper [6]). The key of the solution is to 
+	model a query as a graph of objects and associations, and then select the 
+	node and edge labels that best summarize the graph.</p>
+</blockquote>
+<ul>
+  <li><b>Domain Model Personalization</b> </li>
+</ul>
+<blockquote>
+  <p>Semex comes with a generic domain model (see an
+  <a href="./domainModel.gif" target="main">
+  example</a>) and offers several ways of manually personalizing it. For 
+  example, Semex users can extend their domain model by example. The browsing 
+  pattern can, in itself, already define a new class or association in the 
+  domain model. Alternatively, the user may refine, modify or generalize the 
+  pattern or combine it with other patterns to create the desired class. 
+  Ultimately, we would like the system to identify interesting clusters of 
+  information, and propose extensions based on them.&nbsp;</p>
+  <p>One specific problem in domain model personalization is that sometimes a 
+  precise domain model does not exist, either because we don't know what it is 
+  or because one does not exist. Also, we may prefer not to model the domain in 
+  such level of detail because an overly complex model may be a burden on 
+  personal users. To address these needs, we propose the concept of <i>malleable 
+  schemas</i> as a modeling tool that enables us to capture the important 
+  aspects of the domain at modeling time without having to commit to a very 
+  strict schema. (See paper [5].)</p>
+</blockquote>
+<h4>Project Members</h4>
+<ul>
+  <li><a href="http://www.cs.washington.edu/homes/alon/">Alon 
+  Halevy</a> </li>
+  <li><a href="http://www.cs.washington.edu/homes/lunadong/">Luna 
+  Dong</a> </li>
+</ul>
+<h4>Project Alumni</h4>
+<ul>
+  <li>Michelle Liu</li>
+  <li><a href="http://www.cs.ubc.ca/~ycai/">Yuhan Cai</a> </li>
+  <li><a href="http://www.cs.washington.edu/homes/jayant">Jayant 
+  Madhavan</a> </li>
+  <li>Stebbi Sigundsson</li>
+  <li>Ema Nemes</li>
+</ul>
+<h4>Publications</h4>
+<ol>
+  <li><font face="Comic Sans MS" size="2">Xin Dong, Alon Y. Halevy, Ema Nemes, 
+  Stephan B. Sigundsson, Pedro Domingos: SEMEX: Toward On-the-fly Personal 
+  Information Integration. <i>IIWEB </i>2004. [<a href="semex_iiweb.pdf">PDF</a>]</font>
+  </li>
+  <li><font face="Comic Sans MS" size="2">Xin Dong, Alon Y. Halevy: A Platform 
+  for Personal Information Management and Integration. <i>CIDR </i>2005. [<a href="semex_cidr.pdf">PDF</a>]</font>
+  </li>
+  <li><font face="Comic Sans MS" size="2">Yuhan Cai, Xin Dong, Alon Y. Halevy, 
+  Jing Liu and Jayant Madhavan: Personal Information Management with SEMEX. <i>
+  SIGMOD DEMO </i>2005. [<a href="semex_sigmoddemo.pdf">PDF</a>] <b>(BEST DEMO)</b></font>
+  </li>
+  <li><font face="Comic Sans MS" size="2">Xin Dong, Alon Y. Halevy and Jayant 
+  Madhavan: Reference Reconciliation in Complex Information Spaces. <i>SIGMOD
+  </i>2005. [<a href="reconciliation_sigmod.pdf">PDF</a>]</font> </li>
+  <li><font face="Comic Sans MS" size="2">Xin Dong and Alon Y. Halevy: Malleable 
+	Schemas: A Preliminary Report. <i>WebDB</i> 2005. [<a href="malleable_webdb.pdf">PDF</a>]</font>
+  </li>
+                <li><font face="Comic Sans MS" size="2">Jing Liu, Xin Dong, Alon 
+                Halevy: Answering Structured Queries on Unstructured Data. <i>WebDB 2006.</i> [<a href="keyword_webdb.pdf">PDF</a>]</font></li>
+  <li><font face="Comic Sans MS" size="2">Xin Dong and Alon Y. Halevy: Indexing 
+	Dataspaces. <i>Sigmod</i> 2007. [<a href="index_sigmod.pdf">PDF</a>]</font></li>
+</ol>
+<p>&nbsp;</p>
+                
+</body>
+</html>

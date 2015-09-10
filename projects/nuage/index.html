@@ -1,0 +1,131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <link rel="stylesheet" type="text/css" href="main.css"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>UW Nuage Project</title>
+</head><body>
+
+<center><img src="nuage.png" border="0"></center>
+
+<!--<h1>Nuage - Scientific Data Management in the Cloud</h1> -->
+<p>The scientific data management landscape is changing. Improvements
+in instrumentation and simulation software are giving scientists access
+to data at an unprecedented scale. This data is increasingly being
+stored in data centers running thousands of commodity servers. This new
+environment creates significant data management challenges. In addition
+to efficient query processing, the magnitude of data and queries call
+for new query management techniques such as runtime query control and
+intra-query fault tolerance.</p>
+<p>In this project, we are developing new data management systems and
+techniques for enabling scientists to store, analyze, and share large
+volumes of data using cloud-computing environments.</p>
+<p>&nbsp;</p>
+<h2>People</h2>
+<p>Faculty</p>
+<ul>
+  <li><a href="http://www.cs.washington.edu/homes/magda/">Magdalena Balazinska</a> </li>
+  <li><a href="http://lahmu.phyast.pitt.edu/~gardner">Jeffrey P. Gardner</a> </li>
+  <li><a href="http://www.cs.washington.edu/homes/billhowe/">Bill Howe</a> </li>
+</ul>
+<p>Graduate Students</p>
+<ul><li><a href="http://www.cs.washington.edu/homes/yongchul/">YongChul Kwon</a> </li>
+    <li><a href="http://www.astro.washington.edu/users/sloebman/">Sarah Loebman</a> </li>
+  <li><a href="http://www.cs.washington.edu/homes/kmorton/">Kristi Morton</a> </li>
+  <li><a href="http://www.cs.washington.edu/homes/prasang/">Prasang Upadhyaya</a> </li>
+</ul>
+<p>Undergraduate Students</p>
+<p>Alumni/ae</p>
+<ul>
+  <li>Dylan Nunley</li>
+  <li>Flavio Pfaffhauser</li>
+</ul>
+<p>&nbsp;</p>
+<h2>Projects and Publications </h2>
+<p>&nbsp;</p>
+<h3>Astronomy Simulation Use-Case and Benchmark</h3>
+<p>As one concrete application scenario, we explore the emergent data
+management needs of the University of Washington&#8217;s &#8220;N-body Shop&#8221; group,
+which specializes in the development and utilization of large-scale
+simulations (specifically, &#8220;N-body tree codes&#8221;). These simulations
+serve to investigate the formation and evolution of large scale
+structure in the universe. The UW N-body Shop is representative of the
+current state-of-the-art in astrophysical cosmological simulation. In 2008, the N-body
+Shop was the 10th largest consumer of NSF Teragrid time, using 7:5
+million CPU hours and generated 50 terabytes of raw data, with an
+additional 25 terabytes of post-processing information. The total size
+of each simulation ranges in size from 55 GB to a few TB.
+We find that the required analysis involves three types of tasks:
+filtering and correlating the data at different times in the
+simulation, clustering data within one simulated timestep, and querying
+the clustered data.
+We are in the process of developing a benchmark comprising all three
+types of tasks. The publication below presents the first part of the
+benchmark along with some preliminary results from running this
+benchmakrk on Pig/Hadoop and a commercial relational database management
+system. The following sub-project discusses clustering. We did not yet
+address the challenge of querying clustered data.
+</p><p><a href="http://nuage.cs.washington.edu/pubs/iasds09.pdf">Analyzing Massive Astrophysical Datasets: Can Pig/Hadoop or a Relational DBMS Help?</a><br>
+Sarah Loebman, Dylan Nunley, YongChul Kwon, Bill Howe, Magdalena Balazinska, and Jeffrey P. Gardner<br>
+To appear in IASDS 2009
+
+<br><br>
+The queries and data sets used in the paper are available <a href="http://nuage.cs.washington.edu/benchmark/astro-nbody/">here</a>
+
+<div class="line"></div>
+
+</p><p>&nbsp;</p>
+<h3>Efficient Clustering Algorithms for Shared-Nothing Systems </h3>In
+this project, we focus on one common yet challenging data analysis
+problem from the astronomy simulation domain: massive-scale data
+clustering. We study the performance and scalability of a clustering
+algorithm called Friends-of-Friends. This algorithm is designed to
+cluster points in a multi-dimensional space and is commonly used on
+simulation data to study galaxy formation and evolution.
+<p><a href="ftp://ftp.cs.washington.edu/tr/2009/06/UW-CSE-09-06-01.PDF">Scalable clustering algorithm for N-body simulations in a shared-nothing cluster</a><br>
+YongChul Kwon, Dylan Nunley, Jeffrey P. Gardner, Magdalena Balazinska, Bill Howe, and Sarah Loebman<br>
+University of Washington Technical Report. UW-CSE-09-06-01. June 2009
+
+<br><br>
+The queries and data sets used in the paper are available <a href="http://nuage.cs.washington.edu/benchmark/astro-nbody/">here</a>
+
+<div class="line"></div>
+
+</p><p>&nbsp;</p> 
+
+<h3>The Parallax Time-based Progress Indicator for Parallel Queries </h3>
+<p>In parallel query-processing environments, accurate, time-oriented
+progress indicators could provide much utility to users given that
+queries take a very long time to complete and both inter- and
+intra-query execution times can have high variance. In these systems,
+query times depend on the query plans and the amount of data being
+processed, but also on the amount of parallelism available, the types
+of operators (often user-defined) that perform the processing, and the
+overall system load. None of the techniques used by existing tools or
+available in the literature provide a non-trivial progress indicator
+for parallel queries. In this project, we are building Parallax, an
+accurate, time-oriented progress indicator for parallel queries. </p>
+<left><img src="parallax.png" border="0"></center>
+<p><a href="ftp://ftp.cs.washington.edu/tr/2009/07/UW-CSE-09-07-01.PDF">Toward A Progress Indicator for Parallel Queries.</a> <br> 
+Kristi Morton, Abe Friesen, Magdalena Balazinska, Dan Grossman<br>
+University of Washington Technical Report. UW-CSE-09-07-01. July 2009
+
+</p><h2>&nbsp;</h2>
+
+<div class="line"></div>
+<h2>Dataset and Benchmark</h2>
+<p>
+<ul>
+    <li><a href="benchmark/astro-nbody/">UW N-body Simulation Dataset and Benchmark</a><br/>We are pleased to release large real-world scientific datasets with an associated benchmark based on real user needs.</li>
+</ul>
+</p>
+
+<div class="line"></div>
+
+<h2>Acknowledgments</h2>
+<p>The Nuage project is partially supported by NSF CAREER award <a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0845397">IIS-0845397</a>, NSF CRI grant <a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0454425">CNS-0454425</a>, an HP Labs Innovation Research<br>
+Award, gifts from Microsoft Research, and Balazinska's Microsoft Research New Faculty Fellowship.</p>
+<p>Any opinions, findings, and conclusions or recommendations expressed
+in this material are those of the author(s) and do not necessarily
+reflect the views of the National Science Foundation.</p>
+</body></html>

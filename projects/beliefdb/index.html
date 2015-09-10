@@ -1,0 +1,212 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<head>
+  <title>beliefDB</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15"/>
+  <meta name="KEYWORDS" content="belief database annotations"/>
+  <link rel="stylesheet" type="text/css" href="index/style.css"/>
+  <meta http-equiv="author" content="Wolfgang Gatterbauer"/>
+  <meta name="revisit-after" content="3 days"/>
+  <meta name="robots" content="index, follow, archive" />
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-762993-6']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+
+<body>
+<div id="main">
+
+<div id="department">
+	<a href="http://db.cs.washington.edu/">
+	<img src="index/cse_db_logo.jpg" alt="University of Washington, Database group" border="0"></a>
+</div>
+
+<h1>BeliefDB</h1>
+<h3>Adding belief annotations to  databases</h3>      
+<div class="line"></div>
+
+
+
+
+
+<h2>Default Trust (Sigmod 2010)</h2>
+    
+<p> In massively collaborative projects such as scientific or <em>community databases</em>, users often need to <em>agree or disagree</em> on the content of individual data items. On the other hand, <em>trust relationships</em> often exist between users, allowing them to accept or reject other users' beliefs by default.  As those trust relationships become complex, however, it becomes difficult to define and compute a consistent snapshot of the conflicting information. Previous solutions to a related problem, the <em>update reconciliation problem</em>, are dependent on the order in which the updates are processed and, therefore, do not guarantee a globally consistent snapshot.</p> 
+
+<p> This paper proposes the first principled solution to the <em>automatic conflict resolution problem in a community database</em>. Our semantics is based on the certain tuples of all stable models of a logic program.   While evaluating stable models in general is well known to be hard, even for very simple logic programs, we show that the conflict resolution problem admits a PTIME solution. To the best of our knowledge, ours is the first PTIME algorithm that allows conflict resolution in a principled way.  We further discuss extensions to negative beliefs and prove that some of these extensions are hard.</p>
+
+<p align="center"><img src="index/Conflict_Resolution.jpg" alt="Belief databases" align="middle" border="1"></p>
+<br/>
+
+
+
+
+
+<h2>Belief annotations (VLDB 2009)</h2>
+    
+<p> In many scientific disciplines today, a <em>community</em> of users is working together to assemble, revise, and <em>curate a shared data repository</em>. As the community accumulates knowledge and the database (DB) content evolves over time, it may contain <em>conflicting information</em> and members can <em>disagree</em> on the information it should store. Relational database management systems (RDBMS) today can help these communities manage their shared data, but provide limited support for managing conflicting facts and conflicting opinions about the correctness of the stored data.</p>
+	
+<p> In our discussions with scientists from various disciplines, we have found a clear need for an <em>annotation semantics</em> that helps collaborating database users engage in a <em>structured discussion</em> on both content and each other's annotations. This creates several challenges for a DB that supports such annotations: (1) it needs to allow for <em>conflicting beliefs</em>: users should be able to use annotations to indicate conflicts between what they believe and what others believe. The DB should allow and expose those conflicts; (2) it must also support <em>higher-order annotations</em>: users should be able to not only annotate content but also other users' annotations; and (3) the annotation logics must be supported <em>on top of a standard DBMS</em>: it should allow both an efficient implementation in the relational model and a simple extension of SQL.</p>
+    
+<p> To address these challenges, we propose the concept of a <em>Belief Database</em>. A Belief Database consists of base tuples annotated with <em>belief statements</em>. Its semantics is based on <em>multi-agent epistemic logic</em>. This semantics can be represented by an appropriate <em>canonical Kripke structure</em> which, in turn, can be represented in the standard relational model. As interface to a belief database serve <em>belief conjunctive queries</em>, a simple yet versatile query language consisting of conjunctive queries with belief assertions. We have implemented a prototype belief database system BeliefDB and are currently working on: (1) compact representations and alternative semantics of Belief Databases; (2) improved algorithms for updating and querying Belief Databases.</p>
+
+<p align="center"><img src="index/Belief_database.jpg" alt="Belief databases" align="middle" border="1"></p>
+<br/>
+
+    
+    
+    
+    
+<h2>Publications</h2>
+
+<ul class="Publication">
+
+
+<!-- -->
+<li>
+<b>Default-all is dangerous!</b><br>
+Wolfgang Gatterbauer, Alexandra Meliou, Dan Suciu<br>
+<a href="http://www.usenix.org/event/tapp11/">TaPP 2011</a>. (Also available as <a href="http://arxiv.org/abs/1105.4395">arXiv:1105.4395 [cs.DB]</a>)<br>
+[<a href="http://arxiv.org/pdf/1105.4395" title="Default-all is dangerous!"><img src="index/pdf.gif" 
+align="top" border="0" alt="pdf"/> Paper</a>],
+[<a href="papers/tapp2011_MinimalWhereProvenance_slides.ppt" 
+title="Query-Rewrite-Insensitive Where-Provenance (slides)"><img src="index/ppt-slide.gif" 
+align="top" border="0" alt="pptx"/> Illustration Slides</a>],
+[<a href="papers/tapp2011_MinimalWhereProvenance_slides.pdf" 
+title="Query-Rewrite-Insensitive Where-Provenance (slides)"><img src="index/pdf-slide.gif" 
+align="top" border="0" alt="pdf"/> Illustration Slides</a>]<br>
+<p></p>
+</li>
+
+
+<!-- -->
+<li>
+<b>Managing Structured Collections of Community Data</b><br>
+Wolfgang Gatterbauer,  Dan Suciu<br>
+<a href="http://www.cidrdb.org/cidr2011/" title="CIDR 2011">CIDR 2011, pp. 207-210</a>. (Outrageous Ideas and Vision Track)<br>
+[<a href="http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper28.pdf" title="PairSpace: Managing structured collections of community data"><img src="index/pdf.gif" align="top" border="0" alt="pdf"/> Vision Paper</a>],
+[<a href="papers/cidr2011_PairSpace_presentation.pptx" title="PairSpace: Managing structured collections of community data (presentation)"><img src="index/ppt-slide.gif" align="top" border="0" alt="pptx"/> Presentation</a>],
+[<a href="papers/cidr2011_PairSpace_presentation.pdf" title="PairSpace: Managing structured collections of community data (presentation)"><img src="index/pdf-slide.gif" align="top" border="0" alt="pdf"/> Presentation</a>],
+[<a href="http://dblp.uni-trier.de/rec/bibtex/conf/cidr/GatterbauerS11" title="PairSpace: Managing structured collections of community data (bib)"><img src="index/bib.gif" align="top" border="0" alt="bib"/> bib</a>]<br>
+<p></p>
+</li>
+
+
+<!-- -->
+<li>
+<b>Data Conflict Resolution Using Trust Mappings</b><br>
+Wolfgang Gatterbauer, Dan Suciu<br>
+<a href="http://portal.acm.org/citation.cfm?id=1807167.1807193">SIGMOD 2010, pp. 219-230</a>. (acceptance rate: 21%)<br>
+[<a href="papers/sigmod2010_InconsistencyResolution.pdf" title="Data Conflict Resolution Using Trust Mappings"><img src="index/pdf.gif" align="top" border="0" alt="pdf"/> Paper</a>],
+[<a href="papers/sigmod2010_InconsistencyResolution_slides.pptx" title="Data Conflict Resolution Using Trust Mappings (presentation)"><img src="index/ppt-slide.gif" align="top" border="0" alt="pptx"/> Presentation</a>],
+[<a href="papers/sigmod2010_InconsistencyResolution_slides.pdf" title="Data Conflict Resolution Using Trust Mappings (presentation)"><img src="index/pdf-slide.gif" align="top" border="0" alt="pdf"/> Presentation</a>],
+[<a href="papers/sigmod2010_InconsistencyResolution_poster.pdf" title="Data Conflict Resolution Using Trust Mappings (poster)"><img src="index/pdf-poster.gif" align="top" border="0" alt="pdf"/> Poster</a>],
+[<a href="http://dblp.uni-trier.de/rec/bibtex/conf/sigmod/GatterbauerS10" title="Data Conflict Resolution Using Trust Mappings (bib)"><img src="index/bib.gif" align="top" border="0" alt="bib"/> bib</a>]<br>
+Full 20 page version with all proofs (<a href="http://arxiv.org/abs/1012.3320">arXiv:1012.3320 [cs.DB]</a>, extended UW CSE TR 09-11-01): <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<a href="http://arxiv.org/pdf/1012.3320" title="Data Conflict Resolution Using Trust Mappings"><img src="index/pdf.gif" align="top" border="0" alt="pdf"/> Full version</a>],
+[<a href="http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1012-3320" title="Data Conflict Resolution Using Trust Mappings (bib)"><img src="index/bib.gif" align="top" border="0" alt="bib"/> bib</a>]
+(Version Dec 2010) <!-- Nov 2009 --><br>
+<p></p>
+</li>
+
+
+<!-- -->
+<li>
+<b>Believe it or not: Adding Belief Annotations to Databases</b><br>
+Wolfgang Gatterbauer, Magda Balazinska, Nodira Khoussainova, and Dan Suciu<br>
+<a href="http://www.vldb2009.org/">PVLDB 2(1): 1-12 (2009)</a>. (acceptance rate: 17%)<br>
+[<a href="http://www.vldb.org/pvldb/2/vldb09-115.pdf" title="Believe it or not: Adding belief annotations to databases"><img src="index/pdf.gif" align="top" border="0" alt="pdf"/> Paper</a>],
+[<a href="papers/vldb2009_BeliefDB_presentation.pptx" title="Believe it or not: Adding belief annotations to databases (presentation)"><img src="index/ppt-slide.gif" align="top" border="0" alt="pptx"/> Presentation</a>],
+[<a href="papers/vldb2009_BeliefDB_presentation.pdf" title="Believe it or not: Adding belief annotations to databases (presentation)"><img src="index/pdf-slide.gif" align="top" border="0" alt="pdf"/> Presentation</a>],
+[<a href="http://dblp.uni-trier.de/rec/bibtex/journals/pvldb/GatterbauerBKS09" title="Believe it or not: Adding belief annotations to databases (bib)"><img src="index/bib.gif" align="top" border="0" alt="bib"/> bib</a>]<br>
+Full 17 page version with all proofs (<a href="http://arxiv.org/abs/0912.5241">arXiv:0912.5241 [cs.DB]</a>, updated UW CSE TR 08-12-01): <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<a href="http://arxiv.org/pdf/0912.5241" title="Believe it or not: Adding belief annotations to databases (TR)"><img src="index/pdf.gif" 
+align="top" border="0" alt="pdf"/> Full version</a>],
+[<a href="http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-0912-5241" title="Believe it or not: Adding belief annotations to databases (bib)"><img src="index/bib.gif" align="top" border="0" alt="bib"/> bib</a>] (Version Sept  2009)<br>
+<p></p>
+</li>
+
+
+</ul>
+<br>
+
+
+
+        
+<h2>People</h2> 
+    <table id="people"> 
+  	<tbody>
+    <tr>
+      <td class="left"><ul class="People"><li><a href="http://www.cs.washington.edu/homes/suciu/">Dan Suciu</a></li></ul></td>
+      <td class="right">Faculty (PI) </td>
+    </tr>
+    <tr>
+      <td class="left"><ul class="People"><li><a href="http://www.cs.washington.edu/homes/magda/">Magda Balazinska</a></li></ul></td>
+      <td class="right">Faculty (Co-PI)</td>
+    </tr>
+    <tr>
+      <td class="left"><ul class="People"><li><a href="http://www.andrew.cmu.edu/user/gatt/">Wolfgang Gatterbauer</a>*</li></ul></td>
+      <td class="right">PostDoc (Co-PI)</td>
+    </tr>
+    <tr>
+      <td class="left"><ul class="People"><li><a href="http://www.cs.washington.edu/homes/nodira/">Nodira Khoussainova</a></li></ul></td>
+      <td class="right">Graduate student </td>
+    </tr>    
+  	</tbody>
+	</table>
+<p></p>
+<br>
+
+
+
+
+
+<h2>Funding</h2> 
+
+<p> This project is supported in part by <a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0915054">NSF grant IIS-0915054</a>. Any opinions, findings, and conclusions or recommendations expressed in this project are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+<a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0915054">NSF grant IIS-0915054</a> has also partially funded the following related projects:</p>
+ 
+<table id="people"> 
+  	<tbody>
+    <tr>
+      <td class="left"><ul class="People"><li>Query propagation</li></ul></td>
+      <td class="right"><a href="http://db.cs.washington.edu/propagation/" title="Query Propagation">http://db.cs.washington.edu/propagation/</a></td>
+    </tr>
+    <tr>
+      <td class="left"><ul class="People"><li>Causality in Databases</li></ul></td>
+      <td class="right"><a href="http://db.cs.washington.edu/causality/" title="Causality in Databases">http://db.cs.washington.edu/causality/</a></td>
+    </tr>
+    <tr>
+      <td class="left"><ul class="People"><li>QueryViz</li></ul></td>
+      <td class="right"><a href="http://queryviz.com" title="QueryViz">http://queryviz.com</a></td>
+    </tr>
+    <tr>
+      <td class="left"><ul class="People"><li>Unique Recall</ul></td>
+      <td class="right"><a href="http://uniquerecall.com" title="Unique Recall">http://uniquerecall.com</a> </td>
+    </tr>    
+  	</tbody>
+</table>
+<!-- Query propagation: <a href="http://db.cs.washington.edu/propagation/" title="Query Propagation">http://db.cs.washington.edu/propagation/</a><br>
+<a href="http://db.cs.washington.edu/propagation/">Query propagation</a><br>
+-->
+<p></p>
+<br>
+
+
+<p class="footer">
+Updated on or after June 21, 2011<br>
+* Contact<br>
+</p>
+
+
+</div>
+</body>
+</html>

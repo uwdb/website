@@ -1,0 +1,13 @@
+@article{prasangupadhyaya_vldb2012_p562,
+ author   = {Prasang Upadhyaya and Magdalena Balazinska and Dan Suciu},
+ title    = {How to Price Shared Optimizations in the Cloud},
+ journal  = {PVLDB},
+ volume   = {5},
+ number   = {6},
+ year     = {2012},
+ pages    = {562--573}
+ url      = {http://vldb.org/pvldb/vol5/p562_prasangupadhyaya_vldb2012.pdf},
+ abstract = {Data-management-as-a-service systems are increasingly being used in collaborative settings, where multiple users access common datasets. Cloud providers have the choice to implement various optimizations, such as indexing or materialized views, to accelerate queries over these datasets. Each optimization carries a cost and may benefit multiple users. This creates a major challenge: how to select which optimizations to perform and how to share their cost among users. The problem is especially challenging when users are selfish and will only report their true values for different optimizations if doing so maximizes their utility.
+In this paper, we present a new approach for selecting and pricing shared optimizations by using Mechanism Design. We first show how to apply the Shapley Value Mechanism to the simple case of selecting and pricing additive optimizations, assuming an offline game where all users access the service for the same time-period. Second, we extend the approach to online scenarios where users come and go. Finally, we consider the case of substitutive optimizations.
+We show analytically that our mechanisms induce truth- fulness and recover the optimization costs. We also show experimentally that our mechanisms yield higher utility than the state-of-the-art approach based on regret accumulation.}
+}

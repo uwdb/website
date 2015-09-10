@@ -1,0 +1,226 @@
+/************************************************************************************************** 
+ * University of Washington Databases Team: The Nuage Project
+ * Last Edit: August 28th, 2009 (Jennifer Wong jkwong89@uw.edu) 
+ **************************************************************************************************/
+
+/* The body of this site is n pixels wide and always centered in the window. */
+html {
+	height: 100%;
+    overflow-Y: scroll;
+}
+body {
+	background-image: url("Graphics/bg_n.png");
+	height: 100%;	
+	margin: 0;
+	padding: 0;
+}
+
+#display {
+	background-color: white;
+	background-attachment: fixed;
+	background-repeat: repeat-x;
+	border-left: 10px solid #F8F8F8 ;
+	border-right: 10px solid #F8F8F8 ;
+	font-family: "Georgia", "Times New Roman", serif;
+	margin-left: auto;
+	margin-right: auto;	
+	min-height: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 35px;
+	padding-right: 35px;
+	width: 800px;
+}
+
+/**************************************************************************************************
+ * Format the sites's common divs (divs present for all pages): 
+ **************************************************************************************************/
+/* The banner image:  */
+div#banner img { 
+	border: none;
+	width: 100%;
+	vertical-align: bottom;
+}
+
+/* The internal/external links at the top and bottom of the page: */
+div#links, div#outside { 
+	text-align: center;
+	margin: 10px;
+}
+
+/* The div containing the Home, People, Projects, etc. Pages: */
+div#pages { 
+	background-color: #EEEEEE;
+	background-image: url("Graphics/bg_cloud.png");
+	background-repeat: repeat-y;
+	background-position: top right;
+	overflow: visible;
+	width: 100%;
+}
+div#pages a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #005577;
+}
+div#pages a:hover {
+	color: #FF00AA;
+	text-decoration: underline;
+}
+div#pages cite a {
+	color: #00AACC;
+}
+div#pages div {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+/* The footer image: */
+div#footer img {
+	vertical-align: top;
+	width: 100%;
+}
+
+/**************************************************************************************************
+ * Format specifically the Home, Acknowledgments, People, and Dataset and Benchmark pages:
+ **************************************************************************************************/
+/* The Home/Acknowledgments pages: */
+div#pages div#Intro, div#pages div#Ack {
+	text-align: center;
+}
+div#pages div#Intro p, div#pages div#Ack p{
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;	
+}
+div#pages .image{
+	border: none;
+	height: 100px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+/* The columns of the People page: */
+div#pages div.column {
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 45%;	
+}
+
+/* The Projects page: */
+div#pages .top {
+	width: 100%;
+	text-align: center;
+	font-weight: bold;
+}
+div#pages .directory {
+	text-align: center;
+}
+div#pages .directory li {
+	margin: 10px;
+}	
+
+/* The Dataset and Benchmark page's menu and other pages: */
+div#pages div#menu {
+	background-color: white;
+	float: left;
+	margin-left: 10px;
+	overflow: visible;
+	width: 200px;
+}
+div#pages div#menu h2 {
+	margin-left: 10px;
+}
+div#pages div#main { 
+	margin-top: 18px;
+	float: left;
+	width: 63%;
+}
+
+/**************************************************************************************************
+ * Format miscellaneous items:
+ **************************************************************************************************/
+/* The tables: */
+table {
+	border: 1px solid #000077; 
+	border-spacing: 0px;
+	text-align: center;
+	background-color: #CCEEEE;
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+table caption {
+	text-align: left;
+}
+table td, th {
+	border: 1px solid #002255; 
+	text-align: center;
+	padding: 10px;
+}
+table th {
+	background-color: #3388AA;
+	color: white;
+	font-family: "Century Gothic", "Arial", sans-serif;
+}
+
+/* The headers: */
+h1 {
+	background-color: #99CCCC;
+	background-image: url("Graphics/bg_header.png");
+	border-top: 3px solid #CCEEEE;
+	border-bottom: 3px solid #CCEEEE;
+	font-weight: normal;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	text-align: center;
+	width: 100%;
+}
+h1 img {
+	width: 130px;
+	vertical-align: middle;
+}
+h2, caption {
+	background-image: url("Graphics/fade.png");
+	background-repeat: no-repeat;
+	background-position: bottom left;
+	font-family: "Century Gothic", "Arial", sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0;
+	padding-bottom: 1px;
+}
+
+/* The round-cornered images: */
+div#pages img.top, div#pages img.bottom {
+	width: 100%;
+}
+img.top {
+	vertical-align: top;
+}
+img.bottom {
+	vertical-align: bottom;
+    width: 100%; /* added to force correct size in Chrome */
+}
+
+/* The icon images: */
+img.icon {
+	width: 25px;
+}
+
+/* Some links: */
+div#links a, div#outside a, div#menu a {
+	color: black;	
+	font-family: "Century Gothic", "Arial", sans-serif;	
+	font-weight: bold;
+	margin: 10px;
+	text-decoration: none;
+	font-size: 12px;
+}
+div#links a:hover, div#outside a:hover, div#menu a:hover {
+	color: orange;
+	text-decoration: underline;
+}
+

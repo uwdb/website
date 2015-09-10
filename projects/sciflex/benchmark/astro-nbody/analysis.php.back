@@ -1,0 +1,66 @@
+<!-- 
+The Nuage Dataset and Benchmark Analysis Page 
+-->
+
+<?php
+	include('../common.php');
+	open();
+?>
+
+		<style type="text/css">
+			#links #dataset, #menu #analy {
+				color: orange;
+			}
+		</style>
+
+			<?php
+				main(); // the Banner and links at the top of the page + the Dataset and Benchmark menu
+			?>
+
+						<h2>Ad-hoc analysis</h2>
+						<p>
+							In our <cite><a href="http://nuage.cs.washington.edu/pubs/iasds09.pdf"  target="_blank">IASDS 2009 paper</a></cite>, 
+							we presented five types of queries that astrophysicists frequently ask over simulation data. The paper includes 
+							detailed use-cases as well as benchmark result. We release the benchmark scripts for 
+							<a href="http://hadoop.apache.org/pig/" target="_blank">Pig</a>/
+							<a href="http://hadoop.apache.org"  target="_blank">Hadoop</a>. 
+							For SQL queries, please refer page 6 of the 
+							<cite><a href="http://nuage.cs.washington.edu/pubs/iasds09.pdf" target="_blank">IASDS 2009 paper</a></cite>.
+						</p>
+						<ul>
+							<li>Binary data parser for Pig 0.2.0 
+								<a href="http://nuage.cs.washington.edu/benchmark/astro-nbody/BinCosmoLoad.java" target="_blank">[.java]</a>,
+								<a href="http://nuage.cs.washington.edu/benchmark/astro-nbody/quark.jar"  target="_blank">[.jar]</a></li>
+							<li>Pig scripts <a href="http://nuage.cs.washington.edu/benchmark/astro-nbody/iasds09scripts.zip"  target="_blank">
+								[.zip]</a></li>
+						</ul>
+
+						<h2>Distributed Friends-of-Friends (dFoF)</h2>
+						<p>
+							The Friends-of-Friends algorithm (<a href="http://adsabs.harvard.edu/abs/1985ApJ...292..371D" target="_blank">FoF</a> 
+							and references therein) is a domain-specific clustering algorithm that is also a simplified version of the 
+							more general and commonly used DBSCAN algorithm. A concrete application that also uses FoF is kernel density 
+							estimation (KDE), which involves searching for all points whose kernel can contribute to the density at a given 
+							point.  In astrophysics, KDE techniques are used for object classification in a multi-dimensional parameter space 
+							of sky survey data.
+						</p>
+						<p>
+							The distributed Friends-of-Friends (dFoF) is an optimized implementation of FoF algorithm running in shared-nothing 
+							computational platform such as <a href="http://hadoop.apache.org/"  target="_blank">Hadoop</a> and 
+							<a href="http://research.microsoft.com/en-us/projects/Dryad/"  target="_blank">Dryad</a>. 
+							Here we release an implementation using 
+							<a href="http://research.microsoft.com/en-us/projects/DryadLINQ/" target="_blank">DryadLINQ</a>.
+						</p>
+
+						<ul>
+							<li>dFoF source code using <a href="http://research.microsoft.com/en-us/projects/DryadLINQ/"  target="_blank">
+								DryadLINQ</a> 
+								<a href="dFoF-DLinq.zip"  target="_blank">[zip]</a> (does not include any binary!)</li>
+							<li>To compile and run this program, you first have to install Dryad and DryadLINQ. Please refer 
+								<a href="http://research.microsoft.com/en-us/
+								collaboration/tools/dryad.aspx"  target="_blank">this site</a> for download and license.</li>
+						</ul>
+
+<?php
+	closing(); // the links and footer at the bottom of the page
+?>

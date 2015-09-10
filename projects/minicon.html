@@ -1,0 +1,79 @@
+<html>
+<head>
+<title>Trends in Enterprise Applications</title>
+<link rel=stylesheet type="text/css" href="main.css">
+<base target="_blank">
+<style>
+<!--
+ li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+span.SpellE
+	{}
+span.GramE
+	{}
+-->
+</style>
+</head>
+<body bgcolor=ffffff class=standard>
+      
+<h6><em><font size="3">The MiniCon Algorithm is a new algorithm for answering queries using 
+views that is used as the query reformulator for the data integration system
+<a target="_self" href="tukwila.html">Tukwila</a>.</font></em></h6>
+<h4>Query Reformulation Overview</h4>
+<dl>
+  <dd>A data integration system provides a uniform method for querying across 
+  multiple heterogeneous databases.&nbsp; It presents a <em>mediated schema</em> to 
+  represent a particular application domain, and data sources are mapped as 
+  views over this mediated schema.&nbsp; The user asks a query over the mediated 
+  schema and the data integration system reformulates this into a query over the 
+  data sources and executes it.&nbsp; The process of &nbsp;translating the user query into 
+  a query over the data systems is the process of query reformulation, which is 
+  the problem that MiniCon solves. </dd>
+  <dt>&nbsp; </dt>
+  <dt><strong>Query Reformulating Challenges</strong> </dt>
+  <dd>&nbsp; </dd>
+  <dd>In the data integration system, there can by hundreds or thousands of data 
+  sources.&nbsp; These sources may be added or removed from the system at any time.&nbsp; 
+  Thus, there are two main challenges to query reformulation: first, we must 
+  insure that user queries can be answered in a short amount of time.&nbsp; Second, 
+  we must enable sources to be added and deleted with the least amount of human 
+  intervention.&nbsp; Representing the data sources as views over the mediated schema 
+  enables new data sources to be added with a minimum of human intervention, but 
+  the problem of translating the query into queries over the data sources (query 
+  reformulation) is NP-Complete for even conjunctive queries.&nbsp;&nbsp; Our goal in this 
+  project was to find a scalable algorithm for query reformulation (which is 
+  equivalent to the problem of answering queries using views) and to show 
+  experimentally that these algorithms were feasible for even a large number of 
+  data sources. </dd>
+</dl>
+<h4>Project Members</h4>
+<ul>
+  <li>
+  <a href="http://www.cs.washington.edu/homes/rap">
+  Rachel Pottinger</a>&nbsp; </li>
+  <li>Professor
+  <a href="http://www.cs.washington.edu/homes/alon/">
+  Alon Halevy</a> </li>
+</ul>
+<h4>Presentations</h4>
+<ul>
+  <li>Rachel Pottinger's Qualifying Exam presentation(<a href="papers/quals.ppt">PowerPoint 
+  Slides</a>) </li>
+  <li>2000 UW CS&amp;E Industrial Affiliates presentation(<a href="papers/affiliates-minicon.ppt">Power 
+  Point Slides</a>) </li>
+</ul>
+<h4>Publications</h4>
+<ul>
+  <li>Rachel Pottinger, Alon Levy.&nbsp;
+  <a href="http://www.cs.washington.edu/homes/alon/site/files/vldb00.ps">
+  <i>A Scalable Algorithm for Answering Queries Using Views</i></a>.&nbsp; VLDB 2000.
+  </li>
+</ul>
+<p>This research has been funded in part by NSF grant 9985114. </p>
+                
+</body>
+</html>

@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+  <title>Smart Monitoring: Exploiting History in Continuous Monitoring
+Systems</title>
+  <link rel="stylesheet" type="text/css" href="../main.css">
+  <base target="_blank">
+  <style>
+<!--
+li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+span.SpellE
+	{}
+span.GramE
+	{}
+    p.pageinfo {
+        font-style: italic;
+        font-size: 80%
+    }
+-->
+.color1 {
+        color: #ffffff;
+        background: #660000;
+        padding-bottom: 5pt;
+        padding-top: 5pt;
+        margin: 0;
+        padding-left: 10pt;
+}
+
+    </style>
+</head>
+<body class="standard" style="background-color: rgb(255, 255, 255);">
+<!-- project title -->
+<h1 class="color1" align="left"><font size="6">Smart Monitoring:
+Exploiting History in Continuous Monitoring Systems</font><br>
+---<font face="Arial">MOIRAE</font></h1>
+<!-- brief introduction -->
+<br>
+<br>
+<p>Monitoring applications enable users to continuously observe the
+current state of a system and receive alerts when interesting events
+occur. For example, an administrator can monitor a cluster of
+computers, a computer network, the car traffic in some area, etc. In
+many situations, historical information about current events may help
+users address ongoing or imminent problems in the monitored
+system. However, providing timely historical information for real-time
+events is challenging because of the large volume of historical data.
+</p>
+<p>In this project, we are building a new type of continuous
+monitoring system called Moirae. The goal of Moirae is to complement
+newly detected events with useful historical information in
+near-real-time. To achieve this goal, Moirae allows users to describe
+what constitutes the interesting context of an event. The system then
+delivers, for each new event, a set of k results derived from the most
+similar (in terms of given context) recent events.
+</p>
+<!-- Challenges -->
+<h2>Challenges</h2>
+<p> In the Moirae project, we are addressing the following challenges
+related to history-enhanced monitoring.
+</p>
+<ul>
+  <li><b>Context definition and similarity:</b>
+    <blockquote>
+      <p>When a new event occurs in a monitored system, a large
+fraction of
+relevant historical information corresponds to those times in the past
+when the state of the system was the same or similar to the state at
+the time of the event. The first challenge is thus in efficiently
+comparing the state of a monitored system at different points in
+time. Of course, we want to compare only those parts of the state
+which are relevant to the current event (e.g., the list of logged
+users and the list of running processes). We call this part of the
+state the context of the event.</p>
+    </blockquote>
+  </li>
+  <li><b>Approximate k-Nearest Neighbor(k-NN) queries:</b>
+    <blockquote>
+      <p>Because the historical log is large, the complete set of past
+events
+related to a current event can be large. To avoid overwhelming the
+user, the monitoring system may present only a small set of k most
+similar events and their own contexts. These types of queries are
+often called k-NN queries. However, unlike previous systems which
+define similarity over individual tuples or objects, we expand the
+notion of similarity to a set of tuples that constitute an event
+context. </p>
+      <p>Naive techniques relying on materializing all past events and
+their
+contexts then scanning these events at runtime to report the most
+similar ones do not work well because of the huge volume of historical
+data. Users also want the system to behave in real-time so they don't
+miss any useful past information when an event occurs. The goal of
+Moirae is thus to examine only small parts of history yet return
+relevant and useful past information. </p>
+    </blockquote>
+  </li>
+  <li><b>Performance in face of concurrency:</b>
+    <blockquote>
+      <p> The system must work well in the presence of multiple
+concurrent events. Because continuous queries can produce different
+events at different or varying rates, the system is likely to have
+multiple concurrent historical queries. These queries compete for
+shared resources and the system should be able schedule these queries
+and allocate resources properly. </p>
+    </blockquote>
+  </li>
+</ul>
+<!-- System architecture -->
+<h2>System Architecture </h2>
+<p>
+Moirae is a framework which tightly integrates a stream processing engine
+(e.g., <a href="http://nms.lcs.mit.edu/projects/borealis/">Borealis</a><a>),
+for
+continuous monitoring, and an RDBMS, for archiving historical
+information.
+</a></p>
+<p><a>The main insight behind the design of Moirae is that users will
+be
+more interested in receiving a few relevant results soon after each
+new event (especially if these events are recent), rather than a
+complete set of results or the best results with higher latency. We
+thus proposed a system architecture based on hierarchical log
+partitioning and hierarchical query execution, where the recent past
+is stored at a higher cost, but can be queried faster than older
+data.<br>
+<br>
+</a></p>
+<center><a><img src="moirae_arch.png" border="0">
+</a></center>
+<!-- project members -->
+<h2><a>Project Members</a></h2>
+<ul>
+  <li><a href="http://www.cs.washington.edu/homes/magda/">Magdalena
+Balazinska</a> </li>
+  <li><a href="http://www.cs.washington.edu/homes/yongchul/">YongChul Kwon</a>, </li>
+  <li>Prasang Upadhyaya</li>
+  <li>Shengliang Xu</li>
+</ul>
+<h2>Project Alumni</h2>
+<ul>
+  <li>Nathan Kuchta, Microsoft</li>
+  <li>Dennis Lee, Amazon.com</li>
+  <li>Wing Yee Lee, University of Washington</li>
+  <li>Guiping Xu, Huazhong University of Science and Technology, China</li>
+</ul>
+<!-- publication -->
+<h2>Publications</h2>
+<ol>
+  <li>
+    <font face="Comic Sans MS" size="2">Shengliang Xu and Magdalena Balazinska: Sensor Data Stream Exploration for Monitoring Applications 
+  <i>DMSN 2011</i> [<a href="./xu-dmsn11.pdf">PDF</a>]</font></li>
+
+  <li>
+    <font face="Comic Sans MS" size="2">Prasang Upadhyaya, YongChul Kwon, and Magdalena Bamlazinska: A Latency and Fault-Tolerance Optimizer for Online Parallel Data Processing
+  <i>SIGMOD 2011</i> [<a href="../nuage/pubs/sigmod375-upadhyaya.pdf">PDF</a>]</font></li>
+
+  <li>
+    <font face="Comic Sans MS" size="2">YongChul Kwon, Magdalena Balazinska, and Albert Greenberg: Fault-tolerant Stream Processing using a Distributed, Replicated File System
+  <i>VLDB 2008</i> [<a href="./moirae-vldb08.pdf">PDF</a>]</font></li>
+
+  <li>
+    <font face="Comic Sans MS" size="2">YongChul Kwon, Wing Yee Lee, Magdalena Balazinska, and Guiping Xu: Clustering Events on Streams using Complex Context Information
+  <i>Mining Complex Data 2008</i> [<a href="./moirae-mcd08.pdf">PDF</a>]</font></li>
+
+  <li>
+    <font face="Comic Sans MS" size="2">Magdalena Balazinska, YongChul
+Kwon, Nathan Kuchta, and Dennis Lee: Moirae: History-Enhanced
+Monitoring. <i>CIDR 2007</i> [<a href="./moirae-cidr2007.pdf">PDF</a>]</font></li>
+<!--  <li>The following technical report presents an overview of the
+project.<br>
+    <font face="Comic Sans MS" size="2">Magdalena Balazinska, YongChul
+Kwon, Nathan Kuchta, and Dennis Lee: Moirae: History-Enhanced
+Monitoring. <i>Technical Report 2006-07-01. University of Washington.
+    July 2006.</i> [<a href="./moirae-tech06.pdf">PDF</a>]</font> </li>-->
+</ol>
+
+<!-- acknowledgments -->
+<h2>Acknowledgments</h2>
+<p>The Moirae project is partially supported by NSF grant <a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0713123">IIS-0713123</a>, NSF CRI grant <a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0454425
+">CNS-0454425</a>, a gift from Cisco Systems Inc., a Mitre contract, and Balazinska's Microsoft Research New Faculty Fellowship.</p>
+
+<p>Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+
+<p class="pageinfo"> <i>Last Modified at $Id: index.htm 4456 2008-09-08 03:08:43Z yongchul $</i>
+</p>
+</body>
+</html>

@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+  <title>PEEX</title>
+  <link rel="stylesheet" type="text/css" href="../main.css">
+  <base target="_blank">
+  <style>
+<!--
+li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+span.SpellE
+	{}
+span.GramE
+	{}
+    p.pageinfo {
+        font-style: italic;
+        font-size: 80%
+    }
+-->
+.color1 {
+        color: #ffffff;
+        background: #660000;
+        padding-bottom: 5pt;
+        padding-top: 5pt;
+        margin: 0;
+        padding-left: 10pt;
+}
+
+    </style>
+</head>
+<body class="standard" style="background-color: rgb(255, 255, 255);">
+<!-- project title -->
+<h1 class="color1" align="left">Probabilistic Event EXtractor for RFID Data <font size="6" face="Arial">
+
+</font><br>
+---<font face="Arial">PEEX</font></h1>
+<!-- brief introduction -->
+<br>
+<br>
+  <p align="left">
+  Radio-Frequency Identification (RFID) technology is increasingly
+  being used to support various industrial and
+  ubiquitous computing applications. Although this technology
+  holds the promise to facilitate many of our every
+  day activities, the noisy and low-level data produced by
+  RFID readers today is extremely difficult to use or comprehend
+  in most but the simplest settings.
+  </p>
+
+  <p align="left">
+  PEEX is a system that enables applications to easily
+  define, extract, and manage meaningful probabilistic high-level
+  events from low-level RFID data. By using a declarative
+  query language, the system simplifies definitions of new
+  events. By using probabilities, the system copes with the
+  noise and errors in the data and the inherent ambiguity in
+  the event extraction.
+  </p>
+
+  <p align="left">
+	We have designed PEEX as a layer on top of a traditional
+	RDBMS (currently Microsoft SQL Server).
+	This design enables us to demonstrate the
+	benefits of a probabilistic RFID DBMS, while leveraging
+	all the features of an existing RDBMS. As illustrated in the figure below,
+	the core components of PEEX are
+	<ol>
+		<li> <b>Event Detector</b> (extracts events specified by the event definitions)
+		<li> <b>Confidence Learner</b> (learns from training data the historical probability that different
+			 combinations of tag sightings correspond to a high-level event)
+		<li> <b>Partial Event Generator</b> (generates multiple partial events from one definition thus helping
+			 in coping with false negatives in the input data.)
+	</ol>
+  </p>
+
+
+	<center><a><img src="figures/peex-arch.PNG" border="0" width="720" height="478">
+	</a></center>
+
+<!-- project members -->
+<h2><a>Project Members</a></h2>
+<p><em><strong>Students</strong></em></p>
+<ul>
+  <li><a href="http://www.cs.washington.edu/homes/nodira/">Nodira Khoussainova</a>, University of Washington</li>
+  <li><a href="http://www.cs.washington.edu/homes/letchner/">Julie Letchner</a>, University of Washington </li>
+  <li><a href="http://www.cs.washington.edu/homes/chrisre/">Chris Re</a>, University of Washington </li>
+  <li><a href="http://www.cs.washington.edu/homes/evan/">Evan Welbourne</a>, University of Washington </li>
+</ul>
+<p><em><strong>Faculty</strong></em></p>
+<ul>
+  <li><a href="http://www.cs.washington.edu/homes/magda/">Magdalena
+Balazinska</a>, University of Washington </li>
+  <li><a href="http://www.cs.washington.edu/homes/gaetano/">Gaetano Borriello</a>, University of Washington </li>
+  <li><a href="http://www.cs.washington.edu/homes/suciu/">Dan Suciu</a>, University of Washington</li>
+</ul>
+
+<!-- publication -->
+<h2>Publications</h2>
+<ol>
+   <li>
+   Evan Welbourne, Garret Cole, Nodira Khoussainova, Julie Letchner, Yang Li, Magdalena Balazinska, Gaetano Borriello, Dan Suciu.
+   <a href ="papers/cascadia-demo-mobisys.pdf">
+   Specification, Detection, and Notification of RFID Events with Cascadia. </a> MobiSys Demo 2008.
+   <li>
+   Evan Welbourne, Nodira Khoussainova, Julie Letchner, Yang Li, Magdalena Balazinska, Gaetano Borriello, Dan Suciu.
+   <a href = "papers/cascadia-mobisys.pdf">
+   Cascadia: A System for Specifying, Detecting, and Managing RFID Events. </a> MobiSys 2008.
+   <li>
+	Nodira Khoussainova, Evan Welbourne, Magdalena Balazinska, Gaetano Borriello, Julie Letchner, Christopher Re, Dan Suciu, Jordan Walke.
+	A Demonstration of Cascadia Through a Digital Diary Application. SIGMOD Demo 2008.
+   </li>
+	<li>
+	Nodira Khoussainova, Magdalena Balazinska, Dan Suciu. <a href="papers/peex-icde-poster.pdf"> PEEX: Extracting Probabilistic Events from RFID Data.</a> ICDE 2008. <a href="papers/peex-icde-full.pdf">[Full version]</a>
+   </li>
+   <li>
+   Nodira Khoussainova, Magdalena Balazinska, Dan Suciu. <a href="papers/UW-CSE-07-03-01.pdf">Probabilistic RFID Data Management</a>. UW CSE Technical Report UW-CSE-07-03-01. March 1, 2007.
+   </li>
+</ol>
+
+<h2><a> Acknowledgments </a></h2>
+The PEEX project is partially supported by NSF Grants IIS-0627585, IIS-0513877, IIS-0713576, CNS-0454425,
+CRI-0454394, the UW College of Engineering, and Gifts from Microsoft including a gift under the SensorMap RFP.
+
+Any opinions, findings, and conclusions or recommendations expressed
+in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+<p class="pageinfo"> <i>Last Modified at 2008-09-07 11:02:21 Pacific Daylight Time
+</i>
+</p>
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>HomeViews: Selectively Sharing Dynamic Data</title>
+    <link rel="stylesheet" type="text/css" href="../main.css"/>
+    <base target="_blank"/>
+    <style>
+.color1 {
+        color: #ffffff;
+        background: #660000;
+        padding-bottom: 5pt;
+        padding-top: 5pt;
+        margin: 0;
+        padding-left: 10pt;
+}
+
+    </style>
+</head>
+
+<body bgcolor="#ffffff" class="standard">
+      
+<!-- project title -->
+<h1 align="left" class="color1"><font size="6">Selectively Sharing Dynamic Data over the Internet </font><br>
+---<font face="Arial">HomeViews</font></h1>
+
+<!-- brief introduction -->
+
+<br><br>
+
+<p>Today's users acquire and produce large volumes of digital data: digital pictures, music files, home videos, documents. Users need tools to help them organize and manage this information. In this project, we are exploring techniques to help users organize their data in flexible ways, protect their data, but also selectively share their data with other users on the Internet. In particular, we are building a prototype system called HomeViews that allows users to: 
+<ul>
+  <li>Create database-style views over their file repositories</li>
+  <li>Selectively grant (and later revoke) access to their views to other remote users</li>
+  <li>Create and share views that are defined over their local files, local views,<em> and views imported from other users</em>.</li>
+</ul>
+<p>HomeViews enables all the above features without requiring any
+account management nor user authentication thus minimizing the
+administrative burden on the users. 
+
+<p>HomeViews' protection mechanism is based on capabilities.
+Originally developed in the context of object-based operating systems,
+a capability bundles together a view name with access rights.  Users
+give each other access to their data simply by exchanging capabilities
+to their views, much like users enable each other to view their
+private Web pages by exchanging URLs.
+
+
+<!-- Challenges -->
+<h2>&nbsp;</h2>
+
+<h2>System Architecture </h2>
+
+<p align="left">The figure below shows the high-level architecture of
+HomeViews. 
+
+<p align="center"><br>
+  <br>
+  <img src="sys-arch1.png" alt="system architecture"/>
+<p><center>
+</center>
+
+<p>At the lowest level, all files are stored in the file system as
+usual. They can also be edited directly by accessing the file
+system. HomeViews is a middleware that sits between applications and
+a desktop search engine such as <a
+href="http://beagle-project.org/Main_Page">Beagle</a> or <a
+href="http://www.apple.com/macosx/features/spotlight/">Mac OS
+Spotlight</a>. Users interact with applications built on top of
+HomeViews. Applications translate user actions into requests to our
+engine. Users can create views, modify views, create capabilities for
+views, share these capabilities, compose views, and execute queries
+over both local and remote views. HomeViews keeps track of all
+locally-created views and capabilities in its internal catalog. It
+also manages the potentially distributed query execution resulting
+from evaluating queries over views.
+
+<!-- project members -->
+<h2>Project Members</h2>
+<h3>Graduate Student</h3>
+<ul>
+  <li><a href="http://www.cs.washington.edu/homes/roxana/">Roxana Geambasu</a></li>
+</ul>
+<h3>Faculty</h3>
+<ul>
+    <li><a href="http://www.cs.washington.edu/homes/magda/">Magdalena Balazinska</a>
+    <li><a href="http://www.cs.washington.edu/homes/gribble/">Steve Gribble</a> 
+    <li><a href="http://www.cs.washington.edu/homes/levy/">Henry Levy                      </a>
+</ul>
+
+<p>&nbsp;    </p>
+<h2>Publications</h2>
+<ol>
+    <!--<li><font face="Comic Sans MS" size="2">Roxana Geambasu, Magdalena Balazinska, Steven D. Gribble, and Henry M. Levy. Capability-Based Access Control for Peer-to-Peer Data Sharing. <i>Technical Report 2006-07-02. University of Washington</i>. July 2006. [<a href="sharedviews-tech06.pdf">PDF</a>]</font>  </li>-->
+   <li><font face="Comic Sans MS" size="2">Roxana Geambasu, Magdalena Balazinska, Steven D. Gribble, and Henry M. Levy. HomeViews: Peer-to-Peer Middleware for Personal Data Sharing Applications. <i>In Proc. of <a href="http://sigmod07.riit.tsinghua.edu.cn/">SIGMOD 2007</a></i>, June 2007. [<a href="sigmod424-geambasu.pdf">PDF</a>, <a href="sigmod424-geambasu.ps">PS</a>]</font></li>
+</ol>
+
+
+</body>
+</html>

@@ -1,0 +1,205 @@
+<html>
+<head>
+<title>Trends in Enterprise Applications</title>
+<link rel=stylesheet type="text/css" href="main.css">
+<base target="_blank">
+<style>
+<!--
+ li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+span.SpellE
+	{}
+span.GramE
+	{}
+-->
+</style>
+</head>
+<body bgcolor=ffffff class=standard>
+      
+<div class="Body">
+  <h1 align="left">The Tukwila Data Integration System</h1>
+  <dl>
+    <dd>A data integration system is an automated method for querying across 
+    multiple heterogeneous databases in a uniform way.&nbsp; In essence, a <em>
+    mediated schema</em> is created to represent a particular application domain 
+    and data sources are mapped as views over the mediated schema.&nbsp; The user 
+    asks a query over the mediated schema and the data integration system 
+    reformulates this into a query over the data sources and executes it.&nbsp; The 
+    system then intelligently processes the query, reading data across the 
+    network and responding to data source sizes, network conditions, and other 
+    factors. </dd>
+  </dl>
+  <dt>
+  <img alt="Example data integration application" src="images/example.gif" width="667" height="369">
+  </dt>
+  <dd>&nbsp;
+  <dl>
+    <dt><strong>Query Processing Challenges</strong> </dt>
+    <dd><br>
+    Query processing in data integration occurs over network-bound, autonomous 
+    data sources ranging from conventional databases on the LAN or intranet to 
+    web-based sources across the Internet.&nbsp; The Tukwila data integration system 
+    is designed to scale up to the amounts of data transmissible across 
+    intranets and the Internet (tens to hundreds of MBs), with large numbers of 
+    data sources.&nbsp; This requires extensions to traditional optimization and 
+    execution techniques for three reasons: there is an absence of quality 
+    statistics about the data, data transfer rates are unpredictable and bursty, 
+    and slow or unavailable data sources can often be replaced by overlapping or 
+    mirrored sources.&nbsp; Additionally, the natural data format for data 
+    integration is XML -- which creates new challenges in query processing and 
+    optimization.&nbsp; (See the discussion of the
+    <a target="_self" href="x-scan.html">x-scan</a> operator for more information.) </dd>
+  </dl>
+  <dl>
+    <dt><strong>The Tukwila Solution</strong> </dt>
+    <dd><br>
+    <img alt="Tukwila system diagram" src="images/tukwila_solution.gif" width="791" height="454"><br>
+    <br>
+    <br>
+    The Tukwila data integration system can make use of a mediated schema by 
+    taking the original query and applying a highly efficient query 
+    reformulation algorithm, <a target="_self" href="minicon.html">MiniCon</a>, which maps the input query from the mediated schema to the data 
+    sources.&nbsp; Next, the query processing system takes a three-pronged approach 
+    to providing efficient query answering:&nbsp; (1) use of operators with <b>
+    flexible scheduling</b> policies, to mask latencies, (2) overlapping of 
+    query operations using <b>pipelining</b>, even for XML data, with the <i>
+    x-scan</i> operator, and (3) <b>convergent query processing</b>, which 
+    allows the system to choose a query plan, execute it for some amount of 
+    time, then revise statistics and cost estimates and generate an improved 
+    plan -- all in mid-stream.&nbsp; Experiments have shown that the Tukwila approach 
+    results in superior performance versus traditional techniques. </dd>
+  </dl>
+  <dl>
+    <dd>Our architecture extends previous innovations in adaptive execution 
+    (such as query scrambling, mid-execution re-optimization, eddies, and choose 
+    nodes), and we have experimentally demonstrated the benefits of our system 
+    (see the papers below for more information). </dd>
+  </dl>
+  <h4>Recent Work</h4>
+  <blockquote>
+    <p>The recent focus of the Tukwila project has been in three areas:</p>
+    <ul>
+      <li>Fully integrated support for efficient processing of XML data, based 
+      on the <a target="_self" href="x-scan.html">x-scan</a> operator.&nbsp; XML provides a common encoding for data from many 
+      different sources; combined with standardization of schemas (DTDs) across 
+      certain domains, it greatly reduces the needs for wrappers and even query 
+      reformulation.&nbsp; The latest versions of Tukwila are built around an 
+      adaptive query processing architecture for XML, and can seamlessly combine 
+      XML and relational data into new XML content. </li>
+      <li>Support for output of incremental results in a meaningful fashion.&nbsp; 
+      For web-based applications, we would like to see output incrementally, and 
+      as early as possible.&nbsp; (This is in contrast to the typical batch-oriented 
+      paradigm, in which overall query completion time is key.) </li>
+      <li>Providing &quot;preview&quot; answers to queries.&nbsp; In many cases, it may be 
+      useful to quickly return some sort of approximate or partial answers 
+      during a long-running query, so the user gets early feedback.&nbsp; We have 
+      developed a general framework for expressing the semantics of preview 
+      results, as well as optimization and execution strategies for &quot;preview 
+      queries.&quot;&nbsp; </li>
+      <li>Development of techniques and algorithms for &quot;convergent query 
+      processing.&quot;&nbsp; Our convergent query processing framework allows the system 
+      to continuously re-optimize a query at any point as it gets improved 
+      information, for fairly complex classes of queries (including grouping, 
+      sorting, etc.). </li>
+    </ul>
+  </blockquote>
+  <h4>Project Members</h4>
+  <ul>
+    <li>Professor
+    <a href="http://www.cs.washington.edu/homes/alon/">
+    Alon Halevy</a> </li>
+    <li>Professor
+    <a href="http://www.cs.washington.edu/homes/weld/">
+    Dan Weld</a> </li>
+    <li>
+    <a href="http://www.cs.washington.edu/homes/zives/">
+    Zack Ives</a> is responsible for the Tukwila execution engine and its 
+    adaptive operation, as well as the optimizer for previewing query results.&nbsp; 
+    His work largely relates to adaptive query processing, processing of XML 
+    data, XML and zero-knowledge query optimization, and XML query languages.
+    </li>
+  </ul>
+  <h4>Project Alumni</h4>
+  <ul>
+    <li>Hakim Weatherspoon worked on a web wrapper toolkit.&nbsp; Hakim is now a 
+    graduate student at
+    <a href="http://www.cs.berkeley.edu/">
+    U.C. Berkeley</a>. </li>
+    <li>
+    <a href="http://www.cs.washington.edu/homes/friedman/">
+    Marc Friedman</a> constructed the original optimizer for the Tukwila 
+    system.&nbsp; He recently graduated and joined the
+    <a href="http://www.viathan.com/">
+    Viathan Corporation</a>. </li>
+    <li>
+    <a href="http://www-rodin.inria.fr/Emembre_dana.html">
+    Daniela Florescu</a>, INRIA (France) advised during the original Tukwila 
+    design stages.&nbsp; She is now at
+    <a href="http://www.propel.com/">
+    Propel Software</a>.. </li>
+    <li>
+    <a href="http://www.cs.washington.edu/homes/rap/">
+    Rachel Pottinger</a> has developed the Tukwila query reformulator, which 
+    uses a new query reformulation algorithm, <a href="minicon.html">MiniCon</a>, that is significantly more efficient than previous approaches.&nbsp; 
+    Rachel's current work involves the construction of systems for managing 
+    models (e.g. schemas). </li>
+  </ul>
+  <h4>Web Pages</h4>
+  <ul>
+    <li>The <a target="_self" href="x-scan.html">x-scan</a> operator, a new primitive for XML data integration </li>
+    <li>The <a target="_self" href="minicon.html">MiniCon</a> query reformulation algorithm </li>
+    <li>High-level <a target="_self" href="tukwila_summary.html">system overview</a> </li>
+    <li>Tukwila query execution engine/optimizer
+    <a target="_self" href="tukwila_interface.html">interface</a> specifications (UPDATED for XML extensions) </li>
+    <li>Spring 1999
+    <a href="http://www.cs.washington.edu/education/courses/cse544/99sp/">
+    CSE 544</a>, using Tukwila as the core of the class project </li>
+  </ul>
+  <h4>Presentations</h4>
+  <ul>
+    <li>Zack Ives' 1998 Qualifying Exam presentation on
+    Adaptive Query Execution (<a href="papers/zives-adapt-exec.ppt">PowerPoint 
+    slides</a>) </li>
+    <li>1999 UW CS&amp;E
+    Industrial Affiliates presentation (<a href="papers/affiliates.ppt">PowerPoint 
+    slides</a>) </li>
+    <li>1999 SIGMOD
+    <a href="papers/Tukwila%20SIGMOD%2099/index.htm">
+    presentation</a> </li>
+  </ul>
+  <h4>Publications</h4>
+  <ul>
+    <li>Zachary G. Ives, Alon Y. Halevy, Daniel S. Weld.&nbsp; <i><u>Convergent Query 
+    Processing</u></i>.&nbsp; Submitted for publication, 2001. </li>
+    <li>Zachary G. Ives, Alon Y. Halevy, Daniel S. Weld.&nbsp; <i><u>An XML Query 
+    Engine for Network-Bound Data</u></i>.&nbsp; Submitted for publication, 2001.
+    </li>
+    <li>Rachel Pottinger, Alon Levy.&nbsp;
+    <a href="http://web.archive.org/web/20041023074100/http://www.cs.washington.edu/homes/alon/site/files/vldb00.ps">
+    <i>A Scalable Algorithm for Answering Queries Using Views</i></a>.&nbsp; VLDB 
+    2000, Cairo, Egypt. </li>
+    <li>Zachary G. Ives, Alon Y. Levy, Daniel S. Weld, Daniela Florescu, Marc 
+    Friedman.&nbsp; <i>
+    <a href="http://web.archive.org/web/20041023074100/http://data.cs.washington.edu/papers/adaptive.ps">
+    Adaptive Query Processing for Internet Applications</a></i>.&nbsp; IEEE Data 
+    Engineering Bulletin, Vol. 23 No. 2, June 2000. </li>
+    <li>Zachary G. Ives, Alon Y. Levy, Daniel S. Weld.&nbsp; <i>
+    <a href="http://web.archive.org/web/20041023074100/http://data.cs.washington.edu/papers/xscan.pdf">
+    Efficient Evaluation of Regular Path Expressions on Streaming XML Data</a></i>. 
+    Technical Report UW-CSE-2000-05-02, University of Washington. </li>
+    <li>Zachary G. Ives, Daniela Florescu, Marc Friedman, Alon Levy, Daniel S. 
+    Weld.&nbsp;
+    <a href="http://web.archive.org/web/20041023074100/http://data.cs.washington.edu/papers/ifflw_sigmod99.ps">
+    <em>An Adaptive Query Execution System for Data Integration</em></a>.&nbsp; ACM 
+    SIGMOD Conference on Management of Data, Philadelphia, PA, June 1-3, 1999.
+    </li>
+  </ul>
+  <p>This research has been funded in part by NSF grant 9978567. </dd>
+</div>
+                
+</body>
+</html>
