@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+  <title>StreamClean: A System for Correcting Input Data Errors Probabilistically Using Integrity Constraints</title>
+  <link rel="stylesheet" type="text/css" href="../main.css">
+  <base target="_blank">
+  <style>
+<!--
+li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+span.SpellE
+	{}
+span.GramE
+	{}
+    p.pageinfo {
+        font-style: italic;
+        font-size: 80%
+    }
+-->
+.color1 {
+        color: #ffffff;
+        background: #660000;
+        padding-bottom: 5pt;
+        padding-top: 5pt;
+        margin: 0;
+        padding-left: 10pt;
+}
+
+    </style>
+</head>
+<body class="standard" style="background-color: rgb(255, 255, 255);">
+<!-- project title -->
+<h1 class="color1" align="left"><font size="6" face="Arial">
+	Correcting Input Data Errors Probabilistically Using Integrity Constraints
+</font><br>
+---<font face="Arial">StreamClean</font></h1>
+<!-- brief introduction -->
+<br>
+<br>
+<p>Mobile and pervasive applications frequently rely on devices such as
+	RFID antennas, light sensors, temperature sensors, motion sensors, etc.
+
+to provide them information about the physical world. These devices, however,
+are unreliable. They produce streams of information where
+portions of data may be
+<ol>
+	<li>missing</li>
+	<li>duplicated or</li>
+	<li>erroneous</li>
+</ol>
+
+Current state of the art is to correct errors locally (e.g., range constraints
+for temperature readings) or use spatial/temporal correlations (e.g.,
+smoothing temperature readings). However, errors are often apparent
+only in a global setting, e.g., missed readings of objects that are
+known to be present, or exit readings from a parking garage without
+matching entry readings.
+</p>
+<p>
+We are currently building a system called StreamClean.
+StreamClean is a system for correcting input data errors automatically
+using application defined global integrity constraints. Because it is
+frequently impossible to make corrections with certainty, we propose a
+probabilistic approach, where the system assigns to each input tuple the probability that it is correct.
+</p>
+
+<center><a><img src="prob-illustration.PNG" border="0">
+</a></center>
+
+
+
+
+<!-- Challenges -->
+<h2>Motivation and Goals</h2>
+<p>Imagine an RFID-based book tracking system deployed in a library.
+Such a deployment is similar to that shown in the figure above,
+except that RFID tags are attached to books and antennas are deployed
+on shelves and near tables. Every time a tag is in the vicinity
+of an antenna, the antenna detects the tag and produces an event. If
+a tag remains near an antenna, the antenna produces periodic events
+indicating the presence of the tag. With this deployment, librarians
+can see the location of each book at any time. The challenge is
+that RFID antennas are not reliable: they can fail to read
+a nearby tag or detect a tag that is relatively far away and also detected
+by another antenna. Antenna errors can cause users to receive
+erroneous information. If an antenna fails to detect a nearby
+book, and the book is misshelved, a librarian will not be notified
+about the problem. If multiple antennas detect the same book, a librarian
+may simultaneously receive information that the book is on
+the correct shelf and an alert that the book is misshelved. Such erroneous
+information can be at best annoying to users, and at worst
+discourage them from using the system.
+</p>
+<p>
+Ideally, we would like the system to correct all input data errors.
+However, it is often not possible to correct data source errors
+with certainty. For instance, if two antennas detect the same book,
+it is not always clear which antenna is correct. We thus propose
+to correct input data probabilistically. When errors occur on input
+streams, we would like the results sent to applications to be annotated
+with the probability that they are correct. The system could,
+for example, indicate that there is a 20% chance the book is on the
+correct shelf, a 75% chance it is misshelved, and a 5% chance that
+it is lying on one of the tables. With this approach, an application
+can take into consideration the probabilities when processing the
+data. Whether it exposes these probabilities to the user depends on
+the application. </P>
+
+<p>
+Such a system requires four pieces of functionality:
+<ol>
+	<li> A mechanism to detect input data errors.
+	<li> An algorithm to correct input data by assigning probabilities
+	reflecting some intuitive notion of correctness.
+	<li> Added capability in stream processing engines to process
+	probabilistic data.
+	<li> Modification of applications to handle probabilistic results.
+	For example, a GUI could display books in different shades
+	depending on their probability of being at each of the shown
+	locations.
+</ol>
+</P>
+StreamClean is a system for (1) detecting and (2) correcting input data errors.
+We also plan to address (3) the problem of extending a stream processing engine
+with the capability of handling probabilistic data. However, step (4) of how to
+modify applications to handle probabilistic data is left for future work.
+
+
+
+<!-- System architecture -->
+<h2>System Architecture </h2>
+<p>
+We propose to insert StreamClean between
+the data sources and the operators running at the stream processing engine. This
+enables StreamClean to detect and correct errors before any additional processing
+occurs. We assume that all input streams go to a central location running a
+single instance of StreamClean. Distribution issues are outside the scope of this project.
+</p>
+
+<center><a><img src="architecture.png" border="0">
+</a></center>
+<!-- project members -->
+<h2><a>Project Members</a></h2>
+<ul>
+  <li><a href="http://www.cs.washington.edu/homes/magda/">Magdalena
+Balazinska</a>, University of Washington </li>
+  <li>Nodira Khoussainova, University of Washington</li>
+  <li><a href="http://www.cs.washington.edu/homes/suciu/">Dan Suciu</a>, University of Washington</li>
+</ul>
+
+
+<!-- publication -->
+<h2>Publications</h2>
+<ol>
+   <li> N. Khoussainova, M. Balazinska, and D. Suciu.
+   Towards Correcting Input Errors Probabilistically Using Integrity Constraint.
+   In <i>Proc. of MobiDE</i>, June 2006 <a href="http://www.cs.washington.edu/homes/magda/mobide06.pdf">[PDF]</a> </li>
+</ol>
+
+<p class="pageinfo"> <i>Last Modified at2006-07-20 09:44:21 Pacific Daylight Time
+</i>
+</p>
+</body>
+</html>

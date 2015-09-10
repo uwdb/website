@@ -1,0 +1,424 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Arial, sans-serif;
+  font-size: small;
+}
+
+img {
+  border: 0;
+}
+
+td {
+  vertical-align: middle;
+  padding: 0;
+}
+
+th {
+  font-weight: bold;
+  padding: 0;
+}
+
+div {
+}
+
+a:link {
+  color: #0000cc;
+}
+
+a:active {
+  color: #cc0000;
+}
+
+a:visited {
+  color: #551a8b;
+}
+
+h1 {
+  font-size: x-large;
+  margin-top: 0px;
+}
+
+h2 {
+  font-size: large;
+}
+
+h3 {
+  font-size: medium;
+}
+
+h4 {
+  font-size: small;
+}
+
+form {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 0.25em;
+}
+
+pre.code, code {
+  color: #007000;
+  font-family: "bogus font here", monospace;
+  font-size: 100%;
+}
+
+pre.code, div.code {
+  border: 1px solid silver;
+  background-color: #f5f5f5;
+  padding: 0.5em;
+  margin: 2em;
+  width: 90%;
+}
+
+html>body pre.code {
+  overflow: auto;
+}
+
+* html pre.code {
+  overflow-x: auto;
+  padding-bottom: expression(this.scrollWidth > this.offsetWidth ? 19 : 4);
+}
+
+/* Menu */
+#menu .item {
+  margin-bottom: 1em;
+}
+
+#menu .group .item {
+  margin-bottom: 3px;
+}
+
+#menu .group {
+  margin-bottom: 1em;
+}
+
+#menu .group .group {
+  margin-left: 10px;
+  margin-bottom: 0;
+}
+
+#menu .header {
+  font-weight: bold;
+}
+
+#menu .item {
+  margin-left: 4px;
+}
+
+#menu .text { 
+  padding-left: 1ex;
+}
+
+#menu .selected {
+  margin-left: 0;
+  color: green;
+  font-weight: bold;
+}
+
+/* "Selected" links */
+
+a.selected, .selected a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a.selected:visited, .selected a:visited {
+  color: black;
+}
+
+/* Top header/logo/search section */
+
+#account {
+  text-align: right;
+}
+
+#account #email { 
+  font-weight: bold;
+}
+
+#header {
+  position: relative;
+  margin-top: 6px;
+  padding-top: 6px;
+}
+
+#logo {
+  padding-right: 18px;
+  position:absolute;
+  top: 0;
+  left: 0;
+}
+
+#logo img {
+  width: 150px;
+  height: 58px;
+}
+
+#header .contents {
+  margin-left: 161px;
+  height: 59px;
+}
+
+.title-text {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.title-info {
+  margin: 3px;
+  float: right;
+}
+
+.title {
+  border-top: 1px solid #3366cc;
+  background-color: #e5ecf9;
+  padding: 1px 0px 1px 3px;
+}
+
+#search .input { 
+  width: 41ex;
+}
+
+/* Main body section */
+
+#body { 
+  padding: 10px;
+}
+
+/* Side panel */
+/*
+#side {
+  position: absolute;
+  width: 142px;
+  padding: 10px 0 ;
+  left: 8px;
+  z-index: 1;
+  background-color: white;
+}
+
+#body-with-side {
+  margin-left: 151px;
+  padding: 10px 25px 20px 25px;
+  border-left: 1px dotted silver;
+}
+*/
+
+/* Footer section */
+
+#footer {
+  margin-top: 2em;
+  text-align:center;
+  margin-bottom: 1em;
+  clear: both;
+	padding-left: 2em;
+	padding-right:2em;
+}
+
+/* Common elements */
+
+.url
+{
+	color: green;
+	
+}
+
+.url a, a.url, a.url:link, a.url:visited, a.url:hover, a.url:active {  
+  color: #008000;
+  white-space:nowrap;
+}
+
+.date { 
+  color: #666666;
+}
+
+.error {
+  color: #ff0000
+}
+
+.user-input {
+  font-weight: bold;
+}
+
+.small-command {
+  cursor: pointer;
+  font-size: x-small;
+  color: #666666;
+}
+
+.command { 
+  color: #0000cc;
+  cursor: pointer;
+}
+
+
+/** Subscription lists */
+/*
+.portrait {
+  padding-right: 1em;
+  float: left;
+}
+*/
+
+/* Annotation lists */
+
+.annotations tr.alt { 
+  background-color: #f2f2f2;
+  width: 100%;
+}
+
+.annotations td {
+	margin:0px;
+	padding:0px;
+  padding: 4px;
+  white-space: nowrap;
+}
+
+.annotations .url { 
+  width: 100%;
+  overflow:hidden;
+	padding-right:0px;
+}
+
+.annotations .url div { 
+  padding:0px;
+  margin:0px;
+}
+
+.annotations .label { 
+}
+
+.annotations .label div {
+  overflow: hidden;
+  padding:0px;
+  margin:0px;
+}
+
+.fl, a.fl, .fl a, .f {
+	color:gray;
+}
+
+.annotations .url div { 
+  overflow: hidden;
+  padding:0px;
+  margin:0px;
+}
+
+.annotations .label a { 
+  margin: 0.5ex;
+}
+
+#debug-container, #debug-container div { 
+  text-align: left;
+}
+
+/** Histogram styles */
+
+/*
+ul.histogram {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.histogram li {
+  padding: 2px;
+  margin: 0.5em 0;
+  background-color: #e5ecf9;
+  white-space: nowrap;
+  background-position: right 100px;
+}
+*/
+
+/* Onebox styles */
+
+.onebox {
+  background-color: #ebffed ;
+  margin-top: 11px;
+  padding: 4px;
+}
+
+/* Paging widget */
+
+.pager { 
+  text-align: right;
+  padding: 0.5em;
+}
+
+.pager .number { 
+  font-weight: bold;
+}
+
+/** For the subscriptions stuff **/
+
+.extended-network-container
+{
+	margin: 5px;
+	margin-right:-50px;
+}
+
+.extended-network-container .extended-network-item
+{
+	float:left;
+	width: 200px;
+	height: 100px;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	
+}
+
+.extended-network-item-table td
+{
+	padding: 5px;
+	vertical-align:top;
+}
+
+/** Changed layout table **/
+
+#layout
+{
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+#menu
+{
+	padding: 10px 0;
+	vertical-align:top;
+	max-width:150px;
+	min-width:150px;
+}
+
+#content
+{
+	padding: 10px 25px 20px 25px;
+	border-left: 1px dotted silver;
+	vertical-align:top;
+}
+
+.page-heading
+{
+	font-size: 1.7em;
+	font-weight: bold;
+	margin-bottom:25px;
+}
+
+.f{color:#6f6f6f}
+.flc,.fl:link{color:#77c}
+
+.bookmarklet-button:link
+{ 
+  border: 2px groove black;
+  padding: 0px 5px 2px;
+  background-color: rgb(221, 221, 221);
+  color: black;
+  font-family: sans-serif;
+  text-decoration: none;
+  font-size: 10pt;
+  margin-top: 5px;
+}

@@ -1,0 +1,37 @@
+<html>
+    <body>
+        <h1>N-body simulation dataset</h1>
+        <p><ul>
+            <li>All datasets are in binary and compressed using bzip2 due to its size. Please verify the checksum on download.</li>
+            <li>The file name encodes snapshot number and particle type. For example, file <i>cosmo25cmb.768g.00043_gas.bin</i> contains all <b>gas</b> particles in snapshot <b>43</b>.</li>
+        </ul>
+        </p>
+        <p>
+        <h3>Schema</h3>
+        <ul>
+            <li>The data format is described in the IASDS 2009 paper. All numbers are stored in <b>little endian</b> and all fields except <i>iOrder</i> are 4 byte floating point type (i.e., float4 type). <i>iOrder</i> is 8 byte signed-integer type (i.e., int8 type).</li>
+            <li>Gas: iOrder, mass, position x, y, z, velocity x, y, z, phi, rho, temp, hsmooth, metals</li>
+            <li>Dark matter: iOrder, mass, position x, y, z, velocity x, y, z, phi, eps</li>
+            <li>Star: iOrder, mass, position x, y, z, velocity x, y, z, phi, metals, tform, eps</li>
+        </ul>
+        </p>
+        <h3>Data Files</h3>
+        <ul>
+        <li><a href="data/dbtest.tar.bz2">DBTEST (21 GB)</a></li>
+        <li><a href="data/cosmo50.tar.bz2">COSMO50 (10 GB)</a></li>
+        <li><a href="data/cosmo25.tar.bz2">COSMO25 (60 GB)</a></li>
+        <li><a href="data/checksum.txt">MD5 checksum</a></li>
+    </ul>
+    <h3>Convert to CSV</h3>
+    <p>For your convenience, we provide a python script that can convert the binary format to CSV format.
+    <ul>
+        <li><a href="bin2csv.py">bin2csv.py</a> -- requires Python 2.5 or higher</li>
+    </ul>
+    </p>
+
+
+    <p>Please <b>DO NOT</b> distribute link to this page.</p>
+    <p><a href="dataset.php">Back to Dataset page</a></p>
+    </p>
+    </body>
+</html>

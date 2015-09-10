@@ -1,0 +1,161 @@
+<html>
+<head>
+<title>Trends in Enterprise Applications</title>
+<link rel=stylesheet type="text/css" href="main.css">
+<base target="_blank">
+<style>
+<!--
+ li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+span.SpellE
+	{}
+span.GramE
+	{}
+-->
+</style>
+</head>
+<body bgcolor=ffffff class=standard>
+      
+<h1 class="Body" align="left">X-Scan: a Foundation for XML Data Integration</h1>
+<dl>
+  <dd>The adoption of XML promises to accelerate construction of systems that 
+  integrate distributed, heterogeneous data. Query languages for XML are 
+  typically based on <em>regular path expressions</em> that traverse the logical 
+  XML graph structure; the efficient evaluation of such path expressions is 
+  central to good query processing performance. Most existing XML query 
+  processing systems convert XML documents to an internal representation, 
+  generally a set of tables or objects; path expressions are evaluated using 
+  either index structures or join operations across the tables or objects. 
+  Unfortunately, the required index creation or join operations are often costly 
+  even with locally stored data, and they are especially expensive in the data 
+  integration domain, where the system reads data streamed from remote sources 
+  across a network, and seldom reuses results for subsequent queries.<p>We 
+  propose the <em>x-scan</em> operator, which efficiently processes 
+  non-materialized XML data as it is being received by the data integration 
+  system. X-scan matches regular path expression patterns from the query, 
+  returning results in pipelined fashion as the data streams across the network. 
+  Building from x-scan, we have constructed a new version of the
+  <a target="_self" href="tukwila.html">Tukwila Data Integration System</a> that efficiently integrates streaming XML 
+  and relational data, combining the results seamlessly into new XML content.</dd>
+</dl>
+<h4 class="Body">Background</h4>
+<dl>
+  <dd>The eXtensible Markup Language provides a common format for data across 
+  the network, and is being supported by nearly every data management tool. XML 
+  is based on nested open- and close-tags, or elements, that may have 
+  attributes. XML can be represented as a graph, as is shown below with a sample 
+  XML document and its equivalent data graph.<p>
+  <img src="images/XML.GIF" border="0" width="597" height="527"><br>
+  <br>
+  <img alt="Sample XML data graph" src="images/xmlgraph.gif" align="middle" border="0" width="805" height="400">
+  </p>
+  <p>We query XML data by selecting nodes from the graph through regular path 
+  expressions, and then manipulate those nodes. The query below, written in the
+  <a href="http://www.research.att.com/~mff/xmlql/">
+  XML-QL</a> language, finds and returns all lab names and cities.</p>
+  <p><strong><font face="Courier New,Courier" size="3">WHERE &lt;db&gt;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;lab&gt;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;name&gt;$n&lt;/&gt;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;_*&gt;&lt;city&gt;$c&lt;/&gt;&lt;/&gt;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/&gt; ELEMENT_AS $l<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/&gt; IN &quot;fig1.xml&quot;</font><font face="Courier New,Courier" size="2"><br>
+  ...</font></strong> </p>
+  <p>which can be expressed equivalently as a combination of 3 regular path 
+  expressions (with the latter two dependent on the first):</p>
+  <p>
+  <img alt="Regular path expressions" src="images/pathexp.gif" border="0" width="318" height="87">
+  </p>
+  <p>and which selects the following nodes in the graph:</p>
+  <p>
+  <img alt="Graph with query nodes highlighted" src="images/query-graph.gif" border="0" width="805" height="400">
+  </dd>
+</dl>
+<h4 class="Body">Challenges</h4>
+<dl>
+  <dd>To date, most efforts to build XML query processors, and to evaluate 
+  regular path expressions, have been based on first loading the data into a 
+  local repository, building indexes on the repository, and then processing the 
+  query. The approaches differ on whether the repository is a relational 
+  database, an object-oriented database or a repository for semi-structured 
+  data.<p>In many applications involving XML, however, we must be able to 
+  process queries over streams of incoming XML data, without having the luxury 
+  of first loading the data into a local repository. In particular, data 
+  integration applications often involve processing data over sources on a 
+  wide-area network whose contents change continuously, and hence storing the 
+  data locally is not a viable approach. Furthermore, it is imperative that we 
+  produce results incrementally as the data streams into the system, since 
+  queries are usually ad-hoc and interactive.</dd>
+</dl>
+<h4 class="Body">The x-scan solution</h4>
+<dl>
+  <dd>X-scan is a new method for evaluating path expressions as data is 
+  streaming into the system. The input to x-scan is an XML data stream and a set 
+  of regular path expressions occurring in a query; x-scan's output is a stream 
+  of bindings for the variables occuring in the expressions. A key feature of 
+  x-scan is that it produces these bindings incrementally, as the XML data is 
+  streaming in; hence, x-scan fits naturally as the source operator to a complex 
+  pipeline, and it is highly suited for data integration applications.<p>X-scan 
+  is motivated by the observation that IDREF links are limited to the scope of 
+  the current document, so in principle, the entire XML query graph for a 
+  document could be constructed in a single pass. X-scan achieves this by 
+  simultaneously parsing the XML data, indexing nodes by their IDs, resolving 
+  IDREFs, and returning the nodes that match the path expressions of the query. 
+  The path expression matching algorithm is based on finite state machines, as 
+  shown below. </p>
+  <p>
+  <img src="images/fsms.gif" width="623" height="148">
+  </p>
+  <p>The machines are run during XML document parsing.</p>
+  <p>In addition to the path expression evaluation routines, x-scan includes the 
+  following functionality:</p>
+  <p>Parsing the XML document:<br>
+  X-scan uses the IBM XML4C parser</p>
+  <p>Node ID recording and reference resolving: <br>
+  - XML elements may have ID attributes <br>
+  - Other elements can reference these <br>
+  - X-scan resolves all references during parsing </p>
+  <p>Creating a graph-structured index of the file: <br>
+  - XML maps to a graph, but is stored as a tree <br>
+  - X-scan builds an index of the links in the graph </p>
+  <p>Returning tuples of node locations: <br>
+  - The output of x-scan is in the form of tuples <br>
+  - In our example, we have (l, n, c) tuples for each applicable combination of 
+  lab, name, and city <br>
+  - These tuples are used to construct query results</dd>
+</dl>
+<h4>Project Members</h4>
+<ul>
+  <li>Professor
+  <a href="http://www.cs.washington.edu/homes/alon/">
+  Alon Levy</a> </li>
+  <li>Professor
+  <a href="http://www.cs.washington.edu/homes/weld/">
+  Dan Weld</a> </li>
+  <li>
+  <a href="http://www.cs.washington.edu/homes/zives/">
+  Zack Ives</a> </li>
+</ul>
+<h4>Presentations</h4>
+<ul>
+  <li>Zack Ives'&nbsp;2000
+  <a href="./integration/x-scan/affiliates-2k-talk.htm">
+  Industrial Affiliates presentation</a> </li>
+</ul>
+<h4>Publications</h4>
+<ul>
+  <li>Zachary G. Ives, Alon Y. Halevy, Daniel S. Weld.&nbsp; <i>
+  <a href="http://www.cs.washington.edu/homes/zives/research/xmlengine.pdf">
+  An XML Query Engine for Network-Bound Data</a></i>.&nbsp; To appear, VLDB Journal 
+  Special Issue on XML Processing, 2002. </li>
+  <li>Zachary G. Ives, Alon Y. Levy, Daniel S. Weld.&nbsp; <i>
+  <a href="./papers/xscan.pdf">
+  Efficient Evaluation of Regular Path Expressions on Streaming XML Data</a></i>. 
+  Technical Report UW-CSE-2000-05-02, University of Washington. </li>
+</ul>
+                
+</body>
+</html>

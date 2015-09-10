@@ -1,0 +1,172 @@
+html {
+    height: 100%;
+    border-width:0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+	font-family: Helvetica, Verdana, Arial, Helvetica;
+	font: 70% Verdana,Tahoma,Arial,sans-serif;
+	border-width:0px;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+	font-size: 14px;
+	background-color: rgb(119,136,153); /* gedaempfter Hintergrund statt white */
+	color: #404040;                   /* gedaempfte Schriftfarbe statt black */
+}
+
+#wrap
+{
+	background: #ffffff;
+	color: #303030;
+	margin: 0 auto;
+	width: 870px;
+}
+
+a {
+    padding: 0;
+	margin: 0;
+	text-decoration: none;
+}
+
+
+
+div#main {
+	margin-top: 0em;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0em;
+	padding-top: 0.4em;
+	padding-right: 0em;
+	padding-left: 1em;
+	padding-bottom: 0.5em;
+	width: 800px;    /* background-color: white;      nicht wichtig */
+	font-size: 12px;
+	text-align: justify;
+}
+
+div#main h1 {
+	font-size: 250%;
+	margin-top: 0em;
+	margin-right: 0em;
+	margin-left: 0em;
+	margin-bottom: -0.5em;
+	padding-top: 1em;
+	padding-right: 0.5em;
+	padding-bottom: 0em;
+	border-bottom: 0;
+}
+
+div#main h2 {
+	padding-top: 0em;
+	font-size: 1.5em;
+}
+
+div#main h3 {
+	padding-top: 0;
+	padding-bottom: 0em;
+	font-size: 150%;
+	font-style: italic;
+	font-weight: normal;
+}
+
+
+
+.line {
+	border-bottom: 1px solid silver;
+	/*width: 100%;    */ 
+	margin-top: 2em;
+	margin-bottom: 2em;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
+
+
+
+div#department {
+	border-style: none;
+	border:0;
+	margin-top: 2.6em;
+	text-align : right;
+	float:right;
+	margin-right : 0em;
+	padding: 0px;
+}
+
+div#infographics {
+	border-style: none;
+}
+
+
+
+
+ul {
+    list-style-type: disc;
+    padding-left: 2em;
+}
+
+ul.Publication li {
+  margin-bottom: 1.5em;
+  list-style-type:disc; 
+}
+
+.PublicationTitle {
+  font-style: normal; 
+  font-weight: bold;
+}
+
+.PublicationConference {
+  font-style: italic; 
+  font-weight: normal;
+}
+
+
+
+table#people {
+	margin-left: -0.36em;
+	padding-left: 0em;
+	border-spacing: 0px;
+	border-width:0px;
+	font-size: 1em;
+}
+
+.left {
+	padding-left: 0.5em;
+	width:15em;
+}
+
+.right {
+	padding-left: 2em;
+}
+
+ul.People {
+	margin-bottom: 0em;
+	padding-top: 0px;
+	border-top: 0;
+	margin-top: 0px;
+}
+
+ul.People li {
+  margin-bottom: 0em;
+  list-style-type:disc; 
+}
+
+
+
+.footer {
+	padding-top: 1em;
+	font-size: 0.8em;
+	padding-left: 0em;
+	font-style: italic;
+}
+
+.new {						/* emphasis */
+	font-style: normal;	  	/* normal, italic */
+	font-weight: bold;		/* bold,normal */
+	color: orange; 			/* red */
+	font-size: 1.2em;
+}

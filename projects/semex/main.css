@@ -1,0 +1,64 @@
+#rightbox		{
+			  font-family : helvetica, arial, sans-serif;
+			  float : right;
+			  width : 230pt ;
+			  background : #e5e5e5;
+			  font-size : 10pt;
+			  padding : 5px;
+			  border : 2px #ffffff;
+			}
+			
+h3 {
+   font-family: "Helvetica", "Arial", "Times New Roman";
+	color:#555555;
+	font-size:16px;
+	line-height:16px;
+	font-weight:bold;
+}
+
+h4 {
+   font-family: "Helvetica", "Arial", "Times New Roman";
+	color:#555555;
+	font-size:13px;
+	line-height:13px;
+	font-weight:bold;
+}
+
+.standard,.td,.em {
+   font-family: "Helvetica", "Arial", "Times New Roman";
+   font-size: 10pt;
+}
+
+.em {
+   font-style:italic;
+}
+
+.menu-link {
+	font-family: "Helvetica", "Arial", "Times New Roman";
+	font-size: 10pt;
+	color: 000000;
+	text-decoration:none;
+}
+
+.banner,.banner-sub,.banner-sub,.menu-gt {
+   font-family: "Helvetica", "Arial", "Times New Roman";
+}
+
+.banner {
+	font-size: 12pt;
+	font-weight: bold;
+}
+.banner-sub {
+	font-size: 10pt;
+}
+.menu-gt {
+	font-size: 12pt;
+}
+
+td.programbox {
+   background-color=f3f3f3
+}
+
+li {
+  list-style: circ
+}

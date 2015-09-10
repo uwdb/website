@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>FlowDB: Using Relational Databases in Network Forensic Analysis</title>
+    <link rel="stylesheet" type="text/css" href="../main.css"/>
+    <base target="_blank"/>
+    <style>
+.color1 {
+        color: #ffffff;
+        background: #660000;
+        padding-bottom: 5pt;
+        padding-top: 5pt;
+        margin: 0;
+        padding-left: 10pt;
+}
+
+    </style>
+</head>
+
+<body bgcolor="#ffffff" class="standard">
+      
+<!-- project title -->
+<h1 align="left" class="color1"><font size="6">Using Relational Databases in Network Forensic Analysis<br>--- FlowDB</font></h1>
+
+<!-- brief introduction -->
+
+<br><br>
+
+<p>
+Today, network intrusion detection systems (NIDSs) use custom solutions to log historical network flows and support forensic analysis by network administrators. The custom databases are usually based on log files, sometimes enhanced with a fixed number of indexes to speed up certain queries. These solutions are expensive to build and lack flexibility.
+<br> 
+Relational database management systems (RDBMS), on the other hand, offer many features that are desirable in forensic analysis: a flexible and standard query lannguage (SQL), a powerful query optimizer, good support for indexes, etc.
+The main reason why NIDS vendors are reluctant to use relational databases is that they consider them too general and bulky to be able to handle their workloads. 
+<p>
+In FlowDB, we challenge this assumption and investigate how relational databases can support interactive network forensic analysis. Through benchmarking, we found that an "out-of-the-box" RDBMS can support flow rates from medium-size NIDS deployments in a manner that ensures high query performance. To enable support for significantly larger networks, we seek new techniques that would enable the database to handle both high data insert rates and good forensic query performance. 
+
+<h2> On-Demand View Materialization and Indexing (OVMI)</h2>
+On-Demand View Materialization and Indexing (OVMI) is the first technique we developed. In our approach, when an event occurs, the system proactively extracts <i>relevant</i> historical data and indexes it in preparation for forensic queries over that data. The Figure below shows the setup. 
+
+<p align="center">
+ 
+  <img src="ovmi.png" alt="system architecture"/>
+<p>
+<font size="2"><center><b>Figure 1. On-demand view materialization for forensic analysis</b>. The NIDS aggregates network traffic summaries (called flows) from routers within the network and stores them into a relational database. When suspicious activity is detected on the network, the NIDS fires an alarm to a network administrator. In OVMI, all alarms are also sent to the OVMI engine, that prepares the relevant data for the upcoming forensic queries. Data preparation involves first materializing the relevant data and then indexing it heavily.</center></font>
+<br>
+We show that our approach significantly improves response times for a large class of queries, while maintaining high insert throughput.
+
+<!-- Project members -->
+<h2>Project Members</h2>
+<h3><a href="http://cs.washington.edu/">University of Washington</a></h3>
+<ul>
+<li><h4>Graduate Students</h4>
+<ul>
+  <li><a href="http://www.cs.washington.edu/homes/tbragin/">Tanya Bragin</a></li>
+  <li><a href="http://www.cs.washington.edu/homes/roxana/">Roxana Geambasu</a></li>
+</ul>
+<li><h4>Undergraduate Student</h4>
+<ul>
+  <li>Chris Kwok</li>
+</ul>
+<li><h4>Faculty</h4>
+<ul>
+    <li><a href="http://www.cs.washington.edu/homes/magda/">Magdalena Balazinska</a>
+</ul>
+</ul>
+<h3><a href="http://www.mazunetworks.com/">Mazu Networks</a></h3>
+<ul>    
+	<li><a href="http://nms.csail.mit.edu/~jyjung/">Jaeyeon Jung</a>
+</ul>
+
+<p>&nbsp;    </p>
+<h2>Publications</h2>
+<ol>
+   <li><font face="Comic Sans MS" size="2">Roxana Geambasu, Tanya Bragin, Jaeyeon Jung. On-Demand View Materialization and Indexing for Network Forensic Analysis. <i><a href="http://www.usenix.org/events/netdb07/">NetDB '07</a></i>, April 2007. [<a href="netdb07nids.pdf">PDF</a>, <a href="http://www.cs.washington.edu/homes/roxana/acads/projects/nids/netdb07/html/netdb07nids.html">HTML</a>]</font></li>
+</ol>
+
+
+</body>
+</html>
