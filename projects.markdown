@@ -33,7 +33,7 @@ id: "projects"
 * [StreamClean]({{ site.baseurl }}/projects/streamclean/): Detecting and recovering from sensor input data errors
 * [PEEX]({{ site.baseurl }}/projects/peex/): Extracting probabilistic events from RFID data
 * [MystiQ](http://www.cs.washington.edu/homes/suciu/project-mystiq.html): Using probabilistic query semantics to find answers in large numbers of data sources exhibiting various kinds of imprecisions
-* [BioRank/U2](http://biomediator.org/): Using probabilistic weights in integrated data to rank uncertain integrated information
+* [BioRank/U2](http://www.andrew.cmu.edu/user/gatt/propagation/): Using probabilistic weights in integrated data to rank uncertain integrated information
 * [Propagation]({{ site.baseurl }}/projects/propagation/): Evaluating probabilistic queries with deterministic performance guarantees
 * [Lahar](http://lahar.cs.washington.edu/): Answering event (pattern-based) queries and aggregates on high-level, imprecise stream warehouses
 * [Management of Probabilistic Data](http://www.cs.washington.edu/homes/suciu/project-probDB.html)
