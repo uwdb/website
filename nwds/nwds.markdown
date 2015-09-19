@@ -17,7 +17,7 @@ ___
 
 ##  Upcoming Talks 
 
-**Speaker**: Jennie Duggan, Northwestern University
+**Speaker**: [Jennie Duggan](http://users.eecs.northwestern.edu/~jennie), Northwestern University
 
 **Title**: Virtual Experiments for Distributed Research Networks
 
@@ -40,7 +40,7 @@ Jennie Duggan is the Lisa Wissner-Slivka and Benjamin Slivka Junior Professor in
 
 ___
 
-**Speaker**: Sailesh Krishnamurthy, Amazon
+**Speaker**: [Sailesh Krishnamurthy](http://sites.google.com/site/sailesh/), Amazon
 
 **Title**: An Introduction to Amazon Aurora
 
