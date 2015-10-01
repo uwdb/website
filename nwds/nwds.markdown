@@ -25,7 +25,7 @@ ___
 Computer Science and Engineering Department.  
 Paul Allen Center, Database Lab, CSE 405.  
 
-**When**: Friday, October 1st, 2015, 2:30pm - 3:20pm.
+**When**: Friday, October 2nd, 2015, 2:30pm - 3:20pm.
 
 **Abstract**:  
 Data reuse is becoming increasingly prevalent in the sciences.  Here, researchers conduct retrospective studies over data that was collected independently of a carefully designed randomized controlled trial.  Moreover, many disciplines are setting up distributed research networks for pooling massive existing data sets.  Example networks include PCORnet, a clinical data research network, and US census data, which is collected both nationally and on a state-by-state basis.  In the first part of this talk, we will examine the challenges and opportunities associated with this emerging platform.
