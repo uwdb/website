@@ -17,26 +17,30 @@ ___
 
 ##  Upcoming Talks 
 
-**Speaker**: [Jennie Duggan](http://users.eecs.northwestern.edu/~jennie), Northwestern University
+**Speaker**: [Daniel von Dincklage](http://users.eecs.northwestern.edu/~jennie), Google
 
-**Title**: Virtual Experiments for Distributed Research Networks
+**Title**: Yedalog: Exploring Knowledge at Scale
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+[Electrical Engineering Building](http://uw.edu/maps/?ee1), Room 037.
 
-**When**: Friday, October 2nd, 2015, 2:30pm - 3:20pm.
+**When**: Friday, October 9th, 2015, 2:30pm - 3:20pm.
 
 **Abstract**:  
-Data reuse is becoming increasingly prevalent in the sciences.  Here, researchers conduct retrospective studies over data that was collected independently of a carefully designed randomized controlled trial.  Moreover, many disciplines are setting up distributed research networks for pooling massive existing data sets.  Example networks include PCORnet, a clinical data research network, and US census data, which is collected both nationally and on a state-by-state basis.  In the first part of this talk, we will examine the challenges and opportunities associated with this emerging platform.
-
-We will then discuss virtual experiments, our method for simulating randomized controlled trials in-situ over existing data sets.  Virtual experiments are designed to help researchers work interactively with their database to answer questions such as, "What are the most probable causes for disease X?".  This approach differs from conventional machine learning in that we optimize for statistical inference rather than learning predictive models from a high-dimensional feature space.  More concretely, our target workloads typically rely on comparing control and test groups to search for statistically significant relationships in a data set.  
-
-A virtual experiment declaratively specifies a set of steps for selecting data and applying a statistical hypothesis test to it.  We motivate this work with a real-world use case over clinical data.  This is part of an ongoing effort to make complex science pipelines scalable in a distributed research network.  In particular, we are identifying techniques for efficiently identifying a testable hypothesis space and working interactively with users to explore it.
-
-**Bio**:
-
-Jennie Duggan is the Lisa Wissner-Slivka and Benjamin Slivka Junior Professor in Computer Science at Northwestern University. Before that she was a postdoctoral associate in the Database Group at MIT CSAIL where she worked with Mike Stonebraker and Sam Madden. She received her Ph.D. from Brown University under the guidance of Ugur Cetintemel. Her research interests include the management of science data, federated databases, cloud computing, and database performance modeling. Her Erdös number is 3. 
+With modern data processing frameworks, programmers are often the
+bottleneck when analyzing large repositories of data. We introduce
+Yedalog, a declarative programming
+language that allows programmers to mix data-parallel pipelines and
+computation seamlessly in a single language. Most existing tools for
+data-parallel computation embed a sublanguage
+of data-parallel pipelines in a general-purpose language, or vice versa.
+Yedalog extends
+Datalog, incorporating not only computational features from logic
+programming, but also features for working with data structured as
+nested records. Yedalog programs can run both on a single machine, and
+distributed across a cluster in batch and interactive modes, allowing
+programmers to mix different modes of execution easily.
 
 ___
 
@@ -97,6 +101,7 @@ ___
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
 
+*   Jennie Duggan, Northwestern University [[abstract](past_talks.html#atri_rudra_10_02_15)]
 *   Atri Rudra, University of Buffalo [[abstract](past_talks.html#atri_rudra_06_29_15)]
 *   Anant Bhardwaj, MIT [[abstract](past_talks.html#anant_bhardwaj_01_19_15)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/anantb-datahub-talk.pdf)]
 *   Barzan Mozafari, University of Michigan [[abstract](past_talks.html#barzan_mozafari_11_22_13)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/UW-Google-published.pdf)]
