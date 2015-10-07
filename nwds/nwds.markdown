@@ -42,6 +42,9 @@ nested records. Yedalog programs can run both on a single machine, and
 distributed across a cluster in batch and interactive modes, allowing
 programmers to mix different modes of execution easily.
 
+**Bio**:
+Daniel von Dincklage is Tech Lead for the Yedalog project. He went to the Technische Universtiaet Darmstadt in Germany and got his PhD from University of Colorado at Boulder. His main research interest is the interaction of static software analyses with programmer productivity tools. 
+
 ___
 
 **Speaker**: [Sailesh Krishnamurthy](http://sites.google.com/site/sailesh/), Amazon
