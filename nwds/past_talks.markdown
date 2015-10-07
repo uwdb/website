@@ -6,6 +6,29 @@ id: "nwds_past_talks"
 ---
 
 #  Past Talks
+<a name="jennie_duggan_10_02_15"></a>
+**Speaker**: [Jennie Duggan](http://users.eecs.northwestern.edu/~jennie), Northwestern University
+
+**Title**: Virtual Experiments for Distributed Research Networks
+
+**Where**: University of Washington, Seattle.  
+Computer Science and Engineering Department.  
+Paul Allen Center, Database Lab, CSE 405.  
+
+**When**: Friday, October 2nd, 2015, 2:30pm - 3:20pm.
+
+**Abstract**:  
+Data reuse is becoming increasingly prevalent in the sciences.  Here, researchers conduct retrospective studies over data that was collected independently of a carefully designed randomized controlled trial.  Moreover, many disciplines are setting up distributed research networks for pooling massive existing data sets.  Example networks include PCORnet, a clinical data research network, and US census data, which is collected both nationally and on a state-by-state basis.  In the first part of this talk, we will examine the challenges and opportunities associated with this emerging platform.
+
+We will then discuss virtual experiments, our method for simulating randomized controlled trials in-situ over existing data sets.  Virtual experiments are designed to help researchers work interactively with their database to answer questions such as, "What are the most probable causes for disease X?".  This approach differs from conventional machine learning in that we optimize for statistical inference rather than learning predictive models from a high-dimensional feature space.  More concretely, our target workloads typically rely on comparing control and test groups to search for statistically significant relationships in a data set.  
+
+A virtual experiment declaratively specifies a set of steps for selecting data and applying a statistical hypothesis test to it.  We motivate this work with a real-world use case over clinical data.  This is part of an ongoing effort to make complex science pipelines scalable in a distributed research network.  In particular, we are identifying techniques for efficiently identifying a testable hypothesis space and working interactively with users to explore it.
+
+**Bio**:
+
+Jennie Duggan is the Lisa Wissner-Slivka and Benjamin Slivka Junior Professor in Computer Science at Northwestern University. Before that she was a postdoctoral associate in the Database Group at MIT CSAIL where she worked with Mike Stonebraker and Sam Madden. She received her Ph.D. from Brown University under the guidance of Ugur Cetintemel. Her research interests include the management of science data, federated databases, cloud computing, and database performance modeling. Her Erdös number is 3. 
+
+* * * 
 <a name="atri_rudra_06_29_15"></a>
 **Speaker**: Atri Rudra, University of Buffalo
 
