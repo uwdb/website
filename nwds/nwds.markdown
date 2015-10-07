@@ -17,7 +17,7 @@ ___
 
 ##  Upcoming Talks 
 
-**Speaker**: [Daniel von Dincklage](http://research.google.com/pubs/author36313.html), Google
+**Speaker**: Daniel von Dincklage, Google
 
 **Title**: Yedalog: Exploring Knowledge at Scale
 
