@@ -6,6 +6,36 @@ id: "nwds_past_talks"
 ---
 
 #  Past Talks
+<a name="daniel_von_dincklage_10_09_15"></a>
+**Speaker**: Daniel von Dincklage, Google
+
+**Title**: Yedalog: Exploring Knowledge at Scale
+
+**Where**: University of Washington, Seattle.  
+Computer Science and Engineering Department.  
+[Electrical Engineering Building](http://uw.edu/maps/?ee1), Room 037.
+
+**When**: Friday, October 9th, 2015, 2:30pm - 3:20pm.
+
+**Abstract**:  
+With modern data processing frameworks, programmers are often the
+bottleneck when analyzing large repositories of data. We introduce
+Yedalog, a declarative programming
+language that allows programmers to mix data-parallel pipelines and
+computation seamlessly in a single language. Most existing tools for
+data-parallel computation embed a sublanguage
+of data-parallel pipelines in a general-purpose language, or vice versa.
+Yedalog extends
+Datalog, incorporating not only computational features from logic
+programming, but also features for working with data structured as
+nested records. Yedalog programs can run both on a single machine, and
+distributed across a cluster in batch and interactive modes, allowing
+programmers to mix different modes of execution easily.
+
+**Bio**:
+Daniel von Dincklage is Tech Lead for the Yedalog project. He went to the Technische Universtiaet Darmstadt in Germany and got his PhD from University of Colorado at Boulder. His main research interest is the interaction of static software analyses with programmer productivity tools. 
+
+* * * 
 <a name="jennie_duggan_10_02_15"></a>
 **Speaker**: [Jennie Duggan](http://users.eecs.northwestern.edu/~jennie), Northwestern University
 
