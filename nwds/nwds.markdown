@@ -75,7 +75,7 @@ ___
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
 
 *   Daniel von Dincklage, Google [[abstract](past_talks.html#daniel_von_dincklage_10_09_15)]
-*   Jennie Duggan, Northwestern University [[abstract](past_talks.html#atri_rudra_10_02_15)] [[selected slides](http://nwds.cs.washington.edu/files/nwds/pdf/talk-2015-10-09-Duggan-virtual-experiments.pdf)]
+*   Jennie Duggan, Northwestern University [[abstract](past_talks.html#jennie_duggan_10_02_15)] [[selected slides](http://nwds.cs.washington.edu/files/nwds/pdf/nwds-2015-10-02-Duggan-virtual-experiments.pdf)]
 *   Atri Rudra, University of Buffalo [[abstract](past_talks.html#atri_rudra_06_29_15)]
 *   Anant Bhardwaj, MIT [[abstract](past_talks.html#anant_bhardwaj_01_19_15)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/anantb-datahub-talk.pdf)]
 *   Barzan Mozafari, University of Michigan [[abstract](past_talks.html#barzan_mozafari_11_22_13)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/UW-Google-published.pdf)]
