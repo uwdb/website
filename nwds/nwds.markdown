@@ -17,7 +17,7 @@ ___
 
 ##  Upcoming Talks 
 
-**Speaker**: [Mehul Shah], Amazon
+**Speaker**: Mehul Shah, Amazon
 
 **Title**: Amazon Redshift and the Case for Simpler Data Warehouses
 
