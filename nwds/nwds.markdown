@@ -17,28 +17,6 @@ ___
 
 ##  Upcoming Talks 
 
-**Speaker**: Mehul Shah, Amazon
-
-**Title**: Amazon Redshift and the Case for Simpler Data Warehouses
-
-**Where**: University of Washington, Seattle.  
-Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
-
-**When**: Friday, October 23th, 2015, 2:30pm - 3:20pm.
-
-**Abstract**:  
-
-Amazon Redshift is a fast, fully managed, petabyte-scale data warehouse solution that makes it simple and cost-effective to efficiently analyze large volumes of data using existing business intelligence tools. Since launching in February 2013, it has been Amazon Web Service’s (AWS) fastest growing service, with many thousands of customers and many petabytes of data under management. This growth is a surprise to many in the data warehousing community. In this talk, we discuss an oft-overlooked differentiating characteristic of Amazon Redshift – simplicity. Amazon Redshift was designed to bring data warehousing to a mass market by making it easy to get started with, easy to tune, and easy to administer while also being fast and cost-effective. We discuss how we achieve these goals and what we have learned from operating this service at scale.
-
-
-**Bio**:
-
-Mehul is a software development manager in the Big Data services division at AWS. His interests span large-scale data management, distributed systems, and energy-efficient computing. He serves on the Sort Benchmark committee. He was co-founder and CEO of Amiato. Prior to that, he was a principal research scientist at HP Labs. He received his PhD in databases from U.C. Berkeley, and MEng and BS from MIT.
-
-___
-
-
 **Speaker**: [Sailesh Krishnamurthy](http://sites.google.com/site/sailesh/), Amazon
 
 **Title**: An Introduction to Amazon Aurora
@@ -96,6 +74,7 @@ ___
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
 
+*   Mehul Shah, Amazon [[abstract](past_talks.html#mehul_shah_10_23_15)]
 *   Daniel von Dincklage, Google [[abstract](past_talks.html#daniel_von_dincklage_10_09_15)] [[video](https://www.youtube.com/watch?v=SP9zS43FRzQ)]
 *   Jennie Duggan, Northwestern University [[abstract](past_talks.html#jennie_duggan_10_02_15)] [[selected slides](http://nwds.cs.washington.edu/files/nwds/pdf/nwds-2015-10-02-Duggan-virtual-experiments.pdf)]
 *   Atri Rudra, University of Buffalo [[abstract](past_talks.html#atri_rudra_06_29_15)]
