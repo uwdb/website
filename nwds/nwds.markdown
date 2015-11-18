@@ -17,56 +17,6 @@ ___
 
 ##  Upcoming Talks 
 
-**Speaker**: [Sailesh Krishnamurthy](http://sites.google.com/site/sailesh/), Amazon
-
-**Title**: An Introduction to Amazon Aurora
-
-**Where**: University of Washington, Seattle.  
-Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
-
-**When**: Friday, November 13th, 2015, 2:30pm - 3:20pm.
-
-**Abstract**:  
-
-In this talk I will provide an architectural overview of Amazon
-Aurora, a new cloud-native relational database engine that combines
-the speed and reliability of high-end commercial databases with the
-simplicity and cost-effectiveness of open source databases.
-
-Aurora delivers up to five times the throughput of standard MySQL
-running on the same hardware. Aurora is delivered as a managed service
-(via Amazon RDS) that handles time-consuming tasks such as
-provisioning, patching, backup, recovery, failure detection, and
-repair. Aurora increases MySQL performance and availability by tightly
-integrating the database engine with an SSD-backed virtualized storage
-layer purpose-built for database workloads.  Aurora's storage is
-fault-tolerant and self-healing. Disk failures are repaired in the
-background without loss of database availability. Aurora is designed
-to automatically detect database crashes and restart without the need
-for crash recovery or to rebuild the database cache. In addition,
-Aurora will also automatically failover to one of up to 15 read
-replicas.
-
-**Bio**:
-
-Sailesh Krishnamurthy is a Senior Engineering Manager at Amazon Web
-Services (AWS) where he leads engineering for the Amazon Aurora
-database kernel. Prior to AWS, Sailesh was at Cisco Systems via the
-acquisition of Truviso, a real-time streaming data analytics software
-company that he co-founded to commercialize his prior academic
-research.  At Truviso, he built and managed the initial engineering,
-services and support teams and was also the original developer of the
-core platform. Sailesh is an authority in the field of data management
-with over a dozen published academic papers and several issued
-U.S. patents. He investigated the technical ideas at the heart of
-Truviso¹s products as part of his doctoral research on stream query
-processing, earning a Ph.D. in Computer Science from UC Berkeley in
-2006. Prior to graduate work at Berkeley he worked at IBM on core
-database products and at Netscape on a Java virtual machine
-implementation. Sailesh has a Master¹s degree in Computer Science from
-Purdue University and a Bachelor¹s degree in Electrical Engineering
-from the Birla Institute of Technology and Science, Pilani, India.
 
 ___
 
@@ -74,6 +24,7 @@ ___
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
 
+*   Sailesh Krishnamurthy, Amazon [[abstract](past_talks.html#sailesh_krishnamurthy_11_13_15)] [[video](https://www.youtube.com/watch?v=uW3-WGc0wPo)]
 *   Mehul Shah, Amazon [[abstract](past_talks.html#mehul_shah_10_23_15)]
 *   Daniel von Dincklage, Google [[abstract](past_talks.html#daniel_von_dincklage_10_09_15)] [[video](https://www.youtube.com/watch?v=SP9zS43FRzQ)]
 *   Jennie Duggan, Northwestern University [[abstract](past_talks.html#jennie_duggan_10_02_15)] [[selected slides](http://nwds.cs.washington.edu/files/nwds/pdf/nwds-2015-10-02-Duggan-virtual-experiments.pdf)]
