@@ -35,7 +35,7 @@ Host: Alvin
 #### 10:15am: Systems
 Host: Magda
 
-- Jingjing Wang: Asynchronous and Fault-Tolerant Recursive Datalog Evaluation in Shared-Nothing Engines.
+- [Jingjing Wang](https://homes.cs.washington.edu/~jwang/): Asynchronous and Fault-Tolerant Recursive Datalog Evaluation in Shared-Nothing Engines. [(pdf)](https://homes.cs.washington.edu/~jwang/publications/p2317-wang.pdf)
 - Brandon:
 - Jennifer: A Dynamic Scaling Engine for Data Analytics with Performance Guarantees
 - Bailu:
@@ -67,7 +67,7 @@ Host: Alvin
 - Helga:
 - Parmita:
 - Shumo: Formal Verification Framework for Query Optimization
-- Jingjing:
+- [Jingjing Wang](https://homes.cs.washington.edu/~jwang/): Elastic Memory Management In the Cloud.
 
 #### 4:20pm: Feedback
 
