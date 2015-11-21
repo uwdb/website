@@ -45,7 +45,7 @@ Host: Magda
 #### 1:00pm: Foundations
 Host: Dan
 
-- Shumo:
+- Shumo: From Theory to Practice: Efficient Join Query Evaluation in a Parallel Database System.
 - Laurel:
 
 #### 2:00pm: Break
@@ -66,7 +66,7 @@ Host: Alvin
 - Dylan: Uniting linear and relational algebra 
 - Helga:
 - Parmita:
-- Shumo:
+- Shumo: Formal Verification Framework for Query Optimization
 - Jingjing:
 
 #### 4:20pm: Feedback
