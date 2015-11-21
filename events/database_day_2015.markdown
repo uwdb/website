@@ -63,7 +63,7 @@ Host: [Brandom Myers](https://homes.cs.washington.edu/~bdmyers/)
 Host: [Alvin](http://homes.cs.washington.edu/~akcheung/)
 
 - Jiannan: 
-- Dylan: Uniting linear and relational algebra 
+- [Dylan](https://www.linkedin.com/in/dylanhutchison): Uniting linear and relational algebra 
 - Helga:
 - Parmita:
 - Shumo: Formal Verification Framework for Query Optimization
