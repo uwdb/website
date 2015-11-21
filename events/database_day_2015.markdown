@@ -37,7 +37,7 @@ Host: Magda
 
 - Jingjing Wang: Asynchronous and Fault-Tolerant Recursive Datalog Evaluation in Shared-Nothing Engines.
 - Brandon:
-- Jennifer:
+- Jennifer: A Dynamic Scaling Engine for Data Analytics with Performance Guarantees
 - Bailu:
 
 #### 11:35am: Lunch
