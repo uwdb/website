@@ -62,7 +62,7 @@ Host: Brandom Myers
 #### 3:50pm: Work in progress
 Host: Alvin
 
-- Dylan:
+- Dylan: Uniting linear and relational algebra 
 - Helga:
 - Parmita:
 - Shumo:
