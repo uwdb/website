@@ -38,7 +38,7 @@ Host: [Magda](http://www.cs.washington.edu/people/faculty/magda)
 - [Jingjing Wang](https://homes.cs.washington.edu/~jwang/): Asynchronous and Fault-Tolerant Recursive Datalog Evaluation in Shared-Nothing Engines. [(pdf)](https://homes.cs.washington.edu/~jwang/publications/p2317-wang.pdf)
 - Brandon:
 - Jennifer: A Dynamic Scaling Engine for Data Analytics with Performance Guarantees
-- Bailu:
+- [Bailu Ding](http://www.cs.cornell.edu/~blding/): Improving OCC Performance Through Transaction Batching
 
 #### 11:35am: Lunch
 
