@@ -54,7 +54,7 @@ Host: Dan
 Host: Brandom Myers
 
 - Shrainik:
-- Ryan:
+- Ryan:  Machine Learning on Astronomy Data in a DBMS
 - Dominik:
 
 #### 3:30pm: Break
