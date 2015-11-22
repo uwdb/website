@@ -55,7 +55,7 @@ Host: [Brandom Myers](https://homes.cs.washington.edu/~bdmyers/)
 
 - Shrainik:
 - Ryan:  Machine Learning on Astronomy Data in a DBMS
-- Dominik:
+- [Dominik](https://homes.cs.washington.edu/~domoritz): Visualization recommendation for exploratory data analysis
 
 #### 3:30pm: Break
 
