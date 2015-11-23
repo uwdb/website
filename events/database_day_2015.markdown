@@ -51,7 +51,7 @@ Host: [Alvin](http://homes.cs.washington.edu/~akcheung/)
 #### 2:00pm: Break
 
 #### 2:15pm: Algorithms and Applications
-Host: [Brandom Myers](https://homes.cs.washington.edu/~bdmyers/)
+Host: [Brandon Myers](https://homes.cs.washington.edu/~bdmyers/)
 
 - [Shrainik](https://homes.cs.washington.edu/~shrainik): SQLShare: Results from a Multi-Year SQL-as-a-Service Experiment
 - [Ryan](https://homes.cs.washington.edu/~maas/):  Machine Learning on Astronomy Data in a DBMS
