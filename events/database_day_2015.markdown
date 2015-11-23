@@ -27,7 +27,7 @@ Host: [Magda](http://www.cs.washington.edu/people/faculty/magda)
 #### 9:10pm: Foundations
 Host: [Dan](https://homes.cs.washington.edu/~suciu/)
 
-- Shumo: From Theory to Practice: Efficient Join Query Evaluation in a Parallel Database System.
+- [Shumo](http://shumochu.com/): From Theory to Practice: Efficient Join Query Evaluation in a Parallel Database System.
 - Laurel: TBD
 
 #### 10:10am: Break
@@ -65,7 +65,7 @@ Host: [Alvin](http://homes.cs.washington.edu/~akcheung/)
 - [Jiannan](http://www.cs.berkeley.edu/~jnwang/): SampleClean: Data Cleaning With Algorithms, Machines, and People. [(website)](http://sampleclean.org/)
 - [Dylan](https://www.linkedin.com/in/dylanhutchison): Uniting linear and relational algebra 
 - Helga & Parmita: Reverse Engineering Design Decisions of Query Execution Engines
-- Shumo: Formal Verification Framework for Query Optimization
+- [Shumo](http://shumochu.com/): Formal Verification Framework for Query Optimization
 - [Jingjing](https://homes.cs.washington.edu/~jwang/): Elastic Memory In the Cloud.
 
 #### 4:20pm: Feedback
