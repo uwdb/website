@@ -46,7 +46,7 @@ Host: [Magda](http://www.cs.washington.edu/people/faculty/magda)
 Host: [Alvin](http://homes.cs.washington.edu/~akcheung/)
 
 - Cong: TBD
--【Maaz](http://homes.cs.washington.edu/~maazsaf/): Translating Sequential Java Programs to MapReduce Using Verified Lifting.
+- [Maaz](http://homes.cs.washington.edu/~maazsaf/): Translating Sequential Java Programs to MapReduce Using Verified Lifting.
 
 #### 2:00pm: Break
 
