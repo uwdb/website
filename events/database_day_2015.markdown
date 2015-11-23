@@ -28,7 +28,7 @@ Host: [Magda](http://www.cs.washington.edu/people/faculty/magda)
 Host: [Dan](https://homes.cs.washington.edu/~suciu/)
 
 - [Shumo](http://shumochu.com/): From Theory to Practice: Efficient Join Query Evaluation in a Parallel Database System.
-- Laurel: TBD
+- [Laurel](http://homes.cs.washington.edu/~ljorr1/): A Probabilistic Approach to Big Data Summarization
 
 #### 10:10am: Break
 
