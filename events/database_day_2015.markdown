@@ -62,7 +62,7 @@ Host: [Brandom Myers](https://homes.cs.washington.edu/~bdmyers/)
 #### 3:50pm: Work in progress
 Host: [Alvin](http://homes.cs.washington.edu/~akcheung/)
 
-- Jiannan: TBD
+- [Jiannan](http://www.cs.berkeley.edu/~jnwang/): SampleClean: Data Cleaning With Algorithms, Machines, and People. [(website)](http://sampleclean.org/)
 - [Dylan](https://www.linkedin.com/in/dylanhutchison): Uniting linear and relational algebra 
 - Helga & Parmita: Reverse Engineering Design Decisions of Query Execution Engines
 - Shumo: Formal Verification Framework for Query Optimization
