@@ -54,7 +54,7 @@ Host: [Alvin](http://homes.cs.washington.edu/~akcheung/)
 Host: [Brandom Myers](https://homes.cs.washington.edu/~bdmyers/)
 
 - [Shrainik](https://homes.cs.washington.edu/~shrainik): SQLShare: Results from a Multi-Year SQL-as-a-Service Experiment
-- Ryan:  Machine Learning on Astronomy Data in a DBMS
+- [Ryan](https://homes.cs.washington.edu/~maas/):  Machine Learning on Astronomy Data in a DBMS
 - [Dominik](https://homes.cs.washington.edu/~domoritz): Visualization recommendation for exploratory data analysis
 
 #### 3:30pm: Break
