@@ -15,6 +15,14 @@ id: "people"
 {% endfor %}
 </div>
 
+## Affiliate Faculty
+
+<div class="flex-container people image-container">
+{% for person in site.data.affiliates %}
+  {% include person_image image=person.image caption=person.name link=person.website title=person.name %}
+{% endfor %}
+</div>
+
 ## Staff
 <div class="flex-container people image-container">
 {% for person in site.data.staff %}
