@@ -4,12 +4,6 @@
   image: magda.jpg
   dblp: ':author:Magdalena_Balazinska:'
 
-- name: Philip Bernstein
-  nickname: Phil
-  website: http://research.microsoft.com/~philbe/
-  image: phil.jpg
-  dblp: ':author:Philip_A._Bernstein:'
-
 - name: Alvin Cheung
   nickname: Alvin
   website: http://homes.cs.washington.edu/~akcheung/
@@ -28,8 +22,4 @@
   image: dan.jpg
   dblp: ':author:Dan_Suciu:'
 
-- name: Daniel Halperin
-  nickname: Dan
-  website: http://www.cs.washington.edu/homes/dhalperi/
-  image: daniel.jpg
-  dblp: ':author:Daniel_Halperin:'
+
