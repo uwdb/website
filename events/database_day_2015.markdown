@@ -55,7 +55,7 @@ Host: [Brandon Myers](https://homes.cs.washington.edu/~bdmyers/)
 
 - [Shrainik](https://homes.cs.washington.edu/~shrainik): SQLShare: Results from a Multi-Year SQL-as-a-Service Experiment
 - [Ryan](https://homes.cs.washington.edu/~maas/):  Machine Learning on Astronomy Data in a DBMS
-- [Dominik](https://homes.cs.washington.edu/~domoritz): Visualization recommendation for exploratory data analysis [(paper)](https://idl.cs.washington.edu/files/2015-Voyager-InfoVis.pdf)
+- [Dominik](https://homes.cs.washington.edu/~domoritz): Visualization recommendation for exploratory data analysis [(website)](https://idl.cs.washington.edu/papers/voyager)
 
 #### 3:30pm: Break
 
