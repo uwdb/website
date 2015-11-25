@@ -35,7 +35,7 @@ Host: [Dan](https://homes.cs.washington.edu/~suciu/)
 #### 10:25am: Systems
 Host: [Magda](http://www.cs.washington.edu/people/faculty/magda)
 
-- [Jingjing](https://homes.cs.washington.edu/~jwang/): Asynchronous and Fault-Tolerant Recursive Datalog Evaluation in Shared-Nothing Engines. [(pdf)](https://homes.cs.washington.edu/~jwang/publications/p2317-wang.pdf)
+- [Jingjing](https://homes.cs.washington.edu/~jwang/): Asynchronous and Fault-Tolerant Recursive Datalog Evaluation in Shared-Nothing Engines. [(paper)](https://homes.cs.washington.edu/~jwang/publications/p2317-wang.pdf)
 - Brandon: TBD
 - [Jennifer](http://homes.cs.washington.edu/~jortiz16/): A Dynamic Scaling Engine for Data Analytics with Performance Guarantees
 - [Bailu](http://www.cs.cornell.edu/~blding/): Improving OCC Performance Through Transaction Batching.
@@ -55,7 +55,7 @@ Host: [Brandon Myers](https://homes.cs.washington.edu/~bdmyers/)
 
 - [Shrainik](https://homes.cs.washington.edu/~shrainik): SQLShare: Results from a Multi-Year SQL-as-a-Service Experiment
 - [Ryan](https://homes.cs.washington.edu/~maas/):  Machine Learning on Astronomy Data in a DBMS
-- [Dominik](https://homes.cs.washington.edu/~domoritz): Visualization recommendation for exploratory data analysis
+- [Dominik](https://homes.cs.washington.edu/~domoritz): Visualization recommendation for exploratory data analysis [(paper)](https://idl.cs.washington.edu/files/2015-Voyager-InfoVis.pdf)
 
 #### 3:30pm: Break
 
