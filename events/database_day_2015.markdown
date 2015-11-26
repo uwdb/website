@@ -67,6 +67,7 @@ Host: [Alvin](http://homes.cs.washington.edu/~akcheung/)
 - Helga & Parmita: Reverse Engineering Design Decisions of Query Execution Engines
 - [Shumo](http://shumochu.com/): Formal Verification Framework for Query Optimization
 - [Jingjing](https://homes.cs.washington.edu/~jwang/): Elastic Memory In the Cloud.
+- [Dominik](https://homes.cs.washington.edu/~domoritz): Scalable visualization [(paper)](http://www.interactive-analysis.org/papers/2015/moritz.pdf)
 
 #### 4:20pm: Feedback
 
