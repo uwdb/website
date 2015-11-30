@@ -36,7 +36,7 @@ Host: [Dan](https://homes.cs.washington.edu/~suciu/)
 Host: [Magda](http://www.cs.washington.edu/people/faculty/magda)
 
 - [Jingjing](https://homes.cs.washington.edu/~jwang/): Asynchronous and Fault-Tolerant Recursive Datalog Evaluation in Shared-Nothing Engines. [(paper)](https://homes.cs.washington.edu/~jwang/publications/p2317-wang.pdf)
-- Brandon: TBD
+- Brandon: PipeGen: Automatic Generation of Data Pipes for Hybrid Analytics
 - [Jennifer](http://homes.cs.washington.edu/~jortiz16/): A Dynamic Scaling Engine for Data Analytics with Performance Guarantees
 - [Bailu](http://www.cs.cornell.edu/~blding/): Improving OCC Performance Through Transaction Batching.
 
