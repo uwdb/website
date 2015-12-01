@@ -63,7 +63,7 @@ Host: [Brandon Myers](https://homes.cs.washington.edu/~bdmyers/)
 Host: [Alvin](http://homes.cs.washington.edu/~akcheung/)
 
 - [Jiannan](http://www.cs.berkeley.edu/~jnwang/): SampleClean: Data Cleaning With Algorithms, Machines, and People. [(website)](http://sampleclean.org/)
-- [Dylan](https://www.linkedin.com/in/dylanhutchison): Uniting linear and relational algebra 
+- [Dylan](https://www.linkedin.com/in/dylanhutchison): LARA: A Language of Linear and Relational Algebra for Polystores
 - Helga & Parmita: Reverse Engineering Design Decisions of Query Execution Engines
 - [Shumo](http://shumochu.com/): Formal Verification Framework for Query Optimization
 - [Jingjing](https://homes.cs.washington.edu/~jwang/): Elastic Memory In the Cloud.
