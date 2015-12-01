@@ -55,7 +55,7 @@ Host: [Brandon Myers](https://homes.cs.washington.edu/~bdmyers/)
 
 - [Brandon](https://homes.cs.washington.edu/~bdmyers/): Query processing for parallel languages 
 - [Shrainik](https://homes.cs.washington.edu/~shrainik): SQLShare: Results from a Multi-Year SQL-as-a-Service Experiment
-- [Ryan](https://homes.cs.washington.edu/~maas/):  Machine Learning on Astronomy Data in a DBMS
+- [Ryan](https://homes.cs.washington.edu/~maas/):  Machine Learning on Astronomy Data in a DBMS [(paper)](http://dl.acm.org/citation.cfm?id=2803143)
 - [Dominik](https://homes.cs.washington.edu/~domoritz): Visualization recommendation for exploratory data analysis [(website)](https://idl.cs.washington.edu/papers/voyager)
 
 #### 3:30pm: Break
