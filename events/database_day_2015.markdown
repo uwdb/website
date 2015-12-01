@@ -27,7 +27,7 @@ Host: [Magda](http://www.cs.washington.edu/people/faculty/magda)
 #### 9:10pm: Foundations
 Host: [Dan](https://homes.cs.washington.edu/~suciu/)
 
-- [Shumo](http://shumochu.com/): From Theory to Practice: Efficient Join Query Evaluation in a Parallel Database System.
+- [Shumo](http://shumochu.com/): From Theory to Practice: Efficient Join Query Evaluation in a Parallel Database System [(paper)](https://homes.cs.washington.edu/~chushumo/files/sigmod_15_join.pdf).
 - [Laurel](http://homes.cs.washington.edu/~ljorr1/): A Probabilistic Approach to Big Data Summarization
 
 #### 10:10am: Break
