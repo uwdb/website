@@ -52,6 +52,7 @@ Host: [Alvin](http://homes.cs.washington.edu/~akcheung/)
 
 #### 2:15pm: User-facing systems
 Host: [Brandon Myers](https://homes.cs.washington.edu/~bdmyers/)
+
 - [Brandon](https://homes.cs.washington.edu/~bdmyers/): Query processing for parallel languages 
 - [Shrainik](https://homes.cs.washington.edu/~shrainik): SQLShare: Results from a Multi-Year SQL-as-a-Service Experiment
 - [Ryan](https://homes.cs.washington.edu/~maas/):  Machine Learning on Astronomy Data in a DBMS
