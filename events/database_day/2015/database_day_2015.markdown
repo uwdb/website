@@ -65,7 +65,7 @@ Host: [Alvin](http://homes.cs.washington.edu/~akcheung/)
 
 - [Jiannan](http://www.cs.berkeley.edu/~jnwang/): SampleClean: Data Cleaning With Algorithms, Machines, and People. [(website)](http://sampleclean.org/)
 - [Dylan](https://www.linkedin.com/in/dylanhutchison): LARA: A Language of Linear and Relational Algebra for Polystores
-- Helga & Parmita: Reverse Engineering Design Decisions of Query Execution Engines
+- Helga & Parmita: Reverse Engineering Query Execution Engine Design Decisions. [(slides)](slides/helga_parmita_dbday.pdf)
 - [Shumo](http://shumochu.com/): Formal Verification Framework for Query Optimization
 - [Jingjing](https://homes.cs.washington.edu/~jwang/): Elastic Memory In the Cloud. [(slides)](slides/elasticMem.pdf)
 - [Dominik](https://homes.cs.washington.edu/~domoritz): Scalable visualization [(paper)](http://www.interactive-analysis.org/papers/2015/moritz.pdf)
