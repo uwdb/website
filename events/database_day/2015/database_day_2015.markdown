@@ -35,7 +35,7 @@ Host: [Dan](https://homes.cs.washington.edu/~suciu/)
 #### 10:25am: [Systems](slides/uwdb-day-2015-magda.pdf)
 Host: [Magda](http://www.cs.washington.edu/people/faculty/magda)
 
-- [Jingjing](https://homes.cs.washington.edu/~jwang/): Asynchronous and Fault-Tolerant Recursive Datalog Evaluation in Shared-Nothing Engines. [(paper)](https://homes.cs.washington.edu/~jwang/publications/p2317-wang.pdf) [(slides)](slides/recursive_dbday.pdf)
+- [Jingjing](https://homes.cs.washington.edu/~jwang/): Asynchronous and Fault-Tolerant Recursive Datalog Evaluation in Shared-Nothing Engines [(paper)](https://homes.cs.washington.edu/~jwang/publications/p2317-wang.pdf) [(slides)](slides/recursive_dbday.pdf)
 - Brandon: PipeGen: Automatic Generation of Data Pipes for Hybrid Analytics
 - [Jennifer](http://homes.cs.washington.edu/~jortiz16/): A Dynamic Scaling Engine for Data Analytics with Performance Guarantees [(paper)] (http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper22.pdf)
 - [Bailu](http://www.cs.cornell.edu/~blding/): Improving OCC Performance Through Transaction Batching
@@ -65,7 +65,7 @@ Host: [Alvin](http://homes.cs.washington.edu/~akcheung/)
 
 - [Jiannan](http://www.cs.berkeley.edu/~jnwang/): SampleClean: Data Cleaning With Algorithms, Machines, and People [(website)](http://sampleclean.org/)
 - [Dylan](https://www.linkedin.com/in/dylanhutchison): LARA: A Language of Linear and Relational Algebra for Polystores
-- Helga & Parmita: Reverse Engineering Query Execution Engine Design Decisions. [(slides)](slides/helga_parmita_dbday.pdf)
+- Helga & Parmita: Reverse Engineering Query Execution Engine Design Decisions [(slides)](slides/helga_parmita_dbday.pdf)
 - [Shumo](http://shumochu.com/): Formal Verification Framework for Query Optimization
 - [Jingjing](https://homes.cs.washington.edu/~jwang/): Elastic Memory In the Cloud [(slides)](slides/elasticMem.pdf)
 - [Dominik](https://homes.cs.washington.edu/~domoritz): Scalable Visualization [(paper)](http://www.interactive-analysis.org/papers/2015/moritz.pdf)
