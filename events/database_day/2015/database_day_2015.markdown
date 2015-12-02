@@ -32,8 +32,8 @@ Host: [Dan](https://homes.cs.washington.edu/~suciu/)
 
 #### 10:10am: Break
 
-#### 10:25am: Systems
-Host: [Magda](http://www.cs.washington.edu/people/faculty/magda) [(slides)](slides/uwdb-day-2015-magda.pdf)
+#### 10:25am: [Systems](slides/uwdb-day-2015-magda.pdf)
+Host: [Magda](http://www.cs.washington.edu/people/faculty/magda)
 
 - [Jingjing](https://homes.cs.washington.edu/~jwang/): Asynchronous and Fault-Tolerant Recursive Datalog Evaluation in Shared-Nothing Engines. [(paper)](https://homes.cs.washington.edu/~jwang/publications/p2317-wang.pdf) [(slides)](slides/recursive_dbday.pdf)
 - Brandon: PipeGen: Automatic Generation of Data Pipes for Hybrid Analytics
