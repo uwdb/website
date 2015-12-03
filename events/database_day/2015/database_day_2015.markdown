@@ -45,7 +45,7 @@ Host: [Magda](http://www.cs.washington.edu/people/faculty/magda)
 #### 1:10am: PLDB
 Host: [Alvin](http://homes.cs.washington.edu/~akcheung/) [(slides)](slides/pldb.pdf)
 
-- [Cong](http://homes.cs.washington.edu/~congy/): Leveraging Lock Contention to Improve Transaction Application Performance [(paper to appear)](http://people.csail.mit.edu/congy/papers/vldb16_reorder.pdf)
+- [Cong](http://homes.cs.washington.edu/~congy/): Leveraging Lock Contention to Improve Transaction Application Performance [(paper to appear)](http://people.csail.mit.edu/congy/papers/vldb16_reorder.pdf) [(slides)](slides/query_reorder.pdf)
 - [Maaz](http://homes.cs.washington.edu/~maazsaf/): Translating Sequential Java Programs to MapReduce Using Verified Lifting
 
 #### 2:00pm: Break
