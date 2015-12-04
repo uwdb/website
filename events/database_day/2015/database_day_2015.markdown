@@ -32,8 +32,8 @@ Host: [Dan](https://homes.cs.washington.edu/~suciu/)
 
 #### 10:10am: Break
 
-#### 10:25am: [Systems](slides/uwdb-day-2015-magda.pdf)
-Host: [Magda](http://www.cs.washington.edu/people/faculty/magda)
+#### 10:25am: Systems
+Host: [Magda](http://www.cs.washington.edu/people/faculty/magda) [(slides)](slides/uwdb-day-2015-magda.pdf)
 
 - [Jingjing](https://homes.cs.washington.edu/~jwang/): Asynchronous and Fault-Tolerant Recursive Datalog Evaluation in Shared-Nothing Engines [(paper)](https://homes.cs.washington.edu/~jwang/publications/p2317-wang.pdf) [(slides)](slides/recursive_dbday.pdf)
 - Brandon: PipeGen: Automatic Generation of Data Pipes for Hybrid Analytics
@@ -50,8 +50,8 @@ Host: [Alvin](http://homes.cs.washington.edu/~akcheung/) [(slides)](slides/pldb.
 
 #### 2:00pm: Break
 
-#### 2:15pm: [User-facing systems](https://homes.cs.washington.edu/~bdmyers/papers/myers_dbday_15_user_facing_intro.pdf)
-Host: [Brandon Myers](https://homes.cs.washington.edu/~bdmyers/)
+#### 2:15pm: User-facing systems
+Host: [Brandon Myers](https://homes.cs.washington.edu/~bdmyers/) [(slides)](https://homes.cs.washington.edu/~bdmyers/papers/myers_dbday_15_user_facing_intro.pdf)
 
 - [Brandon](https://homes.cs.washington.edu/~bdmyers/): Query processing for parallel languages [(slides)](https://homes.cs.washington.edu/~bdmyers/papers/myers_dbday15.pdf)
 - [Shrainik](https://homes.cs.washington.edu/~shrainik): SQLShare: Results from a Multi-Year SQL-as-a-Service Experiment [(paper to appear)](https://www.dropbox.com/s/835qvwhbclfuacw/paper.pdf?dl=0) [(slides)](https://www.dropbox.com/s/0ehbwqi8o20md5b/sqlshare.pdf?dl=0)
