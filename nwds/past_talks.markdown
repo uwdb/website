@@ -7,6 +7,55 @@ id: "nwds_past_talks"
 
 #  Past Talks
 
+<a name="yannis_papakonstantinou_12_11_15"></a>
+**Speaker**: [Yannis Papakonstantinou](http://db.ucsd.edu/People/yannis.htm), UCSD
+
+**Title**: The FORWARD declarative visualization and application framework and its
+SQL++ integration language
+
+**Where**: University of Washington, Seattle.  
+Computer Science and Engineering Department.  
+Paul Allen Center, Database Lab, CSE 405.  
+
+**When**: Friday, December 11, 2015, 2:30pm - 3:20pm.
+
+
+**Abstract**:  
+Building a visualization or (even) a basic application requires the
+integration of many languages and technologies. The programmer often
+needs SQL to integrate the database, HTML and Javascript for the
+browser-side interactions and yet another programming language (e.g.
+Java) for the server-side business logic. The data source variety of the
+Big Data era often accentuated the data integration pains
+with the advance of NoSQL (typically JSON-modeled) databases with
+idiomatic languages.
+
+The FORWARD framework and its SQL++ language require only SQL,
+declarative querying fluency. Then one can build live visualizations and
+applications using simply SQL++ and markup, where the markup includes
+visualization units that are essentially wrappers of third-party JS
+components. While the framework makes easy things easy, it also makes
+hard things possible by allowing the pay-as-you-go introduction of
+JS-based visualizations, which are not already captured by the
+out-of-the-box markup, and/or also allowing complex application logic.
+The framework automatically compensates for the limitations that certain
+components and wrappers may have with respect to live visualizations.
+
+We overview the SQL++ semi-structured data model, which bridges JSON and
+the SQL data model. The SQL++ query language is backwards compatible
+with SQL, while supporting native JSON. SQL++ includes configuration
+options that describe different options of language semantics and
+formally capture the variations of existing database languages/systems.
+We exhibit the virtues of the declarative visualization and app
+development approach by showing how FORWARD provides live visualizations
+by treating page templates as rendered SQL++ views and appropriately
+uses incremental view maintenance and incremental rendering techniques
+to deliver efficient live visualization.
+
+Finally, we briefly comment on recent advances in the adoption of SQL++
+by two NoSQL databases and next steps for FORWARD and SQL++.
+
+* * *
 <a name="sailesh_krishnamurthy_11_13_15"></a>
 **Speaker**: [Sailesh Krishnamurthy](http://sites.google.com/site/sailesh/), Amazon
 
