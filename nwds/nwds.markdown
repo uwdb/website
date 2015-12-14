@@ -24,11 +24,14 @@ ___
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
 
+#### Fall 2015
 *   Yannis Papakonstantinou, UCSD [[abstract](past_talks.html#yannis_papakonstantinou_12_11_15)] [[video](https://www.youtube.com/watch?v=SXsEAa4xxxI)]
 *   Sailesh Krishnamurthy, Amazon [[abstract](past_talks.html#sailesh_krishnamurthy_11_13_15)] [[video](https://www.youtube.com/watch?v=uW3-WGc0wPo)]
 *   Mehul Shah, Amazon [[abstract](past_talks.html#mehul_shah_10_23_15)]
 *   Daniel von Dincklage, Google [[abstract](past_talks.html#daniel_von_dincklage_10_09_15)] [[video](https://www.youtube.com/watch?v=SP9zS43FRzQ)]
 *   Jennie Duggan, Northwestern University [[abstract](past_talks.html#jennie_duggan_10_02_15)] [[selected slides](http://nwds.cs.washington.edu/files/nwds/pdf/nwds-2015-10-02-Duggan-virtual-experiments.pdf)]
+
+#### Earlier talks
 *   Atri Rudra, University of Buffalo [[abstract](past_talks.html#atri_rudra_06_29_15)]
 *   Anant Bhardwaj, MIT [[abstract](past_talks.html#anant_bhardwaj_01_19_15)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/anantb-datahub-talk.pdf)]
 *   Barzan Mozafari, University of Michigan [[abstract](past_talks.html#barzan_mozafari_11_22_13)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/UW-Google-published.pdf)]
