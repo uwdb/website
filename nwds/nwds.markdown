@@ -94,7 +94,7 @@ ___
 
 ## Mailing List
 
-Please sign up for the nwds mailing list [here](http://mailman.cs.washington.edu/csenetid/auth/mailman/listinfo/nwds). We
+Please sign up for the nwds mailing list [here](http://mailman.cs.washington.edu/mailman/listinfo/nwds). We
 use this list primarily to send announcements for upcoming events. After you register, you can send mail to that list at nwds at cs.washington.edu.
 
 To become a member, please contact [Magda](http://www.cs.washington.edu/homes/magda/) or [Alvin](http://www.cs.washington.edu/homes/akcheung/).
