@@ -7,6 +7,48 @@ id: "nwds_past_talks"
 
 #  Past Talks
 
+<a name="sudipta_sengupta_01_29_16"></a>
+**Speaker**: [Dr. Sudipta Sengupta](http://research.microsoft.com/en-us/um/people/sudipta/), Microsoft Research
+
+**Title**: The Bw-Tree Key-Value Store: From Research to Production
+
+**Where**: University of Washington, Seattle.  
+Computer Science and Engineering Department.  
+Paul Allen Center, CSE 305.  
+
+**When**: Friday, January 29, 2015, 1:30pm - 2:20pm.
+
+**Abstract**:  The Bw-Tree is an ordered key-value store, built by layering a B-tree 
+form access method over a cache/storage sub-system (LLAMA) that is 
+lock-free and organizes storage in a log-structured manner. It is 
+designed to optimize performance on modern hardware, specifically (i) 
+multi-core processors with multi-level memory/cache hierarchy, and (ii) 
+flash memory based SSDs with fast random reads (but inefficient random 
+write performance). The lock-free property ensures that threads do not 
+block and readers do not conflict with writers, thus supporting a high 
+degree of concurrency. The log-structured storage organization is 
+designed to work around inefficient random write performance on flash 
+and is suitable for hard disks as well. Bw-Tree avoids “in-place 
+updates” by prepending delta records to pages that describe page updates 
+logically -- this harvests benefits across both memory and flash by (a) 
+reducing cache invalidation in memory hierarchy, and (b) reducing write 
+amplification on flash. Bw-Tree delivers sustained rapid writes by 
+utilizing full storage write bandwidth through blind updates (i.e., 
+writes are not slowed down by reads). It also provides first class 
+support for flexible resource governance and rate limiting in a 
+multi-tenant cloud setting.
+
+The Bw-Tree is shipping in three of Microsoft’s server/cloud products – 
+as the key sequential index in SQL Server Hekaton (main memory 
+database), as the indexing engine inside Azure DocumentDB (distributed 
+document-oriented store), and as an ordered key-value store in Bing 
+ObjectStore (distributed storage backend supporting multiple properties 
+in Bing).
+
+This is joint work with Justin Levandoski and David Lomet at Microsoft 
+Research.
+
+* * *
 <a name="yannis_papakonstantinou_12_11_15"></a>
 **Speaker**: [Yannis Papakonstantinou](http://db.ucsd.edu/People/yannis.htm), UCSD
 
