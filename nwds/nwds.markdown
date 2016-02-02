@@ -16,84 +16,14 @@ ___
 
 ##  Upcoming Talks 
 
-TITLE: 
-The Bw-Tree Key-Value Store: From Research to Production
-
-SPEAKER: 
-Dr. Sudipta Sengupta, Microsoft Research
-
-LOCATION:
-University of Washington, Seattle.
-Computer Science and Engineering Department.
-Paul Allen Center, Database Lab, CSE 405.
-
-DATE and TIME:
-Friday, January 29, 2015
-1:30pm - 2:20pm.
-
-ABSTRACT:
-The Bw-Tree is an ordered key-value store, built by layering a B-tree 
-form access method over a cache/storage sub-system (LLAMA) that is 
-lock-free and organizes storage in a log-structured manner. It is 
-designed to optimize performance on modern hardware, specifically (i) 
-multi-core processors with multi-level memory/cache hierarchy, and (ii) 
-flash memory based SSDs with fast random reads (but inefficient random 
-write performance). The lock-free property ensures that threads do not 
-block and readers do not conflict with writers, thus supporting a high 
-degree of concurrency. The log-structured storage organization is 
-designed to work around inefficient random write performance on flash 
-and is suitable for hard disks as well. Bw-Tree avoids “in-place 
-updates” by prepending delta records to pages that describe page updates 
-logically -- this harvests benefits across both memory and flash by (a) 
-reducing cache invalidation in memory hierarchy, and (b) reducing write 
-amplification on flash. Bw-Tree delivers sustained rapid writes by 
-utilizing full storage write bandwidth through blind updates (i.e., 
-writes are not slowed down by reads). It also provides first class 
-support for flexible resource governance and rate limiting in a 
-multi-tenant cloud setting.
-
-The Bw-Tree is shipping in three of Microsoft’s server/cloud products – 
-as the key sequential index in SQL Server Hekaton (main memory 
-database), as the indexing engine inside Azure DocumentDB (distributed 
-document-oriented store), and as an ordered key-value store in Bing 
-ObjectStore (distributed storage backend supporting multiple properties 
-in Bing).
-
-This is joint work with Justin Levandoski and David Lomet at Microsoft 
-Research.
-
-SPEAKER BIO:
-Dr. Sudipta Sengupta is Principal Research Scientist at Microsoft 
-Research, where his work over the last nine years has spanned 
-non-volatile memory based systems, data deduplication, storage 
-virtualization, data center networking, and peer-to-peer systems. His 
-work on flash memory based key-value stores ships in SQL Server Hekaton, 
-Azure DocumentDB, and Bing ObjectStore. His research on data 
-deduplication has been incorporated into the new primary data 
-deduplication feature in Windows Server 2012. He designed the network 
-topology and routing algorithms for VL2, a modern data center network 
-that introduced foundational ideas that have since been adopted across 
-the cloud computing industry. Previously, Dr. Sengupta spent five years 
-at Bell Laboratories, the Research Division of Lucent Technologies.
-
-Dr. Sengupta was awarded the IEEE William R. Bennett Prize and the IEEE 
-Leonard G. Abraham Prize for his work on oblivious routing of network 
-traffic. At Microsoft, he received the Gold Star Award for excellence in 
-leadership and contributions for Microsoft's long term success and the 
-Microsoft Research Technology Transfer Award for shipping research ideas 
-into Microsoft's products and services. At Bell Labs, he received the 
-President's Teamwork Achievement Award for technology transfer of 
-research into Lucent products. Dr. Sengupta is an IEEE Fellow and an ACM 
-Distinguished Scientist. He received a Ph.D. and an M.S. from MIT 
-(Cambridge, USA) and a B.Tech. from IIT-Kanpur (India), all in Computer 
-Science. He was awarded the President of India Gold Medal at IIT-Kanpur 
-for graduating at the top of his class across all disciplines.
-
 ___
 
 ## Past Talks
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
+
+#### Winter 2016
+*   Dr. Sudipta Sengupta, Microsoft Research [[abstract](past_talks.html#sudipta_sengupta_01_29_16)] [[video](https://www.youtube.com/watch?v=Pr-b9stpAV4&feature=youtu.be)]
 
 #### Fall 2015
 *   Yannis Papakonstantinou, UCSD [[abstract](past_talks.html#yannis_papakonstantinou_12_11_15)] [[video](https://www.youtube.com/watch?v=SXsEAa4xxxI)]
