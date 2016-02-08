@@ -53,11 +53,11 @@ The University of Washington's database group aims at broadening the focus of da
     <img src="{{ site.baseurl }}/images/google_logo.png" class="img-thumbnail">
     </a>
 
-    <a href="https://www.yahoo.com/">
-    <img src="{{ site.baseurl }}/images/yahoo_logo.png" class="img-thumbnail">
-    </a>
-
     <a href="https://www.facebook.com/">
     <img src="{{ site.baseurl }}/images/facebook.png" class="img-thumbnail">
+    </a>
+
+    <a href="https://www.yahoo.com/">
+    <img src="{{ site.baseurl }}/images/yahoo_logo.png" class="img-thumbnail">
     </a>
 </div>
