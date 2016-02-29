@@ -15,7 +15,43 @@ One of our main activities is a talk series with a variety of distinguished spea
 ___
 
 ##  Upcoming Talks 
+<p><a name="fatma_ozcan_03_4_16"></a>
+<strong>Speaker</strong>: <a href="http://researcher.ibm.com/researcher/view.php?person=us-fozcan">Dr. Fatma Ozcan</a>, IBM Almaden Research Center</p>
 
+<p><strong>Title</strong>: SQL Processing in Cognitive and Large-Scale Analytical Platforms</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: Friday, March 4, 2016, 1:30pm - 2:20pm.</p>
+
+<p><strong>Abstract</strong>:  
+
+<p>
+A set of applications, such as mobile commerce, IoT, cognitive and 
+Internet applications, have given rise to a new class of analytical 
+platforms in the enterprise. These new platforms are built on scale-out 
+computing frameworks, such as Hadoop and Spark, and are polymorphic, 
+supporting multiple processing engines, which all share access to a 
+common storage, holding massive volumes of data.
+</p>
+
+<p>
+In this talk, we will examine the role of SQL data processing in these 
+new platforms. After a decade of noSQL systems, SQL continues to play a 
+significant role in the overall analytics landscape. We will start with 
+Big SQL, an SQL query processing engine over HDFS data. Then, we will 
+discuss the challenges in sharing the data, and present an architecture 
+which provides a set of common services that can be leveraged by all the 
+engines. One such service is access to all data in the enterprise, via a 
+data virtualization layer. We have implemented a data virtualization 
+solution that leverages Spark and the data sources APIs. Finally, we 
+will describe how we use an SQL engine to answer OLAP-style natural 
+language queries over a knowledge base that was synthesized from 
+unstructured and structured data sources.
+</p>
+</p>
 ___
 
 ## Past Talks
