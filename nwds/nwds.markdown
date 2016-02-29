@@ -16,7 +16,7 @@ ___
 
 ##  Upcoming Talks 
 <p><a name="fatma_ozcan_03_4_16"></a>
-<strong>Speaker</strong>: <a href="http://researcher.ibm.com/researcher/view.php?person=us-fozcan">Dr. Fatma Ozcan</a>, IBM Almaden Research Center</p>
+<strong>Speaker</strong>: <a href="http://researcher.ibm.com/researcher/view.php?person=us-fozcan">Dr. Fatma Özcan</a>, IBM Almaden Research Center</p>
 
 <p><strong>Title</strong>: SQL Processing in Cognitive and Large-Scale Analytical Platforms</p>
 
