@@ -16,7 +16,7 @@ id: "nwds_past_talks"
 Computer Science and Engineering Department.  
 Paul Allen Center, CSE 305.  
 
-**When**: Friday, January 29, 2015, 1:30pm - 2:20pm.
+**When**: Friday, January 29, 2016, 1:30pm - 2:20pm.
 
 **Abstract**:  The Bw-Tree is an ordered key-value store, built by layering a B-tree 
 form access method over a cache/storage sub-system (LLAMA) that is 
