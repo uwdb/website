@@ -16,7 +16,7 @@ ___
 
 ##  Upcoming Talks
 <p><a name="daisy_wang_05_16_16"></a>
-<strong>Speaker</strong>: Daisy Zhe Wang, IBM Almaden Research Center</p>
+<strong>Speaker</strong>: <a href="http://dsr.cise.ufl.edu/daisyw/">Daisy Zhe Wang</a>, UFL</p>
 
 <p><strong>Title</strong>: TBD</p>
 
@@ -29,8 +29,9 @@ Paul Allen Center, CSE 305.  </p>
 <p><strong>Abstract</strong>:  TBD
 </p>
 
+
 <p><a name="xin_dong_03_31_16"></a>
-<strong>Speaker</strong>: Xin Luna Dong, Google</p>
+<strong>Speaker</strong>: <a href="http://lunadong.com/">Xin Luna Dong</a>, Google</p>
 
 <p><strong>Title</strong>: TBD</p>
 
@@ -42,6 +43,7 @@ Paul Allen Center, CSE 305.  </p>
 
 <p><strong>Abstract</strong>:  TBD
 </p>
+
 
 <p><a name="fatma_ozcan_03_4_16"></a>
 <strong>Speaker</strong>: <a href="http://researcher.ibm.com/researcher/view.php?person=us-fozcan">Dr. Fatma Özcan</a>, IBM Almaden Research Center</p>
