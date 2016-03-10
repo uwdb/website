@@ -14,7 +14,35 @@ One of our main activities is a talk series with a variety of distinguished spea
 
 ___
 
-##  Upcoming Talks 
+##  Upcoming Talks
+<p><a name="daisy_wang_05_16_16"></a>
+<strong>Speaker</strong>: Daisy Zhe Wang, IBM Almaden Research Center</p>
+
+<p><strong>Title</strong>: TBD</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: Monday, May 16, 2016, 3:30pm - 4:30pm.</p>
+
+<p><strong>Abstract</strong>:  TBD
+</p>
+
+<p><a name="xin_dong_03_31_16"></a>
+<strong>Speaker</strong>: Xin Luna Dong, Google</p>
+
+<p><strong>Title</strong>: TBD</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: Thursday, March 31, 2016, 1:30pm - 2:20pm.</p>
+
+<p><strong>Abstract</strong>:  TBD
+</p>
+
 <p><a name="fatma_ozcan_03_4_16"></a>
 <strong>Speaker</strong>: <a href="http://researcher.ibm.com/researcher/view.php?person=us-fozcan">Dr. Fatma Özcan</a>, IBM Almaden Research Center</p>
 
