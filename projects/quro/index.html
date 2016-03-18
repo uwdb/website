@@ -1,0 +1,243 @@
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+		QURO
+    
+  </title>
+<!-- CSS -->
+  <link rel="stylesheet" href="css/poole.css">
+  <link rel="stylesheet" href="css/syntax.css">
+  <link rel="stylesheet" href="css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="atom.xml">
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-68146500-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+  
+</head>
+
+	<body>
+		<div class="sidebar">
+			<div class="container sidebar-sticky">
+				<div class="sidebar-about">
+					<img src="qurofig.jpg" style="width:480px">
+					<h2> 
+						<a href="/">QURO</a> 
+					</h2>
+					<p>QURO is a query-aware compiler that automatically reorders
+queries in database transactions to improve application performance.</p>
+					<span stype="color:#ffffff">
+					</span>
+				</div>
+				<nav class="sidebar-nav">
+					<font size="3">Papers:<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/vldb16_reorder.pdf">Leveraging Lock Contention to Improve OLTP Application
+Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reorder_techreport.pdf">techreport (include proof and algorithm details)</a>]
+					<br>Download:<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_test.tar">Full virtual machine</a>
+					<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_lighter.ova">Lighter virtual machine</a>
+				</font>
+				</nav>
+			</div>
+		</div>
+	
+		<div class="content container">
+			<h1>Quro</h1>
+			<br>
+			<p>
+			This is the project webpage for Quro, a query-aware compiler that automatically reorders
+			queries in database transactions to improve application performance.
+			</p>
+			<p>
+			On this page we provide instructions to run the experiments included in our VLDB 16 
+			paper, along with link to the Quro source code.
+			</p>
+			
+			<p>
+			Contact <a href="mailto:congy@cs.washington.edu">the authors</a> if you have any comments about Quro.
+			</p>
+				
+			<li><font size="4.5"><b>Logging on to the <a href="http://homes.cs.washington.edu/~congy/quro_lighter.ova">Quro virtual machine</a></b></font>
+			<font size="3.5">
+			<br>
+			<ol>
+			<li>Make sure virtualbox is installed.
+			<li>Start the VM:
+			<ul style="list-style-type:disc">
+			<li>Open virtualbox gui;
+			<li>Import the VM: File->Import Appliance, then choose the downloaded ova file to import;
+			<li>Start the VM:
+			<ul style="list-style-type:disc">
+			<br>Username: quro
+			<br>Password: qurotest
+			</ul>
+			</ul>
+			</ol>
+			</font>
+
+			<li> <font size="4.5"><b>What’s in the VM?</b></font>
+			<font size="3.5">
+			<br>
+      <ul style="list-style-type:disc">
+			<li>The benchmarks (both original and QURO-generated implementations) evaluated in the paper. (<a href="https://github.com/uwdb/quro/blob/master/quro_experiments/code/">source code on github</a>)
+			<br><li>QURO built with clang libtool. (<a href="https://github.com/uwdb/quro/tree/master/quro/code">source code on github</a>)
+			<br><li>A database (forked from <a href="https://github.com/yxymit/DBx1000.git">DBx1000</a>) and TPC-C benchmark to evaluate the performance of different concurrency control schemes. (<a href="https://github.com/yxymit/DBx1000.git">source code on github</a>)
+			<li>MySQL 5.5 database server. To check out the configurations for the server:
+			<br><code>quro@ubuntu:~$ vi ~/.my.cnf</code>
+			</ul>
+			</font>
+	
+			<font size="4.5">
+			<br>Following are brief instructions to run each code with basic settings. For more detailed instructions, go to <a href="http://uwdb.github.io/quro/detailed_instr">detailed instructions</a> or checkout the "<i>QURO_readme</i>" file under each code repository.</font>
+			<br><br>
+
+			<li> <font size="4.5"><b>Reproducing the evaluation:</b></font>
+			<font size="3.5">
+			<br>
+			<ol>
+			<li>Start MySQL server:
+			<ul style="list-style-type:circle">
+			<li><code>quro@ubuntu:~$ cd ~/mysql-5.5/mysql-5.5.45-linux2.6-x86_64/support-files</code>
+			<li><code>quro@ubuntu:mysql-5.5/mysql-5.5.45-linux2.6-x86_64/support-files$ ./mysql.server restart</code>
+			</ul>
+
+			<li><code>quro@ubuntu:~$ cd dbt5</code>
+
+			<li>Configure the benchmark:
+			<ul style="list-style-type:circle">
+			<li><code>quro@ubuntu:dbt5$ vi src/include/{BENCHMARK}_const.h</code>
+			<li>The configuration for each experiment, such as the mix of different types of transactions. Options for BENCHMARK include: <b>TPCC, TPCE, BID</b>.
+			<li>To use the reordered implementation, add "<i>#define QURO</i>" to the {BENCHMARK}_const.h file.
+			</ul>
+			<li>Compile:
+			<ul stype="list-stype-type:circle">
+			<li>Use the script make_command.sh [BENCHMARK]. For example:
+			<br><code>quro@ubuntu:dbt5$ ./make_command.sh TPCC</code>
+			</ul>
+			<li>Build the data base:
+			<br>In the full VM, the databases for all benchmarks have already been created. In the lighter VM, you should create the database before running the experiments.
+			<br>To create the database:
+			<ul stype="list-stype-type:circle">
+			<li><code>quro@ubuntu:dbt5$ cd scripts/mysql</code>
+			<li>TPCC: <code>quro@ubuntu:scripts$ ./tpcc-mysql-build-db</code>
+			<li>TPCE: <code>quro@ubuntu:scripts$ mkdir ~/DBT5_EGEN_DATA</code><br>
+								<code>quro@ubuntu:scripts$ ./dbt5-mysql-build-db -c 1000 -t 1000 -s 500 -w 5</code>
+			<li>BID: <code>quro@ubuntu:scripts$ mkdir ~/BID_DATA</code><br>
+							 <code>quro@ubuntu:scripts$ ./bid_datagen</code><br>
+							 <code>quro@ubuntu:scripts$ ./bid-mysql-build-db</code>
+			</ul>
+			<br>
+			<li>Run:
+			<br>Scripts are provided to run the benchmarks on varying number of server connections, from 1 to 64. For TPC-C, the script runs the application on 4 warehouses. For TPC-E, the script runs on 1000 customers, 5 trade days and scale-factor 500. For Bidding, the script runs on 4 items. To use these scripts:
+			<ul stype="list-stype-type:circle">
+			<li><code>quro@ubuntu:dbt5$ cd scripts</code>
+			<li><code>quro@ubuntu:scripts$ ./autorun_{BENCHMARK}.sh ${TXN_NAME} ${IMPLEMENTATION}</code>
+			<br>For example: <code>quro@ubuntu:scripts$ ./autorun_tpcc.sh payment original</code>
+			<br>or <code>quro@ubuntu:scripts$ ./autorun_tpcc.sh neworder reorder</code>
+			<br> Specify these two arguments according to the configurations set in the header file in step 3. 
+			</ul>
+			The autorun script also accepts the number of connections to run as argument, separated by blank. For example,
+			<br><code>quro@ubuntu:scripts$ ./autorun_tpcc.sh payment original 4 8</code>
+			<br>then the script will run tpcc benchmark on 4 server connections and then 8 connections.
+			<font size="3">
+			<br><br>Results will be saved in ~/results/{BENCHMARK}_{CONFIGURATIONS}/. CONFIGURATIONS include transaction name and implementation type (as specified in the arguements), number of server threads, total running time, etc. Under the directory, the performance related data (number of commits/aborts, total running time for each thread, etc) can be found in ${BENCHMARK}/${BENCHMARK}.out.
+			<br><br>For a single configuration, the application will be running for 5 min, and then sleep for 2 min to wait for file writing and data collecting. So the autorun script should be expected to finish running in 49 min. 
+			<br>If you wish to run only a different benchmark configuration, go to <a href="http://uwdb.github.io/quro/detailed_instr">detailed instructions</a> for more details.
+			</font>
+			</ol>
+			</font>
+
+			<li> <font size="4.5"><b>Running QURO to reorder queries:</b></font>
+			<font size="3.5">
+			<br>
+			<ol>
+			<li><code>quro@ubuntu:~$ cd ~/llvm/test/</code>
+      <li><code>quro@ubuntu:test$ ./quro_reorder.sh ${TRANSACTION}</code>
+			<br>Options for ${TRANSACTION} include <b>payment, neworder, bid</b>.
+			<br>The reordered transaction code will be in <i>output.cpp</i> under the same directory where you run the quro_reorder script.
+ 			<ul stype="list-stype-type:circle"></ul>
+			<li>Connecting to external ILP solvers is still under construction. The version of Quro on the provided VM uses a simple heuristic to reorder all statements instead of using an ILP solver, but it can generate input for ILP solver and let it compute the final order of queries/units. To use the external ILP solver, 
+		 	<br>checkout <code>~/lpsolver/lp_solve_5.5/quro/QURO_readme</code> for instructions to run lpsolver, or
+			<br>checkout <code>~/gurobi/QURO_readme</code> for instructions to run gurobi.
+			</ol>
+			</font>
+
+			<li> <font size="4.5"><b>Comparing to other concurrency control schemes:</b></font>
+			<font size="3.5">
+			<br>
+			<ol>
+			<li><code>quro@ubuntu:~$ cd DBx1000/</code>
+			<li>Configure the database:
+			<ul stype="list-stype-type:circle">
+			<li><code>quro@ubuntu:DBx1000$ vi config.h</code>
+			<br>To specify concurrency control schemes, update"<i>#define CC_ALG {ALGORITHM}</i>", options for ALGORITHM includes <b>WAIT_DIE, DL_DETECT, MVCC, OCC</b>.
+			<br>To specify the total number of transactions to run for each thread, update"<i>#define MAX_TXN_PER_PART</i>"
+			<br>To specify the number of database client, update "<i>#define THREAD_CNT</i>"
+			<li>For original implementation under 2PL, beside using WAIT_DIE or DL_DETECT for concurrency control scheme, using the original transaction requires:
+			<br><code>quro@ubuntu:DBx1000$ cp temp_transaction_file/tpcc_txn.cpp benchmarks/tpcc_txn.cpp</code>
+			<li>For reordered implementation under 2PL, beside using WAIT_DIE or DL_DELTECT for concurrency control scheme, using the reordered transaction requires:
+			<br><code>quro@ubuntu:DBx1000$ cp temp_transaction_file/reorder_tpcc_txn.cpp benchmarks/tpcc_txn.cpp</code>
+			</ul>
+			<li>Compile:
+			<code>quro@ubuntu:DBx1000$ make</code>
+			<li>Run:
+			<code>quro@ubuntu:DBx1000$ ./rundb</code>
+			<br>The total running time and breakdown for all threads will be printed out after transactions finish running.
+			</ol>
+			</font>
+		
+	<!--
+			<li> <font size="5"><b>To run the experiments in section 6:</b></font>
+			<font size="4">
+			<br><p>$ cd $HOME/dbt5/
+			<br>Follow the instructions in <a href="https://github.com/uwdb/quro/blob/master/quro_experiments/code/QURO_readme">QURO_readme</a>
+			<br><br><font size="3" color="blue"><a href="https://github.com/uwdb/quro/blob/master/quro_experiments/code/">Get the source code</a></font>
+			</p></font>
+			<br>
+			
+			<li> <font size="5"><b>To run OCC comparison experiments in section 6.7:</b></font>
+			<font size="4"><p>$ cd $HOME/DBx1000
+			<br>Follow the insructions in <a href="https://github.com/uwdb/quro/blob/master/DBx1000/code/QURO_readme">QURO_readme</a>
+			<br><br><font size="3" color="blue"><a href="https://github.com/uwdb/quro/blob/master/DBx1000/code">Get the source code</a></font>
+			</p></font>
+			<br>
+
+			<li> <font size="5"><b>To use Quro to reorder transaction code:</b></font>
+			<font size="4"><p>$ cd $HOME/llvm/test
+				<br>$ quro simple_BENCHMARK.cpp --
+				<br>The output source file will be output.cpp.
+				<br>Source code of QURO is in $HOME/llvm/llvm/tools/clang/tools/quro.
+				<br><br><font size="3" color="blue"><a href="https://github.com/uwdb/quro/tree/master/quro/code">Get the source code</a></font>
+
+				<br><br>Connecting to external ILP solvers is still under construction. The version of Quro on the provided VM uses a simple heuristic to reorder all statements instead of using an ILP solver, but it can generate input for ILP solver and let it compute the final order of queries/units. More details can be found in <a href="https://github.com/uwdb/quro/blob/master/quro/code/README.md">README.md</a>.
+				<br><br>To know more about how to run the ILP solver to produce order results:
+				<br>Checkout $HOME/lpsolver/lp_solve_5.5/quro/<a href="https://github.com/uwdb/quro/blob/master/ILPsolvers/code/lp_solve_5.5/QURO_readme">QURO_readme</a>
+				<br>Checkout $HOME/gurobi/<a href="https://github.com/uwdb/quro/blob/master/ILPsolvers/code/gurobi/QURO_readme">QURO_readme</a>
+				<br><br><font size="3" color="blue"><a href="https://github.com/uwdb/quro/tree/master/ILPsolvers/code">Get the source code</a></font>
+			</p></font>-->
+
+
+		</div>
+	</body>
+
+</html>
