@@ -7,4 +7,5 @@
 {% include project name="Causality in Databases" caption="Applying causal reasoning in databases" image="causality.png" link="http://people.cs.umass.edu/~ameli/projects/causality" %}
 {% include project name="UW Branch of SciDB" caption="Parallel distributed array database engine" image="scidb.png" link="http://scidb.cs.washington.edu/" %}
 {% include project name="Data Eco$y$tem" caption="Data management and pricing in the cloud" image="data-ecosystem.png" link="http://cloud-data-pricing.cs.washington.edu/" %}
+{% include project name="QURO" caption="Query reordering in OLTP transactions" image="quro.jpg" link="http://db.cs.washington.edu/projects/quro" %}
 </div>
