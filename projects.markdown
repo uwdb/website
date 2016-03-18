@@ -16,6 +16,7 @@ id: "projects"
 * [CQMS](http://cqms.cs.washington.edu/CQMS.html) Collaborative Query Management System
 * [Nuage]({{ site.baseurl }}/projects/nuage/) Data-intensive scalable computing
 * [QueryViz](http://queryviz.com) Visualizing SQL queries
+* [QURO](http://db.cs.washington.edu/projects/quro) Query reordering for transactions
 
 ## Past Projects
 
