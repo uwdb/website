@@ -148,7 +148,7 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			</ul>
 			<br>
 			<li>Run:
-			<br>Scripts are provided to run the benchmarks on varying number of server connections, from 1 to 64. For TPC-C, the script runs the application on 4 warehouses. For TPC-E, the script runs on 1000 customers, 5 trade days and scale-factor 500. For Bidding, the script runs on 4 items. To use these scripts:
+			<br>Scripts are provided to run the benchmarks on varying number of server connections, from 1 to 64. For TPC-C, the script runs the application on 1 warehouse. For TPC-E, the script runs on 1000 customers, 5 trade days and scale-factor 500. For Bidding, the script runs on 4 items. To use these scripts:
 			<ul stype="list-stype-type:circle">
 			<li><code>quro@ubuntu:dbt5$ cd scripts</code>
 			<li><code>quro@ubuntu:scripts$ ./autorun_{BENCHMARK}.sh ${TXN_NAME} ${IMPLEMENTATION}</code>
@@ -163,6 +163,10 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			<br><br>Results will be saved in ~/results/{BENCHMARK}_{CONFIGURATIONS}/. CONFIGURATIONS include transaction name and implementation type (as specified in the arguements), number of server threads, total running time, etc. Under the directory, the performance related data (number of commits/aborts, total running time for each thread, etc) can be found in ${BENCHMARK}/${BENCHMARK}.out.
 			<br><br>For a single configuration, the application will be running for 5 min, and then sleep for 2 min to wait for file writing and data collecting. So the autorun script should be expected to finish running in 49 min. 
 			<br>If you wish to run only a different benchmark configuration, go to <a href="http://db.cs.washington.edu/projects/quro/detailed_instr">detailed instructions</a> for more details.
+
+			<br><br><b>What to expect:</b> The lighter VM is expected to run on 16 processors and 32GB memory. The lack of computational resources will largely affect the results. Since the database and the clients are running on the same machine, it would be better to run experiments with no more than 8 clients ( which means 8 database connections). For TPC-C benchmark, when running 4 clients ( 4 database connections) on payment transaction, reordering should have ~2x throughput comparing to the original implementation.
+			<br>To get the numbers showed in the paper, a large mahine is required. Welcome to run the experiments on your own machine and compare the numbers. 		
+
 			</font>
 			</ol>
 			</font>

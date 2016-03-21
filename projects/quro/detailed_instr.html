@@ -169,7 +169,7 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			</ul>
 
 			<li>Run:
-			<br>Scripts are provided to run the benchmarks on varying number of server threads, from 1 to 128. For TPC-C, the script runs the application on 4 warehouses. For TPC-E, the script runs on 1000 customers, 5 trade days and scale-factor 500. For Bidding, the script runs on 4 items. To use these scripts:
+			<br>Scripts are provided to run the benchmarks on varying number of server threads, from 1 to 128. For TPC-C, the script runs the application on 1 warehouse. For TPC-E, the script runs on 1000 customers, 5 trade days and scale-factor 500. For Bidding, the script runs on 4 items. To use these scripts:
 			<ul stype="list-stype-type:circle">
 			<li><code>quro@ubuntu:dbt5$ cd scripts</code>
 			<li><code>quro@ubuntu:scripts$ ./autorun_{BENCHMARK}.sh ${TXN_NAME} ${IMPLEMENTATION}</code>
@@ -200,7 +200,9 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			</ul>
 			</font>	
 
-			<li>Since the VM has different hardware settings as in the paper, the results may be different from what the paper presents. Please feel free to setup the experiments on local machines and test the performance.
+			<li><b>What to expect:</b> The lighter VM is expected to run on 16 processors and 32GB memory. The lack of computational resources will largely affect the results. Since the database and the clients are running on the same machine, it would be better to run experiments with no more than 8 clients ( which means 8 database connections). For TPC-C benchmark, when running 4 clients ( 4 database connections) on payment transaction, reordering should have ~2x throughput comparing to the original implementation.
+			<br>To get the numbers showed in the paper, a large mahine is required. Welcome to run the experiments on your own machine and compare the numbers.
+
 			</ol>
 			</font>
 
