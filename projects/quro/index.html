@@ -53,7 +53,7 @@ queries in database transactions to improve application performance.</p>
 				</div>
 				<nav class="sidebar-nav">
 					<font size="3">Papers:<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/vldb16_reorder.pdf">Leveraging Lock Contention to Improve OLTP Application
-Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reorder_techreport.pdf">techreport (include proof and algorithm details)</a>]
+Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reorder_techreport.pdf">tech report (include algorithm details)</a>]
 					<br>Download:<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_test.ova">Full virtual machine</a>
 					<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_lighter.ova">Lighter virtual machine</a>
 				</font>
@@ -82,15 +82,10 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			<br>
 			<ol>
 			<li>Make sure virtualbox is installed.
-			<li>Start the VM:
+			<li>Import and start the VM:
 			<ul style="list-style-type:disc">
-			<li>Open virtualbox gui;
-			<li>Import the VM: File->Import Appliance, then choose the downloaded ova file to import;
-			<li>Start the VM:
-			<ul style="list-style-type:disc">
-			<br>Username: quro
-			<br>Password: qurotest
-			</ul>
+			<li><code>VBoxManage import quro_lighter.ova</code></li>
+			<li><code>VBoxManage startvm quro_lighter --type headless</code> (username: quro, password: qurotest)</li>
 			</ul>
 			</ol>
 			</font>
