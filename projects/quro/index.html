@@ -166,13 +166,15 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			</ol>
 			</font>
 
-			<li> <font size="4.5"><b>Running QURO to reorder queries:</b></font>
+			<li> <font size="4.5"><b>Using QURO to reorder queries:</b></font>
 			<font size="3.5">
 			<br>
 			<ol>
 			<li><code>quro@ubuntu:~$ cd ~/llvm/test/</code>
-      <li><code>quro@ubuntu:test$ ./quro_reorder.sh ${TRANSACTION}</code>
-			<br>Options for ${TRANSACTION} include <b>payment, neworder, bid</b>.
+      <li><code>quro@ubuntu:test$ ./quro_reorder.sh ${TRANSACTION FILE NAME}</code>
+			<br>A number of predefined file names include <b>payment, neworder, bid</b>. Choosing each of these will 
+			    run Quro on <code>simple_{TRANSACTION}.cpp</code> by making use of the query contention indexes 
+			    stored in <code>{TRANSACTION}_freq.txt</code>. 
 			<br>The reordered transaction code will be in <i>output.cpp</i> under the same directory where you run the quro_reorder script.
  			<ul stype="list-stype-type:circle"></ul>
 			<li>Connecting to external ILP solvers is still under construction. The version of Quro on the provided VM uses a simple heuristic to reorder all statements instead of using an ILP solver, but it can generate input for ILP solver and let it compute the final order of queries/units. To use the external ILP solver, 
