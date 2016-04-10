@@ -40,7 +40,7 @@ Data Virtualization has evolved very rapidly in the past decade on the premise o
 Computer Science and Engineering Department.<br>
 Paul Allen Center, CSE 305.  </p>
 
-<p><strong>When</strong>: Monday, May 16, 2016, 3:30pm - 4:30pm.</p>
+<p><strong>When</strong>: Monday, May 16, 2016, 4:30pm - 5:20pm.</p>
 
 <p><strong>Abstract</strong>:  TBD
 </p>
