@@ -34,7 +34,7 @@ Data Virtualization has evolved very rapidly in the past decade on the premise o
 <p><a name="daisy_wang_05_16_16"></a>
 <strong>Speaker</strong>: <a href="http://dsr.cise.ufl.edu/daisyw/">Daisy Zhe Wang</a>, UFL</p>
 
-<p><strong>Title</strong>: TBD</p>
+<p><strong>Title</strong>: Archimedes: A Probabilistic Master Knowledge Base System </p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
