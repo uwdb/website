@@ -54,8 +54,8 @@ queries in database transactions to improve application performance.</p>
 				<nav class="sidebar-nav">
 					<font size="3">Papers:<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/vldb16_reorder.pdf">Leveraging Lock Contention to Improve OLTP Application
 Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reorder_techreport.pdf">techreport (include proof and algorithm details)</a>]
-					<br>Download:<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_test.ova">Full virtual machine</a>
-					<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_lighter.ova">Lighter virtual machine</a>
+					<br>Download:<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_test.ova">Full VM</a>
+					<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_lite.ova">VM lite</a>
 				</font>
 				</nav>
 			</div>
@@ -77,7 +77,7 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			Contact <a href="mailto:congy@cs.washington.edu">the authors</a> if you have any comments about Quro.
 			</p>
 				
-			<li><font size="4.5"><b>Logging on to the <a href="http://homes.cs.washington.edu/~congy/quro_lighter.ova">Quro virtual machine</a></b></font>
+			<li><font size="4.5"><b>Logging on to the <a href="http://homes.cs.washington.edu/~congy/quro_lite.ova">Quro virtual machine</a></b></font>
 			<font size="3.5">
 			<br>
 			<ol>
@@ -125,17 +125,21 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 
 			<li>Configure the benchmark:
 			<ul style="list-style-type:circle">
-			<li><code>quro@ubuntu:dbt5$ vi src/include/{BENCHMARK}_const.h</code>
-			<li>The configuration for each experiment, such as the mix of different types of transactions. Options for BENCHMARK include: <b>TPCC, TPCE, BID</b>.
-			<li>To use the reordered implementation, add "<i>#define QURO</i>" to the {BENCHMARK}_const.h file.
+			<li>Open a configuration file, for example:
+			<br><code>quro@ubuntu:dbt5$ vi src/scripts/configuration.example</code>
+			<li>Specify the configurations, including benchmark name, type of transaction, running time, number of clients, etc.
 			</ul>
-			<li>Compile:
+			<li>Compile and run:
 			<ul stype="list-stype-type:circle">
-			<li>Use the script make_command.sh [BENCHMARK]. For example:
-			<br><code>quro@ubuntu:dbt5$ ./make_command.sh TPCC</code>
+			<li>The script run_by_script.py will read the configuration file, then compile and run the workload.
+			<br><code>quro@ubuntu:dbt5$ python run_by_script.py configuration.example</code>
 			</ul>
+			<br>Results will be saved in ~/results/{BENCHMARK}_{CONFIGURATIONS}/. CONFIGURATIONS include transaction name, implementation type (original/reordered), number of server threads, total running time, etc. Under the directory, the performance related data (number of commits/aborts, total running time for each thread, etc) can be found in ${BENCHMARK}/${BENCHMARK}.out.
+			<br><br>For a single run with a certain number of clients, the application will be running for 5 min, and then sleep for 2 min to wait for file writing and data collecting. The total running time depends on the number of runs. For example, if you specify "CONNECTIONS" in the configuration file to be the sequence "2 4 8 16", the script will run the workload for 4 runs, on 2, 4, 8, 16 clients. So altogether it takes 28 min to finish. 
+
+			<!--
 			<li>Build the data base:
-			<br>In the full VM, the databases for all benchmarks have already been created. In the lighter VM, you should create the database before running the experiments.
+			<br>The databases for all benchmarks have already been created.  you should create the database before running the experiments.
 			<br>To create the database:
 			<ul stype="list-stype-type:circle">
 			<li><code>quro@ubuntu:dbt5$ cd scripts/mysql</code>
@@ -146,26 +150,11 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 							 <code>quro@ubuntu:scripts$ ./bid_datagen</code><br>
 							 <code>quro@ubuntu:scripts$ ./bid-mysql-build-db</code>
 			</ul>
-			<br>
-			<li>Run:
-			<br>Scripts are provided to run the benchmarks on varying number of server connections, from 1 to 64. For TPC-C, the script runs the application on 1 warehouse. For TPC-E, the script runs on 1000 customers, 5 trade days and scale-factor 500. For Bidding, the script runs on 4 items. To use these scripts:
-			<ul stype="list-stype-type:circle">
-			<li><code>quro@ubuntu:dbt5$ cd scripts</code>
-			<li><code>quro@ubuntu:scripts$ ./autorun_{BENCHMARK}.sh ${TXN_NAME} ${IMPLEMENTATION}</code>
-			<br>For example: <code>quro@ubuntu:scripts$ ./autorun_tpcc.sh payment original</code>
-			<br>or <code>quro@ubuntu:scripts$ ./autorun_tpcc.sh neworder reorder</code>
-			<br> Specify these two arguments according to the configurations set in the header file in step 3. 
-			</ul>
-			The autorun script also accepts the number of connections to run as argument, separated by blank. For example,
-			<br><code>quro@ubuntu:scripts$ ./autorun_tpcc.sh payment original 4 8</code>
-			<br>then the script will run tpcc benchmark on 4 server connections and then 8 connections.
-			<font size="3">
-			<br><br>Results will be saved in ~/results/{BENCHMARK}_{CONFIGURATIONS}/. CONFIGURATIONS include transaction name and implementation type (as specified in the arguements), number of server threads, total running time, etc. Under the directory, the performance related data (number of commits/aborts, total running time for each thread, etc) can be found in ${BENCHMARK}/${BENCHMARK}.out.
-			<br><br>For a single configuration, the application will be running for 5 min, and then sleep for 2 min to wait for file writing and data collecting. So the autorun script should be expected to finish running in 49 min. 
-			<br>If you wish to run only a different benchmark configuration, go to <a href="http://db.cs.washington.edu/projects/quro/detailed_instr">detailed instructions</a> for more details.
+			-->
+			<br><br>The database for TPC-C, TPC-E and BID has already been created on the VM. Checkout <a href="http://db.cs.washington.edu/projects/quro/detailed_instr">detailed instructions</a> for more instructions on populating your ownn database, and other instructions including running stored-procedure implementation.
 
-			<br><br><b>What to expect:</b> The lighter VM is expected to run on 16 processors and 32GB memory. The lack of computational resources will largely affect the results. Since the database and the clients are running on the same machine, it would be better to run experiments with no more than 8 clients ( which means 8 database connections). For TPC-C benchmark, when running 4 clients ( 4 database connections) on payment transaction, reordering should have ~2x throughput comparing to the original implementation.
-			<br>To get the numbers showed in the paper, a large mahine is required. Welcome to run the experiments on your own machine and compare the numbers. 		
+			<br><br><b>What to expect:</b> The lite VM is expected to run on 16 processors and 32GB memory. The lack of computational resources will largely affect the results. Since the database and the clients are running on the same machine, it would be better to run experiments with no more than 8 clients (8 database connections). For TPC-C benchmark, when running 4 clients on payment transaction, reordering should have ~2x throughput comparing to the original implementation.
+				
 
 			</font>
 			</ol>
@@ -194,19 +183,19 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			<li>Configure the database:
 			<ul stype="list-stype-type:circle">
 			<li><code>quro@ubuntu:DBx1000$ vi config.h</code>
-			<br>To specify concurrency control schemes, update"<i>#define CC_ALG {ALGORITHM}</i>", options for ALGORITHM includes <b>WAIT_DIE, DL_DETECT, MVCC, OCC</b>.
+			<br>To specify concurrency control schemes, update"<i>#define CC_ALG {ALGORITHM}</i>", options for ALGORITHM includes <b>NO_WAIT, DL_DETECT, MVCC, OCC</b>.
 			<br>To specify the total number of transactions to run for each thread, update"<i>#define MAX_TXN_PER_PART</i>"
 			<br>To specify the number of database client, update "<i>#define THREAD_CNT</i>"
-			<li>For original implementation under 2PL, beside using WAIT_DIE or DL_DETECT for concurrency control scheme, using the original transaction requires:
+			<li>For original implementation under 2PL, copy the transaction file to directory benchmarks/:
 			<br><code>quro@ubuntu:DBx1000$ cp temp_transaction_file/tpcc_txn.cpp benchmarks/tpcc_txn.cpp</code>
-			<li>For reordered implementation under 2PL, beside using WAIT_DIE or DL_DELTECT for concurrency control scheme, using the reordered transaction requires:
+			<li>For reordered implementation under 2PL, copy the transaction file to directory benchmarks/:
 			<br><code>quro@ubuntu:DBx1000$ cp temp_transaction_file/reorder_tpcc_txn.cpp benchmarks/tpcc_txn.cpp</code>
 			</ul>
 			<li>Compile:
 			<code>quro@ubuntu:DBx1000$ make</code>
 			<li>Run:
 			<code>quro@ubuntu:DBx1000$ ./rundb</code>
-			<br>The total running time and breakdown for all threads will be printed out after transactions finish running.
+			<br><br><b>What to expect:</b> Each thread is expected to run certain number of transactions specified in config.h. When all threads finish, the results will be printed on the screen, including 'txn_cnt' (total number of commited transactions), 'run_time' (total running time, and throughput=txn_cnt/run_time). The default configuration runs on 8 threads and 1000 transactions for each thread. The program is expected to finish within seconds. Under the default setting, the throughtput of reordered implementation on DL_DETECT is ~2x than original, and ~1.35x for NO_WAIT. Throughput of reordered DL_DETECT is expected to be ~2.5x comparing to OCC, and ~1.1x comparing to MVCC.
 			</ol>
 			</font>
 		

@@ -54,8 +54,8 @@ queries in database transactions to improve application performance.</p>
 				<nav class="sidebar-nav">
 					<font size="3">Papers:<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/vldb16_reorder.pdf">Leveraging Lock Contention to Improve OLTP Application
 Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reorder_techreport.pdf">techreport</a>]
-					<br>Download:<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_test.ova">Full virtual machine</a>
-					<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_lighter.tar">Lighter virtual machine</a>
+					<br>Download:<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_test.ova">Full VM</a>
+					<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_lite.ova">Lite VM</a>
 				</font>
 				</nav>
 			</div>
@@ -77,7 +77,7 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			Contact <a href="mailto:congy@cs.washington.edu">the authors</a> if you have any comments about Quro.
 			</p>
 				
-			<li><font size="4.5"><b>Logging on to the <a href="http://homes.cs.washington.edu/~congy/quro_lighter.tar">Quro virtual machine</a></b></font>
+			<li><font size="4.5"><b>Logging on to the <a href="http://homes.cs.washington.edu/~congy/quro_lite.ova">Quro virtual machine</a></b></font>
 			<font size="3.5">
 			<br>
 			<ol>
@@ -97,7 +97,7 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			<li>Set the port number for the VM using GUI;
 			<li>Start the VM:
 			<br><code>~$: vboxmanage startvm quro_test --type=headless</code> for the full VM, or
-			<br><code>~$: vboxmanage startvm quro_lighter --type=headless</code> for the lighter VM;
+			<br><code>~$: vboxmanage startvm quro_lite --type=headless</code> for the lite VM;
 			<li>Ssh to the VM:
 			<br><code>$ ssh -p ${PORT_NUMBER} quro@localhost</code>
 			<br>password: qurotest</p>
@@ -135,68 +135,52 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 
 			<li>Configure the benchmark:
 			<ul style="list-style-type:circle">
-			<li><code>quro@ubuntu:dbt5$ vi src/include/{BENCHMARK}_const.h</code>
-			<li>The configuration for each experiment, such as the mix of different types of transactions. Options for BENCHMARK include: <b>TPCC, TPCE, BID</b>.
-			<li>To use the reordered implementation, add "<i>#define QURO</i>" to the {BENCHMARK}_const.h file.
+			<li>Open a configuration file, for example:
+			<br><code>quro@ubuntu:dbt5$ vi src/scripts/configuration.example</code>
+			<li>Specify the configurations, including benchmark name, type of transaction, running time, number of clients, etc.
 			</ul>
-			<li>Compile:
+			<li>Compile and run:
 			<ul stype="list-stype-type:circle">
-			<li>Use the script make_command.sh [BENCHMARK]. For example:
-			<br><code>quro@ubuntu:dbt5$ ./make_command.sh TPCC</code>
-			</ul>
-			<font size="1.5">
+			<li>The script run_by_script.py will read the configuration file, then compile and run the workload.
+			<br><code>quro@ubuntu:dbt5$ python run_by_script.py configuration.example</code>
+
+			<br><font size="1.5">
 			Errors of missing libraries can be ignored, as long as the make script is able to generate binaries under /home/quro/dbt5/bin/. Some library links are missing when running make for the first time, but the script will add those links to link.txt under proper directory and recompile.
 			</font>
-		
+			</ul>
 			<li>Build the data base:
-			<br>In the full VM, the databases for all benchmarks have already been created. In the lighter VM, you should create the database before running the experiments. Due to the memory size of the VM, only one database can be created at a single time and co-existence of multiple databases will make the VM run out of memory.
-			<br>In the full VM, for the TPCC benchmark, data for 4 and 64 warehouses is provided. In the lighter VM, only data for 4 warehouses is provided. 
+			<br>In both VMs, the databases for all benchmarks have already been created.  
+			<br>In the full VM, for the TPCC benchmark, data for 4 and 64 warehouses is provided. In the lite VM, only data for 4 warehouses is provided.
+			<br>You can create your own VM by following the instructions below.  
 			<br>To create the database:
 			<ul stype="list-stype-type:circle">
 			<li><code>quro@ubuntu:dbt5$ cd scripts/mysql</code>
-			<li>TPCC: <code>quro@ubuntu:scripts$ ./tpcc-mysql-build-db</code> for 4 warehouses or 
-								<code>quro@ubuntu:scripts$ ./tpcc-mysql-build-large-db</code> for 64 warehouses
+			<li>TPCC: 
+			<br><code>quro@ubuntu:scripts$ ./tpcc-mysql-build-db</code> for 4 warehouses or 
+			<br><code>quro@ubuntu:scripts$ ./tpcc-mysql-build-large-db</code> for 64 warehouses
 								<font size="1.5">
 								<br>An error for procedure already being created may be expected... But this can be safely ignored.</br>
 								</font>
-			<li>TPCE: <code>quro@ubuntu:scripts$ mkdir ~/DBT5_EGEN_DATA</code><br>
-								<code>quro@ubuntu:scripts$ ./dbt5-mysql-build-db -c ${NUMBER_OF_CUSTOMERS} -t ${NUMBER_OF_ACTICE_CUSTOMERS} -s ${SCALE_FACTOR} -w ${TRADE_DAYS}</code>
-								<br>For example, 
-								<code>quro@ubuntu:scripts$ ./dbt5-mysql-build-db -c 1000 -t 1000 -s 500 -w 5</code>
-			<li>BID: <code>quro@ubuntu:scripts$ mkdir ~/BID_DATA</code><br>
-							 <code>quro@ubuntu:scripts$ ./bid_datagen</code><br>
-							 <code>quro@ubuntu:scripts$ ./bid-mysql-build-db</code>
-							 <br>By default, in the full VM, the bidding benchmark uses 6400000 customers and 64 bidding items, and in the lighter VM, 400000 customers and 4 bidding items. To change the data size:
-							 <br><code>quro@ubuntu:scripts$ vi bid_datagen.cpp</code>
-							 <br> modify the scale factor, and recompile:
-							 <br><code>quro@ubuntu:scripts$ g++ bid_datagen.cpp -o bid_datagen</code>
+			<li>TPCE: 
+			<code>quro@ubuntu:scripts$ mkdir ~/DBT5_EGEN_DATA</code><br>
+			<code>quro@ubuntu:scripts$ ./dbt5-mysql-build-db -c ${NUMBER_OF_CUSTOMERS} -t ${NUMBER_OF_ACTICE_CUSTOMERS} -s ${SCALE_FACTOR} -w ${TRADE_DAYS}</code>
+			<br>For example, 
+			<br><code>quro@ubuntu:scripts$ ./dbt5-mysql-build-db -c 1000 -t 1000 -s 500 -w 5</code>
+			<li>BID:	
+			<code>quro@ubuntu:scripts$ mkdir ~/BID_DATA</code><br>
+			<code>quro@ubuntu:scripts$ ./bid_datagen</code><br>
+			<code>quro@ubuntu:scripts$ ./bid-mysql-build-db</code>
+			<br>By default, in the full VM, the bidding benchmark uses 6400000 customers and 64 bidding items, and in the lite VM, 400000 customers and 4 bidding items. To change the data size:
+			<br><code>quro@ubuntu:scripts$ vi bid_datagen.cpp</code>
+			<br> modify the scale factor, and recompile:
+			<br><code>quro@ubuntu:scripts$ g++ bid_datagen.cpp -o bid_datagen</code>
 			</ul>
 
-			<li>Run:
-			<br>Scripts are provided to run the benchmarks on varying number of server threads, from 1 to 128. For TPC-C, the script runs the application on 1 warehouse. For TPC-E, the script runs on 1000 customers, 5 trade days and scale-factor 500. For Bidding, the script runs on 4 items. To use these scripts:
-			<ul stype="list-stype-type:circle">
-			<li><code>quro@ubuntu:dbt5$ cd scripts</code>
-			<li><code>quro@ubuntu:scripts$ ./autorun_{BENCHMARK}.sh ${TXN_NAME} ${IMPLEMENTATION}</code>
-			<br>For example: <code>quro@ubuntu:scripts$ ./autorun_tpcc.sh payment original</code>
-			<br>or <code>quro@ubuntu:scripts$ ./autorun_tpcc.sh neworder reorder</code>
-			<br> Specify these two arguments according to the configurations set in the header file in step 3. 
-			</ul>
-			The autorun script also accepts the number of connections to run as argument, separated by blank. For example,
-			<br><code>quro@ubuntu:scripts$ ./autorun_tpcc.sh payment original 4 8</code>
-			<br>then the script will run tpcc benchmark on 4 server connections and then 8 connections.
-			<font size="3">
-			<br><br>Results will be saved in ~/results/{BENCHMARK}_{CONFIGURATIONS}/. CONFIGURATIONS include transaction name and implementation type (as specified in the arguements), number of server threads, total running time, etc. Under the directory, the performance related data (number of commits/aborts, total running time for each thread, etc) can be found in ${BENCHMARK}/${BENCHMARK}.out (in case of TPCE, ${BENCHMARK}=BrokerageMain).
-			<br><br>For a single configuration, the application will be running for 5 min, and then sleep for 2 min to wait for file writing and data collecting. So the autorun script should be expected to finish running in 49 min.  
-			</font>
+			<br>Results will be saved in ~/results/{BENCHMARK}_{CONFIGURATIONS}/. CONFIGURATIONS include transaction name, implementation type (original/reordered), number of server threads, total running time, etc. Under the directory, the performance related data (number of commits/aborts, total running time for each thread, etc) can be found in ${BENCHMARK}/${BENCHMARK}.out.
+			<br><br>For a single run with a certain number of clients, the application will be running for 5 min, and then sleep for 2 min to wait for file writing and data collecting. The total running time depends on the number of runs. For example, if you specify "CONNECTIONS" in the configuration file to be the sequence "2 4 8 16", the script will run the workload for 4 runs, on 2, 4, 8, 16 clients. So altogether it takes 28 min to finish. 
 
-			<br>To run the benchmark once:
-			 <ul stype="list-stype-type:circle">
-			<li>TPCC: <code>quro@ubuntu:scripts$ ./tpcc_run_workload -d ${DURATION} -u ${NUMBER_OF_CONNECTIONS} -n ${DATABASE_NAME} -f ${NUMBER_OF_WAREHOUSES} -o ${OUTPUT_DIR}</code>
-			<li>TPCE: <code>quro@ubuntu:scripts$ ./tpce_run_workload -d ${DURATION} -n ${DATABASE_NAME} -f ${SCALE_FACTOR} -t ${NUMBER_OF_CUSTOMERS} -w ${TRADE_DAYS} -u ${NUMBER_OF_CONNECTIONS} -o ${OUTPUT_DIR}</code>
-			<li>BID: <code>quro@ubuntu:scripts$ ./bid_run_workload -d ${DURATION} -u ${NUMBER_OF_CONNECTIONS} -n ${DATABASE_NAME} -f ${NUMBER_OF_BID_ITEMS} -o ${OUTPUT_DIR}</code>
-			</ul>
-
-			<br><br>To run the stored procedure implementation:
+			<br><br>
+			<li>Run the stored procedure implementation:
 			<font size="3.5">
 			<ul stype="list-stype-type:circle">
 			<li><code>quro@ubuntu:scripts$ cd ~/dbt5</code>
@@ -204,7 +188,7 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			</ul>
 			</font>	
 
-			<li><b>What to expect:</b> The lighter VM is expected to run on 16 processors and 32GB memory. The lack of computational resources will largely affect the results. Since the database and the clients are running on the same machine, it would be better to run experiments with no more than 8 clients ( which means 8 database connections). For TPC-C benchmark, when running 4 clients ( 4 database connections) on payment transaction, reordering should have ~2x throughput comparing to the original implementation.
+			<li><b>What to expect:</b> The lite VM is expected to run on 16 processors and 32GB memory. The lack of computational resources will largely affect the results. Since the database and the clients are running on the same machine, it would be better to run experiments with no more than 8 clients ( which means 8 database connections). For TPC-C benchmark, when running 4 clients ( 4 database connections) on payment transaction, reordering should have ~2x throughput comparing to the original implementation.
 			<br>To get the numbers showed in the paper, a large mahine is required. Welcome to run the experiments on your own machine and compare the numbers.
 
 			</ol>
@@ -245,25 +229,22 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			<li>Configure the database:
 			<ul stype="list-stype-type:circle">
 			<li><code>quro@ubuntu:DBx1000$ vi config.h</code>
-			<ul stype="list-stype-type:circle">
-			<br>To specify concurrency control schemes, update"<i>#define CC_ALG {ALGORITHM}</i>", options for ALGORITHM includes <b>WAIT_DIE, DL_DETECT, MVCC, OCC</b>.
+			<br>To specify concurrency control schemes, update"<i>#define CC_ALG {ALGORITHM}</i>", options for ALGORITHM includes <b>NO_WAIT, DL_DETECT, MVCC, OCC</b>.
 			<br>To specify the total number of transactions to run for each thread, update"<i>#define MAX_TXN_PER_PART</i>"
 			<br>To specify the number of database client, update "<i>#define THREAD_CNT</i>"
-			</ul>
-			<li>For original implementation under 2PL, beside using WAIT_DIE or DL_DETECT for concurrency control scheme, using the original transaction requires:
+			<li>For original implementation under 2PL, copy the transaction file to directory benchmarks/:
 			<br><code>quro@ubuntu:DBx1000$ cp temp_transaction_file/tpcc_txn.cpp benchmarks/tpcc_txn.cpp</code>
-			<li>For reordered implementation under 2PL, beside using WAIT_DIE or DL_DELTECT for concurrency control scheme, using the reordered transaction requires:
+			<li>For reordered implementation under 2PL, copy the transaction file to directory benchmarks/:
 			<br><code>quro@ubuntu:DBx1000$ cp temp_transaction_file/reorder_tpcc_txn.cpp benchmarks/tpcc_txn.cpp</code>
 			</ul>
-
 			<li>Compile:
-			<br><code>quro@ubuntu:DBx1000$ make</code>
+			<code>quro@ubuntu:DBx1000$ make</code>
 			<li>Run:
-			<br><code>quro@ubuntu:DBx1000$ ./rundb</code>	
-      <br>The total running time and breakdown for all threads will be printed out after transactions finish running.
+			<code>quro@ubuntu:DBx1000$ ./rundb</code>
+			<br><br><b>What to expect:</b> Each thread is expected to run certain number of transactions specified in config.h. When all threads finish, the results will be printed on the screen, including 'txn_cnt' (total number of commited transactions), 'run_time' (total running time, and throughput=txn_cnt/run_time). The default configuration runs on 8 threads and 1000 transactions for each thread. The program is expected to finish within seconds. Under the default setting, the throughtput of reordered implementation on DL_DETECT is ~2x than original, and ~1.35x for NO_WAIT. Throughput of reordered DL_DETECT is expected to be ~2.5x comparing to OCC, and ~1.1x comparing to MVCC.
 			</ol>
 			</font>
-		
+
 	<!--
 			<li> <font size="5"><b>To run the experiments in section 6:</b></font>
 			<font size="4">
