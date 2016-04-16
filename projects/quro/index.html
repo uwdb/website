@@ -193,7 +193,7 @@ queries in database transactions to improve application performance.</p>
 			<code>quro@ubuntu:DBx1000$ make</code>
 			<li>Run:
 			<code>quro@ubuntu:DBx1000$ ./rundb</code>
-			</ol>
+			
 			<p><b>What to expect:</b> Each thread will run the number of transactions as specified in config.h. 
 			When all threads finish, the following will be printed on the screen:
 			<ul>
@@ -209,6 +209,8 @@ queries in database transactions to improve application performance.</p>
 			The throughput of the reordered implementation under <code>DL_DETECT</code> is ~2.5x 
 			compared to <code>OCC</code>, and ~1.1x compared to <code>MVCC</code>.
 			</p>
+			
+			</ol>
 			
 			</font>
 		
