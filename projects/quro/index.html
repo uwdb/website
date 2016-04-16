@@ -180,20 +180,36 @@ queries in database transactions to improve application performance.</p>
 			<li>Configure the database:
 			<ul stype="list-stype-type:circle">
 			<li><code>quro@ubuntu:DBx1000$ vi config.h</code>
-			<br>To specify concurrency control schemes, update"<i>#define CC_ALG {ALGORITHM}</i>", options for ALGORITHM includes <b>NO_WAIT, DL_DETECT, MVCC, OCC</b>.
-			<br>To specify the total number of transactions to run for each thread, update"<i>#define MAX_TXN_PER_PART</i>"
-			<br>To specify the number of database client, update "<i>#define THREAD_CNT</i>"
-			<li>For original implementation under 2PL, copy the transaction file to directory benchmarks/:
+			<br>To specify concurrency control schemes, change <code>#define CC_ALG {ALGORITHM}</code>, where ALGORITHM is either one of 
+			    <b>NO_WAIT, DL_DETECT, MVCC, OCC</b>.
+			<br>To specify the total number of transactions to run for each thread, change <code>#define MAX_TXN_PER_PART</code>
+			<br>To specify the number of database client, update <code>#define THREAD_CNT</code>
+			<li>To execute the original implementation under 2PL, copy the transaction file to the <code>benchmarks</code>directory:
 			<br><code>quro@ubuntu:DBx1000$ cp temp_transaction_file/tpcc_txn.cpp benchmarks/tpcc_txn.cpp</code>
-			<li>For reordered implementation under 2PL, copy the transaction file to directory benchmarks/:
+			<li>To execute the reordered implementation under 2PL, copy the transaction file to the <code>benchmarks</code>directory:
 			<br><code>quro@ubuntu:DBx1000$ cp temp_transaction_file/reorder_tpcc_txn.cpp benchmarks/tpcc_txn.cpp</code>
 			</ul>
 			<li>Compile:
 			<code>quro@ubuntu:DBx1000$ make</code>
 			<li>Run:
 			<code>quro@ubuntu:DBx1000$ ./rundb</code>
-			<br><br><b>What to expect:</b> Each thread is expected to run certain number of transactions specified in config.h. When all threads finish, the results will be printed on the screen, including 'txn_cnt' (total number of commited transactions), 'run_time' (total running time, and throughput=txn_cnt/run_time). The default configuration runs on 8 threads and 1000 transactions for each thread. The program is expected to finish within seconds. Under the default setting, the throughtput of reordered implementation on DL_DETECT is ~2x than original, and ~1.35x for NO_WAIT. Throughput of reordered DL_DETECT is expected to be ~2.5x comparing to OCC, and ~1.1x comparing to MVCC.
 			</ol>
+			<p><b>What to expect:</b> Each thread will run the number of transactions as specified in config.h. 
+			When all threads finish, the following will be printed on the screen:
+			<ul>
+			<li><code>txn_cnt</code>: total number of commited transactions</li>	
+			<li><code>run_time</code>: total running time and throughput (txn_cnt/run_time)</li>
+			</ul>
+			</p>
+			<p>
+			The default configuration runs on 8 threads and 1000 transactions for each thread. 
+			The program is expected to finish within seconds. Under the default setting, 
+			the throughtput of the reordered implementation under <code>DL_DETECT</code> is ~2x than original, 
+			and ~1.35x for <code>NO_WAIT</code>. 
+			The throughput of the reordered implementation under <code>DL_DETECT</code> is ~2.5x 
+			compared to <code>OCC</code>, and ~1.1x compared to <code>MVCC</code>.
+			</p>
+			
 			</font>
 		
 	<!--
