@@ -15,85 +15,55 @@ One of our main activities is a talk series with a variety of distinguished spea
 ___
 
 ##  Upcoming Talks
+<p><a name="angel_vina_05_06_16"></a>
+<strong>Speaker</strong>: Angel Viña, CEO, Denodo Technologies</p>
+
+<p><strong>Title</strong>: Harnessing Data Virtualization for Data Management and High Performance Data Delivery with Hybrid Data Infrastructure</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: Friday, May 6, 2016, 11 - 11:50am.</p>
+
+<p><strong>Abstract</strong>:
+Data Virtualization has evolved very rapidly in the past decade on the premise of the ever growing diversity of data assets in the enterprise ecosystem. The list of technology options for storing data has never been richer: DWA, HDFS, JSON, NoSQL databases, BLOB storage, Spark and more, all adding new data management challenges to the existing ones specific to on-premises and cloud-based conventional data sources.  This increasing diversity has helped to consolidate the role of data virtualization as the rmediator of choice for interfacing with all data containers in the physical data layer. Overall, the goal of a data virtualization software is to enable a data management and delivery capability for the seamless integration of structured and unstructured data across multiple systems in real time and with high performance. In this talk, we will review the progress made along the Data Virtualization roadmap that produced such an effective and comprehensive semantic layer satisfying the requirements of modern enterprise data initiatives. 
+</p>
+
+
 <p><a name="daisy_wang_05_16_16"></a>
 <strong>Speaker</strong>: <a href="http://dsr.cise.ufl.edu/daisyw/">Daisy Zhe Wang</a>, UFL</p>
 
-<p><strong>Title</strong>: TBD</p>
+<p><strong>Title</strong>: Archimedes: A Probabilistic Master Knowledge Base System </p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
 Paul Allen Center, CSE 305.  </p>
 
-<p><strong>When</strong>: Monday, May 16, 2016, 3:30pm - 4:30pm.</p>
+<p><strong>When</strong>: Monday, May 16, 2016, 4:30pm - 5:20pm.</p>
 
-<p><strong>Abstract</strong>:  TBD
+<p><strong>Abstract</strong>: 
+In this talk, I discuss novel system components and algorithms that we are designing and building at UF to enable a probabilistic master Knowledge Base (KB) system. In the context of the Archimedes project, I will discuss a spectrum of research directions we are exploring at the UF Data Science Research (DSR) group including: query-driven and scalable statistical inference, probabilistic data models, state-parallel and data parallel data analytics framework, multimodal (e.g., text, image) information extraction, and KB schema enrichment. This line of research of supporting analytics over automatically extracted knowledge bases is of high impact for many applications from QA systems, situational awareness to medical informatics. Other related projects include DeepDive from Stanford, YAGO from Max Planck Institute, NELL from CMU as well as WikiData/Freebase and Google Knowledge Vault.
+</p>
+
+<p><strong>Bio</strong>:
+Daisy Zhe Wang is an Assistant Professor in the CISE department at the University of Florida. She is the Director of the Data Science Research Lab at UF. She obtained her Ph.D. degree from the EECS Department at the University of California, Berkeley in 2011 and her Bachelor's degree from the ECE Department at the University of Toronto in 2005. At Berkeley, she was a member of the Database Group and the AMP/RAD Lab. She is particularly interested in bridging scalable data management and processing systems with probabilistic models and statistical methods. She currently pursues research topics such as probabilistic databases, probabilistic knowledge bases, large-scale inference engines, query-driven interactive machine learning, and crowd assisted machine learning. She received Google Faculty Award in 2013. Her research is currently funded by NSF, DARPA, Google, Amazon, Pivotal, Greenplum/EMC, Sandia National Labs and Harris Corporation.
 </p>
 
 
-<p><a name="xin_dong_03_31_16"></a>
-<strong>Speaker</strong>: <a href="http://lunadong.com/">Xin Luna Dong</a>, Google</p>
-
-<p><strong>Title</strong>: How Far Are We from Collecting the Knowledge in the World?</p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
-
-<p><strong>When</strong>: Thursday, March 31, 2016, 11:00am - 12:00pm.</p>
-
-<p><strong>Abstract</strong>:
-<p>
-In this talk we ask the question: How far are we from collecting the knowledge in the world? We analyze the knowledge that has been collected in three categories: head knowledge in head verticals (e.g., music), long-tail knowledge in head verticals, and head knowledge in long-tail verticals (e.g., yoga pose), showing the limitations and challenges in current knowledge-collection techniques.
-We then present two key efforts at Google on collecting tail knowledge. The first, called Knowledge Vault, targeted on tail knowledge in head verticals. It used 15 extractors to periodically extract knowledge from 1B+ Webpages, obtaining 3B+ distinct (subject, predicate, object) knowledge triples. The second, called Lightweight Verticals, targets on head knowledge in tail verticals. It uses a crowd-sourcing approach to collect knowledge by annotating websites, and currently is attracting millions of active Google Search users every day. We present key technologies under both projects, namely, knowledge fusion for guaranteeing knowledge correctness, and knowledge-based trust for finding authoritative sources for knowledge curation.
-</p>
-</p>
-
-
-<p><a name="fatma_ozcan_03_4_16"></a>
-<strong>Speaker</strong>: <a href="http://researcher.ibm.com/researcher/view.php?person=us-fozcan">Dr. Fatma Özcan</a>, IBM Almaden Research Center</p>
-
-<p><strong>Title</strong>: SQL Processing in Cognitive and Large-Scale Analytical Platforms</p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
-
-<p><strong>When</strong>: Friday, March 4, 2016, 1:30pm - 2:20pm.</p>
-
-<p><strong>Abstract</strong>:  
-
-<p>
-A set of applications, such as mobile commerce, IoT, cognitive and 
-Internet applications, have given rise to a new class of analytical 
-platforms in the enterprise. These new platforms are built on scale-out 
-computing frameworks, such as Hadoop and Spark, and are polymorphic, 
-supporting multiple processing engines, which all share access to a 
-common storage, holding massive volumes of data.
-</p>
-
-<p>
-In this talk, we will examine the role of SQL data processing in these 
-new platforms. After a decade of noSQL systems, SQL continues to play a 
-significant role in the overall analytics landscape. We will start with 
-Big SQL, an SQL query processing engine over HDFS data. Then, we will 
-discuss the challenges in sharing the data, and present an architecture 
-which provides a set of common services that can be leveraged by all the 
-engines. One such service is access to all data in the enterprise, via a 
-data virtualization layer. We have implemented a data virtualization 
-solution that leverages Spark and the data sources APIs. Finally, we 
-will describe how we use an SQL engine to answer OLAP-style natural 
-language queries over a knowledge base that was synthesized from 
-unstructured and structured data sources.
-</p>
-</p>
 ___
 
 ## Past Talks
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
 
+
+#### Spring 2016
+*   [Xin Luna Dong](http://lunadong.com/), Google [[abstract](past_talks.html#xin_dong_03_31_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0B801X-XPoh5IXzdmUk1BVUlFTlE/view?usp=sharing)]
+
 #### Winter 2016
-*   Dr. Sudipta Sengupta, Microsoft Research [[abstract](past_talks.html#sudipta_sengupta_01_29_16)] [[video](https://www.youtube.com/watch?v=Pr-b9stpAV4&feature=youtu.be)]
+*   [Fatma Özcan](http://researcher.ibm.com/researcher/view.php?person=us-fozcan), IBM Almaden Research Center [[abstract](past_talks.html#fatma_ozcan_03_4_16)]
+*   Sudipta Sengupta, Microsoft Research [[abstract](past_talks.html#sudipta_sengupta_01_29_16)] [[video](https://www.youtube.com/watch?v=Pr-b9stpAV4&feature=youtu.be)]
 
 #### Fall 2015
 *   Yannis Papakonstantinou, UCSD [[abstract](past_talks.html#yannis_papakonstantinou_12_11_15)] [[video](https://www.youtube.com/watch?v=SXsEAa4xxxI)]

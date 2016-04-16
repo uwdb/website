@@ -26,15 +26,16 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
   <!-- Google Analytics -->
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-68146500-1', 'auto');
-    ga('send', 'pageview');
-  </script>
+  ga('create', 'UA-58709144-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
   
 </head>
 
@@ -52,8 +53,7 @@ queries in database transactions to improve application performance.</p>
 					</span>
 				</div>
 				<nav class="sidebar-nav">
-					<font size="3">Papers:<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/vldb16_reorder.pdf">Leveraging Lock Contention to Improve OLTP Application
-Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reorder_techreport.pdf">techreport (include proof and algorithm details)</a>]
+					<font size="3">Papers:<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/vldb16_reorder.pdf">Leveraging Lock Contention to Improve OLTP Application Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reorder_techreport.pdf">tech report (include algorithm details)</a>]
 					<br>Download:<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_test.ova">Full VM</a>
 					<a class="sidebar-nav-item" href="http://homes.cs.washington.edu/~congy/quro_lite.ova">VM lite</a>
 				</font>
@@ -74,7 +74,7 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			</p>
 			
 			<p>
-			Contact <a href="mailto:congy@cs.washington.edu">the authors</a> if you have any comments about Quro.
+			Contact <a href="mailto:quro-dev@cs.washington.edu">the Quro developers</a> if you have any comments about Quro.
 			</p>
 				
 			<li><font size="4.5"><b>Logging on to the <a href="http://homes.cs.washington.edu/~congy/quro_lite.ova">Quro virtual machine</a></b></font>
@@ -82,15 +82,10 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			<br>
 			<ol>
 			<li>Make sure virtualbox is installed.
-			<li>Start the VM:
+			<li>Import and start the VM:
 			<ul style="list-style-type:disc">
-			<li>Open virtualbox gui;
-			<li>Import the VM: File->Import Appliance, then choose the downloaded ova file to import;
-			<li>Start the VM:
-			<ul style="list-style-type:disc">
-			<br>Username: quro
-			<br>Password: qurotest
-			</ul>
+			<li><code>VBoxManage import quro_lighter.ova</code></li>
+			<li><code>VBoxManage startvm quro_lighter --type headless</code> (username: quro, password: qurotest)</li>
 			</ul>
 			</ol>
 			</font>
@@ -160,13 +155,15 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			</ol>
 			</font>
 
-			<li> <font size="4.5"><b>Running QURO to reorder queries:</b></font>
+			<li> <font size="4.5"><b>Using QURO to reorder queries:</b></font>
 			<font size="3.5">
 			<br>
 			<ol>
 			<li><code>quro@ubuntu:~$ cd ~/llvm/test/</code>
-      <li><code>quro@ubuntu:test$ ./quro_reorder.sh ${TRANSACTION}</code>
-			<br>Options for ${TRANSACTION} include <b>payment, neworder, bid</b>.
+      <li><code>quro@ubuntu:test$ ./quro_reorder.sh ${TRANSACTION FILE NAME}</code>
+			<br>A number of predefined file names include <b>payment, neworder, bid</b>. Choosing each of these will 
+			    run Quro on <code>simple_{TRANSACTION}.cpp</code> by making use of the query contention indexes 
+			    stored in <code>{TRANSACTION}_freq.txt</code>. 
 			<br>The reordered transaction code will be in <i>output.cpp</i> under the same directory where you run the quro_reorder script.
  			<ul stype="list-stype-type:circle"></ul>
 			<li>Connecting to external ILP solvers is still under construction. The version of Quro on the provided VM uses a simple heuristic to reorder all statements instead of using an ILP solver, but it can generate input for ILP solver and let it compute the final order of queries/units. To use the external ILP solver, 
@@ -179,7 +176,7 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			<font size="3.5">
 			<br>
 			<ol>
-			<li><code>quro@ubuntu:~$ cd DBx1000/</code>
+			<li><code>quro@ubuntu:~$ cd ~/DBx1000/</code>
 			<li>Configure the database:
 			<ul stype="list-stype-type:circle">
 			<li><code>quro@ubuntu:DBx1000$ vi config.h</code>

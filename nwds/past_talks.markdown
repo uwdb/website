@@ -7,6 +7,66 @@ id: "nwds_past_talks"
 
 #  Past Talks
 
+<p><a name="xin_dong_03_31_16"></a>
+<strong>Speaker</strong>: <a href="http://lunadong.com/">Xin Luna Dong</a>, Google</p>
+
+<p><strong>Title</strong>: How Far Are We from Collecting the Knowledge in the World?</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: Thursday, March 31, 2016, 11:00am - 12:00pm.</p>
+
+<p><strong>Abstract</strong>:
+<p>
+In this talk we ask the question: How far are we from collecting the knowledge in the world? We analyze the knowledge that has been collected in three categories: head knowledge in head verticals (e.g., music), long-tail knowledge in head verticals, and head knowledge in long-tail verticals (e.g., yoga pose), showing the limitations and challenges in current knowledge-collection techniques.
+We then present two key efforts at Google on collecting tail knowledge. The first, called Knowledge Vault, targeted on tail knowledge in head verticals. It used 15 extractors to periodically extract knowledge from 1B+ Webpages, obtaining 3B+ distinct (subject, predicate, object) knowledge triples. The second, called Lightweight Verticals, targets on head knowledge in tail verticals. It uses a crowd-sourcing approach to collect knowledge by annotating websites, and currently is attracting millions of active Google Search users every day. We present key technologies under both projects, namely, knowledge fusion for guaranteeing knowledge correctness, and knowledge-based trust for finding authoritative sources for knowledge curation.
+</p>
+</p>
+
+* * * 
+
+<p><a name="fatma_ozcan_03_4_16"></a>
+<strong>Speaker</strong>: <a href="http://researcher.ibm.com/researcher/view.php?person=us-fozcan">Dr. Fatma Özcan</a>, IBM Almaden Research Center</p>
+
+<p><strong>Title</strong>: SQL Processing in Cognitive and Large-Scale Analytical Platforms</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: Friday, March 4, 2016, 1:30pm - 2:20pm.</p>
+
+<p><strong>Abstract</strong>:  
+
+<p>
+A set of applications, such as mobile commerce, IoT, cognitive and 
+Internet applications, have given rise to a new class of analytical 
+platforms in the enterprise. These new platforms are built on scale-out 
+computing frameworks, such as Hadoop and Spark, and are polymorphic, 
+supporting multiple processing engines, which all share access to a 
+common storage, holding massive volumes of data.
+</p>
+
+<p>
+In this talk, we will examine the role of SQL data processing in these 
+new platforms. After a decade of noSQL systems, SQL continues to play a 
+significant role in the overall analytics landscape. We will start with 
+Big SQL, an SQL query processing engine over HDFS data. Then, we will 
+discuss the challenges in sharing the data, and present an architecture 
+which provides a set of common services that can be leveraged by all the 
+engines. One such service is access to all data in the enterprise, via a 
+data virtualization layer. We have implemented a data virtualization 
+solution that leverages Spark and the data sources APIs. Finally, we 
+will describe how we use an SQL engine to answer OLAP-style natural 
+language queries over a knowledge base that was synthesized from 
+unstructured and structured data sources.
+</p>
+</p>
+
+* * *
+
 <a name="sudipta_sengupta_01_29_16"></a>
 **Speaker**: [Dr. Sudipta Sengupta](http://research.microsoft.com/en-us/um/people/sudipta/), Microsoft Research
 
