@@ -182,6 +182,8 @@ queries in database transactions to improve application performance.</p>
 			<li><code>quro@ubuntu:DBx1000$ vi config.h</code>
 			<br>To specify concurrency control schemes, change <code>#define CC_ALG {ALGORITHM}</code>, where ALGORITHM is either one of 
 			    <b>NO_WAIT, DL_DETECT, MVCC, OCC</b>.
+				<br>NO_WAIT and DL_DETECT are two implementations of <b>2PL</b>. NO_WAIT aborts the transaction when it touches a locked tuple, and DL_DETECT monitors wait-for graph and aborts one transaction upon finding a cycle. For more details, check out Xiangyao's paper <a href='http://people.csail.mit.edu/yxy/pubs/p313-yu.pdf'>Staring into the Abyss: An Evaluation of
+Concurrency Control with One Thousand Cores</a>.
 			<br>To specify the total number of transactions to run for each thread, change <code>#define MAX_TXN_PER_PART</code>
 			<br>To specify the number of database client, update <code>#define THREAD_CNT</code>
 			<li>To execute the original implementation under 2PL, copy the transaction file to the <code>benchmarks</code>directory:
@@ -193,6 +195,7 @@ queries in database transactions to improve application performance.</p>
 			<code>quro@ubuntu:DBx1000$ make</code>
 			<li>Run:
 			<code>quro@ubuntu:DBx1000$ ./rundb</code>
+			<br>The program will start the database, populate it and then run the transactions under specified concurrency control scheme.
 			
 			<br><br>
 			<p><b>What to expect:</b> Each thread will run the number of transactions as specified in config.h. 
