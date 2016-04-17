@@ -81,7 +81,7 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			<font size="3.5">
 			<br>
 			<ol>
-			<li>Make sure virtualbox is installed.
+			<li>Make sure <a href='https://www.virtualbox.org/wiki/Downloads'>virtualbox</a> is installed.
 			<li>Start the VM:
 			<ul style="list-style-type:disc">
 			<li>Open virtualbox gui;
@@ -99,7 +99,7 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			<br><code>~$: vboxmanage startvm quro_test --type=headless</code> for the full VM, or
 			<br><code>~$: vboxmanage startvm quro_lite --type=headless</code> for the lite VM;
 			<li>Ssh to the VM:
-			<br><code>$ ssh -p ${PORT_NUMBER} quro@localhost</code>
+			<br><code>$ ssh -p 2345 quro@localhost</code>
 			<br>password: qurotest</p>
 			</ol>
 			</font>
@@ -128,10 +128,10 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			<li>Start MySQL server:
 			<ul style="list-style-type:circle">
 			<li><code>quro@ubuntu:~$ cd ~/mysql-5.5/mysql-5.5.45-linux2.6-x86_64/support-files</code>
-			<li><code>quro@ubuntu:~$ ./mysql-server restart</code>
+			<li><code>quro@ubuntu:~$ ./mysql.server restart</code>
 			</ul>
 
-			<li><code>quro@ubuntu:~$ cd dbt5</code>
+			<li><code>quro@ubuntu:~$ cd ~/dbt5</code>
 
 			<li>Configure the benchmark:
 			<ul style="list-style-type:circle">
@@ -141,17 +141,17 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			</ul>
 			<li>Compile and run:
 			<ul stype="list-stype-type:circle">
-			<li>The script run_by_script.py will read the configuration file, then compile and run the workload.
-			<br><code>quro@ubuntu:dbt5$ python run_by_script.py configuration.example</code>
+			<li>The script run_by_config.py will read the configuration file, then compile and run the workload.
+			<br><code>quro@ubuntu:dbt5$ python run_by_config.py configuration.example</code>
 
 			<br><font size="1.5">
 			Errors of missing libraries can be ignored, as long as the make script is able to generate binaries under /home/quro/dbt5/bin/. Some library links are missing when running make for the first time, but the script will add those links to link.txt under proper directory and recompile.
 			</font>
 			</ul>
-			<li>Build the data base:
+			<li>Build the database:
 			<br>In both VMs, the databases for all benchmarks have already been created.  
 			<br>In the full VM, for the TPCC benchmark, data for 4 and 64 warehouses is provided. In the lite VM, only data for 4 warehouses is provided.
-			<br>You can create your own VM by following the instructions below.  
+			<br>You can create your own database by following the instructions below.  
 			<br>To create the database:
 			<ul stype="list-stype-type:circle">
 			<li><code>quro@ubuntu:dbt5$ cd scripts/mysql</code>
@@ -189,7 +189,7 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 			</font>	
 
 			<li><b>What to expect:</b> The lite VM is expected to run on 16 processors and 32GB memory. The lack of computational resources will largely affect the results. Since the database and the clients are running on the same machine, it would be better to run experiments with no more than 8 clients ( which means 8 database connections). For TPC-C benchmark, when running 4 clients ( 4 database connections) on payment transaction, reordering should have ~2x throughput comparing to the original implementation.
-			<br>To get the numbers showed in the paper, a large mahine is required. Welcome to run the experiments on your own machine and compare the numbers.
+			<br>To get the numbers showed in the paper, a large mahine is required. You are welcome to run the experiments on your own machine and compare the numbers.
 
 			</ol>
 			</font>
@@ -212,12 +212,12 @@ Performance [VLDB 2016]</a> [<a href="http://homes.cs.washington.edu/~congy/reor
 
  			<ul stype="list-stype-type:circle"></ul>
 			<li>Only quro binary is provided in the ligher VM, and a complete llvm source code is provided in the full VM.
-			<br>checkuo <code>~/quro/README.rd</code> for instructions to compile and run quro on your own machine. 
+			<br>checkout <code>~/quro/README.rd</code> for instructions to compile and run quro on your own machine. 
 
 			<ul stype="list-stype-type:circle"></ul>
 			<li>Connecting to external ILP solvers is still under construction. The version of Quro on the provided VM uses a simple heuristic to reorder all statements instead of using an ILP solver, but it can generate input for ILP solver and let it compute the final order of queries/units. To use the external ILP solver, 
-		 	<br>checkout <code>~/lpsolver/lp_solve_5.5/quro/QURO_readme</code> for instructions to run lpsolver, or
-			<br>checkout <code>~/gurobi/QURO_readme</code> for instructions to run gurobi.
+			<br>checkout <code>~/ILPsolvers/code/lp_solve_5.5/quro/QURO_readme</code> for instructions to run lpsolver, or
+			<br>checkout <code>~/ILPsolvers/code/gurobi/QURO_readme</code> for instructions to run gurobi.
 			</ol>
 			</font>
 

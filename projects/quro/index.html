@@ -81,11 +81,13 @@ queries in database transactions to improve application performance.</p>
 			<font size="3.5">
 			<br>
 			<ol>
-			<li>Make sure virtualbox is installed.
+			<li>Make sure <a href='https://www.virtualbox.org/wiki/Downloads'>virtualbox</a> is installed.
 			<li>Import and start the VM:
 			<ul style="list-style-type:disc">
 			<li><code>VBoxManage import quro_lite.ova</code></li>
 			<li><code>VBoxManage startvm quro_lite --type headless</code> (username: quro, password: qurotest)</li>
+			<li>Login to the VM via VirtualBox GUI, or:
+			<br><code>ssh -p 2345 quro@localhost</code></li>
 			</ul>
 			</ol>
 			</font>
@@ -116,7 +118,7 @@ queries in database transactions to improve application performance.</p>
 			<li><code>quro@ubuntu:mysql-5.5/mysql-5.5.45-linux2.6-x86_64/support-files$ ./mysql.server restart</code>
 			</ul>
 
-			<li><code>quro@ubuntu:~$ cd dbt5</code>
+			<li><code>quro@ubuntu:~$ cd ~/dbt5</code>
 
 			<li>Configure the benchmark:
 			<ul style="list-style-type:circle">
@@ -126,8 +128,8 @@ queries in database transactions to improve application performance.</p>
 			</ul>
 			<li>Compile and run:
 			<ul stype="list-stype-type:circle">
-			<li>The script run_by_script.py will read the configuration file, then compile and run the workload.
-			<br><code>quro@ubuntu:dbt5$ python run_by_script.py configuration.example</code>
+			<li>The script run_by_config.py will read the configuration file, then compile and run the workload.
+			<br><code>quro@ubuntu:dbt5$ python run_by_config.py configuration.example</code>
 			</ul>
 			<br>Results will be saved in ~/results/{BENCHMARK}_{CONFIGURATIONS}/. CONFIGURATIONS include transaction name, implementation type (original/reordered), number of server threads, total running time, etc. Under the directory, the performance related data (number of commits/aborts, total running time for each thread, etc) can be found in ${BENCHMARK}/${BENCHMARK}.out.
 			<br><br>For a single run with a certain number of clients, the application will be running for 5 min, and then sleep for 2 min to wait for file writing and data collecting. The total running time depends on the number of runs. For example, if you specify "CONNECTIONS" in the configuration file to be the sequence "2 4 8 16", the script will run the workload for 4 runs, on 2, 4, 8, 16 clients. So altogether it takes 28 min to finish. 
@@ -146,7 +148,7 @@ queries in database transactions to improve application performance.</p>
 							 <code>quro@ubuntu:scripts$ ./bid-mysql-build-db</code>
 			</ul>
 			-->
-			<br><br>The database for TPC-C, TPC-E and BID has already been created on the VM. Checkout <a href="http://db.cs.washington.edu/projects/quro/detailed_instr">detailed instructions</a> for more instructions on populating your ownn database, and other instructions including running stored-procedure implementation.
+			<br><br>The database for TPC-C, TPC-E and BID has already been created on the VM. Checkout <a href="http://db.cs.washington.edu/projects/quro/detailed_instr">detailed instructions</a> for more instructions on populating your own database, and other instructions including running stored-procedure implementation.
 
 			<br><br><b>What to expect:</b> The lite VM is expected to run on 16 processors and 32GB memory. The lack of computational resources will largely affect the results. Since the database and the clients are running on the same machine, it would be better to run experiments with no more than 8 clients (8 database connections). For TPC-C benchmark, when running 4 clients on payment transaction, reordering should have ~2x throughput comparing to the original implementation.
 				
@@ -167,8 +169,8 @@ queries in database transactions to improve application performance.</p>
 			<br>The reordered transaction code will be in <i>output.cpp</i> under the same directory where you run the quro_reorder script.
  			<ul stype="list-stype-type:circle"></ul>
 			<li>Connecting to external ILP solvers is still under construction. The version of Quro on the provided VM uses a simple heuristic to reorder all statements instead of using an ILP solver, but it can generate input for ILP solver and let it compute the final order of queries/units. To use the external ILP solver, 
-		 	<br>checkout <code>~/lpsolver/lp_solve_5.5/quro/QURO_readme</code> for instructions to run lpsolver, or
-			<br>checkout <code>~/gurobi/QURO_readme</code> for instructions to run gurobi.
+		 	<br>checkout <code>~/ILPsolvers/code/lp_solve_5.5/quro/QURO_readme</code> for instructions to run lpsolver, or
+			<br>checkout <code>~/ILPsolvers/code/gurobi/QURO_readme</code> for instructions to run gurobi.
 			</ol>
 			</font>
 
