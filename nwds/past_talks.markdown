@@ -6,6 +6,21 @@ id: "nwds_past_talks"
 ---
 
 #  Past Talks
+<p><a name="angel_vina_05_06_16"></a>
+<strong>Speaker</strong>: Angel Viña, CEO, Denodo Technologies</p>
+
+<p><strong>Title</strong>: Harnessing Data Virtualization for Data Management and High Performance Data Delivery with Hybrid Data Infrastructure</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: Friday, May 6, 2016, 11 - 11:50am.</p>
+
+<p><strong>Abstract</strong>:
+Data Virtualization has evolved very rapidly in the past decade on the premise of the ever growing diversity of data assets in the enterprise ecosystem. The list of technology options for storing data has never been richer: DWA, HDFS, JSON, NoSQL databases, BLOB storage, Spark and more, all adding new data management challenges to the existing ones specific to on-premises and cloud-based conventional data sources.  This increasing diversity has helped to consolidate the role of data virtualization as the rmediator of choice for interfacing with all data containers in the physical data layer. Overall, the goal of a data virtualization software is to enable a data management and delivery capability for the seamless integration of structured and unstructured data across multiple systems in real time and with high performance. In this talk, we will review the progress made along the Data Virtualization roadmap that produced such an effective and comprehensive semantic layer satisfying the requirements of modern enterprise data initiatives. 
+</p>
+
 
 <p><a name="xin_dong_03_31_16"></a>
 <strong>Speaker</strong>: <a href="http://lunadong.com/">Xin Luna Dong</a>, Google</p>

@@ -15,22 +15,6 @@ One of our main activities is a talk series with a variety of distinguished spea
 ___
 
 ##  Upcoming Talks
-<p><a name="angel_vina_05_06_16"></a>
-<strong>Speaker</strong>: Angel Viña, CEO, Denodo Technologies</p>
-
-<p><strong>Title</strong>: Harnessing Data Virtualization for Data Management and High Performance Data Delivery with Hybrid Data Infrastructure</p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
-
-<p><strong>When</strong>: Friday, May 6, 2016, 11 - 11:50am.</p>
-
-<p><strong>Abstract</strong>:
-Data Virtualization has evolved very rapidly in the past decade on the premise of the ever growing diversity of data assets in the enterprise ecosystem. The list of technology options for storing data has never been richer: DWA, HDFS, JSON, NoSQL databases, BLOB storage, Spark and more, all adding new data management challenges to the existing ones specific to on-premises and cloud-based conventional data sources.  This increasing diversity has helped to consolidate the role of data virtualization as the rmediator of choice for interfacing with all data containers in the physical data layer. Overall, the goal of a data virtualization software is to enable a data management and delivery capability for the seamless integration of structured and unstructured data across multiple systems in real time and with high performance. In this talk, we will review the progress made along the Data Virtualization roadmap that produced such an effective and comprehensive semantic layer satisfying the requirements of modern enterprise data initiatives. 
-</p>
-
-
 <p><a name="daisy_wang_05_16_16"></a>
 <strong>Speaker</strong>: <a href="http://dsr.cise.ufl.edu/daisyw/">Daisy Zhe Wang</a>, UFL</p>
 
@@ -51,6 +35,24 @@ Daisy Zhe Wang is an Assistant Professor in the CISE department at the Universit
 </p>
 
 
+
+<p><a name="craig_chambers_05_18_16"></a>
+<strong>Speaker</strong>: <a href="http://research.google.com/pubs/author4707.html">Craig Chambers</a>, Google</p>
+
+<p><strong>Title</strong>: Flume/Dataflow: Easy, Efficient Parallel Data Processing </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, Gates Commons.  </p>
+
+<p><strong>When</strong>: Wednesday, May 18, 2016, 3:30pm - 4:20pm.</p>
+
+<p><strong>Abstract</strong>: 
+In this talk I'll describe how the line of work starting with Flume and continuing with Dataflow strives to enable parallel data processing pipelines that are both easy to express and efficient to execute, ideally with no user configuring or tuning at all.
+</p>
+
+
+
 ___
 
 ## Past Talks
@@ -59,7 +61,11 @@ Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past
 
 
 #### Spring 2016
-*   [Xin Luna Dong](http://lunadong.com/), Google [[abstract](past_talks.html#xin_dong_03_31_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0B801X-XPoh5IXzdmUk1BVUlFTlE/view?usp=sharing)]
+*   Angel Viña, CEO, Denodo Technologies  
+    [[abstract](past_talks.html#angel_vina_05_06_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJSm02YUdMeGZYODg/view?usp=sharing_eid&ts=573a2953)]
+    
+*   [Xin Luna Dong](http://lunadong.com/), Google 
+    [[abstract](past_talks.html#xin_dong_03_31_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0B801X-XPoh5IXzdmUk1BVUlFTlE/view?usp=sharing)]
 
 #### Winter 2016
 *   [Fatma Özcan](http://researcher.ibm.com/researcher/view.php?person=us-fozcan), IBM Almaden Research Center [[abstract](past_talks.html#fatma_ozcan_03_4_16)]
