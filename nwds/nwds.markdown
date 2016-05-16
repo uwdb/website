@@ -61,8 +61,7 @@ Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past
 
 
 #### Spring 2016
-*   Angel Viña, CEO, Denodo Technologies [[abstract](past_talks.html#angel_vina_05_06_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJSm02YUdMeGZYODg/view?usp=sharing_eid&ts=573a2953)]
-    
+*   Angel Viña, CEO, Denodo Technologies [[abstract](past_talks.html#angel_vina_05_06_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJSm02YUdMeGZYODg/view?usp=sharing_eid&ts=573a2953)]    
 *   [Xin Luna Dong](http://lunadong.com/), Google 
     [[abstract](past_talks.html#xin_dong_03_31_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0B801X-XPoh5IXzdmUk1BVUlFTlE/view?usp=sharing)]
 
