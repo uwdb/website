@@ -6,6 +6,43 @@ id: "nwds_past_talks"
 ---
 
 #  Past Talks
+<p><a name="craig_chambers_05_18_16"></a>
+<strong>Speaker</strong>: <a href="http://research.google.com/pubs/author4707.html">Craig Chambers</a>, Google</p>
+
+<p><strong>Title</strong>: Flume/Dataflow: Easy, Efficient Parallel Data Processing </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, Gates Commons.  </p>
+
+<p><strong>When</strong>: Wednesday, May 18, 2016, 3:30pm - 4:20pm.</p>
+
+<p><strong>Abstract</strong>: 
+In this talk I'll describe how the line of work starting with Flume and continuing with Dataflow strives to enable parallel data processing pipelines that are both easy to express and efficient to execute, ideally with no user configuring or tuning at all.
+</p>
+
+
+
+<p><a name="daisy_wang_05_16_16"></a>
+<strong>Speaker</strong>: <a href="http://dsr.cise.ufl.edu/daisyw/">Daisy Zhe Wang</a>, UFL</p>
+
+<p><strong>Title</strong>: Archimedes: A Probabilistic Master Knowledge Base System </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: Monday, May 16, 2016, 4:30pm - 5:20pm.</p>
+
+<p><strong>Abstract</strong>: 
+In this talk, I discuss novel system components and algorithms that we are designing and building at UF to enable a probabilistic master Knowledge Base (KB) system. In the context of the Archimedes project, I will discuss a spectrum of research directions we are exploring at the UF Data Science Research (DSR) group including: query-driven and scalable statistical inference, probabilistic data models, state-parallel and data parallel data analytics framework, multimodal (e.g., text, image) information extraction, and KB schema enrichment. This line of research of supporting analytics over automatically extracted knowledge bases is of high impact for many applications from QA systems, situational awareness to medical informatics. Other related projects include DeepDive from Stanford, YAGO from Max Planck Institute, NELL from CMU as well as WikiData/Freebase and Google Knowledge Vault.
+</p>
+
+<p><strong>Bio</strong>:
+Daisy Zhe Wang is an Assistant Professor in the CISE department at the University of Florida. She is the Director of the Data Science Research Lab at UF. She obtained her Ph.D. degree from the EECS Department at the University of California, Berkeley in 2011 and her Bachelor's degree from the ECE Department at the University of Toronto in 2005. At Berkeley, she was a member of the Database Group and the AMP/RAD Lab. She is particularly interested in bridging scalable data management and processing systems with probabilistic models and statistical methods. She currently pursues research topics such as probabilistic databases, probabilistic knowledge bases, large-scale inference engines, query-driven interactive machine learning, and crowd assisted machine learning. She received Google Faculty Award in 2013. Her research is currently funded by NSF, DARPA, Google, Amazon, Pivotal, Greenplum/EMC, Sandia National Labs and Harris Corporation.
+</p>
+
+
 <p><a name="angel_vina_05_06_16"></a>
 <strong>Speaker</strong>: Angel Viña, CEO, Denodo Technologies</p>
 

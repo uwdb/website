@@ -15,40 +15,36 @@ One of our main activities is a talk series with a variety of distinguished spea
 ___
 
 ##  Upcoming Talks
-<p><a name="daisy_wang_05_16_16"></a>
-<strong>Speaker</strong>: <a href="http://dsr.cise.ufl.edu/daisyw/">Daisy Zhe Wang</a>, UFL</p>
 
-<p><strong>Title</strong>: Archimedes: A Probabilistic Master Knowledge Base System </p>
+<p><a name="david_chu_05_27_16"></a>
+<strong>Speaker</strong>: <a href="http://www.bawakayi.com/davidchu/">David Chu</a>, Microsoft Research</p>
+
+<p><string>Title</strong>:
+Immersive Virtual Reality on Mobile Devices via Compute Offload and Caching
+</p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
 Paul Allen Center, CSE 305.  </p>
 
-<p><strong>When</strong>: Monday, May 16, 2016, 4:30pm - 5:20pm.</p>
+<p><strong>When</strong>: 
+Friday, May 27, 2016, 11am - 12pm.</p>
 
 <p><strong>Abstract</strong>: 
-In this talk, I discuss novel system components and algorithms that we are designing and building at UF to enable a probabilistic master Knowledge Base (KB) system. In the context of the Archimedes project, I will discuss a spectrum of research directions we are exploring at the UF Data Science Research (DSR) group including: query-driven and scalable statistical inference, probabilistic data models, state-parallel and data parallel data analytics framework, multimodal (e.g., text, image) information extraction, and KB schema enrichment. This line of research of supporting analytics over automatically extracted knowledge bases is of high impact for many applications from QA systems, situational awareness to medical informatics. Other related projects include DeepDive from Stanford, YAGO from Max Planck Institute, NELL from CMU as well as WikiData/Freebase and Google Knowledge Vault.
+<p>
+Virtual reality head-mounted displays (VR HMDs) are attracting users with the promise of full sensory immersion in virtual environments. Creating the illusion of immersion on HMDs requires high framerate, low latency, and high visual quality --- a tall order for mobile device-based VR approaches. 
+</p>
+
+<p>
+In this talk, I will discuss two systems we have built to overcome the inherent limitations of mobile VR.  The first, Outatime, focuses on compute offload via app streaming, an emerging app execution model in which remote rendering servers stream interactive video to thin clients. While servers dwarf mobile devices in compute power, the key challenge is coping with network latency.  I will discuss how we have employed speculative execution to overcome this challenge on high-quality VR games.
+</p>
+
+<p>
+The second system, Flashback, aggressively precomputes all possible images that a VR user might encounter well ahead of time.  During runtime, Flashback indexes into the device's storage hierarchy to quickly lookup images that the user ought to be seeing. Flashback not only works for static scenes, but also for dynamic scenes with moving and animated objects.  We observe substantial improvements in framerate, latency and energy consumption. In some cases, it even delivers better framerate and responsiveness than a tethered high-end computer.
 </p>
 
 <p><strong>Bio</strong>:
-Daisy Zhe Wang is an Assistant Professor in the CISE department at the University of Florida. She is the Director of the Data Science Research Lab at UF. She obtained her Ph.D. degree from the EECS Department at the University of California, Berkeley in 2011 and her Bachelor's degree from the ECE Department at the University of Toronto in 2005. At Berkeley, she was a member of the Database Group and the AMP/RAD Lab. She is particularly interested in bridging scalable data management and processing systems with probabilistic models and statistical methods. She currently pursues research topics such as probabilistic databases, probabilistic knowledge bases, large-scale inference engines, query-driven interactive machine learning, and crowd assisted machine learning. She received Google Faculty Award in 2013. Her research is currently funded by NSF, DARPA, Google, Amazon, Pivotal, Greenplum/EMC, Sandia National Labs and Harris Corporation.
-</p>
-
-
-
-<p><a name="craig_chambers_05_18_16"></a>
-<strong>Speaker</strong>: <a href="http://research.google.com/pubs/author4707.html">Craig Chambers</a>, Google</p>
-
-<p><strong>Title</strong>: Flume/Dataflow: Easy, Efficient Parallel Data Processing </p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Computer Science and Engineering Department.<br>
-Paul Allen Center, Gates Commons.  </p>
-
-<p><strong>When</strong>: Wednesday, May 18, 2016, 3:30pm - 4:20pm.</p>
-
-<p><strong>Abstract</strong>: 
-In this talk I'll describe how the line of work starting with Flume and continuing with Dataflow strives to enable parallel data processing pipelines that are both easy to express and efficient to execute, ideally with no user configuring or tuning at all.
+David Chu is a researcher at Microsoft Research. His research interests are in mobile systems, cyber-physical systems, ubiquitous computing, applied machine learning and virtual reality.  The main thrust of David's current work is toward low-latency perception-aligned mobile systems. He received the Best Paper award in MobiSys 2015, the Best Paper nomination in MobiSys 2012, the Best Demo award in MobiSys 2014, and the Best Demo nomination in SenSys 2011.  David's research has appeared on multiple occasions in sources such as TechCrunch, PC Magazine, GameSpot, Ars Technia, Slashdot, The Verge, Engadget and Wired. At Microsoft, David has contributed to Windows and Windows Phone, Xbox and HoloLens. David received his B.S. from the University of Virginia in 2004; and his M.S. and Ph.D. from the University of California, Berkeley in 2005 and 2009, respectively, while an NSF Graduate Research Fellow.
 </p>
 
 
@@ -61,6 +57,9 @@ Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past
 
 
 #### Spring 2016
+
+*   Craig Chambers, Google [[abstract](past_talks.html#craig_chambers_05_18_16)]
+*   Daisy Zhe Wang, UFL [[abstract](past_talks.html#daisy_wang_05_16_16)]
 *   Angel Viña, CEO, Denodo Technologies [[abstract](past_talks.html#angel_vina_05_06_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJSm02YUdMeGZYODg/view?usp=sharing_eid&ts=573a2953)]    
 *   [Xin Luna Dong](http://lunadong.com/), Google 
     [[abstract](past_talks.html#xin_dong_03_31_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0B801X-XPoh5IXzdmUk1BVUlFTlE/view?usp=sharing)]
