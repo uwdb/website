@@ -13,7 +13,7 @@ id: "people"
   PipeGen</h1>
   <p>Data Pipe Generation for Hybrid Analytics</p>
   <p>
-  	<a class="btn btn-primary btn-lg label-primary" href="https://arxiv.org/pdf/1605.01664v2.pdf" role="button" style="width: 180px; margin-right: 1em;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
+  	<a class="btn btn-primary btn-lg label-primary" href="https://arxiv.org/pdf/1605.01664v2.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
   	<a class="btn btn-primary btn-lg label-default" href="#" role="button" style="width: 180px">Downloads<br /><small>(coming soon!)</small></a>
   </p>
 </div>
@@ -28,7 +28,7 @@ To achieve high performance, PipeGen leverages the ability of all DBMSs to expor
 
 ### Adding a Data Pipe to a DBMS
 
-Using PipeGen is easy.  First, create a configuration file for the database you wish to modify.  For example, we modify the [Myria DBMS](http://myria.cs.washington.edu) using the following (abbreviated) metadata (abbreviated for readability; see [myria.yml](https://github.com/uwdb/pipegen/blob/master/systems/myria.yaml)):
+Using PipeGen is easy.  First, create a configuration file for the database you wish to modify.  For example, we modify the [Myria DBMS](http://myria.cs.washington.edu) using the following metadata (abbreviated for readability; see [myria.yml](https://github.com/uwdb/pipegen/blob/master/systems/myria.yaml)):
 
 ```YAML
 name: Myria
