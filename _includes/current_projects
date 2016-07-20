@@ -9,4 +9,5 @@
 {% include project name="Data Eco$y$tem" caption="Data management and pricing in the cloud" image="data-ecosystem.png" link="http://cloud-data-pricing.cs.washington.edu/" %}
 {% include project name="QURO" caption="Query reordering in OLTP transactions" image="quro.jpg" link="http://db.cs.washington.edu/projects/quro" %}
 {% include project name="PipeGen" caption="Data Pipe Generation for Hybrid Analytics" image="pipegen.png" link="http://db.cs.washington.edu/projects/pipegen" %}
+{% include project name="DopCert" caption="Formally verify query optimizations" image="dopcert_logo.png" link="http://dopcert.cs.washington.edu" %}
 </div>
