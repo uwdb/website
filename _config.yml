@@ -1,4 +1,4 @@
 name: DB group
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 baseurl: http://db.cs.washington.edu
