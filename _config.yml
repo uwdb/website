@@ -1,4 +1,4 @@
 name: DB group
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 baseurl: http://db.cs.washington.edu
