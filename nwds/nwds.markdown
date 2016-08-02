@@ -31,7 +31,6 @@ Paul Allen Center, CSE 305.  </p>
 Friday, May 27, 2016, 11am - 12pm.</p>
 
 <p><strong>Abstract</strong>: 
-<p>
 Virtual reality head-mounted displays (VR HMDs) are attracting users with the promise of full sensory immersion in virtual environments. Creating the illusion of immersion on HMDs requires high framerate, low latency, and high visual quality --- a tall order for mobile device-based VR approaches. 
 </p>
 
@@ -45,6 +44,7 @@ The second system, Flashback, aggressively precomputes all possible images that 
 
 <p><strong>Bio</strong>:
 David Chu is a researcher at Microsoft Research. His research interests are in mobile systems, cyber-physical systems, ubiquitous computing, applied machine learning and virtual reality.  The main thrust of David's current work is toward low-latency perception-aligned mobile systems. He received the Best Paper award in MobiSys 2015, the Best Paper nomination in MobiSys 2012, the Best Demo award in MobiSys 2014, and the Best Demo nomination in SenSys 2011.  David's research has appeared on multiple occasions in sources such as TechCrunch, PC Magazine, GameSpot, Ars Technia, Slashdot, The Verge, Engadget and Wired. At Microsoft, David has contributed to Windows and Windows Phone, Xbox and HoloLens. David received his B.S. from the University of Virginia in 2004; and his M.S. and Ph.D. from the University of California, Berkeley in 2005 and 2009, respectively, while an NSF Graduate Research Fellow.
+</p>
 
 ---
 
