@@ -48,7 +48,6 @@ David Chu is a researcher at Microsoft Research. His research interests are in m
 </p>
 
 
-
 ---
 
 ## Past Talks
