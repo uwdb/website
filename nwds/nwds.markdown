@@ -12,7 +12,7 @@ The goal of NWDS is to bring together researchers and practitioners in the field
 
 One of our main activities is a talk series with a variety of distinguished speakers from academia and industry. These talks are also part of the **Microsoft Database Lecture Series** (sponsored by Microsoft). This quarter's talks are organized by [Alvin](http://www.cs.washington.edu/homes/akcheung/).
 
-___
+---
 
 ##  Upcoming Talks
 
