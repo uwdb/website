@@ -19,7 +19,7 @@ ___
 <p><a name="david_chu_05_27_16"></a>
 <strong>Speaker</strong>: <a href="http://www.bawakayi.com/davidchu/">David Chu</a>, Microsoft Research</p>
 
-<p><string>Title</strong>:
+<p><strong>Title</strong>:
 Immersive Virtual Reality on Mobile Devices via Compute Offload and Caching
 </p>
 
