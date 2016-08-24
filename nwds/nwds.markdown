@@ -16,35 +16,7 @@ One of our main activities is a talk series with a variety of distinguished spea
 
 ##  Upcoming Talks
 
-<p><a name="david_chu_05_27_16"></a>
-<strong>Speaker</strong>: <a href="http://www.bawakayi.com/davidchu/">David Chu</a>, Microsoft Research</p>
-
-<p><strong>Title</strong>:
-Immersive Virtual Reality on Mobile Devices via Compute Offload and Caching
-</p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
-
-<p><strong>When</strong>: 
-Friday, May 27, 2016, 11am - 12pm.</p>
-
-<p><strong>Abstract</strong>: 
-Virtual reality head-mounted displays (VR HMDs) are attracting users with the promise of full sensory immersion in virtual environments. Creating the illusion of immersion on HMDs requires high framerate, low latency, and high visual quality --- a tall order for mobile device-based VR approaches. 
-</p>
-
-<p>
-In this talk, I will discuss two systems we have built to overcome the inherent limitations of mobile VR.  The first, Outatime, focuses on compute offload via app streaming, an emerging app execution model in which remote rendering servers stream interactive video to thin clients. While servers dwarf mobile devices in compute power, the key challenge is coping with network latency.  I will discuss how we have employed speculative execution to overcome this challenge on high-quality VR games.
-</p>
-
-<p>
-The second system, Flashback, aggressively precomputes all possible images that a VR user might encounter well ahead of time.  During runtime, Flashback indexes into the device's storage hierarchy to quickly lookup images that the user ought to be seeing. Flashback not only works for static scenes, but also for dynamic scenes with moving and animated objects.  We observe substantial improvements in framerate, latency and energy consumption. In some cases, it even delivers better framerate and responsiveness than a tethered high-end computer.
-</p>
-
-<p><strong>Bio</strong>:
-David Chu is a researcher at Microsoft Research. His research interests are in mobile systems, cyber-physical systems, ubiquitous computing, applied machine learning and virtual reality.  The main thrust of David's current work is toward low-latency perception-aligned mobile systems. He received the Best Paper award in MobiSys 2015, the Best Paper nomination in MobiSys 2012, the Best Demo award in MobiSys 2014, and the Best Demo nomination in SenSys 2011.  David's research has appeared on multiple occasions in sources such as TechCrunch, PC Magazine, GameSpot, Ars Technia, Slashdot, The Verge, Engadget and Wired. At Microsoft, David has contributed to Windows and Windows Phone, Xbox and HoloLens. David received his B.S. from the University of Virginia in 2004; and his M.S. and Ph.D. from the University of California, Berkeley in 2005 and 2009, respectively, while an NSF Graduate Research Fellow.
-</p>
+Stay tuned for the fall talks!
 
 ---
 
@@ -55,6 +27,7 @@ Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past
 
 #### Spring 2016
 
+*   David Chu, Microsoft Research [[abstract](past_talks.html#david_chu_05_27_16)]
 *   [Craig Chambers](http://research.google.com/pubs/author4707.html), Google [[abstract](past_talks.html#craig_chambers_05_18_16)]
 *   [Daisy Zhe Wang](http://dsr.cise.ufl.edu/daisyw/), UFL [[abstract](past_talks.html#daisy_wang_05_16_16)]
 *   Angel Viña, CEO, Denodo Technologies [[abstract](past_talks.html#angel_vina_05_06_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJSm02YUdMeGZYODg/view?usp=sharing_eid&ts=573a2953)]    
