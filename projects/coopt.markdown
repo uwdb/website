@@ -1,9 +1,8 @@
----
-layout: page
-title: Understanding and Fixing Performance Issues in Data-Driven Applications 
-id: "projects"
----
-
-# Understanding and Fixing Performance Issues in Data-Driven Applications
-
-Under Construction
+<html>
+<head>
+<meta http-equiv="Refresh" content="0; url=http://holistic-opt.github.io/" />
+</head>
+<body>
+<p>Please follow <a href="http://holistic-opt.github.io/">this link</a>.</p>
+</body>
+</html>
