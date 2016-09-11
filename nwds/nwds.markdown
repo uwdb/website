@@ -41,7 +41,7 @@ Friday, November 4, 2016.</p>
 - - -
 
 <p><a name="Dharma_Shukla_11_18_16"></a>
-<strong>Speaker</strong>: <ahref="http://www.dharmashukla.com/">Dharma Shukla</a>, Microsoft</p>
+<strong>Speaker</strong>: <a href="http://www.dharmashukla.com/">Dharma Shukla</a>, Microsoft</p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
