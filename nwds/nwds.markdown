@@ -16,9 +16,40 @@ One of our main activities is a talk series with a variety of distinguished spea
 
 ##  Upcoming Talks
 
-Stay tuned for the fall talks!
+<p><a name="Immanuel_Trummer_10_14_16"></a>
+<strong>Speaker</strong>: <a href="http://www.itrummer.org/">Immanuel Trummer</a>, Cornell University</p>
 
----
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: 
+Friday, October 14, 2016.</p>
+
+- - -
+
+<p><a name="Olga_Papaemmanouil_11_4_16"></a>
+<strong>Speaker</strong>: <a href="http://www.cs.brandeis.edu/~olga/home.html">Olga Papaemmanouil</a>, Brandeis University</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: 
+Friday, November 4, 2016.</p>
+
+- - -
+
+<p><a name="Dharma_Shukla_11_18_16"></a>
+<strong>Speaker</strong>: Dharma Shukla, Microsoft</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: 
+Friday, November 18, 2016.</p>
+
 
 ##  Past Talks
 
