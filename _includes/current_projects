@@ -4,7 +4,7 @@
 {% include project name="AstroDB" caption="An inter-disciplinary collaboration for new methods and tools for Big Data Astronomy" image="astrodb.png" link=astrodburl %}
 {% include project name="SqlShare" caption="Database-as-a-Service for High-Variety Data" image="sqlshare.png" link="https://uwescience.github.io/sqlshare/" %}
 {% include project name="Probabilistic Databases" caption="Large scale probabilistic inference using database technology" image="probabilistic-databases.png" link="http://homes.cs.washington.edu/~suciu/project-querycompilation.html" %}
-{% include project name="" caption=“A Declarative Framework for Drawing Causal Inference from Big Data" image="causality.jpg" link="http://db.cs.washington.edu/projects/causality/" %}
+{% include project name=“ZaliQL” caption=“A Declarative Framework for Drawing Causal Inference from Big Data" image="causality.jpg" link="http://db.cs.washington.edu/projects/causality/" %}
 {% include project name="UW Branch of SciDB" caption="Parallel distributed array database engine" image="scidb.png" link="http://scidb.cs.washington.edu/" %}
 {% include project name="Data Eco$y$tem" caption="Data management and pricing in the cloud" image="data-ecosystem.png" link="http://cloud-data-pricing.cs.washington.edu/" %}
 {% include project name="QURO" caption="Query reordering in OLTP transactions" image="quro.jpg" link="http://db.cs.washington.edu/projects/quro" %}
