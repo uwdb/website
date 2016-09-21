@@ -14,7 +14,7 @@ id: "projects"
   <p>Data Pipe Generation for Hybrid Analytics</p>
   <p>
   	<a class="btn btn-primary btn-lg label-primary" href="https://arxiv.org/pdf/1605.01664v2.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
-  	<a class="btn btn-primary btn-lg label-default" href="https://github.com/uwdb/pipegen" role="button" style="width: 180px">Downloads<br /><small></small></a>
+  	<a class="btn btn-primary btn-lg label-default" href="https://github.com/uwdb/pipegen" role="button" style="width: 180px"><span style="position: relative; top:10px">Source Code</span><br/><small>&nbsp;</small></a>
   </p>
 </div>
 
@@ -36,14 +36,10 @@ version: 51
 classPaths:
   - build/libs/*
 instrumentation:
-  port: 7780
-  timeout: 60
-  trace: $DIR/templates/ImportTracer.java
-  agent: $DIR/lib/btrace-agent.jar
   classes: .*GradleWorkerMain
 optimization:
-  excludeClassPaths:
-    - build/libs/scala*.jar
+  classPaths:
+    - build/libs/myria-0.1.jar
 datapipe:
   import: ./gradlew -Dtest.single=FileScanTest test
   export: ./gradlew -Dtest.single=DataSinkTest cleanTest test
