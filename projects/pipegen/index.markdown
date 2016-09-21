@@ -14,7 +14,7 @@ id: "projects"
   <p>Data Pipe Generation for Hybrid Analytics</p>
   <p>
   	<a class="btn btn-primary btn-lg label-primary" href="https://arxiv.org/pdf/1605.01664v2.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
-  	<a class="btn btn-primary btn-lg label-primary" href="https://github.com/uwdb/pipegen" role="button" style="width: 180px"><span style="position: relative; top:10px">Source Code</span><br/><small>&nbsp;</small></a>
+  	<a class="btn btn-primary btn-lg label-primary" href="https://github.com/uwdb/pipegen" role="button" style="width: 180px"><span style="position: relative; top:10px">Get the Code</span><br/><small>&nbsp;</small></a>
   </p>
 </div>
 
