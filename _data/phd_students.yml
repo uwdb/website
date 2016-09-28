@@ -13,6 +13,11 @@
   website: http://homes.cs.washington.edu/~eagribko/
   image: eric.jpg
 
+- name: Helga Guðmundsdóttir
+  nickname: Helga
+  website: http://helga.xyz
+  image: helga.jpg
+
 - name: Brandon Haynes
   nickname: Brandon
   website: http://homes.cs.washington.edu/~bhaynes/
@@ -37,6 +42,11 @@
   nickname: Shrainik
   website: http://homes.cs.washington.edu/~shrainik/
   image: shrainik.jpg
+
+- name: Tomer Kaftan
+  nickname: Tomer
+  website: https://www.linkedin.com/in/tomerkaftan
+  image: tomer.jpg
 
 - name: Paris Koutris
   nickname: Paris
