@@ -117,7 +117,7 @@ _Principles of Distributed Database Systems, 2nd ed._
 ### Query Execution
 
 * G. Graefe.
-  _Query Evaluation Techniques for Large Databases._
+  [_Query Evaluation Techniques for Large Databases._](http://dl.acm.org/citation.cfm?id=152611)
   ACM Computing Surveys 25(2), 1993, pp. 73-170.
   * (Sections 1-5)
 * A. Ailamaki, D. J. DeWitt, M. D. Hill, D. A. Wood.
@@ -144,7 +144,7 @@ VLDB 1999.
 ### Sampling, Approximate Query Processing, Database Statistics
 
 * Graham Cormode, Minos N. Garofalakis, Peter J. Haas, Chris Jermaine.
-  _Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches._
+  [_Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches._](db.ucsd.edu/static/Synopses.pdf)
   Foundations and Trends in Databases 4(1-3): 1-294 (2012)
   * Chapters 2 and 3
 
