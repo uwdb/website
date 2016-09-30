@@ -76,7 +76,7 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
   Morgan Claypool Publishers 2010
   * Main concepts and techniques in chapters 2 and 4.
 * R. Agrawal, R. Srikant.
-  _Fast Algorithms for Mining Association Rules in Large Databases._
+  [_Fast Algorithms for Mining Association Rules in Large Databases._](rakesh.agrawal-family.com/papers/vldb94apriori.pdf)
   VLDB 1994.
 
 
@@ -95,7 +95,7 @@ _Database and Knowledge Base Systems, vol. I._
   _Database and Knowledge Base Systems, vol. II._
   * Chapters 12 (Top-Down Evaluation), 13 (Magic Sets), 14 (Containment).
 * M. Y. Vardi.
-  _Constraint Satisfaction and Database Theory: A Tutorial._
+  [_Constraint Satisfaction and Database Theory: A Tutorial._](http://delivery.acm.org/10.1145/340000/335209/p76-vardi.pdf?ip=205.175.119.177&id=335209&acc=ACTIVE%20SERVICE&key=B63ACEF81C6334F5%2EF43F328D6C8418D0%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=674983630&CFTOKEN=35587064&__acm__=1475242631_7f2103507fc190ff06e4ec5055762f7e)
   PODS 2000, pp.  76-5.
 
 
@@ -121,24 +121,24 @@ _Principles of Distributed Database Systems, 2nd ed._
   ACM Computing Surveys 25(2), 1993, pp. 73-170.
   * (Sections 1-5)
 * A. Ailamaki, D. J. DeWitt, M. D. Hill, D. A. Wood.
-_DBMSs on a Modern Processor: Where Does Time Go?_
+[_DBMSs on a Modern Processor: Where Does Time Go?_](www.vldb.org/conf/1999/P28.pdf)
 VLDB 1999.
 
 
 ### Query Optimization
 
 * S. Chaudhuri.
-  _An Overview of Query Optimization in Relational Systems._
+  [_An Overview of Query Optimization in Relational Systems._](cs.stanford.edu/people/chrismre/cs345/rl/chaudhuri98.pdf)
   PODS 1998.
 * P. Selinger, M. Astrahan, D. Chamberlin, R. Lorie, T. Price.
-  _Access Path Selection in a Relational Database Management System._
+  [_Access Path Selection in a Relational Database Management System._](cs.stanford.edu/people/chrismre/cs345/rl/selinger.pdf)
   SIGMOD 1979.
 
 
 ### Ranking and Information Retrieval
 
 * Ronald Fagin, Amnon Lotem, Moni Naor.
-  _Optimal aggregation algorithms for middleware._
+  [_Optimal aggregation algorithms for middleware._](http://researcher.watson.ibm.com/researcher/files/us-fagin/jcss03.pdf)
   JCSS 66(4): 614-656 (2003)
 
 ### Sampling, Approximate Query Processing, Database Statistics
@@ -152,22 +152,19 @@ VLDB 1999.
 ### Stream Processing
 
 * Brian Babcock, Shivnath Babu, Mayur Datar, Rajeev Motwani, Jennifer Widom.
-  _Models and Issues in Data Stream Systems._
+  [_Models and Issues in Data Stream Systems._](infolab.usc.edu/csci599/Fall2002/paper/DML2_streams-issues.pdf)
   PODS 2002: 1-16.
 * D. Abadi, D. Carney, U. Cetintemel, M. Cherniack, C. Convey, S. Lee, M. Stonebraker, N. Tatbul, and S. Zdonik.
-  _Aurora: A New Model and Architecture for Data Stream Management._
+  [_Aurora: A New Model and Architecture for Data Stream Management._](www.cs.brandeis.edu/~mfc/papers/vldb095.pdf)
   In VLDB Journal (12)2, 2003.
 
 
 ### Systems
 
 * Joseph M. Hellerstein, Michael Stonebraker, James R. Hamilton.
-  [_Architecture of a Database
-  System._](http://dblp.uni-trier.de/db/journals/ftdb/ftdb1.html#HellersteinSH07)
+  [_Architecture of a Database System._](http://dblp.uni-trier.de/db/journals/ftdb/ftdb1.html#HellersteinSH07)
   Foundations and Trends in Databases 1(2): 141-259 (2007)
-* Daniel Abadi, Peter Boncz, Stavros Harizopoulos, Stratos Idreos, Samuel Madden. [_The Design and Implementation of Modern Column-Oriented
-  Database
-  Systems_.](http://cs-www.cs.yale.edu/homes/dna/papers/abadi-column-stores.pdf)
+* Daniel Abadi, Peter Boncz, Stavros Harizopoulos, Stratos Idreos, Samuel Madden. [_The Design and Implementation of Modern Column-Oriented Database Systems_.](http://cs-www.cs.yale.edu/homes/dna/papers/abadi-column-stores.pdf)
   Foundations and Trends in Databases (Vol 5, Issue 3, 2012, pp 197-280)
   * Sections 1, 2, 4 (read 4.1, 4.4., 4.5, skim over the others and skim Section 3).
 
