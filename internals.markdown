@@ -38,8 +38,7 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 ### Datalog
 
 * Todd J. Green, Shan Shan Huang, Boon Thau Loo, Wenchao Zhou.
-  [_Datalog and Recursive Query Processing._]
-  (http://dblp.uni-trier.de/db/journals/ftdb/ftdb5.html#GreenHLZ13)
+  [_Datalog and Recursive Query Processing._](http://dblp.uni-trier.de/db/journals/ftdb/ftdb5.html#GreenHLZ13)
   Foundations and Trends in Databases 5(2): 105-195 (2013)
     * Sections 1-3 and 5.1-5.3
 
@@ -47,12 +46,10 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 ### Data Integration
 
 * A.Y. Halevy.
-  [_Answering Queries Using Views: A Survey._]
-  (http://www.cs.washington.edu/homes/alon/site/files/view-survey.ps)
+  [_Answering Queries Using Views: A Survey._](http://www.cs.washington.edu/homes/alon/site/files/view-survey.ps)
   VLDB Journal, 10(4).
 * E. Rahm, P. Bernstein.
-  [_A Survey of Approaches to Automatic Schema Matching._]
-  (https://www.ki.informatik.hu-berlin.de/mac/lehre/lehrmaterial/Informationsintegration/Rahm01.pdf)
+  [_A Survey of Approaches to Automatic Schema Matching._](https://www.ki.informatik.hu-berlin.de/mac/lehre/lehrmaterial/Informationsintegration/Rahm01.pdf)
   VLDB Journal (10), 2001.
 
 
