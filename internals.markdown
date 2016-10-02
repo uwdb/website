@@ -49,7 +49,7 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
   [_Answering Queries Using Views: A Survey._](http://www.cs.washington.edu/homes/alon/site/files/view-survey.ps)
   VLDB Journal, 10(4).
 * E. Rahm, P. Bernstein.
-  [_A Survey of Approaches to Automatic Schema Matching._](https://www.ki.informatik.hu-berlin.de/mac/lehre/lehrmaterial/Informationsintegration/Rahm01.pdf)
+  [_A Survey of Approaches to Automatic Schema Matching._](dbs.uni-leipzig.de/file/VLDBJ-Dec2001.pdf)
   VLDB Journal (10), 2001.
 
 
@@ -61,8 +61,7 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 * M.J.  Carey, D.J DeWitt.
   [_Of Objects and Databases: A Decade of Turmoil._](http://www.informatik.uni-trier.de/~ley/db/conf/vldb/CareyD96.html)
   VLDB 1996.
-* Stonebraker and Hellerstein. _What goes around comes around._  Red Book
-  4th Ed.
+* Stonebraker and Hellerstein. [_What goes around comes around._](https://mitpress.mit.edu/sites/default/files/titles/content/9780262693141_sch_0001.pdf)  Red Book 4th Ed.
 
 
 ### Data Warehousing and Mining
