@@ -9,6 +9,8 @@ id: "internals"
 
 This page contains resources for current faculty and students.
 
+## Lab Days
+
 We're hosting lab days every two weeks during the Autumn 2016 quarter.
 See the [lab day schedule][] and sign up to host!
 
