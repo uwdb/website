@@ -9,6 +9,11 @@ id: "internals"
 
 This page contains resources for current faculty and students.
 
+We're hosting lab days every two weeks during the Autumn 2016 quarter.
+See the [lab day schedule][] and sign up to host!
+
+[lab day schedule]: https://docs.google.com/a/cs.washington.edu/spreadsheets/d/1H_Ylk83QVd3xZUYmAQAgVQM9vDAJD8bNXyKBrjhcVzg/edit?usp=sharing
+
 ## Wiki
 
 Go to [dada.cs.washington.edu/mediawiki/index.php/Database_Group](//dada.cs.washington.edu/mediawiki/index.php/Database_Group).
