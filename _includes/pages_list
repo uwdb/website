@@ -15,7 +15,7 @@
 </li>
 
 <li {% if page.id == 'events' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/events/events.html"><i class="fa fa-compass"></i> Events</a>
+  <a href="{{ site.baseurl }}/events/events.html"><i class="fa fa-calendar"></i> Events</a>
 </li>
 
 <li {% if page.id == 'internals' %}class="active"{% endif %}>
