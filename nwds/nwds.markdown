@@ -16,34 +16,6 @@ One of our main activities is a talk series with a variety of distinguished spea
 
 ##  Upcoming Talks
 
-<p><a name="Immanuel_Trummer_10_14_16"></a>
-<strong>Speaker</strong>: <a href="http://www.itrummer.org/">Immanuel Trummer</a>, Cornell University</p>
-
-<p><strong>Title</strong>:
-Query optimization for data analysis
-</p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
-
-<p><strong>When</strong>: 
-Friday, October 14, 2016, 11am - 12pm.</p>
-
-<p><strong>Abstract</strong>: 
-Business and industry and almost all scientific disciplines rely nowadays on large-scale data analysis. Some of the most popular analysis tools offer declarative interfaces where users simply describe the data they need instead of specifying how to generate it. In order to enable such interfaces, we must however solve the NP-hard query optimization problem.
-</p>
-
-<p>
-In this talk, I will give an overview of my recent work on query optimization. I will explain how the specific context of large-scale data analysis motivates novel problem variants that are particularly hard to solve. Then I will show how techniques such as approximation, parallelization, and pre-processing make solving those problems under real-time constraints practical. I will quickly cover recent results of a collaboration with NASA in which we used a D-Wave 2X adiabatic quantum computer for solving certain query optimization variants. Finally, I will discuss a project on large-scale text mining and machine learning at Google Mountain View that could benefit from all proposed techniques.
-</p>
-
-<p><strong>Bio</strong>:
-Immanuel Trummer is assistant professor for computer science at Cornell University. His research led to various publications at the main database conferences, his publications were selected for the ACM SIGMOD Research Highlight Award, for "Best of VLDB", and for publication in CACM as CACM Research Highlight. He is recipient of the European Google PhD Fellowship in structured data analysis and alumnus of the German National Academic Foundation ("Studienstiftung des deutschen Volkes").
-</p>
-
-- - -
-
 <p><a name="Olga_Papaemmanouil_11_4_16"></a>
 <strong>Speaker</strong>: <a href="http://www.cs.brandeis.edu/~olga/home.html">Olga Papaemmanouil</a>, Brandeis University</p>
 
