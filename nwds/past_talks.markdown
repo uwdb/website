@@ -64,6 +64,8 @@ The second system, Flashback, aggressively precomputes all possible images that 
 David Chu is a researcher at Microsoft Research. His research interests are in mobile systems, cyber-physical systems, ubiquitous computing, applied machine learning and virtual reality.  The main thrust of David's current work is toward low-latency perception-aligned mobile systems. He received the Best Paper award in MobiSys 2015, the Best Paper nomination in MobiSys 2012, the Best Demo award in MobiSys 2014, and the Best Demo nomination in SenSys 2011.  David's research has appeared on multiple occasions in sources such as TechCrunch, PC Magazine, GameSpot, Ars Technia, Slashdot, The Verge, Engadget and Wired. At Microsoft, David has contributed to Windows and Windows Phone, Xbox and HoloLens. David received his B.S. from the University of Virginia in 2004; and his M.S. and Ph.D. from the University of California, Berkeley in 2005 and 2009, respectively, while an NSF Graduate Research Fellow.
 </p>
 
+* * *
+
 <p><a name="craig_chambers_05_18_16"></a>
 <strong>Speaker</strong>: <a href="http://research.google.com/pubs/author4707.html">Craig Chambers</a>, Google</p>
 
@@ -79,7 +81,7 @@ Paul Allen Center, Gates Commons.  </p>
 In this talk I'll describe how the line of work starting with Flume and continuing with Dataflow strives to enable parallel data processing pipelines that are both easy to express and efficient to execute, ideally with no user configuring or tuning at all.
 </p>
 
-
+* * *
 
 <p><a name="daisy_wang_05_16_16"></a>
 <strong>Speaker</strong>: <a href="http://dsr.cise.ufl.edu/daisyw/">Daisy Zhe Wang</a>, UFL</p>
@@ -100,6 +102,7 @@ In this talk, I discuss novel system components and algorithms that we are desig
 Daisy Zhe Wang is an Assistant Professor in the CISE department at the University of Florida. She is the Director of the Data Science Research Lab at UF. She obtained her Ph.D. degree from the EECS Department at the University of California, Berkeley in 2011 and her Bachelor's degree from the ECE Department at the University of Toronto in 2005. At Berkeley, she was a member of the Database Group and the AMP/RAD Lab. She is particularly interested in bridging scalable data management and processing systems with probabilistic models and statistical methods. She currently pursues research topics such as probabilistic databases, probabilistic knowledge bases, large-scale inference engines, query-driven interactive machine learning, and crowd assisted machine learning. She received Google Faculty Award in 2013. Her research is currently funded by NSF, DARPA, Google, Amazon, Pivotal, Greenplum/EMC, Sandia National Labs and Harris Corporation.
 </p>
 
+* * *
 
 <p><a name="angel_vina_05_06_16"></a>
 <strong>Speaker</strong>: Angel Viña, CEO, Denodo Technologies</p>
@@ -116,6 +119,7 @@ Paul Allen Center, CSE 305.  </p>
 Data Virtualization has evolved very rapidly in the past decade on the premise of the ever growing diversity of data assets in the enterprise ecosystem. The list of technology options for storing data has never been richer: DWA, HDFS, JSON, NoSQL databases, BLOB storage, Spark and more, all adding new data management challenges to the existing ones specific to on-premises and cloud-based conventional data sources.  This increasing diversity has helped to consolidate the role of data virtualization as the rmediator of choice for interfacing with all data containers in the physical data layer. Overall, the goal of a data virtualization software is to enable a data management and delivery capability for the seamless integration of structured and unstructured data across multiple systems in real time and with high performance. In this talk, we will review the progress made along the Data Virtualization roadmap that produced such an effective and comprehensive semantic layer satisfying the requirements of modern enterprise data initiatives. 
 </p>
 
+* * *
 
 <p><a name="xin_dong_03_31_16"></a>
 <strong>Speaker</strong>: <a href="http://lunadong.com/">Xin Luna Dong</a>, Google</p>
