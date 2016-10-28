@@ -24,7 +24,7 @@ Computer Science and Engineering Department.<br>
 Paul Allen Center, CSE 305.  </p>
 
 <p><strong>When</strong>: 
-Friday, November 4, 2016.</p>
+Friday, November 4, 2016. 11am-noon.</p>
 
 <p><strong>Abstract</strong>: 
 Cloud computing has become one of the most active areas of computer science research, in large part because it allows computing to behave like a general utility that is always available on demand. While existing cloud infrastructures and services reduce significantly the application development time, significant effort is still required by cloud data management applications to manage their monetary cost, for often this cost depends on  a number of decisions including but not limited to performance goals, resource provisioning and workload allocation. These tasks depend on the application-specific workload characteristics and performance objectives and today their implementation burden is left on the application developers.  
@@ -48,7 +48,7 @@ Computer Science and Engineering Department.<br>
 Paul Allen Center, CSE 305.  </p>
 
 <p><strong>When</strong>: 
-Friday, November 18, 2016.</p>
+Friday, November 18, 2016. 11am-noon</p>
 
 
 ##  Past Talks
