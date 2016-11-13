@@ -26,6 +26,33 @@ Paul Allen Center, CSE 305.  </p>
 <p><strong>When</strong>: 
 Friday, November 18, 2016. 11am-noon</p>
 
+<p><strong>Title</strong>:
+Azure DocumentDB – A multi-tenant, elastically scalable, globally distributed database service
+</p>
+
+<p><strong>Abstract</strong>: 
+Azure DocumentDB is Microsoft’s multi-tenant, globally distributed database
+system designed for the cloud. DocumentDB allows customers to provision
+and elastically scale both, throughput as well as storage across any number of
+geographical regions. The service offers guaranteed low latency at P99, 99.99
+availability SLA and multiple well-defined consistency models to
+developers. By virtue of its schema-agnostic and write optimized database
+engine, DocumentDB is capable of automatically indexing all the data it
+ingests and, serves SQL and JavaScript language integrated queries in a scale
+independent manner. The service is used extensively both internally within
+Microsoft as well as externally by developers using Microsoft Azure. As a cloud
+service, DocumentDB is carefully architected and engineered with multi-tenancy
+and global distribution from the ground up. 
+</p>
+
+<p>
+In this talk, Dharma will describe the design of DocumentDB as well as his learnings from operating a globally distributed service across heterogeneous customer workloads worldwide. Along with several key design ideas, Dharma will also present several crucial engineering choices they had to make. 
+</p>
+
+<p><strong>Bio</strong>:
+Dharma Shukla is a Distinguished Engineer at Microsoft. Dharma is the founder and architect of Azure DocumentDB - a globally distributed, multi-tenant NoSQL database service on Azure. Prior to DocumentDB, Dharma’s work spanned a variety of distributed systems projects at Microsoft including, design of the programming models for stateful computation (Azure), peer to peer replication and caching systems (Live Mesh), serializable continuations in the CLR (Windows Workflow), and messaging  (BizTalk). Before joining Microsoft in 1998, Dharma worked on database systems and middleware technologies. You can reach out to Dharma at dharmas@microsoft.com or @dharmashukla on Twitter.
+</p>
+
 
 ##  Past Talks
 
