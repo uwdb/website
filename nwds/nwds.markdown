@@ -61,7 +61,7 @@ Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past
 #### Fall 2016
 
 *   [Olga Papaemmanouil](http://www.cs.brandeis.edu/~olga/home.html), Brandeis University [[abstract](past_talks.html#Olga_Papaemmanouil_11_4_16)] [[video](https://www.youtube.com/watch?v=oH60uVu6bPE)][[slides](http://db.cs.washington.edu/nwds/Olga_Papaemmanouil_11_4_16.pdf)]
-*   [Immanuel Trummer](http://www.itrummer.org), Cornell University [[abstract](past_talks.html#Immanuel_Trummer_10_14_16)] [[video](https://www.youtube.com/watch?v=Dm1_r5tUMu0)]
+*   [Immanuel Trummer](http://www.itrummer.org), Cornell University [[abstract](past_talks.html#Immanuel_Trummer_10_14_16)] [[video](https://www.youtube.com/watch?v=Dm1_r5tUMu0)][[slides](http://db.cs.washington.edu/nwds/Immanuel_Trummer_10_14_16.pdf)]
 
 #### Spring 2016
 
