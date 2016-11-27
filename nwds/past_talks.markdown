@@ -6,7 +6,339 @@ id: "nwds_past_talks"
 ---
 
 #  Past Talks
+<p><a name="Dharma_Shukla_11_18_16"></a>
+<strong>Speaker</strong>: <a href="http://www.dharmashukla.com/">Dharma Shukla</a>, Microsoft</p>
 
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: 
+Friday, November 18, 2016. 11am-noon</p>
+
+<p><strong>Title</strong>:
+Azure DocumentDB – A multi-tenant, elastically scalable, globally distributed database service
+</p>
+
+<p><strong>Abstract</strong>: 
+Azure DocumentDB is Microsoft’s multi-tenant, globally distributed database
+system designed for the cloud. DocumentDB allows customers to provision
+and elastically scale both, throughput as well as storage across any number of
+geographical regions. The service offers guaranteed low latency at P99, 99.99
+availability SLA and multiple well-defined consistency models to
+developers. By virtue of its schema-agnostic and write optimized database
+engine, DocumentDB is capable of automatically indexing all the data it
+ingests and, serves SQL and JavaScript language integrated queries in a scale
+independent manner. The service is used extensively both internally within
+Microsoft as well as externally by developers using Microsoft Azure. As a cloud
+service, DocumentDB is carefully architected and engineered with multi-tenancy
+and global distribution from the ground up. 
+</p>
+
+<p>
+In this talk, Dharma will describe the design of DocumentDB as well as his learnings from operating a globally distributed service across heterogeneous customer workloads worldwide. Along with several key design ideas, Dharma will also present several crucial engineering choices they had to make. 
+</p>
+
+<p><strong>Bio</strong>:
+Dharma Shukla is a Distinguished Engineer at Microsoft. Dharma is the founder and architect of Azure DocumentDB - a globally distributed, multi-tenant NoSQL database service on Azure. Prior to DocumentDB, Dharma’s work spanned a variety of distributed systems projects at Microsoft including, design of the programming models for stateful computation (Azure), peer to peer replication and caching systems (Live Mesh), serializable continuations in the CLR (Windows Workflow), and messaging  (BizTalk). Before joining Microsoft in 1998, Dharma worked on database systems and middleware technologies. You can reach out to Dharma at dharmas@microsoft.com or @dharmashukla on Twitter.
+</p>
+
+* * *
+
+<p><a name="Olga_Papaemmanouil_11_4_16"></a>
+<strong>Speaker</strong>: <a href="http://www.cs.brandeis.edu/~olga/home.html">Olga Papaemmanouil</a>, Brandeis University</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: 
+Friday, November 4, 2016. 11am-noon.</p>
+
+<p><strong>Title</strong>:
+Title: Learning-based Cost Management for Cloud Databases 
+</p>
+
+<p><strong>Abstract</strong>: 
+Cloud computing has become one of the most active areas of computer science research, in large part because it allows computing to behave like a general utility that is always available on demand. While existing cloud infrastructures and services reduce significantly the application development time, significant effort is still required by cloud data management applications to manage their monetary cost, for often this cost depends on  a number of decisions including but not limited to performance goals, resource provisioning and workload allocation. These tasks depend on the application-specific workload characteristics and performance objectives and today their implementation burden is left on the application developers.  
+</p>
+
+<p>
+We argue for a substantial shift away from human-crafted solutions and towards leveraging machine learning algorithms to address the above challenges.   These algorithms can be trained on application-specific properties and customized performance goals to automatically learn how to provision resources as well as schedule the execution of incoming query workloads with low cost. Towards this vision, we have developed WiSeDB, a  learning-based cost  management service for cloud-deployed data management applications. In this talk, I will discuss how WiSeDB uses  (a) supervised learning to automatically learn cost-effective models for guiding query placement, scheduling, and resource provisioning decisions for batch processing, and (b) reinforcement learning  to offer low cost online processing solutions, while being adaptive to resource availability and decoupled from notoriously inaccurate performance prediction models.
+</p>
+
+<p><strong>Bio</strong>:
+Olga Papaemmanouil is an Assistant Professor in the Department of Computer Science at Brandeis University since January 2009. Her research interest lies in the area of  data management with a recent focus on cloud databases, data exploration, query optimization and query performance prediction. She is the recipient of an NSF Career Award (2013), an ACM SIGMOD Best Demonstration Award (2005) and a Paris Kanellakis Fellowship from Brown University (2002). She received a undergraduate degree in Computer Engineering and Informatics at the University of Patras, Greece, in 1999, a Sc.M. in Information Systems at the University of Economics and Business, in Athens, Greece, in 2002,  and a Ph.D in Computer Science at Brown University, in 2008.
+</p>
+
+* * * 
+
+<p><a name="Immanuel_Trummer_10_14_16"></a>
+<strong>Speaker</strong>: <a href="http://www.itrummer.org/">Immanuel Trummer</a>, Cornell University</p>
+
+<p><strong>Title</strong>:
+Query optimization for data analysis
+</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: 
+Friday, October 14, 2016, 11am - 12pm.</p>
+
+<p><strong>Abstract</strong>: 
+Business and industry and almost all scientific disciplines rely nowadays on large-scale data analysis. Some of the most popular analysis tools offer declarative interfaces where users simply describe the data they need instead of specifying how to generate it. In order to enable such interfaces, we must however solve the NP-hard query optimization problem.
+</p>
+
+<p>
+In this talk, I will give an overview of my recent work on query optimization. I will explain how the specific context of large-scale data analysis motivates novel problem variants that are particularly hard to solve. Then I will show how techniques such as approximation, parallelization, and pre-processing make solving those problems under real-time constraints practical. I will quickly cover recent results of a collaboration with NASA in which we used a D-Wave 2X adiabatic quantum computer for solving certain query optimization variants. Finally, I will discuss a project on large-scale text mining and machine learning at Google Mountain View that could benefit from all proposed techniques.
+</p>
+
+<p><strong>Bio</strong>:
+Immanuel Trummer is assistant professor for computer science at Cornell University. His research led to various publications at the main database conferences, his publications were selected for the ACM SIGMOD Research Highlight Award, for "Best of VLDB", and for publication in CACM as CACM Research Highlight. He is recipient of the European Google PhD Fellowship in structured data analysis and alumnus of the German National Academic Foundation ("Studienstiftung des deutschen Volkes").
+</p>
+
+* * *
+
+<p><a name="david_chu_05_27_16"></a>
+<strong>Speaker</strong>: <a href="http://www.bawakayi.com/davidchu/">David Chu</a>, Microsoft Research</p>
+
+<p><strong>Title</strong>:
+Immersive Virtual Reality on Mobile Devices via Compute Offload and Caching
+</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: 
+Friday, May 27, 2016, 11am - 12pm.</p>
+
+<p><strong>Abstract</strong>: 
+Virtual reality head-mounted displays (VR HMDs) are attracting users with the promise of full sensory immersion in virtual environments. Creating the illusion of immersion on HMDs requires high framerate, low latency, and high visual quality --- a tall order for mobile device-based VR approaches. 
+</p>
+
+<p>
+In this talk, I will discuss two systems we have built to overcome the inherent limitations of mobile VR.  The first, Outatime, focuses on compute offload via app streaming, an emerging app execution model in which remote rendering servers stream interactive video to thin clients. While servers dwarf mobile devices in compute power, the key challenge is coping with network latency.  I will discuss how we have employed speculative execution to overcome this challenge on high-quality VR games.
+</p>
+
+<p>
+The second system, Flashback, aggressively precomputes all possible images that a VR user might encounter well ahead of time.  During runtime, Flashback indexes into the device's storage hierarchy to quickly lookup images that the user ought to be seeing. Flashback not only works for static scenes, but also for dynamic scenes with moving and animated objects.  We observe substantial improvements in framerate, latency and energy consumption. In some cases, it even delivers better framerate and responsiveness than a tethered high-end computer.
+</p>
+
+<p><strong>Bio</strong>:
+David Chu is a researcher at Microsoft Research. His research interests are in mobile systems, cyber-physical systems, ubiquitous computing, applied machine learning and virtual reality.  The main thrust of David's current work is toward low-latency perception-aligned mobile systems. He received the Best Paper award in MobiSys 2015, the Best Paper nomination in MobiSys 2012, the Best Demo award in MobiSys 2014, and the Best Demo nomination in SenSys 2011.  David's research has appeared on multiple occasions in sources such as TechCrunch, PC Magazine, GameSpot, Ars Technia, Slashdot, The Verge, Engadget and Wired. At Microsoft, David has contributed to Windows and Windows Phone, Xbox and HoloLens. David received his B.S. from the University of Virginia in 2004; and his M.S. and Ph.D. from the University of California, Berkeley in 2005 and 2009, respectively, while an NSF Graduate Research Fellow.
+</p>
+
+* * *
+
+<p><a name="craig_chambers_05_18_16"></a>
+<strong>Speaker</strong>: <a href="http://research.google.com/pubs/author4707.html">Craig Chambers</a>, Google</p>
+
+<p><strong>Title</strong>: Flume/Dataflow: Easy, Efficient Parallel Data Processing </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, Gates Commons.  </p>
+
+<p><strong>When</strong>: Wednesday, May 18, 2016, 3:30pm - 4:20pm.</p>
+
+<p><strong>Abstract</strong>: 
+In this talk I'll describe how the line of work starting with Flume and continuing with Dataflow strives to enable parallel data processing pipelines that are both easy to express and efficient to execute, ideally with no user configuring or tuning at all.
+</p>
+
+* * *
+
+<p><a name="daisy_wang_05_16_16"></a>
+<strong>Speaker</strong>: <a href="http://dsr.cise.ufl.edu/daisyw/">Daisy Zhe Wang</a>, UFL</p>
+
+<p><strong>Title</strong>: Archimedes: A Probabilistic Master Knowledge Base System </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: Monday, May 16, 2016, 4:30pm - 5:20pm.</p>
+
+<p><strong>Abstract</strong>: 
+In this talk, I discuss novel system components and algorithms that we are designing and building at UF to enable a probabilistic master Knowledge Base (KB) system. In the context of the Archimedes project, I will discuss a spectrum of research directions we are exploring at the UF Data Science Research (DSR) group including: query-driven and scalable statistical inference, probabilistic data models, state-parallel and data parallel data analytics framework, multimodal (e.g., text, image) information extraction, and KB schema enrichment. This line of research of supporting analytics over automatically extracted knowledge bases is of high impact for many applications from QA systems, situational awareness to medical informatics. Other related projects include DeepDive from Stanford, YAGO from Max Planck Institute, NELL from CMU as well as WikiData/Freebase and Google Knowledge Vault.
+</p>
+
+<p><strong>Bio</strong>:
+Daisy Zhe Wang is an Assistant Professor in the CISE department at the University of Florida. She is the Director of the Data Science Research Lab at UF. She obtained her Ph.D. degree from the EECS Department at the University of California, Berkeley in 2011 and her Bachelor's degree from the ECE Department at the University of Toronto in 2005. At Berkeley, she was a member of the Database Group and the AMP/RAD Lab. She is particularly interested in bridging scalable data management and processing systems with probabilistic models and statistical methods. She currently pursues research topics such as probabilistic databases, probabilistic knowledge bases, large-scale inference engines, query-driven interactive machine learning, and crowd assisted machine learning. She received Google Faculty Award in 2013. Her research is currently funded by NSF, DARPA, Google, Amazon, Pivotal, Greenplum/EMC, Sandia National Labs and Harris Corporation.
+</p>
+
+* * *
+
+<p><a name="angel_vina_05_06_16"></a>
+<strong>Speaker</strong>: Angel Viña, CEO, Denodo Technologies</p>
+
+<p><strong>Title</strong>: Harnessing Data Virtualization for Data Management and High Performance Data Delivery with Hybrid Data Infrastructure</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: Friday, May 6, 2016, 11 - 11:50am.</p>
+
+<p><strong>Abstract</strong>:
+Data Virtualization has evolved very rapidly in the past decade on the premise of the ever growing diversity of data assets in the enterprise ecosystem. The list of technology options for storing data has never been richer: DWA, HDFS, JSON, NoSQL databases, BLOB storage, Spark and more, all adding new data management challenges to the existing ones specific to on-premises and cloud-based conventional data sources.  This increasing diversity has helped to consolidate the role of data virtualization as the rmediator of choice for interfacing with all data containers in the physical data layer. Overall, the goal of a data virtualization software is to enable a data management and delivery capability for the seamless integration of structured and unstructured data across multiple systems in real time and with high performance. In this talk, we will review the progress made along the Data Virtualization roadmap that produced such an effective and comprehensive semantic layer satisfying the requirements of modern enterprise data initiatives. 
+</p>
+
+* * *
+
+<p><a name="xin_dong_03_31_16"></a>
+<strong>Speaker</strong>: <a href="http://lunadong.com/">Xin Luna Dong</a>, Google</p>
+
+<p><strong>Title</strong>: How Far Are We from Collecting the Knowledge in the World?</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: Thursday, March 31, 2016, 11:00am - 12:00pm.</p>
+
+<p><strong>Abstract</strong>:
+<p>
+In this talk we ask the question: How far are we from collecting the knowledge in the world? We analyze the knowledge that has been collected in three categories: head knowledge in head verticals (e.g., music), long-tail knowledge in head verticals, and head knowledge in long-tail verticals (e.g., yoga pose), showing the limitations and challenges in current knowledge-collection techniques.
+We then present two key efforts at Google on collecting tail knowledge. The first, called Knowledge Vault, targeted on tail knowledge in head verticals. It used 15 extractors to periodically extract knowledge from 1B+ Webpages, obtaining 3B+ distinct (subject, predicate, object) knowledge triples. The second, called Lightweight Verticals, targets on head knowledge in tail verticals. It uses a crowd-sourcing approach to collect knowledge by annotating websites, and currently is attracting millions of active Google Search users every day. We present key technologies under both projects, namely, knowledge fusion for guaranteeing knowledge correctness, and knowledge-based trust for finding authoritative sources for knowledge curation.
+</p>
+</p>
+
+* * * 
+
+<p><a name="fatma_ozcan_03_4_16"></a>
+<strong>Speaker</strong>: <a href="http://researcher.ibm.com/researcher/view.php?person=us-fozcan">Dr. Fatma Özcan</a>, IBM Almaden Research Center</p>
+
+<p><strong>Title</strong>: SQL Processing in Cognitive and Large-Scale Analytical Platforms</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: Friday, March 4, 2016, 1:30pm - 2:20pm.</p>
+
+<p><strong>Abstract</strong>:  
+
+<p>
+A set of applications, such as mobile commerce, IoT, cognitive and 
+Internet applications, have given rise to a new class of analytical 
+platforms in the enterprise. These new platforms are built on scale-out 
+computing frameworks, such as Hadoop and Spark, and are polymorphic, 
+supporting multiple processing engines, which all share access to a 
+common storage, holding massive volumes of data.
+</p>
+
+<p>
+In this talk, we will examine the role of SQL data processing in these 
+new platforms. After a decade of noSQL systems, SQL continues to play a 
+significant role in the overall analytics landscape. We will start with 
+Big SQL, an SQL query processing engine over HDFS data. Then, we will 
+discuss the challenges in sharing the data, and present an architecture 
+which provides a set of common services that can be leveraged by all the 
+engines. One such service is access to all data in the enterprise, via a 
+data virtualization layer. We have implemented a data virtualization 
+solution that leverages Spark and the data sources APIs. Finally, we 
+will describe how we use an SQL engine to answer OLAP-style natural 
+language queries over a knowledge base that was synthesized from 
+unstructured and structured data sources.
+</p>
+</p>
+
+* * *
+
+<a name="sudipta_sengupta_01_29_16"></a>
+**Speaker**: [Dr. Sudipta Sengupta](http://research.microsoft.com/en-us/um/people/sudipta/), Microsoft Research
+
+**Title**: The Bw-Tree Key-Value Store: From Research to Production
+
+**Where**: University of Washington, Seattle.  
+Computer Science and Engineering Department.  
+Paul Allen Center, CSE 305.  
+
+**When**: Friday, January 29, 2016, 1:30pm - 2:20pm.
+
+**Abstract**:  The Bw-Tree is an ordered key-value store, built by layering a B-tree 
+form access method over a cache/storage sub-system (LLAMA) that is 
+lock-free and organizes storage in a log-structured manner. It is 
+designed to optimize performance on modern hardware, specifically (i) 
+multi-core processors with multi-level memory/cache hierarchy, and (ii) 
+flash memory based SSDs with fast random reads (but inefficient random 
+write performance). The lock-free property ensures that threads do not 
+block and readers do not conflict with writers, thus supporting a high 
+degree of concurrency. The log-structured storage organization is 
+designed to work around inefficient random write performance on flash 
+and is suitable for hard disks as well. Bw-Tree avoids “in-place 
+updates” by prepending delta records to pages that describe page updates 
+logically -- this harvests benefits across both memory and flash by (a) 
+reducing cache invalidation in memory hierarchy, and (b) reducing write 
+amplification on flash. Bw-Tree delivers sustained rapid writes by 
+utilizing full storage write bandwidth through blind updates (i.e., 
+writes are not slowed down by reads). It also provides first class 
+support for flexible resource governance and rate limiting in a 
+multi-tenant cloud setting.
+
+The Bw-Tree is shipping in three of Microsoft’s server/cloud products – 
+as the key sequential index in SQL Server Hekaton (main memory 
+database), as the indexing engine inside Azure DocumentDB (distributed 
+document-oriented store), and as an ordered key-value store in Bing 
+ObjectStore (distributed storage backend supporting multiple properties 
+in Bing).
+
+This is joint work with Justin Levandoski and David Lomet at Microsoft 
+Research.
+
+* * *
+<a name="yannis_papakonstantinou_12_11_15"></a>
+**Speaker**: [Yannis Papakonstantinou](http://db.ucsd.edu/People/yannis.htm), UCSD
+
+**Title**: The FORWARD declarative visualization and application framework and its
+SQL++ integration language
+
+**Where**: University of Washington, Seattle.  
+Computer Science and Engineering Department.  
+Paul Allen Center, Database Lab, CSE 405.  
+
+**When**: Friday, December 11, 2015, 2:30pm - 3:20pm.
+
+
+**Abstract**:  
+Building a visualization or (even) a basic application requires the
+integration of many languages and technologies. The programmer often
+needs SQL to integrate the database, HTML and Javascript for the
+browser-side interactions and yet another programming language (e.g.
+Java) for the server-side business logic. The data source variety of the
+Big Data era often accentuated the data integration pains
+with the advance of NoSQL (typically JSON-modeled) databases with
+idiomatic languages.
+
+The FORWARD framework and its SQL++ language require only SQL,
+declarative querying fluency. Then one can build live visualizations and
+applications using simply SQL++ and markup, where the markup includes
+visualization units that are essentially wrappers of third-party JS
+components. While the framework makes easy things easy, it also makes
+hard things possible by allowing the pay-as-you-go introduction of
+JS-based visualizations, which are not already captured by the
+out-of-the-box markup, and/or also allowing complex application logic.
+The framework automatically compensates for the limitations that certain
+components and wrappers may have with respect to live visualizations.
+
+We overview the SQL++ semi-structured data model, which bridges JSON and
+the SQL data model. The SQL++ query language is backwards compatible
+with SQL, while supporting native JSON. SQL++ includes configuration
+options that describe different options of language semantics and
+formally capture the variations of existing database languages/systems.
+We exhibit the virtues of the declarative visualization and app
+development approach by showing how FORWARD provides live visualizations
+by treating page templates as rendered SQL++ views and appropriately
+uses incremental view maintenance and incremental rendering techniques
+to deliver efficient live visualization.
+
+Finally, we briefly comment on recent advances in the adoption of SQL++
+by two NoSQL databases and next steps for FORWARD and SQL++.
+
+* * *
 <a name="sailesh_krishnamurthy_11_13_15"></a>
 **Speaker**: [Sailesh Krishnamurthy](http://sites.google.com/site/sailesh/), Amazon
 

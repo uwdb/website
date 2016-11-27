@@ -1,0 +1,206 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled</title>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="generator" content="Web Page Maker (unregistered version)">
+<style type="text/css">
+/*----------Text Styles----------*/
+.ws6 {font-size: 8px;}
+.ws7 {font-size: 9.3px;}
+.ws8 {font-size: 11px;}
+.ws9 {font-size: 12px;}
+.ws10 {font-size: 13px;}
+.ws11 {font-size: 15px;}
+.ws12 {font-size: 16px;}
+.ws14 {font-size: 19px;}
+.ws16 {font-size: 21px;}
+.ws18 {font-size: 24px;}
+.ws20 {font-size: 27px;}
+.ws22 {font-size: 29px;}
+.ws24 {font-size: 32px;}
+.ws26 {font-size: 35px;}
+.ws28 {font-size: 37px;}
+.ws36 {font-size: 48px;}
+.ws48 {font-size: 64px;}
+.ws72 {font-size: 96px;}
+.wpmd {font-size: 13px;font-family: Arial,Helvetica,Sans-Serif;font-style: normal;font-weight: normal;}
+/*----------Para Styles----------*/
+DIV,UL,OL /* Left */
+{
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+</style>
+
+<style type="text/css">
+div#container
+{
+	position:relative;
+	width: 1374px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:left; 
+}
+body {text-align:center;margin:0}
+</style>
+
+</head>
+<body bgColor="#C0C0C0">
+<div id="container">
+<div id="shape1" style="position:absolute; overflow:hidden; left:128px; top:9px; width:1118px; height:1949px; z-index:0"><img border=0 width="100%" height="100%" alt="" src="images/shape99253888.gif"></div>
+
+<div id="text1" style="position:absolute; overflow:hidden; left:333px; top:1487px; width:618px; height:22px; z-index:1">
+<div class="wpmd">
+<div><B><a href="http://arxiv.org/abs/1609.03540" title="">ZaliQL: A SQL-Based Framework for Drawing Causal Inference from Big Data (submitted)</a></B></div>
+</div></div>
+
+<div id="text2" style="position:absolute; overflow:hidden; left:332px; top:1523px; width:818px; height:202px; z-index:2">
+<div class="wpmd">
+<div align=justify><font class="ws12">Many tools perform causal inference using statistical software such as SAS, SPSS, or R project. However, these tools do not scale to large datasets. Furthermore, in many of the most interesting Big Data settings, the data is highly relational (e.g, social networks, biological networks, sensor networks and more) and likely to pour into SQL systems. There is a rich ecosystem of tools and organizational requirements that encourage this. Transferring data from DBMS to statistical softwares or connecting these softwares to DBMS can be error prone, difficult, time consuming and inefficient. For these cases, it would be helpful to push statistical methods for causal inference into the DBMS. ZaliQL (Zali refers to al-Ghazali, a medieval Persian philosopher. It is known that David Hume, a Scottish philosopher, who gave the first explicit definition of causation in terms of counterfactuals, was heavily influenced by al-Ghazali's conception of causality) is a SQL-based framework for drawing causal inference that circumvents the scalability issue with the existing tools. ZaliQL supports state-of-the-art methods for causal inference and runs at scale within a database engine. </font></div>
+</div></div>
+
+<div id="text3" style="position:absolute; overflow:hidden; left:547px; top:288px; width:256px; height:22px; z-index:3">
+<div class="wpmd">
+<div><font class="ws12"><B>Causal vs. predictive inference</B></font></div>
+</div></div>
+
+<div id="text4" style="position:absolute; overflow:hidden; left:199px; top:618px; width:964px; height:228px; z-index:4">
+<div class="wpmd">
+<div align=justify><font class="ws12">Much of the success of Big data today comes from predictive or descriptive analytics: statistical models or data mining algorithms applied to data to predict new or future observations, e.g., we observe how users click on ads, then build a model and predict how future users will click. Predictive analysis/modeling is central to many scientific fields, such as bioinformatics and natural language processing, in other fields - such as social economics, psychology, education and environmental science - researchers are focused on testing and evaluating causal hypotheses. Both predictive and causal analysis are needed to generate and test theories, policy and decision making and to evaluate hypotheses, yet each plays a different role in doing so. In fact, performing predictive analysis to address questions that are causal in nature could lead to a flood of false discovery claims. While the distinction between causal and predictive analysis has been recognized, the conflation between the two is common. In many cases, researchers who want to discover causality from data analysis settle for predictive analysis either because they think it is causal or lack of available alternatives.</font></div>
+<div align=justify><font class="ws12"><BR></font></div>
+<div align=justify><font class="ws12"><BR></font></div>
+</div></div>
+
+<div id="text5" style="position:absolute; overflow:hidden; left:450px; top:821px; width:469px; height:22px; z-index:5">
+<div class="wpmd">
+<div><font class="ws14"><B>Causal Inference from Big Observational data</B></font></div>
+</div></div>
+
+<div id="text6" style="position:absolute; overflow:hidden; left:204px; top:1014px; width:956px; height:245px; z-index:6">
+<div class="wpmd">
+<div align=justify><font class="ws12">Causal inference has been studied extensively in statistics and computer science. Applying the existing tools and techniques to Big Data, however, is challenging. To begin with, the Big Data is typically </font><font class="ws12"><a href="https://en.wikipedia.org/wiki/Observational_study" title="Observational study" class="style1">observational data</a></font><font class="ws12">, meaning that it was collected opportunistically, unlike a randomized or </font><font class="ws12"><a href="https://en.wikipedia.org/wiki/Scientific_control" title="Scientific control" class="style1">controlled experiment</a></font><font class="ws12">, which is the gold standard for causal analysis in many settings (in particular clinical trials). In addition, it faces the usual challenges in data management for Big Data, which are often unfamiliar to statisticians: the data needs to be first acquired (e.g., from text, images, sensors, etc), integrated, cleaned, and transformed, before being subjected to any analysis. In the big data setting, issues of heterogeneity (multiple datasets, collected under different experimental settings, many times with different schemas, etc.) reign supreme. In addition, in many of the most interesting Big Data settings, the data is highly relational (e.g, social networks, biological networks, sensor networks and more) and the classic causal models often assume away any causal relational dependencies. The goal of this project to to develop a declarative framework for causal analysis on Big Data. In particular we leverage from the existing techniques in data management to address fundamental problems that arise in casual analysis on big relational data: definition, specification and verification of the key statistical assumptions needed for causal inference; matching and experiment design; analysis of network effects in causal models; discovery, integration and reconciliation of causal networks; and explanation of complex data analytic results.</font></div>
+<div align=justify><font class="ws12"><BR></font></div>
+</div></div>
+
+<div id="image1" style="position:absolute; overflow:hidden; left:206px; top:1480px; width:107px; height:110px; z-index:7"><img src="images/logo.jpg" alt="" title="" border=0 width=107 height=110></div>
+
+<div id="image2" style="position:absolute; overflow:hidden; left:566px; top:865px; width:188px; height:131px; z-index:8"><img src="images/maxresdefault.jpg" alt="" title="" border=0 width=188 height=131></div>
+
+<div id="text7" style="position:absolute; overflow:hidden; left:214px; top:1768px; width:788px; height:22px; z-index:9">
+<div class="wpmd">
+<div><B><U>People</U></B></div>
+</div></div>
+
+<div id="table1" style="position:absolute; overflow:hidden; left:207px; top:1795px; width:563px; height:84px; z-index:10">
+<div class="wpmd">
+<div><TABLE border=0 bordercolorlight="#F0F0F0" bordercolordark="#A0A0A0">
+<TR valign=top>
+<TD valign=middle><BR>
+</TD>
+<TD valign=middle><BR>
+</TD>
+</TR>
+<TR valign=top>
+<TD valign=middle><div class="wpmd">
+<UL>
+<li><font color="#000000">Babak Salimi</font></li>
+</UL>
+</div>
+</TD>
+<TD valign=middle><div class="wpmd">
+<div>Postdoc (University of Washington)</div>
+</div>
+</TD>
+</TR>
+<TR valign=top>
+<TD valign=middle><div class="wpmd">
+<UL>
+<li><a href="http://www.cs.washington.edu/homes/suciu/" title="">Dan Suciu</a></li>
+</UL>
+</div>
+</TD>
+<TD valign=middle><div class="wpmd">
+<div>Faculty (University of Washington)</div>
+</div>
+</TD>
+</TR>
+</TABLE>
+</div>
+</div></div>
+
+<div id="text8" style="position:absolute; overflow:hidden; left:158px; top:1889px; width:788px; height:46px; z-index:11">
+<div class="wpmd">
+<div>Updated on or after Sep 10, 2016</div>
+<div><BR></div>
+<div><BR></div>
+</div></div>
+
+<div id="image3" style="position:absolute; overflow:hidden; left:149px; top:120px; width:1065px; height:128px; z-index:12"><img src="images/paste.jpg" alt="" title="" border=0 width=1065 height=128></div>
+
+<div id="image4" style="position:absolute; overflow:hidden; left:433px; top:311px; width:521px; height:291px; z-index:13"><img src="images/dont-let-correlation-steamroll-causation.png" alt="" title="" border=0 width=521 height=291></div>
+
+<div id="text9" style="position:absolute; overflow:hidden; left:211px; top:1455px; width:788px; height:22px; z-index:14">
+<div class="wpmd">
+<div><B><U>Publications</U></B></div>
+</div></div>
+
+<div id="text10" style="position:absolute; overflow:hidden; left:202px; top:256px; width:46px; height:22px; z-index:15">
+<div class="wpmd">
+<div><font class="ws6"><B><a href="https://en.wikipedia.org/wiki/Al-Ghazali" title="Ghazali" class="style1">Ghazali</a></B></font></div>
+</div></div>
+
+<div id="text11" style="position:absolute; overflow:hidden; left:334px; top:256px; width:56px; height:22px; z-index:16">
+<div class="wpmd">
+<div><font class="ws6"><B><a href="https://en.wikipedia.org/wiki/David_Hume" title="Hume" class="style1">David Hume</a></B></font></div>
+</div></div>
+
+<div id="text12" style="position:absolute; overflow:hidden; left:493px; top:255px; width:56px; height:14px; z-index:17">
+<div class="wpmd">
+<div><font class="ws6"><B><a href="https://en.wikipedia.org/wiki/David_Lewis_(philosopher)" title="Lewis" class="style1">David Lewis</a></B></font></div>
+</div></div>
+
+<div id="text13" style="position:absolute; overflow:hidden; left:661px; top:256px; width:63px; height:20px; z-index:18">
+<div class="wpmd">
+<div><font class="ws6"><B><a href="https://en.wikipedia.org/wiki/Ronald_Fisher" title="Fisher" class="style1">Ronald Fisher</a></B></font></div>
+</div></div>
+
+<div id="text14" style="position:absolute; overflow:hidden; left:808px; top:255px; width:61px; height:14px; z-index:19">
+<div class="wpmd">
+<div><font class="ws6"><B><a href="https://en.wikipedia.org/wiki/Jerzy_Neyman" title="Neyman" class="style1">Jerzy Neyman</a></B></font></div>
+</div></div>
+
+<div id="text15" style="position:absolute; overflow:hidden; left:951px; top:254px; width:60px; height:20px; z-index:20">
+<div class="wpmd">
+<div><font class="ws6"><B><a href="https://en.wikipedia.org/wiki/Donald_Rubin" title="Rubin" class="style1">Donald Rubin</a></B></font></div>
+</div></div>
+
+<div id="text16" style="position:absolute; overflow:hidden; left:1119px; top:254px; width:58px; height:20px; z-index:21">
+<div class="wpmd">
+<div><font class="ws6"><B><a href="https://en.wikipedia.org/wiki/Judea_Pearl" title="Pearl" class="style1">Judea Pearl</a></B></font></div>
+</div></div>
+
+<div id="text17" style="position:absolute; overflow:hidden; left:408px; top:40px; width:553px; height:32px; z-index:22">
+<div class="wpmd">
+<div><font class="ws20"><B>Drawing Causal Inference from Big Data</B></font></div>
+</div></div>
+
+<div id="text18" style="position:absolute; overflow:hidden; left:206px; top:1312px; width:949px; height:55px; z-index:23">
+<div class="wpmd">
+<div><font class="ws12">Causality has been studied extensively in databases. </font><font class="ws12"><a href="http://people.cs.umass.edu/~ameli/projects/causality/" title="">Causality in databases</a></font><font class="ws12"> aims to identify causes for an observed output of a data transformation. While these works share some aspects of the notion of causality as studied in our project, the problems that they address are fundamentally different.</font></div>
+<div align=justify><font color="#000000" class="ws12"><BR></font></div>
+<div align=justify><font color="#000000" class="ws12"><BR></font></div>
+<div align=justify><font class="ws12"><BR></font></div>
+<div align=justify><font class="ws12"><a href="http://people.cs.umass.edu/~ameli/projects/causality/" title=""><BR></a></font></div>
+</div></div>
+
+<div id="text19" style="position:absolute; overflow:hidden; left:203px; top:1277px; width:788px; height:22px; z-index:24">
+<div class="wpmd">
+<div><B><U>Related Projects</U></B></div>
+</div></div>
+
+
+
+</body>
+</html>

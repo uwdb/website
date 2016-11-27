@@ -9,6 +9,13 @@ id: "internals"
 
 This page contains resources for current faculty and students.
 
+## Lab Days
+
+We're hosting lab days every two weeks during the Autumn 2016 quarter.
+See the [lab day schedule][] and sign up to host!
+
+[lab day schedule]: https://docs.google.com/a/cs.washington.edu/spreadsheets/d/1H_Ylk83QVd3xZUYmAQAgVQM9vDAJD8bNXyKBrjhcVzg/edit?usp=sharing
+
 ## Wiki
 
 Go to [dada.cs.washington.edu/mediawiki/index.php/Database_Group](//dada.cs.washington.edu/mediawiki/index.php/Database_Group).
@@ -38,8 +45,7 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 ### Datalog
 
 * Todd J. Green, Shan Shan Huang, Boon Thau Loo, Wenchao Zhou.
-  [_Datalog and Recursive Query Processing._]
-  (http://dblp.uni-trier.de/db/journals/ftdb/ftdb5.html#GreenHLZ13)
+  [_Datalog and Recursive Query Processing._](http://dblp.uni-trier.de/db/journals/ftdb/ftdb5.html#GreenHLZ13)
   Foundations and Trends in Databases 5(2): 105-195 (2013)
     * Sections 1-3 and 5.1-5.3
 
@@ -47,12 +53,10 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 ### Data Integration
 
 * A.Y. Halevy.
-  [_Answering Queries Using Views: A Survey._]
-  (http://www.cs.washington.edu/homes/alon/site/files/view-survey.ps)
+  [_Answering Queries Using Views: A Survey._](http://www.cs.washington.edu/homes/alon/site/files/view-survey.ps)
   VLDB Journal, 10(4).
 * E. Rahm, P. Bernstein.
-  [_A Survey of Approaches to Automatic Schema Matching._]
-  (https://www.ki.informatik.hu-berlin.de/mac/lehre/lehrmaterial/Informationsintegration/Rahm01.pdf)
+  [_A Survey of Approaches to Automatic Schema Matching._](dbs.uni-leipzig.de/file/VLDBJ-Dec2001.pdf)
   VLDB Journal (10), 2001.
 
 
@@ -64,8 +68,7 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 * M.J.  Carey, D.J DeWitt.
   [_Of Objects and Databases: A Decade of Turmoil._](http://www.informatik.uni-trier.de/~ley/db/conf/vldb/CareyD96.html)
   VLDB 1996.
-* Stonebraker and Hellerstein. _What goes around comes around._  Red Book
-  4th Ed.
+* Stonebraker and Hellerstein. [_What goes around comes around._](https://mitpress.mit.edu/sites/default/files/titles/content/9780262693141_sch_0001.pdf)  Red Book 4th Ed.
 
 
 ### Data Warehousing and Mining
@@ -79,7 +82,7 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
   Morgan Claypool Publishers 2010
   * Main concepts and techniques in chapters 2 and 4.
 * R. Agrawal, R. Srikant.
-  _Fast Algorithms for Mining Association Rules in Large Databases._
+  [_Fast Algorithms for Mining Association Rules in Large Databases._](rakesh.agrawal-family.com/papers/vldb94apriori.pdf)
   VLDB 1994.
 
 
@@ -98,7 +101,7 @@ _Database and Knowledge Base Systems, vol. I._
   _Database and Knowledge Base Systems, vol. II._
   * Chapters 12 (Top-Down Evaluation), 13 (Magic Sets), 14 (Containment).
 * M. Y. Vardi.
-  _Constraint Satisfaction and Database Theory: A Tutorial._
+  [_Constraint Satisfaction and Database Theory: A Tutorial._](http://delivery.acm.org/10.1145/340000/335209/p76-vardi.pdf?ip=205.175.119.177&id=335209&acc=ACTIVE%20SERVICE&key=B63ACEF81C6334F5%2EF43F328D6C8418D0%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=674983630&CFTOKEN=35587064&__acm__=1475242631_7f2103507fc190ff06e4ec5055762f7e)
   PODS 2000, pp.  76-5.
 
 
@@ -120,34 +123,34 @@ _Principles of Distributed Database Systems, 2nd ed._
 ### Query Execution
 
 * G. Graefe.
-  _Query Evaluation Techniques for Large Databases._
+  [_Query Evaluation Techniques for Large Databases._](http://dl.acm.org/citation.cfm?id=152611)
   ACM Computing Surveys 25(2), 1993, pp. 73-170.
   * (Sections 1-5)
 * A. Ailamaki, D. J. DeWitt, M. D. Hill, D. A. Wood.
-_DBMSs on a Modern Processor: Where Does Time Go?_
+[_DBMSs on a Modern Processor: Where Does Time Go?_](www.vldb.org/conf/1999/P28.pdf)
 VLDB 1999.
 
 
 ### Query Optimization
 
 * S. Chaudhuri.
-  _An Overview of Query Optimization in Relational Systems._
+  [_An Overview of Query Optimization in Relational Systems._](cs.stanford.edu/people/chrismre/cs345/rl/chaudhuri98.pdf)
   PODS 1998.
 * P. Selinger, M. Astrahan, D. Chamberlin, R. Lorie, T. Price.
-  _Access Path Selection in a Relational Database Management System._
+  [_Access Path Selection in a Relational Database Management System._](cs.stanford.edu/people/chrismre/cs345/rl/selinger.pdf)
   SIGMOD 1979.
 
 
 ### Ranking and Information Retrieval
 
 * Ronald Fagin, Amnon Lotem, Moni Naor.
-  _Optimal aggregation algorithms for middleware._
+  [_Optimal aggregation algorithms for middleware._](http://researcher.watson.ibm.com/researcher/files/us-fagin/jcss03.pdf)
   JCSS 66(4): 614-656 (2003)
 
 ### Sampling, Approximate Query Processing, Database Statistics
 
 * Graham Cormode, Minos N. Garofalakis, Peter J. Haas, Chris Jermaine.
-  _Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches._
+  [_Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches._](db.ucsd.edu/static/Synopses.pdf)
   Foundations and Trends in Databases 4(1-3): 1-294 (2012)
   * Chapters 2 and 3
 
@@ -155,22 +158,19 @@ VLDB 1999.
 ### Stream Processing
 
 * Brian Babcock, Shivnath Babu, Mayur Datar, Rajeev Motwani, Jennifer Widom.
-  _Models and Issues in Data Stream Systems._
+  [_Models and Issues in Data Stream Systems._](infolab.usc.edu/csci599/Fall2002/paper/DML2_streams-issues.pdf)
   PODS 2002: 1-16.
 * D. Abadi, D. Carney, U. Cetintemel, M. Cherniack, C. Convey, S. Lee, M. Stonebraker, N. Tatbul, and S. Zdonik.
-  _Aurora: A New Model and Architecture for Data Stream Management._
+  [_Aurora: A New Model and Architecture for Data Stream Management._](www.cs.brandeis.edu/~mfc/papers/vldb095.pdf)
   In VLDB Journal (12)2, 2003.
 
 
 ### Systems
 
 * Joseph M. Hellerstein, Michael Stonebraker, James R. Hamilton.
-  [_Architecture of a Database
-  System._](http://dblp.uni-trier.de/db/journals/ftdb/ftdb1.html#HellersteinSH07)
+  [_Architecture of a Database System._](http://dblp.uni-trier.de/db/journals/ftdb/ftdb1.html#HellersteinSH07)
   Foundations and Trends in Databases 1(2): 141-259 (2007)
-* Daniel Abadi, Peter Boncz, Stavros Harizopoulos, Stratos Idreos, Samuel Madden. [_The Design and Implementation of Modern Column-Oriented
-  Database
-  Systems_.](http://cs-www.cs.yale.edu/homes/dna/papers/abadi-column-stores.pdf)
+* Daniel Abadi, Peter Boncz, Stavros Harizopoulos, Stratos Idreos, Samuel Madden. [_The Design and Implementation of Modern Column-Oriented Database Systems_.](http://cs-www.cs.yale.edu/homes/dna/papers/abadi-column-stores.pdf)
   Foundations and Trends in Databases (Vol 5, Issue 3, 2012, pp 197-280)
   * Sections 1, 2, 4 (read 4.1, 4.4., 4.5, skim over the others and skim Section 3).
 

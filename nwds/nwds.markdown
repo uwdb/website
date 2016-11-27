@@ -6,28 +6,50 @@ id: "nwds"
 ---
 
 # Northwest Database Society (NWDB)
-####_Sponsored by Yahoo!_
 
 ## Mission Statement
 The goal of NWDS is to bring together researchers and practitioners in the field of databases and data management systems working in the Pacific North-West.
 
-One of our main activities is a talk series with a variety of distinguished speakers from academia and industry. These talks are also part of the **Yahoo! Database Talk Series** (sponsored by Yahoo!). This quarter's talks are organized by [Alvin](http://www.cs.washington.edu/homes/akcheung/).
+One of our main activities is a talk series with a variety of distinguished speakers from academia and industry. These talks are also part of the **Microsoft Database Lecture Series** (sponsored by Microsoft). This quarter's talks are organized by [Alvin](http://www.cs.washington.edu/homes/akcheung/).
 
-___
+---
 
-##  Upcoming Talks 
+##  Upcoming Talks
+  *Stay tuned for next quarter's talks! Happy Holidays!*
 
 
-___
-
-## Past Talks
+##  Past Talks
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
 
+#### Fall 2016
+
+*   [Dharma Shukla](http://www.dharmashukla.com), Microsoft [[abstract](past_talks.html#Dharma_Shukla_11_18_16)]
+    [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJcnV0U1dRWG9wc2s/view?usp=sharing_eixpa_nl&ts=5835f5b0)]
+*   [Olga Papaemmanouil](http://www.cs.brandeis.edu/~olga/home.html), Brandeis University [[abstract](past_talks.html#Olga_Papaemmanouil_11_4_16)] [[video](https://www.youtube.com/watch?v=oH60uVu6bPE)][[slides](http://db.cs.washington.edu/nwds/Olga_Papaemmanouil_11_4_16.pdf)]
+*   [Immanuel Trummer](http://www.itrummer.org), Cornell University [[abstract](past_talks.html#Immanuel_Trummer_10_14_16)] [[video](https://www.youtube.com/watch?v=Dm1_r5tUMu0)][[slides](http://db.cs.washington.edu/nwds/Immanuel_Trummer_10_14_16.pdf)]
+
+#### Spring 2016
+
+*   [David Chu](http://www.bawakayi.com/davidchu), Microsoft Research [[abstract](past_talks.html#david_chu_05_27_16)]
+*   [Craig Chambers](http://research.google.com/pubs/author4707.html), Google [[abstract](past_talks.html#craig_chambers_05_18_16)]
+*   [Daisy Zhe Wang](http://dsr.cise.ufl.edu/daisyw/), UFL [[abstract](past_talks.html#daisy_wang_05_16_16)]
+*   Angel Viña, CEO, Denodo Technologies [[abstract](past_talks.html#angel_vina_05_06_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJSm02YUdMeGZYODg/view?usp=sharing_eid&ts=573a2953)]    
+*   [Xin Luna Dong](http://lunadong.com/), Google 
+    [[abstract](past_talks.html#xin_dong_03_31_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0B801X-XPoh5IXzdmUk1BVUlFTlE/view?usp=sharing)]
+
+#### Winter 2016
+*   [Fatma Özcan](http://researcher.ibm.com/researcher/view.php?person=us-fozcan), IBM Almaden Research Center [[abstract](past_talks.html#fatma_ozcan_03_4_16)]
+*   Sudipta Sengupta, Microsoft Research [[abstract](past_talks.html#sudipta_sengupta_01_29_16)] [[video](https://www.youtube.com/watch?v=Pr-b9stpAV4&feature=youtu.be)]
+
+#### Fall 2015
+*   Yannis Papakonstantinou, UCSD [[abstract](past_talks.html#yannis_papakonstantinou_12_11_15)] [[video](https://www.youtube.com/watch?v=SXsEAa4xxxI)]
 *   Sailesh Krishnamurthy, Amazon [[abstract](past_talks.html#sailesh_krishnamurthy_11_13_15)] [[video](https://www.youtube.com/watch?v=uW3-WGc0wPo)]
 *   Mehul Shah, Amazon [[abstract](past_talks.html#mehul_shah_10_23_15)]
 *   Daniel von Dincklage, Google [[abstract](past_talks.html#daniel_von_dincklage_10_09_15)] [[video](https://www.youtube.com/watch?v=SP9zS43FRzQ)]
 *   Jennie Duggan, Northwestern University [[abstract](past_talks.html#jennie_duggan_10_02_15)] [[selected slides](http://nwds.cs.washington.edu/files/nwds/pdf/nwds-2015-10-02-Duggan-virtual-experiments.pdf)]
+
+#### Earlier talks
 *   Atri Rudra, University of Buffalo [[abstract](past_talks.html#atri_rudra_06_29_15)]
 *   Anant Bhardwaj, MIT [[abstract](past_talks.html#anant_bhardwaj_01_19_15)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/anantb-datahub-talk.pdf)]
 *   Barzan Mozafari, University of Michigan [[abstract](past_talks.html#barzan_mozafari_11_22_13)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/UW-Google-published.pdf)]
@@ -93,7 +115,7 @@ ___
 
 ## Mailing List
 
-Please sign up for the nwds mailing list [here](http://mailman.cs.washington.edu/csenetid/auth/mailman/listinfo/nwds). We
+Please sign up for the nwds mailing list [here](http://mailman.cs.washington.edu/mailman/listinfo/nwds). We
 use this list primarily to send announcements for upcoming events. After you register, you can send mail to that list at nwds at cs.washington.edu.
 
 To become a member, please contact [Magda](http://www.cs.washington.edu/homes/magda/) or [Alvin](http://www.cs.washington.edu/homes/akcheung/).
