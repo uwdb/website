@@ -15,43 +15,7 @@ One of our main activities is a talk series with a variety of distinguished spea
 ---
 
 ##  Upcoming Talks
-
-<p><a name="Dharma_Shukla_11_18_16"></a>
-<strong>Speaker</strong>: <a href="http://www.dharmashukla.com/">Dharma Shukla</a>, Microsoft</p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
-
-<p><strong>When</strong>: 
-Friday, November 18, 2016. 11am-noon</p>
-
-<p><strong>Title</strong>:
-Azure DocumentDB – A multi-tenant, elastically scalable, globally distributed database service
-</p>
-
-<p><strong>Abstract</strong>: 
-Azure DocumentDB is Microsoft’s multi-tenant, globally distributed database
-system designed for the cloud. DocumentDB allows customers to provision
-and elastically scale both, throughput as well as storage across any number of
-geographical regions. The service offers guaranteed low latency at P99, 99.99
-availability SLA and multiple well-defined consistency models to
-developers. By virtue of its schema-agnostic and write optimized database
-engine, DocumentDB is capable of automatically indexing all the data it
-ingests and, serves SQL and JavaScript language integrated queries in a scale
-independent manner. The service is used extensively both internally within
-Microsoft as well as externally by developers using Microsoft Azure. As a cloud
-service, DocumentDB is carefully architected and engineered with multi-tenancy
-and global distribution from the ground up. 
-</p>
-
-<p>
-In this talk, Dharma will describe the design of DocumentDB as well as his learnings from operating a globally distributed service across heterogeneous customer workloads worldwide. Along with several key design ideas, Dharma will also present several crucial engineering choices they had to make. 
-</p>
-
-<p><strong>Bio</strong>:
-Dharma Shukla is a Distinguished Engineer at Microsoft. Dharma is the founder and architect of Azure DocumentDB - a globally distributed, multi-tenant NoSQL database service on Azure. Prior to DocumentDB, Dharma’s work spanned a variety of distributed systems projects at Microsoft including, design of the programming models for stateful computation (Azure), peer to peer replication and caching systems (Live Mesh), serializable continuations in the CLR (Windows Workflow), and messaging  (BizTalk). Before joining Microsoft in 1998, Dharma worked on database systems and middleware technologies. You can reach out to Dharma at dharmas@microsoft.com or @dharmashukla on Twitter.
-</p>
+* Stay tuned for next quarter's talks! Happy Holidays! *
 
 
 ##  Past Talks
@@ -60,6 +24,8 @@ Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past
 
 #### Fall 2016
 
+*   [Dharma Shukla](http://www.dharmashukla.com), Microsoft [[abstract](past_talks.html#Dharma_Shukla_11_18_16)]
+    [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJcnV0U1dRWG9wc2s/view?usp=sharing_eixpa_nl&ts=5835f5b0)]
 *   [Olga Papaemmanouil](http://www.cs.brandeis.edu/~olga/home.html), Brandeis University [[abstract](past_talks.html#Olga_Papaemmanouil_11_4_16)] [[video](https://www.youtube.com/watch?v=oH60uVu6bPE)][[slides](http://db.cs.washington.edu/nwds/Olga_Papaemmanouil_11_4_16.pdf)]
 *   [Immanuel Trummer](http://www.itrummer.org), Cornell University [[abstract](past_talks.html#Immanuel_Trummer_10_14_16)] [[video](https://www.youtube.com/watch?v=Dm1_r5tUMu0)][[slides](http://db.cs.washington.edu/nwds/Immanuel_Trummer_10_14_16.pdf)]
 
