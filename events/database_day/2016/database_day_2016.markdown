@@ -17,7 +17,7 @@ University of Washington, Seattle.
 
 ### **When**: 
 
-Tuesday, December 2nd, 8:30am - 6:00pm.
+Friday, December 2nd, 8:30am - 6:00pm.
 
 ### **Schedule**:
 
