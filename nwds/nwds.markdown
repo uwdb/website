@@ -15,7 +15,7 @@ One of our main activities is a talk series with a variety of distinguished spea
 ---
 
 ##  Upcoming Talks
-* Stay tuned for next quarter's talks! Happy Holidays! *
+  *Stay tuned for next quarter's talks! Happy Holidays!*
 
 
 ##  Past Talks
