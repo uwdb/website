@@ -38,8 +38,8 @@ Friday, December 2nd, 8:30am - 6:00pm.
 - Lunch talk (12:50pm-1:10pm): "Huawei Overview" Eric Li (Huawei)
  
 #### 1:30pm-3pm: Session 3: Causality/explanations in database systems
-- Talk 1: Helga Gudmundsdottir
-- Talk 2: Babak Salimi
+- Talk 1: Babak Salimi
+- Talk 2: Helga Gudmundsdottir
 - Talk 3: "Resource Management in Large-Scale Clusters" Konstantinos Karanasos (Microsoft)
 
 #### 3pm-3:30pm: Break
