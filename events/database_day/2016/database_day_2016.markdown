@@ -35,7 +35,7 @@ Friday, December 2nd, 8:30am - 6:00pm.
 - Talk 2: Chenglong Wang
 
 #### 12:30pm-1:30pm: Lunch
-- Lunch talk: "Huawei Overview" Eric Li (Huawei)
+- Lunch talk (12:50pm-1:10pm): "Huawei Overview" Eric Li (Huawei)
  
 #### 1:30pm-3pm: Session 3: Causality/explanations in database systems
 - Talk 1: Helga Gudmundsdottir
