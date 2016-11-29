@@ -40,8 +40,8 @@ Friday, December 2nd, 8:30am - 6:00pm.
 - Lunch talk (12:50pm-1:10pm): "Huawei Overview" Eric Li (Huawei)
  
 #### 1:30pm-3:10pm: Session 3: Causality/explanations in database systems
-- Talk 1: "Drawing causal inference from big data". Babak Salimi (UW)
-- Talk 2: "Viska: A System for the Interactive Analysis of Performance Measurements". Helga Gudmundsdottir (UW)
+- Talk 1: "Viska: A System for the Interactive Analysis of Performance Measurements". Helga Gudmundsdottir (UW)
+- Talk 2: "Drawing causal inference from big data". Babak Salimi (UW)
 - Talk 3: "Resource Management in Large-Scale Clusters". Konstantinos Karanasos (Microsoft)
 - Discussion
 
