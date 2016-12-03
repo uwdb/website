@@ -24,7 +24,7 @@ Friday, December 2nd, 8:30am - 6:00pm.
 #### 8:30am-9am: Coffee and Tea
 
 #### 9:am-10:40am: Session 1: Data management for virtual reality, scientific images, video data, and data streams
-- Talk 1: "Visual Cloud: A Database System for Virtual Reality Applications". Brandon Haynes	(UW)
+- Talk 1: "Visual Cloud: A Database System for Virtual Reality Applications". Brandon Haynes	(UW) [Slides](https://drive.google.com/file/d/0B8yKPRGRXCo9NE1fUldGWXBFM1U/view?usp=sharing)
 - Talk 2: "Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads". Parmita Mehta	(UW)		
 - Talk 3: "Self Healing in Streaming". Karthik Ramasamy  (Twitter)			
 - Discussion
@@ -32,7 +32,7 @@ Friday, December 2nd, 8:30am - 6:00pm.
 #### 10:40am-11:10am: Break
 
 #### 11:10am-12:30pm: Session 2: Programming languages techniques in data management
-- Talk 1: "Cosette: An Automated SQL Prover". Shumo Chu. [slides](https://github.com/uwdb/website/raw/gh-pages/_includes/dbday_16_slides/cosette_DBDay_2016.pdf) (UW)
+- Talk 1: "Cosette: An Automated SQL Prover". Shumo Chu (UW)
 - Talk 2: "Synthesizing Highly Expressive SQL Queries from Input-Output Examples". Chenglong Wang (UW)
 - Discussion
 
