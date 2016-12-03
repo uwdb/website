@@ -48,7 +48,7 @@ Friday, December 2nd, 8:30am - 6:00pm.
 #### 3:10pm-3:40pm: Break
 
 #### 3:40pm-5pm: Session 4: Data management services for collaborative analytics environments
-- Talk 1: "New Services for Loosely Coupled Data Environments". Shrainik Jain (UW)
+- Talk 1: "New Services for Loosely Coupled Data Environments". Shrainik Jain (UW). [Slides](https://www.dropbox.com/s/i4dvfu6qhyk747g/uwdbday2016.pdf?dl=0)
 - Talk 2: "Deep Curation: Unsupervised Curation of Biological Repositories". Maxim Grechkin (UW)
 - Discussion
 
