@@ -32,7 +32,7 @@ Friday, December 2nd, 8:30am - 6:00pm.
 #### 10:40am-11:10am: Break
 
 #### 11:10am-12:30pm: Session 2: Programming languages techniques in data management
-- Talk 1: "Cosette: An Automated SQL Prover". Shumo Chu (UW)
+- Talk 1: "Cosette: An Automated SQL Prover". Shumo Chu (UW) [Slides](https://github.com/uwdb/website/raw/gh-pages/_includes/dbday_16_slides/cosette_DBDay_2016.pdf)
 - Talk 2: "Synthesizing Highly Expressive SQL Queries from Input-Output Examples". Chenglong Wang (UW)
 - Discussion
 
