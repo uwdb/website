@@ -26,18 +26,18 @@ Friday, December 2nd, 8:30am - 6:00pm.
 #### 9:am-10:40am: Session 1: Data management for virtual reality, scientific images, video data, and data streams
 - Talk 1: "Visual Cloud: A Database System for Virtual Reality Applications". Brandon Haynes	(UW) [Slides](https://drive.google.com/file/d/0B8yKPRGRXCo9NE1fUldGWXBFM1U/view?usp=sharing)
 - Talk 2: "Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads". Parmita Mehta	(UW)		
-- Talk 3: "Self Healing in Streaming". Karthik Ramasamy  (Twitter)			
+- Talk 3: "Self Healing in Streaming". Karthik Ramasamy  (Twitter) [Slides](slides/self-healing-in-streaming-uw-2016.pdf)
 - Discussion
 
 #### 10:40am-11:10am: Break
 
 #### 11:10am-12:30pm: Session 2: Programming languages techniques in data management
-- Talk 1: "Cosette: An Automated SQL Prover". Shumo Chu (UW) [Slides](https://github.com/uwdb/website/raw/gh-pages/_includes/dbday_16_slides/cosette_DBDay_2016.pdf)
-- Talk 2: "Synthesizing Highly Expressive SQL Queries from Input-Output Examples". Chenglong Wang (UW) [slides](https://github.com/uwdb/website/raw/gh-pages/_includes/dbday_16_slides/DBday-chenglong.pdf)
+- Talk 1: "Cosette: An Automated SQL Prover". Shumo Chu (UW) [Slides](slides/cosette_DBDay_2016.pdf)
+- Talk 2: "Synthesizing Highly Expressive SQL Queries from Input-Output Examples". Chenglong Wang (UW) [slides](slides/DBday-chenglong.pdf)
 - Discussion
 
 #### 12:30pm-1:30pm: Lunch
-- Lunch talk (12:50pm-1:10pm): "Huawei Overview" Eric Li (Huawei)
+- Lunch talk (12:50pm-1:10pm): "Huawei Overview" Eric Li (Huawei) [Slides](slides/2012-12-02UW.pptx)
  
 #### 1:30pm-3:10pm: Session 3: Causality/explanations in database systems
 - Talk 1: "Viska: A System for the Interactive Analysis of Performance Measurements". Helga Gudmundsdottir (UW) [Slides](http://helga.xyz/slides/viska_uwdb2016.pdf)
