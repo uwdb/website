@@ -25,7 +25,7 @@ Friday, December 2nd, 8:30am - 6:00pm.
 
 #### 9:am-10:40am: Session 1: Data management for virtual reality, scientific images, video data, and data streams
 - Talk 1: "Visual Cloud: A Database System for Virtual Reality Applications". Brandon Haynes	(UW) [Slides](https://drive.google.com/file/d/0B8yKPRGRXCo9NE1fUldGWXBFM1U/view?usp=sharing)
-- Talk 2: "Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads". Parmita Mehta	(UW)		
+- Talk 2: "Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads". Parmita Mehta	(UW)		[Slides](https://drive.google.com/file/d/0BwVcG9Y6OlUzZDUxU3dKbUpQOW8/view?usp=sharing)
 - Talk 3: "Self Healing in Streaming". Karthik Ramasamy  (Twitter) [Slides](slides/self-healing-in-streaming-uw-2016.pdf)
 - Discussion
 
