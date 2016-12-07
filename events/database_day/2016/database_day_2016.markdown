@@ -54,3 +54,22 @@ Friday, December 2nd, 8:30am - 6:00pm.
 
 #### 5pm-6pm: Reception
 
+
+### **Pictures**:
+
+<div class="flex-container event-images">
+  <div class="flex-item event-image">
+    <img src="pictures/1.jpeg" class="img-responsive"/>
+  </div>
+  <div class="flex-item event-image">
+    <img src="pictures/7.jpeg" class="img-responsive"/>
+  </div>
+  <div class="flex-item event-image">
+    <img src="pictures/3.jpeg" class="img-responsive"/>
+  </div>
+  <div class="flex-item event-image">
+    <img src="pictures/9.jpeg" class="img-responsive"/>
+  </div>
+</div>
+
+

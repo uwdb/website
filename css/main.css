@@ -208,3 +208,11 @@ table td {
     border-bottom:1px solid #e0e0e0;
     border-left: 1px solid #e0e0e0;
 }
+
+/* Events */
+.event-images {
+  justify-content: flex-start;
+}
+.event-image {
+  margin: 10px;
+}
