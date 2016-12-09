@@ -41,7 +41,7 @@ Friday, December 2nd, 8:30am - 6:00pm.
  
 #### 1:30pm-3:10pm: Session 3: Causality/explanations in database systems
 - Talk 1: "Viska: A System for the Interactive Analysis of Performance Measurements". Helga Gudmundsdottir (UW) [Slides](http://helga.xyz/slides/viska_uwdb2016.pdf)
-- Talk 2: "Drawing causal inference from big data". Babak Salimi (UW)[Slides](slides/causality_BD.pptx)
+- Talk 2: "Drawing causal inference from big data". Babak Salimi (UW) [Slides](slides/causality_BD.pptx)
 
 - Talk 3: "Resource Management in Large-Scale Clusters". Konstantinos Karanasos (Microsoft) [Slides](slides/Karanasos_UW-DBday2016.pdf)
 - Discussion
