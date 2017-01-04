@@ -63,7 +63,8 @@ id: "people"
 ## Alumni
 
 <ul>
-{% for person in site.data.alumni | sort:'name' %}
+{% assign sorted_alumni = (site.data.alumni | sort:'name') %}
+{% for person in sorted_alumni %}
   <li>
     {% if person.website %}
     <a href="{{ person.website }}">
