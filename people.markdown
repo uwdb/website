@@ -65,7 +65,14 @@ id: "people"
 <ul>
 {% for person in site.data.alumni %}
   <li>
-  	{{person.name}}
+    {% if person.website %}
+    <a href="{{ person.website }}">
+      {{person.name}}
+    </a>
+    {% else %}
+      {{person.name}}
+    {% endif %}
+    {% if person.at %} (now at {{ person.at }}) {% endif %}
   </li>
 {% endfor %}
 </ul>
