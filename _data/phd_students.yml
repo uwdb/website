@@ -13,11 +13,6 @@
   website: https://www.linkedin.com/in/jay-garlapati-77016429
   image: jay.jpg
 
-- name: Eric Gribkoff
-  nickname: Eric
-  website: http://homes.cs.washington.edu/~eagribko/
-  image: eric.jpg
-
 - name: Helga Guðmundsdóttir
   nickname: Helga
   website: http://helga.xyz
@@ -27,11 +22,6 @@
   nickname: Brandon
   website: http://homes.cs.washington.edu/~bhaynes/
   image: brandonH.jpg
-
-- name: Jeremy Hyrkas
-  nickname: Jeremy
-  website: http://homes.cs.washington.edu/~hyrkas/
-  image: jeremy.jpg
 
 - name: Srini Iyer
   nickname: Srini
@@ -53,20 +43,10 @@
   website: https://www.linkedin.com/in/tomerkaftan
   image: tomer.jpg
 
-- name: Paris Koutris
-  nickname: Paris
-  website: http://homes.cs.washington.edu/~pkoutris/
-  image: paris.jpg
-
 - name: Dominik Moritz
   nickname: Dominik
   website: http://homes.cs.washington.edu/~domoritz/
   image: dominik.jpg
-
-- name: Kristi Morton
-  nickname: Kristi
-  website: https://homes.cs.washington.edu/~kmorton/
-  image: kristi.png
 
 - name: Ryan Maas
   nickname: Ryan
@@ -87,11 +67,6 @@
   nickname: Guna
   website: https://www.linkedin.com/in/guna-prasaad-1479a450
   image: guna.jpg
-
-- name: Prasang Upadhyaya
-  nickname: Prasang
-  website: http://homes.cs.washington.edu/~prasang/
-  image: prasang.jpg
 
 - name: Jingjing Wang
   nickname: Jingjing

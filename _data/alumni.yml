@@ -1,3 +1,33 @@
+- name: Prasang Upadhyaya
+  nickname: Prasang
+  website: http://homes.cs.washington.edu/~prasang/
+  image: prasang.jpg
+  at: Twitter
+
+- name: Kristi Morton
+  nickname: Kristi
+  website: https://homes.cs.washington.edu/~kmorton/
+  image: kristi.png
+
+- name: Paris Koutris
+  nickname: Paris
+  website: http://homes.cs.washington.edu/~pkoutris/
+  image: paris.jpg
+
+- name: Jeremy Hyrkas
+  nickname: Jeremy
+  website: http://homes.cs.washington.edu/~hyrkas/
+  image: jeremy.jpg
+
+- name: Eric Gribkoff
+  nickname: Eric
+  website: http://homes.cs.washington.edu/~eagribko/
+  image: eric.jpg
+
+- name: Brendan Lee
+  nickname: Brendan
+  image: brendan.jpg
+
 - name: Victor Ameida
   nickname: Victor
   image: victor.jpg
@@ -56,3 +86,5 @@
 - name: Luna Dong
 
 - name: Daniel Halperin
+  website: http://www.halper.in/
+  at: Google
