@@ -16,6 +16,21 @@ One of our main activities is a talk series with a variety of distinguished spea
 
 ##  Upcoming Talks
 
+<p><a name="Tim_Kraska_1_17_17"></a>
+<strong>Speaker</strong>: Tim Kraska, Brown University</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Computer Science and Engineering Department.<br>
+Paul Allen Center, CSE 305.  </p>
+
+<p><strong>When</strong>: 
+Friday, January 17, 2017. 3:30pm-4:30pm.</p>
+
+<p><strong>Title</strong>: TBD
+</p>
+
+---
+
 <p><a name="Gang_Luo_1_27_17"></a>
 <strong>Speaker</strong>: Gang Luo, School of Medicine at University of Washington</p>
 
