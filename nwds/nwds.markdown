@@ -26,8 +26,20 @@ Paul Allen Center, CSE 305.  </p>
 <p><strong>When</strong>: 
 Friday, January 17, 2017. 3:30pm-4:30pm.</p>
 
-<p><strong>Title</strong>: TBD
+<p><strong>Title</strong>: Quantifying the Uncertainty in Data Exploration </p>
+
+<p><strong>Abstract</strong>: 
+While visual data integration and exploration tools are key to democratizing data science, they also carry new risks. First, it is easy to mistake a visualization (e.g., a histogram showing that more females are impacted by a certain disease) for a statistically significant fact, even though it might just be a random occurrence. Second, even trained statisticians often ignore that every single visualization can increase the risk of considering random fluctuations as significant discoveries. This is a common mistake in visual data exploration; the data is massaged, filtered, and visualized until the domain expert sees something interesting and only then a statistical test is performed. However, this ignores the “fishing expedition” before the test and the increased risk of a false discovery because of it. Third, many users are not aware of the potential impact data errors or incompleteness of the data might have on the results as everything is “hidden” behind nice UIs. 
 </p>
+
+<p>
+In this talk, I will present our vision and first results of QUDE, a component of Brown’s Interactive Data Exploration Stack (BIDES), which aims to assist novice and expert users alike in controlling the various risk factors during an interactive data exploration session.
+</p>
+
+<p><strong>Bio</strong>:
+Tim Kraska is an Assistant Professor in the Computer Science department at Brown University. Currently, his research focuses on Big Data management systems for modern hardware and new types of workloads, especially interactive analytics. Before joining Brown, Tim spent 3 years as a PostDoc in the AMPLab at UC Berkeley, where he worked on hybrid human-machine database systems and cloud-scale data management systems. Tim received his PhD from the ETH Zurich under the supervision of Donald Kossmann. He was awarded an NSF Career Award (2015), an Airforce Young Investigator award (2015), a Swiss National Science Foundation Prospective Researcher Fellowship (2010), a DAAD Scholarship (2006), a University of Sydney Master of Information Technology Scholarship for outstanding achievement (2005), the University of Sydney Siemens Prize (2005), two VLDB best demo awards (2015 and 2011), and an ICDE best paper award (2013). 
+</p>
+
 
 ---
 
