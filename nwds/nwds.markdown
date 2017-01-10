@@ -48,7 +48,7 @@ Tim Kraska is an Assistant Professor in the Computer Science department at Brown
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
+Paul Allen Center, CSE 403.  </p>
 
 <p><strong>When</strong>: 
 Friday, January 27, 2017. 3:30pm-4:30pm.</p>
