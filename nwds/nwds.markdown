@@ -17,7 +17,7 @@ One of our main activities is a talk series with a variety of distinguished spea
 ##  Upcoming Talks
 
 <p><a name="Tim_Kraska_1_17_17"></a>
-<strong>Speaker</strong>: <a href="http://cs.brown.edu?~kraskat">Tim Kraska</a>, Brown University</p>
+<strong>Speaker</strong>: <a href="http://cs.brown.edu/~kraskat">Tim Kraska</a>, Brown University</p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
