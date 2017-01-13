@@ -24,7 +24,7 @@ Computer Science and Engineering Department.<br>
 Paul Allen Center, CSE 305.  </p>
 
 <p><strong>When</strong>: 
-Tuesday, January 17, 2017. 3:30pm-4:30pm.</p>
+Tuesday, January 17, 2017. 1:30pm-2:30pm.</p>
 
 <p><strong>Title</strong>: Quantifying the Uncertainty in Data Exploration </p>
 
