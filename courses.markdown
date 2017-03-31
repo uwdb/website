@@ -24,6 +24,7 @@ id: "courses"
 ### Special courses
 
 * [CSE 590DS](http://www.cs.washington.edu/education/courses/590ds/), Management of XML and Semistructured Data
+* [CSE 599C 2017](http://courses.cs.washington.edu/courses/cse599c/17sp/), Big Data Management Systems
 * [CSE 599C 2010](http://courses.cs.washington.edu/courses/cse599c/10sp/), Scientific Data Management
 * [CSE 599C 2006](http://courses.cs.washington.edu/courses/cse599c/06wi/), Hot Topics in Data Management Systems
 * [CSE 599T](http://www.cs.washington.edu/education/courses/cse599t/), Topics in Probabilistic and Statistical Databases
