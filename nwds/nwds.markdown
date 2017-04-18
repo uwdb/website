@@ -33,7 +33,7 @@ TBD
 </p>
 
 <p><strong>Bio</strong>:
-<TBD>
+TBD
 </p>
 
 ---
