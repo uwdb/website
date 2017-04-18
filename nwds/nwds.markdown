@@ -16,70 +16,36 @@ One of our main activities is a talk series with a variety of distinguished spea
 
 ##  Upcoming Talks
 
-<p><a name="Tim_Kraska_1_17_17"></a>
-<strong>Speaker</strong>: <a href="http://cs.brown.edu/~kraskat">Tim Kraska</a>, Brown University</p>
+<p><a name="Alekh_Jindal_5_3_17"></a>
+<strong>Speaker</strong>: <a href="http://jindal-web.appspot.com/">Alekh Jindal</a>, Microsoft</p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
 Paul Allen Center, CSE 305.  </p>
 
 <p><strong>When</strong>: 
-Tuesday, January 17, 2017. 1:30pm-2:30pm.</p>
+Wednesday, May 3, 2017. 3:30pm-4:30pm.</p>
 
-<p><strong>Title</strong>: Quantifying the Uncertainty in Data Exploration </p>
+<p><strong>Title</strong>: TBD </p>
 
 <p><strong>Abstract</strong>: 
-While visual data integration and exploration tools are key to democratizing data science, they also carry new risks. First, it is easy to mistake a visualization (e.g., a histogram showing that more females are impacted by a certain disease) for a statistically significant fact, even though it might just be a random occurrence. Second, even trained statisticians often ignore that every single visualization can increase the risk of considering random fluctuations as significant discoveries. This is a common mistake in visual data exploration; the data is massaged, filtered, and visualized until the domain expert sees something interesting and only then a statistical test is performed. However, this ignores the “fishing expedition” before the test and the increased risk of a false discovery because of it. Third, many users are not aware of the potential impact data errors or incompleteness of the data might have on the results as everything is “hidden” behind nice UIs. 
-</p>
-
-<p>
-In this talk, I will present our vision and first results of QUDE, a component of Brown’s Interactive Data Exploration Stack (BIDES), which aims to assist novice and expert users alike in controlling the various risk factors during an interactive data exploration session.
+TBD
 </p>
 
 <p><strong>Bio</strong>:
-Tim Kraska is an Assistant Professor in the Computer Science department at Brown University. Currently, his research focuses on Big Data management systems for modern hardware and new types of workloads, especially interactive analytics. Before joining Brown, Tim spent 3 years as a PostDoc in the AMPLab at UC Berkeley, where he worked on hybrid human-machine database systems and cloud-scale data management systems. Tim received his PhD from the ETH Zurich under the supervision of Donald Kossmann. He was awarded an NSF Career Award (2015), an Airforce Young Investigator award (2015), a Swiss National Science Foundation Prospective Researcher Fellowship (2010), a DAAD Scholarship (2006), a University of Sydney Master of Information Technology Scholarship for outstanding achievement (2005), the University of Sydney Siemens Prize (2005), two VLDB best demo awards (2015 and 2011), and an ICDE best paper award (2013). 
+<TBD>
 </p>
-
 
 ---
-
-<p><a name="Gang_Luo_1_27_17"></a>
-<strong>Speaker</strong>: Gang Luo, School of Medicine at University of Washington</p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 403.  </p>
-
-<p><strong>When</strong>: 
-Friday, January 27, 2017. 3:30pm-4:30pm.</p>
-
-<p><strong>Title</strong>:
-Automating Machine Learning Model Building with Big Clinical Data 
-</p>
-
-<p><strong>Abstract</strong>: 
-Predictive modeling is fundamental for extracting value from large clinical data sets, or “big clinical data,” advancing clinical research, and improving healthcare. Predictive modeling can facilitate appropriate and timely care by forecasting an individual’s health risk, clinical course, or outcome. Machine learning is a major approach to predictive modeling using algorithms improving automatically through experience, but two factors make its use in healthcare challenging. First, before training a model, the user of a machine learning software tool must manually select a machine learning algorithm and set one or more model parameters termed hyper-parameters. The algorithm and hyper-parameter values used typically impact the resulting model’s accuracy by over 40%, but their selection requires special computing expertise as well as many labor-intensive manual iterations. Second, most machine learning models are complex and give no explanation of prediction results. Nevertheless, explanation is essential for a learning healthcare system.
-</p>
-
-<p>
-To automate machine learning model building with big clinical data, we are currently developing a software system that can perform the following tasks in a pipeline automatically:
-<ul>
-<li>select effective machine learning algorithms and hyper-parameter values to build predictive models;</li>
-<li>explain prediction results to healthcare researchers;</li>
-<li>suggest tailored interventions; and</li>
-<li>estimate outcomes for various configurations, which is needed for determining a proper strategy to deploy a predictive model in a healthcare system.</li>
-</ul>
-
-This talk will present the design, initial implementation, and some preliminary results of the software system.
-</p>
-
-<p><strong>Bio</strong>:
-Gang Luo obtained his Ph.D. degree in Computer Science minor in Mathematics at the University of Wisconsin-Madison in 2004. Between 2004 and 2012, he was a Research Staff Member at the IBM T.J. Watson research center. Between 2012 and 2016, he was a faculty member in the Department of Biomedical Informatics at the University of Utah. Gang is currently a faculty member in the Department of Biomedical Informatics and Medical Education of the School of Medicine at the University of Washington. His research interests include health/clinical informatics (software system design/development and data analytics), big data, information retrieval, database systems, and machine learning with a focus on health applications. He invented the first method for automatically providing rule-based explanation for any machine learning model&#39;s prediction/classification results without degrading accuracy, the questionnaire-guided intelligent medical search engine iMed, intelligent personal health record, and SQL and compiler progress indicators.
-</p>
 
 ##  Past Talks
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
+
+#### Winter 2017
+
+* [Gang Luo](http://pages.cs.wisc.edu/~gangluo/), University of Washington [[abstract](past_talks.html#Gang_Luo_1_27_17)] [[video](https://youtu.be/t-KwQkhoEME)]
+* [Tim Kraska](http://cs.brown.edu/~kraskat), Brown University [[abstract](past_talks.html#Tim_Kraska_1_17_17)]
 
 #### Fall 2016
 
