@@ -10,12 +10,15 @@ The University of Washington's database group aims at broadening the focus of da
 </p>
 
 ## Recent News
-<ul>
+<!-- see also news.markdown -->
+<style>
+#RecentNews li>p {display: inline;}
+</style>
+<ul id="RecentNews">
 {% assign news = (site.data.news | sort: 'date') | reverse %}
 {% for n in news limit:3 %}
   <li>
-   <span><b>{{ n.date | date: "%B %-d, %Y" }}</b></span>: {{ n.description }}
-   {% if n.link %} <a href=' {{ n.link }} '> More info here </a> {% endif %}
+   <span><b>{{ n.date | date: "%B %-d, %Y" }}</b></span>: {{ n.description | markdownify }}
   </li>
 {% endfor %}
   <li>

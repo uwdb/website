@@ -1,17 +1,22 @@
 - date: 2017-04-21
-  description: Jingjing Wang's paper on Elastic Memory Management for Cloud Data Analytics has been accepted at USENIX 2017
+  description: >
+    [Jingjing Wang](https://homes.cs.washington.edu/~jwang/)'s paper on [Elastic Memory Management for Cloud Data Analytics]() is accepted to USENIX 2017
 
 - date: 2017-04-19
-  link: https://news.cs.washington.edu/2017/04/18/six-allen-school-faculty-members-win-nsf-career-awards/
-  description: Alvin Cheung is among the six UW CSE faculty who won NSF Career awards
+  description: >
+    [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/) is among [six UW CSE faculty who won NSF CAREER awards](https://news.cs.washington.edu/2017/04/18/six-allen-school-faculty-members-win-nsf-career-awards/)
 
 - date: 2017-04-17
-  description: Laurel Orr's paper on Probabilistic Database Summarization for Interactive Data Exploration is accepted to VLDB 2017
+  description: >
+    [Laurel Orr](https://homes.cs.washington.edu/~ljorr1/)'s paper on [Probabilistic Database Summarization for Interactive Data Exploration](https://arxiv.org/abs/1703.03856) is accepted to VLDB 2017
 
 - date: 2017-04-09
-  link: http://www.cs.washington.edu/people/faculty/magda
-  description: Jean Loup Baer Professor of Computer Science and Engineering, Magdalena Balazinska received the ACM SIGMOD Test of Time Award for the paper 'Fault-Tolerance in the Borealis Distributed Stream Processing System'
+  description: >
+    [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda) received the [ACM SIGMOD Test of Time Award](https://sigmod.org/sigmod-awards/#time) for the paper [Fault-Tolerance in the Borealis Distributed Stream Processing System](https://dl.acm.org/citation.cfm?id=1066160)
 
 - date: 2017-04-07
-  link: https://uwescience.github.io/sqlshare/pdfs/sqlshare_shrainik.pdf
-  description: Shrainik Jain's paper SQLShare- Results from a Multi-Year SQL-as-a-Service Experiment has been awarded as one of the most reproducible across several criteria from SIGMOD 2016
+  description: >
+    [Shrainik Jain](https://homes.cs.washington.edu/~shrainik/)'s paper [SQLShare: Results from a Multi-Year SQL-as-a-Service Experiment](https://uwescience.github.io/sqlshare/pdfs/sqlshare_shrainik.pdf) has been awarded as one of the most reproducible across several criteria from SIGMOD 2016
+
+# Descriptions that include Markdown need to be in quotes or in a literal/folded block (with '|' or '>')
+# (see https://learnxinyminutes.com/docs/yaml/)
