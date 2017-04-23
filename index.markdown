@@ -9,6 +9,21 @@ rank: 0
 The University of Washington's database group aims at broadening the focus of database and data management techniques beyond their traditional scope.  We do both theoretical and systems work in areas such as probabilistic databases, stream processing, sensor-based monitoring, databases and the web, XML, data management for ubiquitous computing, data integration, and data mining.
 </p>
 
+## Recent News
+<ul>
+{% assign news = (site.data.news | sort: 'date') | reverse %}
+{% for n in news limit:3 %}
+  <li>
+   <span><b>{{ n.date | date: "%B %-d, %Y" }}</b></span>: {{ n.description }}
+   {% if n.link %} <a href=' {{ n.link }} '> More info here </a> {% endif %}
+  </li>
+{% endfor %}
+  <li>
+   <a href="news.html">View all news</a>
+  </li>
+</ul>
+
+
 ## Current Projects
 
 {% include current_projects %}
