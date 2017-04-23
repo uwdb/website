@@ -10,4 +10,5 @@
 {% include project name="PipeGen" caption="Data Pipe Generation for Hybrid Analytics" image="pipegen.png" link="http://db.cs.washington.edu/projects/pipegen" %}
 {% include project name="Cosette" caption="An Automated SQL Solver" image="dopcert_logo.png" link="http://cosette.cs.washington.edu" %}
 {% include project name="ZaliQL" caption="A Declarative Framework for Drawing Causal Inference from Big Data" image="causality.jpg" link="http://db.cs.washington.edu/projects/causality/" %}
+{% include project name="LARA" caption="A Key-Value Algebra underlying Arrays and Relations" image="lara-logo.png" link="https://arxiv.org/abs/1703.07342" %}
 </div>
