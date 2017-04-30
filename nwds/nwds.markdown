@@ -16,6 +16,9 @@ One of our main activities is a talk series with a variety of distinguished spea
 
 ##  Upcoming Talks
 
+Stay tuned for next quarter's talks!
+
+<!--
 <p><a name="Alekh_Jindal_5_3_17"></a>
 <strong>Speaker</strong>: <a href="http://jindal-web.appspot.com/">Alekh Jindal</a>, Microsoft</p>
 
@@ -35,6 +38,7 @@ TBD
 <p><strong>Bio</strong>:
 TBD
 </p>
+-->
 
 ---
 
