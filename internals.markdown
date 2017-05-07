@@ -38,14 +38,15 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 ## General Exam Reading List
 
 ### Basic Textbooks
-* H. Garcia-Molina, J. Ullman and J. Widom.  _Database Systems: The Complete Book_.
+
+* H. Garcia-Molina, J. Ullman and J. Widom.  [_Database Systems: The Complete Book_.](https://pdfstores.files.wordpress.com/2016/04/ullman_the_complete_book.pdf)
   * Chapter 3: Design Theory for Relational Databases.
 
 
 ### Datalog
 
 * Todd J. Green, Shan Shan Huang, Boon Thau Loo, Wenchao Zhou.
-  [_Datalog and Recursive Query Processing._](http://dblp.uni-trier.de/db/journals/ftdb/ftdb5.html#GreenHLZ13)
+  [_Datalog and Recursive Query Processing._](blogs.evergreen.edu/sosw/files/2014/04/Green-Vol5-DBS-017.pdf)
   Foundations and Trends in Databases 5(2): 105-195 (2013)
     * Sections 1-3 and 5.1-5.3
 
@@ -53,7 +54,7 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 ### Data Integration
 
 * A.Y. Halevy.
-  [_Answering Queries Using Views: A Survey._](http://www.cs.washington.edu/homes/alon/site/files/view-survey.ps)
+  [_Answering Queries Using Views: A Survey._](homes.cs.washington.edu/~alon/views.ps)
   VLDB Journal, 10(4).
 * E. Rahm, P. Bernstein.
   [_A Survey of Approaches to Automatic Schema Matching._](dbs.uni-leipzig.de/file/VLDBJ-Dec2001.pdf)
@@ -63,10 +64,10 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 ### Data Models
 
 * E.F. Codd.
-  [_A Relational Model of Data for Large Shared Data Banks._](http://www.informatik.uni-trier.de/~ley/db/journals/cacm/Codd70.html)
+  [_A Relational Model of Data for Large Shared Data Banks._](www.morganslibrary.net/files/codd-1970.pdf)
   CACM 13(6), 1970, pp. 377-387.
 * M.J.  Carey, D.J DeWitt.
-  [_Of Objects and Databases: A Decade of Turmoil._](http://www.informatik.uni-trier.de/~ley/db/conf/vldb/CareyD96.html)
+  [_Of Objects and Databases: A Decade of Turmoil._](pages.cs.wisc.edu/~dewitt/includes/oodbms/vldb96.pdf)
   VLDB 1996.
 * Stonebraker and Hellerstein. [_What goes around comes around._](https://mitpress.mit.edu/sites/default/files/titles/content/9780262693141_sch_0001.pdf)  Red Book 4th Ed.
 
@@ -74,7 +75,7 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 ### Data Warehousing and Mining
 
 * J.  Gray, S.  Chaudhuri, A. Bosworth, A. Layman, D. Reichart, M. Venkatrao, F. Pellow, H. Pirahesh.
-  [_Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals._](http://paul.rutgers.edu/~aminabdu/cs541/cube_op.pdf)
+  [_Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals._](cs.stanford.edu/people/chrismre/cs345/rl/olap.pdf)
   Mining and Knowledge Discovery 1997.
 * Christian S. Jensen, Torben Bach Pedersen, Christian Thomsen.
   [_Multidimensional Databases and Data Warehousing._](http://dx.doi.org/10.2200/S00299ED1V01Y201009DTM009)
@@ -108,15 +109,13 @@ _Database and Knowledge Base Systems, vol. I._
 ### Parallel and Distributed Databases
 
 * T.  Oszu, P.  Valduriez.
-_Principles of Distributed Database Systems, 2nd ed._
+  _Principles of Distributed Database Systems, 2nd ed._
   * Chapter 4 (Distributed Database Systems), pp.  82-99, skimming basic terminology; Chapter 5 (Distributed Database Design), pp.  107-154, skimming examples, algorithms, and Section 5.4.3; Chapter 13 (Parallel Database Systems), pp.  420-452.
 * D.  Kossman.
-  [_The State of the Art in Distributed Query Processing._]
-  (http://portal.acm.org/citation.cfm?id=371598)
+  [_The State of the Art in Distributed Query Processing._](http://portal.acm.org/citation.cfm?id=371598)
   ACM Computing Surveys 32(4), 2000, pp.  418-469.
 * Jeffrey Dean and Sanjay Ghemawat.
-  [_MapReduce: Simplified Data Processing on Large Clusters._]
-  (http://research.google.com/archive/mapreduce.html)
+  [_MapReduce: Simplified Data Processing on Large Clusters._](http://research.google.com/archive/mapreduce.html)
   OSDI'04: Sixth Symposium on Operating System Design and Implementation.
 
 
@@ -127,7 +126,7 @@ _Principles of Distributed Database Systems, 2nd ed._
   ACM Computing Surveys 25(2), 1993, pp. 73-170.
   * (Sections 1-5)
 * A. Ailamaki, D. J. DeWitt, M. D. Hill, D. A. Wood.
-[_DBMSs on a Modern Processor: Where Does Time Go?_](www.vldb.org/conf/1999/P28.pdf)
+  [_DBMSs on a Modern Processor: Where Does Time Go?_](www.vldb.org/conf/1999/P28.pdf)
 VLDB 1999.
 
 
@@ -178,21 +177,17 @@ VLDB 1999.
 ### Transaction Processing
 
 * P. A. Bernstein, E. Newcomer.
-_Principles of Transaction Processing</cite>, 2nd ed._
-  * Chapter 1 (Introduction), Chapter 9 (Two-Phase Commit), [Chapter 6 (Locking)](papers/reading_list_chapt6v4.pdf) --the new version, Chapter 8 (Database System Recovery).
+  _Principles of Transaction Processing, 2nd ed._
+  - Chapter 1 (Introduction), Chapter 9 (Two-Phase Commit), [Chapter 6 (Locking)](papers/reading_list_chapt6v4.pdf) (the new version), Chapter 8 (Database System Recovery)
 * Michael J. Franklin.
-  [_Concurrency Control and Recovery._]
-  (http://zoo.cs.yale.edu/classes/cs637/franklin97concurrency.pdf)
+  [_Concurrency Control and Recovery._](http://zoo.cs.yale.edu/classes/cs637/franklin97concurrency.pdf)
   The Handbook of Computer Science and Engineering, A. Tucker, ed., CRC Press, Boca Raton, 1997.
 * Rick Cattell.
-  [_Scalable SQL and NoSQL Data Stores._]
-  (http://cattell.net/datastores/Datastores.pdf)
+  [_Scalable SQL and NoSQL Data Stores._](http://cattell.net/datastores/Datastores.pdf)
   SIGMOD Record, December 2010.
 * M. Stonebraker, S. Madden, D.J. Abadi, S. Harizopoulos, N. Hachem, and P. Helland.
-  [_The end of an Architectural Era: (It’s Time for a Complete Rewrite.)_]
-  (http://nms.csail.mit.edu/~stavros/pubs/hstore.pdf)
+  [_The end of an Architectural Era: (It’s Time for a Complete Rewrite.)_](http://nms.csail.mit.edu/~stavros/pubs/hstore.pdf)
   VLDB ’07: Proceedings of the 33rd international conference on Very large data bases, 2007, pp. 1150-1160.
 * James C.  Corbett, Jeffrey Dean, Michael Epstein, Andrew Fikes, Christopher Frost, JJ Furman, Sanjay Ghemawat, Andrey Gubarev, Christopher Heiser, Peter Hochschild, Wilson Hsieh, Sebastian Kanthak, Eugene Kogan, Hongyi Li, Alexander Lloyd, Sergey Melnik, David Mwaura, David Nagle, Sean Quinlan, Rajesh Rao, Lindsay Rolig, Yasushi Saito, Michal Szymaniak, Christopher Taylor, Ruth Wang, and Dale Woodford.
-  [_Spanner: Google's Globally-Distributed Database._]
-  (http://research.google.com/archive/spanner.html)
+  [_Spanner: Google's Globally-Distributed Database._](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf)
   OSDI'12: Tenth Symposium on Operating System Design and Implementation
