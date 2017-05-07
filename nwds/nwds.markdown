@@ -26,7 +26,7 @@ Allen School of Computer Science.<br>
 Paul Allen Center, Gates Commons.</p>
 
 <p><strong>When</strong>: 
-Friday, May 26, 2017. 3:30pm-4:30pm.</p>
+Friday, May 26, 2017. 2:30pm-3:30pm.</p>
 
 <p><strong>Title</strong>: Building modern dataflow systems</p>
 
