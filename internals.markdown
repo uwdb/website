@@ -109,15 +109,13 @@ _Database and Knowledge Base Systems, vol. I._
 ### Parallel and Distributed Databases
 
 * T.  Oszu, P.  Valduriez.
-_Principles of Distributed Database Systems, 2nd ed._
+  _Principles of Distributed Database Systems, 2nd ed._
   * Chapter 4 (Distributed Database Systems), pp.  82-99, skimming basic terminology; Chapter 5 (Distributed Database Design), pp.  107-154, skimming examples, algorithms, and Section 5.4.3; Chapter 13 (Parallel Database Systems), pp.  420-452.
 * D.  Kossman.
-  [_The State of the Art in Distributed Query Processing._]
-  (http://portal.acm.org/citation.cfm?id=371598)
+  [_The State of the Art in Distributed Query Processing._](http://portal.acm.org/citation.cfm?id=371598)
   ACM Computing Surveys 32(4), 2000, pp.  418-469.
 * Jeffrey Dean and Sanjay Ghemawat.
-  [_MapReduce: Simplified Data Processing on Large Clusters._]
-  (http://research.google.com/archive/mapreduce.html)
+  [_MapReduce: Simplified Data Processing on Large Clusters._](http://research.google.com/archive/mapreduce.html)
   OSDI'04: Sixth Symposium on Operating System Design and Implementation.
 
 
@@ -128,7 +126,7 @@ _Principles of Distributed Database Systems, 2nd ed._
   ACM Computing Surveys 25(2), 1993, pp. 73-170.
   * (Sections 1-5)
 * A. Ailamaki, D. J. DeWitt, M. D. Hill, D. A. Wood.
-[_DBMSs on a Modern Processor: Where Does Time Go?_](www.vldb.org/conf/1999/P28.pdf)
+  [_DBMSs on a Modern Processor: Where Does Time Go?_](www.vldb.org/conf/1999/P28.pdf)
 VLDB 1999.
 
 
