@@ -178,7 +178,7 @@ VLDB 1999.
 ### Transaction Processing
 
 * P. A. Bernstein, E. Newcomer.
-_Principles of Transaction Processing</cite>, 2nd ed._
+_Principles of Transaction Processing, 2nd ed._
   * Chapter 1 (Introduction), Chapter 9 (Two-Phase Commit), [Chapter 6 (Locking)](papers/reading_list_chapt6v4.pdf) --the new version, Chapter 8 (Database System Recovery).
 * Michael J. Franklin.
   [_Concurrency Control and Recovery._]
@@ -194,5 +194,5 @@ _Principles of Transaction Processing</cite>, 2nd ed._
   VLDB ’07: Proceedings of the 33rd international conference on Very large data bases, 2007, pp. 1150-1160.
 * James C.  Corbett, Jeffrey Dean, Michael Epstein, Andrew Fikes, Christopher Frost, JJ Furman, Sanjay Ghemawat, Andrey Gubarev, Christopher Heiser, Peter Hochschild, Wilson Hsieh, Sebastian Kanthak, Eugene Kogan, Hongyi Li, Alexander Lloyd, Sergey Melnik, David Mwaura, David Nagle, Sean Quinlan, Rajesh Rao, Lindsay Rolig, Yasushi Saito, Michal Szymaniak, Christopher Taylor, Ruth Wang, and Dale Woodford.
   [_Spanner: Google's Globally-Distributed Database._]
-  (http://research.google.com/archive/spanner.html)
+  (https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf)
   OSDI'12: Tenth Symposium on Operating System Design and Implementation
