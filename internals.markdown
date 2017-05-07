@@ -38,6 +38,7 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 ## General Exam Reading List
 
 ### Basic Textbooks
+
 * H. Garcia-Molina, J. Ullman and J. Widom.  [_Database Systems: The Complete Book_.](https://pdfstores.files.wordpress.com/2016/04/ullman_the_complete_book.pdf)
   * Chapter 3: Design Theory for Relational Databases.
 
@@ -178,21 +179,17 @@ VLDB 1999.
 ### Transaction Processing
 
 * P. A. Bernstein, E. Newcomer.
-_Principles of Transaction Processing, 2nd ed._
-  * Chapter 1 (Introduction), Chapter 9 (Two-Phase Commit), [Chapter 6 (Locking)](papers/reading_list_chapt6v4.pdf) --the new version, Chapter 8 (Database System Recovery).
+  _Principles of Transaction Processing, 2nd ed._
+  - Chapter 1 (Introduction), Chapter 9 (Two-Phase Commit), [Chapter 6 (Locking)](papers/reading_list_chapt6v4.pdf) (the new version), Chapter 8 (Database System Recovery)
 * Michael J. Franklin.
-  [_Concurrency Control and Recovery._]
-  (http://zoo.cs.yale.edu/classes/cs637/franklin97concurrency.pdf)
+  [_Concurrency Control and Recovery._](http://zoo.cs.yale.edu/classes/cs637/franklin97concurrency.pdf)
   The Handbook of Computer Science and Engineering, A. Tucker, ed., CRC Press, Boca Raton, 1997.
 * Rick Cattell.
-  [_Scalable SQL and NoSQL Data Stores._]
-  (http://cattell.net/datastores/Datastores.pdf)
+  [_Scalable SQL and NoSQL Data Stores._](http://cattell.net/datastores/Datastores.pdf)
   SIGMOD Record, December 2010.
 * M. Stonebraker, S. Madden, D.J. Abadi, S. Harizopoulos, N. Hachem, and P. Helland.
-  [_The end of an Architectural Era: (It’s Time for a Complete Rewrite.)_]
-  (http://nms.csail.mit.edu/~stavros/pubs/hstore.pdf)
+  [_The end of an Architectural Era: (It’s Time for a Complete Rewrite.)_](http://nms.csail.mit.edu/~stavros/pubs/hstore.pdf)
   VLDB ’07: Proceedings of the 33rd international conference on Very large data bases, 2007, pp. 1150-1160.
 * James C.  Corbett, Jeffrey Dean, Michael Epstein, Andrew Fikes, Christopher Frost, JJ Furman, Sanjay Ghemawat, Andrey Gubarev, Christopher Heiser, Peter Hochschild, Wilson Hsieh, Sebastian Kanthak, Eugene Kogan, Hongyi Li, Alexander Lloyd, Sergey Melnik, David Mwaura, David Nagle, Sean Quinlan, Rajesh Rao, Lindsay Rolig, Yasushi Saito, Michal Szymaniak, Christopher Taylor, Ruth Wang, and Dale Woodford.
-  [_Spanner: Google's Globally-Distributed Database._]
-  (https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf)
+  [_Spanner: Google's Globally-Distributed Database._](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf)
   OSDI'12: Tenth Symposium on Operating System Design and Implementation
