@@ -38,14 +38,14 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 ## General Exam Reading List
 
 ### Basic Textbooks
-* H. Garcia-Molina, J. Ullman and J. Widom.  _Database Systems: The Complete Book_.
+* H. Garcia-Molina, J. Ullman and J. Widom.  [_Database Systems: The Complete Book_.](https://pdfstores.files.wordpress.com/2016/04/ullman_the_complete_book.pdf)
   * Chapter 3: Design Theory for Relational Databases.
 
 
 ### Datalog
 
 * Todd J. Green, Shan Shan Huang, Boon Thau Loo, Wenchao Zhou.
-  [_Datalog and Recursive Query Processing._](http://dblp.uni-trier.de/db/journals/ftdb/ftdb5.html#GreenHLZ13)
+  [_Datalog and Recursive Query Processing._](blogs.evergreen.edu/sosw/files/2014/04/Green-Vol5-DBS-017.pdf)
   Foundations and Trends in Databases 5(2): 105-195 (2013)
     * Sections 1-3 and 5.1-5.3
 
@@ -53,7 +53,7 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 ### Data Integration
 
 * A.Y. Halevy.
-  [_Answering Queries Using Views: A Survey._](http://www.cs.washington.edu/homes/alon/site/files/view-survey.ps)
+  [_Answering Queries Using Views: A Survey._](homes.cs.washington.edu/~alon/views.ps)
   VLDB Journal, 10(4).
 * E. Rahm, P. Bernstein.
   [_A Survey of Approaches to Automatic Schema Matching._](dbs.uni-leipzig.de/file/VLDBJ-Dec2001.pdf)
@@ -63,10 +63,10 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 ### Data Models
 
 * E.F. Codd.
-  [_A Relational Model of Data for Large Shared Data Banks._](http://www.informatik.uni-trier.de/~ley/db/journals/cacm/Codd70.html)
+  [_A Relational Model of Data for Large Shared Data Banks._](www.morganslibrary.net/files/codd-1970.pdf)
   CACM 13(6), 1970, pp. 377-387.
 * M.J.  Carey, D.J DeWitt.
-  [_Of Objects and Databases: A Decade of Turmoil._](http://www.informatik.uni-trier.de/~ley/db/conf/vldb/CareyD96.html)
+  [_Of Objects and Databases: A Decade of Turmoil._](pages.cs.wisc.edu/~dewitt/includes/oodbms/vldb96.pdf)
   VLDB 1996.
 * Stonebraker and Hellerstein. [_What goes around comes around._](https://mitpress.mit.edu/sites/default/files/titles/content/9780262693141_sch_0001.pdf)  Red Book 4th Ed.
 
@@ -74,7 +74,7 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 ### Data Warehousing and Mining
 
 * J.  Gray, S.  Chaudhuri, A. Bosworth, A. Layman, D. Reichart, M. Venkatrao, F. Pellow, H. Pirahesh.
-  [_Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals._](http://paul.rutgers.edu/~aminabdu/cs541/cube_op.pdf)
+  [_Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals._](cs.stanford.edu/people/chrismre/cs345/rl/olap.pdf)
   Mining and Knowledge Discovery 1997.
 * Christian S. Jensen, Torben Bach Pedersen, Christian Thomsen.
   [_Multidimensional Databases and Data Warehousing._](http://dx.doi.org/10.2200/S00299ED1V01Y201009DTM009)
