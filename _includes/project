@@ -1,6 +1,8 @@
 <div class="flex-item project">
 	<a id="{{ include.id }}" href="{{ include.link }}">
-		<img src="{{ site.baseurl }}/images/projects/{{ include.image }}"/>
+		<div class="logo-container">
+			<img src="{{ site.baseurl }}/images/projects/{{ include.image }}"/>
+		</div>
 		<h4 class="heading">{{ include.name }}</h4>
 		<p class="caption">{{ include.caption }}</p>
 	</a>

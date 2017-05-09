@@ -179,8 +179,13 @@ img.logo {
   text-align: center;
 }
 
-.current-projects .project img {
+.current-projects .project .logo-container {
+  height: 121px;
+}
+
+.current-projects .project .logo-container img {
   max-width: 160px;
+  max-height: 121px;
   border-radius: 12px;
 }
 
