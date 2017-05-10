@@ -8,9 +8,7 @@ id: "projects"
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
 <div class="jumbotron" style="background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0">
-  <h1>
-  <img src="../../images/projects/visualcloud.png" alt="Logo" style="height: 50px" /><br />
-  VisualCloud</h1>
+  <img src="../../images/projects/visualcloud.png" alt="Logo" style="height: 50px" />
   <p>A Database Management System for Virtual Reality</p>
   <p>
   	<a class="btn btn-primary btn-lg label-primary" href="haynes-sigmod17-demo.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
