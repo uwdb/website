@@ -16,6 +16,8 @@ id: "projects"
   </p>
 </div>
 
+<iframe class="tscplayer_inline" id="embeddedSmartPlayerInstance" src="VisualCloud Overview_player.html?embedIFrameId=embeddedSmartPlayerInstance" scrolling="no" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 ### VisualCloud efficiently ingests, manages, and serves VR content
 
 VisualCloud is a database management system (DBMS) designed
