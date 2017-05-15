@@ -6,6 +6,7 @@ id: "projects"
 ---
 
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+<link href="VisualCloud Overview_embed.css" rel="stylesheet">
 
 <div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
   <img src="../../images/projects/visualcloud.png" alt="Logo" style="width: 40rem" />
@@ -16,9 +17,7 @@ id: "projects"
   </p>
 </div>
 
-<iframe class="tscplayer_inline" id="embeddedSmartPlayerInstance" src="VisualCloud Overview_player.html?embedIFrameId=embeddedSmartPlayerInstance" scrolling="no" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
-### VisualCloud efficiently ingests, manages, and serves VR content
+### About VisualCloud
 
 VisualCloud is a database management system (DBMS) designed
 to efficiently ingest, store, and deliver virtual reality (VR)
@@ -42,6 +41,8 @@ and machine learning communities (e.g., path prediction). VisualCloud
 reduces bandwidth (and thus also power) consumption on
 client devices, scales to many concurrent connections, and offers an
 enhanced viewer experience over congested network connections.
+
+<iframe class="tscplayer_inline" id="embeddedSmartPlayerInstance" src="VisualCloud Overview_player.html?embedIFrameId=embeddedSmartPlayerInstance" scrolling="no" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 ### Using VisualCloud
 
