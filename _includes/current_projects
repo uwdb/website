@@ -2,7 +2,7 @@
 
 {% include project name="Myria" caption="Big Data as a Service" image="myria.png" link="http://myria.cs.washington.edu" %}
 
-{% include project name="VisualCloud" caption="A DBMS for Virtual Reality" image="visualcloud.png" link="http://db.cs.washington.edu/projects/visualcoud" %}
+{% include project name="VisualCloud" caption="A DBMS for Virtual Reality" image="visualcloud.png" link="http://db.cs.washington.edu/projects/visualcloud" %}
 
 {% include project name="SqlShare" caption="Database-as-a-Service for High-Variety Data" image="sqlshare.png" link="https://uwescience.github.io/sqlshare/" %}
 
