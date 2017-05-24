@@ -12,7 +12,7 @@ id: "nwds_past_talks"
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 403.  </p>
+Allen Center, CSE 403.  </p>
 
 <p><strong>When</strong>: 
 Friday, January 27, 2017. 3:30pm-4:30pm.</p>
@@ -47,7 +47,7 @@ Gang Luo obtained his Ph.D. degree in Computer Science minor in Mathematics at t
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
+Allen Center, CSE 305.  </p>
 
 <p><strong>When</strong>: 
 Tuesday, January 17, 2017. 1:30pm-2:30pm.</p>
@@ -74,7 +74,7 @@ Tim Kraska is an Assistant Professor in the Computer Science department at Brown
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
+Allen Center, CSE 305.  </p>
 
 <p><strong>When</strong>: 
 Friday, November 18, 2016. 11am-noon</p>
@@ -113,7 +113,7 @@ Dharma Shukla is a Distinguished Engineer at Microsoft. Dharma is the founder an
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
+Allen Center, CSE 305.  </p>
 
 <p><strong>When</strong>: 
 Friday, November 4, 2016. 11am-noon.</p>
@@ -145,7 +145,7 @@ Query optimization for data analysis
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
+Allen Center, CSE 305.  </p>
 
 <p><strong>When</strong>: 
 Friday, October 14, 2016, 11am - 12pm.</p>
@@ -173,7 +173,7 @@ Immersive Virtual Reality on Mobile Devices via Compute Offload and Caching
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
+Allen Center, CSE 305.  </p>
 
 <p><strong>When</strong>: 
 Friday, May 27, 2016, 11am - 12pm.</p>
@@ -203,7 +203,7 @@ David Chu is a researcher at Microsoft Research. His research interests are in m
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, Gates Commons.  </p>
+Allen Center, Gates Commons.  </p>
 
 <p><strong>When</strong>: Wednesday, May 18, 2016, 3:30pm - 4:20pm.</p>
 
@@ -220,7 +220,7 @@ In this talk I'll describe how the line of work starting with Flume and continui
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
+Allen Center, CSE 305.  </p>
 
 <p><strong>When</strong>: Monday, May 16, 2016, 4:30pm - 5:20pm.</p>
 
@@ -241,7 +241,7 @@ Daisy Zhe Wang is an Assistant Professor in the CISE department at the Universit
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
+Allen Center, CSE 305.  </p>
 
 <p><strong>When</strong>: Friday, May 6, 2016, 11 - 11:50am.</p>
 
@@ -258,7 +258,7 @@ Data Virtualization has evolved very rapidly in the past decade on the premise o
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
+Allen Center, CSE 305.  </p>
 
 <p><strong>When</strong>: Thursday, March 31, 2016, 11:00am - 12:00pm.</p>
 
@@ -278,7 +278,7 @@ We then present two key efforts at Google on collecting tail knowledge. The firs
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.  </p>
+Allen Center, CSE 305.  </p>
 
 <p><strong>When</strong>: Friday, March 4, 2016, 1:30pm - 2:20pm.</p>
 
@@ -318,7 +318,7 @@ unstructured and structured data sources.
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE 305.  
+Allen Center, CSE 305.  
 
 **When**: Friday, January 29, 2016, 1:30pm - 2:20pm.
 
@@ -361,7 +361,7 @@ SQL++ integration language
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, December 11, 2015, 2:30pm - 3:20pm.
 
@@ -409,7 +409,7 @@ by two NoSQL databases and next steps for FORWARD and SQL++.
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, November 13th, 2015, 2:30pm - 3:20pm.
 
@@ -463,7 +463,7 @@ from the Birla Institute of Technology and Science, Pilani, India.
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, October 23th, 2015, 2:30pm - 3:20pm.
 
@@ -514,7 +514,7 @@ Daniel von Dincklage is Tech Lead for the Yedalog project. He went to the Techni
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, October 2nd, 2015, 2:30pm - 3:20pm.
 
@@ -537,7 +537,7 @@ Jennie Duggan is the Lisa Wissner-Slivka and Benjamin Slivka Junior Professor in
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Monday, June 29th, 2015, 2:00pm - 3:00pm.
 
@@ -555,7 +555,7 @@ The talk will be self-contained and is based on a joint work with Abo Khamis, Ng
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Monday, January 19th, 2015, 3:30pm - 4:20pm.
 
@@ -578,7 +578,7 @@ He received a M.S. in Computer Science from Stanford University and a B.E. in Co
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, November 22nd, 2013, 3:30pm - 4:20pm.
 
@@ -596,7 +596,7 @@ Barzan Mozafari is an Assistant Professor of Computer Science and Engineering at
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, November 15th, 2013, 3:30pm - 4:20pm.
 
@@ -614,7 +614,7 @@ Michael Cafarella is an assistant professor in the division of Computer Science 
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, November 8th, 2013, 3:30pm - 4:20pm.
 
@@ -632,7 +632,7 @@ Dan Olteanu is a tenured University Lecturer (equivalent of tenured Associate Pr
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, November 1st, 2013, 3:30pm - 4:20pm.
 
@@ -650,7 +650,7 @@ Andy Pavlo is an Assistant professor in the Computer Science department at Carne
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, October 25th, 2013, 3:30pm - 4:20pm.
 
@@ -668,7 +668,7 @@ Tim Kraska is an Assistant Professor in the Computer Science department at Brown
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, August 2nd, 2013, 10am-11am.
 
@@ -686,7 +686,7 @@ Donald Kossmann is a professor for Computer Science at ETH Zurich (Switzerland).
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, July 19th, 2013, 11am-12pm.
 
@@ -704,7 +704,7 @@ Hiroaki Shiokawa is a researcher of database at NTT. He received M.Eng from the 
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, February 1st, 2013, 11am-12pm.
 
@@ -722,7 +722,7 @@ Molham Aref is the founder and CEO of LogicBlox. Previously, he was CEO of Optim
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, February 22nd, 2013, 3:30pm-4:30pm.
 
@@ -737,7 +737,7 @@ Douglas Brown is a Senior Software Architect at Teradata and has been a senior m
 <a name="Stratosphere_2_10_12"></a>
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Tuesday, October 2nd, 2012, 10am-12:30pm.
 
@@ -769,7 +769,7 @@ Kostas Tzoumas is a postdoctoral researcher co-leading the Stratosphere research
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, May 14, 2012, 3.30pm-4:30pm.
 
@@ -788,7 +788,7 @@ Ricardo Baeza-Yates is VP of Yahoo! Research for Europe, Middle East and Latin A
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, April 13, 2012, 3.30pm-4:30pm.
 
@@ -806,7 +806,7 @@ Christopher (Chris) R&#228 is an assistant professor in the department of Comput
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Monday, April 16, 2012, 3.30pm-4:30pm.
 
@@ -824,7 +824,7 @@ Christopher Lintott is currently serving as the Director of Citizen Science at t
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Gates Commons, CSE 691.  
+Allen Center, Gates Commons, CSE 691.  
 
 **When**: Wednesday, January 11, 2012, 1pm-2:30pm.
 
@@ -840,7 +840,7 @@ I will describe some of the efforts we are conducting at Google towards this goa
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, December 9th at 3:30pm.
 
@@ -858,7 +858,7 @@ We present a new system called[ WibiData](http://www.wibidata.com)specifically d
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Wednesday, November 16th at 2:30pm.
 
@@ -875,7 +875,7 @@ Maintaining availability in the face of hardware failures is an important goal f
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Monday, November 14th at 2:30pm.
 
@@ -900,7 +900,7 @@ Greenplum is led by pioneers in database systems, data warehousing, supercomputi
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, November 11th: 12pm-1pm.
 
@@ -918,7 +918,7 @@ Paul Allen Center, Database Lab, CSE 405.
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab, CSE 405.  
+Allen Center, Database Lab, CSE 405.  
 
 **When**: Friday, September 23rd 2011 at 1:30pm
 
@@ -937,7 +937,7 @@ Phil Bernstein:[http://research.microsoft.com/en-us/people/philbe/](http://resea
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab (CSE-405).  
+Allen Center, Database Lab (CSE-405).  
 
 **When**: 10AM - 11AM, August 26th 2011
 
@@ -955,7 +955,7 @@ Dr. Xin Luna Dong is a researcher at AT&T Labs-Research. She received a Ph.D. in
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab (CSE-405).  
+Allen Center, Database Lab (CSE-405).  
 
 **When**: 10AM - 11AM (August 3rd 2011)
 
@@ -974,7 +974,7 @@ Shivnath Babu is an Assistant Professor of Computer Science at Duke University. 
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab (CSE-405).  
+Allen Center, Database Lab (CSE-405).  
 
 **When**: 10AM - 11AM (Friday, July 15th 2011)
 
@@ -996,7 +996,7 @@ Yanif's research interests span stream processing engines, declarative languages
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Database Lab (CSE-405).  
+Allen Center, Database Lab (CSE-405).  
 
 **When**: 11AM - 12PM (Wednesday, July 6th 2011)
 
@@ -1024,7 +1024,7 @@ Till Westmann is the vice president of engineering at 28msec. He has over 10 yea
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, Gates Commons on the 6th floor.  
+Allen Center, Gates Commons on the 6th floor.  
 
 **When**: 3:30 PM (Friday, April 29th 2011)
 
@@ -1042,7 +1042,7 @@ Jeff Ullman is the Stanford W. Ascherman Professor of Engineering (Emeritus) in 
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-405 (Database Lab).  
+Allen Center, CSE-405 (Database Lab).  
 
 **When**: 3:30 PM (Monday, April 11th 2011)
 
@@ -1060,7 +1060,7 @@ Leopoldo Bertossi has been Full Professor at the School of Computer Science, Car
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-405 (Database Lab).  
+Allen Center, CSE-405 (Database Lab).  
 
 **When**: 1:00 PM (Friday, April 8th 2011)
 
@@ -1078,7 +1078,7 @@ As a program manager with the Microsoft DataMarket team at Microsoft, Christian 
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-405 (Database Lab).  
+Allen Center, CSE-405 (Database Lab).  
 
 **When**: 1:30 PM (Friday, February 25th 2011)
 
@@ -1096,7 +1096,7 @@ Surajit Chaudhuri is a Research Area Manager at Microsoft Research, Redmond. His
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-405 (Database Lab).  
+Allen Center, CSE-405 (Database Lab).  
 
 **When**: 12:30 PM (Wednesday, October 3th 2010)
 
@@ -1116,7 +1116,7 @@ Sergey Melnik is a software engineer at Google, where he develops infrastructure
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-405 (Database Lab).  
+Allen Center, CSE-405 (Database Lab).  
 
 **When**: 12:00 PM (Wednesday, August 25th 2010)
 
@@ -1136,7 +1136,7 @@ Michael Kallay holds a Ph.D. in mathematics from the Hebrew University in Jerusa
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-405 (Database Lab).  
+Allen Center, CSE-405 (Database Lab).  
 
 **When**: 10:30 AM (Friday, July 30th 2010)
 
@@ -1158,7 +1158,7 @@ Daniel Abadi is an Assistant Professor at Yale University, with research interes
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-405 (Database Lab).  
+Allen Center, CSE-405 (Database Lab).  
 
 **When**: 10:00 AM to 11:00 AM (Friday, July 16th 2010)
 
@@ -1178,7 +1178,7 @@ Dr. David Maier is Maseeh Professor of Emerging Technologies at Portland State U
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-405 (Database Lab).  
+Allen Center, CSE-405 (Database Lab).  
 
 **When**: 1:30 PM to 2:30 PM (Monday, April 19th 2010)
 
@@ -1210,7 +1210,7 @@ An enormous increase in the I/O rate to shared storage is made possible by the a
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-605 (Database Lab).  
+Allen Center, CSE-605 (Database Lab).  
 
 **When**: 2:30 PM (Friday, November 6th, 2009)
 
@@ -1226,7 +1226,7 @@ A significant portion of web pages embed interesting and valuable semantic conte
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-605 (Database Lab).  
+Allen Center, CSE-605 (Database Lab).  
 
 **When**: 2:30 PM (Friday, May 22nd, 2009)
 
@@ -1246,7 +1246,7 @@ Benny Kimelfeld is a postdoctoral researcher at the Principles and Methodologies
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-605 (Database Lab).  
+Allen Center, CSE-605 (Database Lab).  
 
 **When**: 2:00 PM (Monday, April 6th, 2009)
 
@@ -1268,7 +1268,7 @@ Brian Cooper is a research scientist at Yahoo! Research. Before that he was an a
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-605 (Database Lab).  
+Allen Center, CSE-605 (Database Lab).  
 
 **When**: 12:30 PM (Thursday, February 5th, 2009)
 
@@ -1290,7 +1290,7 @@ Michael Isard received his DPhil, in computer vision, from Oxford University in 
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-605 (Database Lab).  
+Allen Center, CSE-605 (Database Lab).  
 
 **When**: 11:00 AM (Tuesday, January 13th, 2009)
 
@@ -1310,7 +1310,7 @@ Dan Olteanu joined Comlab in Sept 2007 as a University Lecturer [roughly equival
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-601 (Gates Commons).  
+Allen Center, CSE-601 (Gates Commons).  
 
 **When**: 1:30 PM (Wednesday, November 19th, 2008)
 
@@ -1334,7 +1334,7 @@ David DeWitt is the former department chair and emeritus professor of computer s
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-605.  
+Allen Center, CSE-605.  
 
 **When**: 2:30 PM (Friday, November 14th, 2008)
 
@@ -1358,7 +1358,7 @@ Laura Chiticariu is a Research Staff Member in the Search and Analytics group at
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-605.  
+Allen Center, CSE-605.  
 
 **When**: 2:30 PM (Friday, November 7th, 2008)
 
@@ -1382,7 +1382,7 @@ Kristen LeFevre is an Assistant Professor in EECS at the University of Michigan,
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-605.  
+Allen Center, CSE-605.  
 
 **When**: 2:30 PM (Monday, November 3rd, 2008)
 
@@ -1404,7 +1404,7 @@ Chris Jermaine is an associate professor in the CISE Department at the Universit
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-605.  
+Allen Center, CSE-605.  
 
 **When**: 2:30 PM (Wednesday, September 24th, 2008)
 
@@ -1422,7 +1422,7 @@ In this talk, we present a new declarative and extensible scripting language, SC
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-605.  
+Allen Center, CSE-605.  
 
 **When**: 11:00 AM (Thursday, July 10th, 2008)
 
@@ -1438,7 +1438,7 @@ With today's sequencing technology, it is possible to sequence the genome of an 
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-605.  
+Allen Center, CSE-605.  
 
 **When**: 11:00 AM (Thursday, July 3rd, 2008)
 
@@ -1458,7 +1458,7 @@ Christoph Koch is an associate professor of computer science at Cornell Universi
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-605.  
+Allen Center, CSE-605.  
 
 **When**: 11:30 AM (Friday, June 13th, 2008)
 
@@ -1478,7 +1478,7 @@ Samuel Madden is an Associate Professor in the EECS Department and CSAIL at MIT.
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, CSE-605.  
+Allen Center, CSE-605.  
 
 **When**: 10:30 AM - 11:30 AM (Tuesday, February 19th)
 
@@ -1500,7 +1500,7 @@ Christopher Olston is a senior research scientist at Yahoo! Research, after a st
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, EEB-105.  
+Allen Center, EEB-105.  
 
 **When**: 3:30 PM - 4:30 PM (Thursday, February 7)
 
@@ -1520,7 +1520,7 @@ Joseph M. Hellerstein is a Professor of Computer Science at the University of Ca
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, room CSE - 605.  
+Allen Center, room CSE - 605.  
 [Campus map pointing to our building.](http://http://www.washington.edu/maps/#!/cse)
 
 **Title**: Querying and Monitoring Business Processes
@@ -1539,7 +1539,7 @@ We describe here the query language as well as its underlying formal model. We c
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, room CSE - 605.
+Allen Center, room CSE - 605.
 
 **Title**: The Cimple Project on Community Information Management
 
@@ -1555,7 +1555,7 @@ In this talk I will give an overview of Cimple, a joint project between the Univ
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, room CSE - 605.
+Allen Center, room CSE - 605.
 
 **Title**: Scale and Manageability Challenges for high OLTP and VLDB Web Services
 
@@ -1571,7 +1571,7 @@ Microsoft's Window's Live and MSN Web services are growing at rapid pace. As the
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, room CSE - 605.
+Allen Center, room CSE - 605.
 
 **Title**: My Database Does Grids: Generating Data Products in the GridField Model
 
@@ -1589,7 +1589,7 @@ In this talk I will discuss the requirements for representing gridded datasets, 
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, room CSE - 605.
+Allen Center, room CSE - 605.
 
 **Title**: Data Currency in Replicated DHTs (Joint work with Reza Akbarinia and Esther Pacitti, to appear at SIGMOD 2007.)
 
@@ -1605,7 +1605,7 @@ Distributed Hash Tables (DHTs) provide a scalable solution for data sharing in P
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, room CSE - 605.
+Allen Center, room CSE - 605.
 
 **Title**: Query Execution in Column-Oriented Database Systems
 
@@ -1623,7 +1623,7 @@ Similarly, data compression can improve query performance by an order of magnitu
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, room CSE - 605.
+Allen Center, room CSE - 605.
 
 **Title**: Indexing for Function Approximation
 
@@ -1641,7 +1641,7 @@ The research presented in this talk was motivated by scientific simulations. Sim
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, room CSE - 403.
+Allen Center, room CSE - 403.
 
 **Title**: Easing the Pain of Network Data Analysis: Why network researchers need database help.
 
@@ -1661,7 +1661,7 @@ I will then present our early work on crafting a large-scale Internet data stora
 
 **Where**: University of Washington, Seattle.  
 Computer Science and Engineering Department.  
-Paul Allen Center, room CSE - 605.
+Allen Center, room CSE - 605.
 
 **Title**: Operating and Scaling a Website to Millions of Users.
 

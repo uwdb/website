@@ -23,7 +23,7 @@ One of our main activities is a talk series with a variety of distinguished spea
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science.<br>
-Paul Allen Center, Gates Commons.</p>
+Allen Center, Gates Commons.</p>
 
 <p><strong>When</strong>: 
 Friday, May 26, 2017. 2:30pm-3:30pm.</p>
