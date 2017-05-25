@@ -13,7 +13,7 @@ id: "projects"
   <p>A Database Management System for Virtual Reality</p>
   <p>
   	<a class="btn btn-primary btn-lg label-primary" href="haynes-sigmod17-demo.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
-  	<a class="btn btn-primary btn-lg label-primary" href="https://github.com/brandonhaynes/visualcloud" role="button" style="width: 180px"><span style="position: relative; top:10px">Get the Code</span><br/><small>&nbsp;</small></a>
+  	<a class="btn btn-primary btn-lg label-default" href="#" role="button" style="width: 180px">Get the Code<br /><small>(coming soon!)</small></a>
   </p>
 </div>
 
