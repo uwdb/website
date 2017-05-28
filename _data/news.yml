@@ -1,3 +1,22 @@
+- date: 2017-05-19
+  description: >
+    See [Dylan Hutchison](https://www.linkedin.com/in/dylanhutchison/)'s [recorded talk](https://youtu.be/d-ZY8lIs5Pc?t=2m45s) from the SIGMOD [BeyondMR workshop](https://sites.google.com/site/beyondmr2017/) on [LaraDB: A Minimalist Kernel for Linear and Relational Algbera](https://doi.org/10.1145/3070607.3070608)
+
+- date: 2017-05-18
+  description: >
+    Several SIGMOD 2017 Demonstation Awards! 
+    [Shumo Chu](http://shumochu.com/), [Daniel Li](https://www.linkedin.com/in/daniel-li-49729a77/), and [Chenglong Wang](http://chenglongwang.org/) won the Best Demonstration Award for the demo [Demonstration of the Cosette Automated SQL Prover](https://doi.org/10.1145/3035918.3058728) (see [Cosette](http://cosette.cs.washington.edu/)); 
+    [Maaz Ahmad](https://homes.cs.washington.edu/~maazsaf/) earned a Demonstration Award Honorable Mention for the demo [Optimizing Data-Intensive Applications Automatically By Leveraging Parallel Data Processing Frameworks](https://doi.org/10.1145/3035918.3056440);
+    Brandon Haynes and [Artem Minyaylov](https://www.linkedin.com/in/artem-minyaylov-44536998/) earned a Demonstration Award Honorable Mention for the demo [VisualCloud Demonstration: A DBMS for Virtual Reality](https://dl.acm.org/citation.cfm?id=3058734&CFID=715699871&CFTOKEN=28226823).
+
+- date: 2017-05-17
+  description: >
+    [Jennifer Ortiz](https://homes.cs.washington.edu/~jortiz16/)'s won second place at the [SIGMOD Student Reseach Competition](http://sigmod2017.org/student-research-competition/).
+
+- date: 2017-05-16
+  description: >
+    [Parmita Mehta](https://www.linkedin.com/in/parmita-mehta-30797a1/), [Tomer Kaftan](https://www.linkedin.com/in/tomerkaftan/), and many co-authors had their paper [Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads](https://arxiv.org/abs/1612.02485) accepted into VLDB. 
+
 - date: 2017-04-21
   description: >
     [Jingjing Wang](https://homes.cs.washington.edu/~jwang/)'s paper on [Elastic Memory Management for Cloud Data Analytics]() is accepted to USENIX 2017

@@ -16,7 +16,7 @@ The University of Washington's database group aims at broadening the focus of da
 </style>
 <ul id="RecentNews">
 {% assign news = (site.data.news | sort: 'date') | reverse %}
-{% for n in news limit:3 %}
+{% for n in news limit:4 %}
   <li>
    <span><b>{{ n.date | date: "%B %-d, %Y" }}</b></span>: {{ n.description | markdownify }}
   </li>
