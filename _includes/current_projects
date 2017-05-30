@@ -4,7 +4,7 @@
 
 {% include project name="VisualCloud" caption="A DBMS for Virtual Reality" image="visualcloud.png" link="http://db.cs.washington.edu/projects/visualcloud" %}
 
-{% include project name="EntorpyDB" caption="EntropyDB for Data Exploration" image="entropydb.png" link="http://db.cs.washington.edu/projects/entropydb" %}
+{% include project name="EntropyDB" caption="EntropyDB for Data Exploration" image="entropydb.png" link="http://db.cs.washington.edu/projects/entropydb" %}
 
 {% include project name="SqlShare" caption="Database-as-a-Service for High-Variety Data" image="sqlshare.png" link="https://uwescience.github.io/sqlshare/" %}
 
