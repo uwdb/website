@@ -5,9 +5,9 @@
 - date: 2017-05-18
   description: >
     Several SIGMOD 2017 Demonstation Awards! 
-    [Shumo Chu](http://shumochu.com/), [Daniel Li](https://www.linkedin.com/in/daniel-li-49729a77/), and [Chenglong Wang](http://chenglongwang.org/) won the Best Demonstration Award for the demo [Demonstration of the Cosette Automated SQL Prover](https://doi.org/10.1145/3035918.3058728) (see [Cosette](http://cosette.cs.washington.edu/)); 
-    [Maaz Ahmad](https://homes.cs.washington.edu/~maazsaf/) earned a Demonstration Award Honorable Mention for the demo [Optimizing Data-Intensive Applications Automatically By Leveraging Parallel Data Processing Frameworks](https://doi.org/10.1145/3035918.3056440);
-    Brandon Haynes and [Artem Minyaylov](https://www.linkedin.com/in/artem-minyaylov-44536998/) earned a Demonstration Award Honorable Mention for the demo [VisualCloud Demonstration: A DBMS for Virtual Reality](https://dl.acm.org/citation.cfm?id=3058734&CFID=715699871&CFTOKEN=28226823).
+    [Shumo Chu](http://shumochu.com/), [Daniel Li](https://www.linkedin.com/in/daniel-li-49729a77/), and [Chenglong Wang](http://chenglongwang.org/) won the Best Demonstration Award for the demo [Demonstration of the Cosette Automated SQL Prover](http://cosette.cs.washington.edu/); 
+    [Maaz Ahmad](https://homes.cs.washington.edu/~maazsaf/) earned a Demonstration Award Honorable Mention for the demo [Optimizing Data-Intensive Applications Automatically By Leveraging Parallel Data Processing Frameworks](http://casper.uwplse.org/);
+    Brandon Haynes and [Artem Minyaylov](https://www.linkedin.com/in/artem-minyaylov-44536998/) earned a Demonstration Award Honorable Mention for the demo [VisualCloud Demonstration: A DBMS for Virtual Reality](http://db.cs.washington.edu/projects/visualcloud/).
 
 - date: 2017-05-17
   description: >
