@@ -44,13 +44,13 @@ Scythe: Bringing SQL to the Masses via Program Synthesis
 #### 11am-12:15pm: Collecting Insights from Data
 Chair: [Dan Suciu](https://homes.cs.washington.edu/~suciu/)
 
-- Babak Salimi (UWDB):  
+- Babak Salimi (UWDB):
 A Database System to Explain Away Simpson’s Paradox
 
 - [Bolin Ding (MSR)](https://www.microsoft.com/en-us/research/people/bolind/):
 Building an AQP engine for Explorative Visualization
 
-- [Eric Boutin (MemSQL)](https://www.linkedin.com/in/eric-boutin-3ab0b01):  
+- [Eric Boutin (MemSQL)](https://www.linkedin.com/in/eric-boutin-3ab0b01):
 Real Time Analytics with PIPELINE
 
 #### 12:15-1:15pm: Lunch
