@@ -9,7 +9,7 @@ id: "database_day_2016"
 
 ### **Where**: 
 
-Gates Commons, CSE 691, Paul Allen Center,
+Gates Commons, CSE 691, Paul G. Allen Center,
 
 Computer Science and Engineering Department,
 
