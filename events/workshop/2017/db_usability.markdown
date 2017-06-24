@@ -55,7 +55,7 @@ Real Time Analytics with PIPELINE
 
 #### 12:15-1:15pm: Lunch
 
-#### 1:15-2:55pm: Session 3: Systems Management
+#### 1:15-2:55pm: Systems Management
 Chair: [Magda Balazinska](http://www.cs.washington.edu/people/faculty/magda)
 
 - [Jennifer Ortiz (UWDB)](https://homes.cs.washington.edu/~jortiz16/):
