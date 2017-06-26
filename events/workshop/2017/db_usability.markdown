@@ -17,7 +17,8 @@ University of Washington, Seattle.
 
 ### **When**: 
 
-Thursday, June 29, 8:30am - 5pm.
+Thursday, June 29, 8:30am - 5pm
+All talks are 20 minutes, with 5 minutes afterwards for questions
 
 ### **Schedule**:
 
