@@ -18,6 +18,7 @@ University of Washington, Seattle.
 ### **When**: 
 
 Thursday, June 29, 8:30am - 5pm
+
 All talks are 20 minutes, with 5 minutes afterwards for questions
 
 ### **Schedule**:
@@ -36,7 +37,7 @@ Pitfalls in Programmatically Generating SQL
 - [Srini Iyer (UWDB)](http://sriniiyer.github.io/): 
 Natural Language Based Source Code Generation and Summarization
 
-- [Chenglong Wang (UWDB)](http://chenglongwang.org/): 
+- [Chenglong Wang (UWPLSE)](http://chenglongwang.org/): 
 Scythe: Bringing SQL to the Masses via Program Synthesis
 
 
