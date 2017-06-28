@@ -28,7 +28,7 @@ All talks are 20 minutes, with 5 minutes afterwards for questions
 #### 9am-10:40am: Interacting with Users
 Chair: [Alvin Cheung](http://homes.cs.washington.edu/~akcheung/)
 
-- [Dominik Moritz (UWDB)](https://homes.cs.washington.edu/~domoritz): 
+- [Dominik Moritz (UWDB/IDL)](https://homes.cs.washington.edu/~domoritz): 
 Vega-Lite: A Grammar of Interactive Graphics
 
 - [Justin Talbot (Tableau)](https://research.tableau.com/user/justin-talbot): 
