@@ -67,7 +67,7 @@ PerfEnforce: A Dynamic Scaling Engine for Analytics with Performance Guarantees
 Teradata Workload Management and the challenges of autonomics
 
 - [Shumo Chu (UWDB)](http://shumochu.com): 
-Cosette: An automated SQL Prover
+[Cosette: An automated SQL Prover](https://homes.cs.washington.edu/~akcheung/uwdbWorkshop17/cosette_affiliate.pdf)
 
 - [Tomer Kaftan (UWDB)](https://www.linkedin.com/in/tomerkaftan):
 Cuttlefish: A Lightweight Primitive for Adaptive Optimization
