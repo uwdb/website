@@ -12,60 +12,28 @@ The goal of NWDS is to bring together researchers and practitioners in the field
 
 One of our main activities is a talk series with a variety of distinguished speakers from academia and industry. These talks are also part of the **Microsoft Database Lecture Series** (sponsored by Microsoft). This quarter's talks are organized by [Alvin](http://www.cs.washington.edu/homes/akcheung/).
 
+We thank our partners for supporting NWDS:
+* [Microsoft](http://www.microsoft.com)
+* [Tableau](http://www.tableau.com)
+* [MemSQL](http://www.memsql.com)
+* [Teradata](http://www.teradata.com)
+* [Qumulo](http://qumulo.com)
+
 ---
 
 ##  Upcoming Talks
 
-<!--Stay tuned for next quarter's talks!-->
-
-<p><a name="Frank_McSherry_5_26_17"></a>
-<strong>Speaker</strong>: <a href="https://github.com/frankmcsherry">Frank McSherry</a></p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Allen School of Computer Science.<br>
-Allen Center, Gates Commons.</p>
-
-<p><strong>When</strong>: 
-Friday, May 26, 2017. 2:30pm-3:30pm.</p>
-
-<p><strong>Title</strong>: Building modern dataflow systems</p>
-
-<p><strong>Abstract</strong>: 
-I'll talk through the design and implementation of "timely
-dataflow in Rust", an open-source project that extends and enriches
-the "timely dataflow" computational model first presented by the Naiad
-system, and the differential dataflow framework built on top of it.
-The project's goal is to provide an near-zero overhead framework for
-data-parallel dataflow, and to this end it simplifies and unifies
-several of Naiad's concepts through lossless abstractions that largely
-compile away. Our experience has been that timely dataflow programs
-give best-in-class performance, while still providing the experience
-of a medium-to-high level programming language. To support this, I'll
-walk through the example of differential dataflow, an incremental
-compute framework which seems to out-perform the current crop of
-specialized data processing systems, in part due to its ability to
-provide general computation abstractions that compile down to
-sequential scans over carefully managed resources.
-<br>
-These projects are joint work with a great many people, including the
-Naiad team at MSR-SV, the Systems Group at ETH Zürich, and many other
-collaborators.
-</p>
-
-<p><strong>Bio</strong>:
-Frank McSherry received his PhD from the University of Washington, working with
-Anna Karlin on spectral analysis of data. He then spent twelve years at
-Microsoft Research's Silicon Valley research center, working on topics ranging
-from differential privacy to data-parallel computation. He currently does
-pro-bono research on topics related to privacy, transparency, and scalable
-computation.  
-</p>
+Stay tuned for next quarter's talks!
 
 ---
 
 ##  Past Talks
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
+
+#### Spring 2017
+
+* [Frank McSherry](https://github.com/frankmcsherry) [[abstract](past_talks.html#Frank_McSherry_5_26_17)]
 
 #### Winter 2017
 
