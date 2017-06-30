@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Database Affiliates Workshop 2017"
+title: "Database Affiliates Workshop 2017: Database Usability"
 group: "navigation"
 id: "affiliates_workshop_2017"
 ---
