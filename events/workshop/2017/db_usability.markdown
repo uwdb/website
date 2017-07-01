@@ -5,7 +5,7 @@ group: "navigation"
 id: "affiliates_workshop_2017"
 ---
 
-# UWDB Affiliates Workshop 2017
+# UWDB Affiliates Workshop 2017: Database Usability
 
 ### **Where**: 
 
