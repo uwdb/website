@@ -32,7 +32,7 @@ Chair: [Alvin Cheung](http://homes.cs.washington.edu/~akcheung/)
 [Vega-Lite: A Grammar of Interactive Graphics](https://homes.cs.washington.edu/~akcheung/uwdbWorkshop17/dom.pdf)
 
 - [Justin Talbot (Tableau)](https://research.tableau.com/user/justin-talbot): 
-Pitfalls in Programmatically Generating SQL
+[Pitfalls in Programmatically Generating SQL](https://homes.cs.washington.edu/~akcheung/uwdbWorkshop17/justin.pdf)
 
 - [Srini Iyer (UWDB)](http://sriniiyer.github.io/): 
 [Natural Language Based Source Code Generation and Summarization](https://homes.cs.washington.edu/~akcheung/uwdbWorkshop17/srini.pdf)
