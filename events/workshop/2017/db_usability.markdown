@@ -85,7 +85,7 @@ Research in an Academic Medical Center Through Innovative Uses of Data
 [Evaluating demographic quantities from non-representative social media data](https://homes.cs.washington.edu/~akcheung/uwdbWorkshop17/emilio.pdf)
 
 - [Bing Brunton (UW Biology)](https://www.bingbrunton.com/):
-Multimodal neural decoding for long-term, unlabled human brain data
+[Multimodal neural decoding for long-term, unlabled human brain data](https://homes.cs.washington.edu/~akcheung/uwdbWorkshop17/bing.pdf)
 
 #### 4:35pm: Reception
 
