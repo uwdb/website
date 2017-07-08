@@ -20,10 +20,10 @@ See the [lab day schedule][] and sign up to host!
 
 Go to [dada.cs.washington.edu/mediawiki/index.php/Database_Group](//dada.cs.washington.edu/mediawiki/index.php/Database_Group).
 
-## Spreadsheets
+## Seminar Schedules
 
-* [590Q spreadsheet](https://docs.google.com/a/cs.washington.edu/spreadsheets/d/184w9ZfjoDBQ6XME2s-th_jgt4-ncT0ANU8vHy2v1jO8/edit?usp=sharing)
-* [591D spreadsheet](https://docs.google.com/a/cs.washington.edu/spreadsheets/d/1oDK7ZDlslrh1eQ22qRIqRmfQ7dOsp5IVCOACvaOqObM/edit?usp=sharing)
+* [590Q](https://docs.google.com/a/cs.washington.edu/spreadsheets/d/184w9ZfjoDBQ6XME2s-th_jgt4-ncT0ANU8vHy2v1jO8/edit?usp=sharing)
+* [591D](https://docs.google.com/a/cs.washington.edu/spreadsheets/d/1oDK7ZDlslrh1eQ22qRIqRmfQ7dOsp5IVCOACvaOqObM/edit?usp=sharing)
 
 ## Mailing Lists
 
