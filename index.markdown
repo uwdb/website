@@ -18,8 +18,7 @@ rank: 0
 The University of Washington's database group aims at broadening the focus of database and data management techniques beyond their traditional scope.  We do both theoretical and systems work in areas such as probabilistic databases, stream processing, sensor-based monitoring, databases and the web, XML, data management for ubiquitous computing, data integration, and data mining.
 </p>
 
-<p align=center>
-
+<p class="lead">
 <a href="https://twitter.com/uw_db" class="twitter-follow-button" data-size="large" data-show-count="false" data-show-screen-name="false">Follow @uw_db</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a href="https://medium.com/@uwdb"><img class="icon" src="https://raw.githubusercontent.com/Medium/medium-logos/master/lockup/medium-lockup-dark.png" alt="follow uwdb on medium" title="follow uwdb on medium" height="24"/></a>
@@ -28,7 +27,6 @@ The University of Washington's database group aims at broadening the focus of da
    aria-label="Follow @uwdb on GitHub"></a>  
 
 <div class="fb-like" data-href="https://www.facebook.com/uwdbg" data-width="25" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
-
 </p>
 
 ## Recent News
