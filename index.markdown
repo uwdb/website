@@ -28,7 +28,7 @@ The University of Washington's database group aims at broadening the focus of da
 <a class="github-button" href="https://github.com/uwdb" 
   aria-label="Follow @uwdb on GitHub"></a>  
 
-<div class="fb-like" data-href="https://www.facebook.com/uwdbg" data-width="25" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+<span class="fb-like" data-href="https://www.facebook.com/uwdbg" data-width="25" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="false"></span>
 </p>
 
 ## Recent News
