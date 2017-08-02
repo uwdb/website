@@ -5,7 +5,7 @@ group: "navigation"
 id: "nwds"
 ---
 
-# Northwest Database Society (NWDB)
+# Northwest Database Society (NWDS)
 
 ## Mission Statement
 The goal of NWDS is to bring together researchers and practitioners in the field of databases and data management systems working in the Pacific North-West.
