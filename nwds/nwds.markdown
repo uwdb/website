@@ -28,7 +28,7 @@ We thank our partners for supporting NWDS:
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 403.</p>
+Paul Allen Center, CSE 305.</p>
 
 <p><strong>When</strong>: 
 Monday, December 11, 2017.</p>
