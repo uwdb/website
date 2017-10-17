@@ -15,6 +15,7 @@ We thank our current affiliates:
 * [MemSQL](http://www.memsql.com)
 * [Teradata](http://www.teradata.com)
 * [Qumulo](http://qumulo.com)
+* [Facebook](http://www.facebook.com)
 
 ---
 

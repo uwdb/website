@@ -18,6 +18,7 @@ We thank our partners for supporting NWDS:
 * [MemSQL](http://www.memsql.com)
 * [Teradata](http://www.teradata.com)
 * [Qumulo](http://qumulo.com)
+* [Facebook](http://www.facebook.com)
 
 ---
 
