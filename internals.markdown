@@ -20,6 +20,10 @@ See the [lab day schedule][] and sign up to host!
 
 Go to [dada.cs.washington.edu/mediawiki/index.php/Database_Group](//dada.cs.washington.edu/mediawiki/index.php/Database_Group).
 
+## Photo album
+
+[Here](https://drive.google.com/a/cs.washington.edu/file/d/1cWy1bzEh7_uugLK1pImGYZGrO0xToBSG/view?usp=sharing). Please name your file appropriately.
+
 ## Seminar Schedules
 
 * [590Q](https://docs.google.com/a/cs.washington.edu/spreadsheets/d/184w9ZfjoDBQ6XME2s-th_jgt4-ncT0ANU8vHy2v1jO8/edit?usp=sharing)
