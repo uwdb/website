@@ -22,7 +22,7 @@ Go to [dada.cs.washington.edu/mediawiki/index.php/Database_Group](//dada.cs.wash
 
 ## Photo album
 
-[Here](https://drive.google.com/a/cs.washington.edu/file/d/1cWy1bzEh7_uugLK1pImGYZGrO0xToBSG/view?usp=sharing). Please name your file appropriately.
+[Here](https://drive.google.com/a/cs.washington.edu/file/d/1cWy1bzEh7_uugLK1pImGYZGrO0xToBSG/view?usp=sharing). Please name your files appropriately.
 
 ## Seminar Schedules
 
