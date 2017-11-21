@@ -26,24 +26,24 @@ Friday, December 2nd, 8:30am - 6:00pm.
 #### 9:am-10:40am: Session 1: Data management for virtual reality, scientific images, video data, and data streams
 - Talk 1: "Visual Cloud: A Database System for Virtual Reality Applications". Brandon Haynes	(UW) [Slides](https://drive.google.com/file/d/0B8yKPRGRXCo9NE1fUldGWXBFM1U/view?usp=sharing)
 - Talk 2: "Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads". Parmita Mehta	(UW)		[Slides](https://drive.google.com/file/d/0BwVcG9Y6OlUzZDUxU3dKbUpQOW8/view?usp=sharing)
-- Talk 3: "Self Healing in Streaming". Karthik Ramasamy  (Twitter) [Slides](slides/self-healing-in-streaming-uw-2016.pdf)
+- Talk 3: "Self Healing in Streaming". Karthik Ramasamy  (Twitter) [Slides](http://db.cs.washington.edu/events/database_day/2016/slides/self-healing-in-streaming-uw-2016.pdf)
 - Discussion
 
 #### 10:40am-11:10am: Break
 
 #### 11:10am-12:30pm: Session 2: Programming languages techniques in data management
-- Talk 1: "Cosette: An Automated SQL Prover". Shumo Chu (UW) [Slides](slides/cosette_DBDay_2016.pdf)
-- Talk 2: "Synthesizing Highly Expressive SQL Queries from Input-Output Examples". Chenglong Wang (UW) [slides](slides/DBday-chenglong.pdf)
+- Talk 1: "Cosette: An Automated SQL Prover". Shumo Chu (UW) [Slides](http://db.cs.washington.edu/events/database_day/2016/slides/cosette_DBDay_2016.pdf)
+- Talk 2: "Synthesizing Highly Expressive SQL Queries from Input-Output Examples". Chenglong Wang (UW) [slides](http://db.cs.washington.edu/events/database_day/2016/slides/DBday-chenglong.pdf)
 - Discussion
 
 #### 12:30pm-1:30pm: Lunch
-- Lunch talk (12:50pm-1:10pm): "Huawei Overview" Eric Li (Huawei) [Slides](slides/2012-12-02UW.pptx)
+- Lunch talk (12:50pm-1:10pm): "Huawei Overview" Eric Li (Huawei) [Slides](http://db.cs.washington.edu/events/database_day/2016/slides/2012-12-02UW.pptx)
  
 #### 1:30pm-3:10pm: Session 3: Causality/explanations in database systems
 - Talk 1: "Viska: A System for the Interactive Analysis of Performance Measurements". Helga Gudmundsdottir (UW) [Slides](http://helga.xyz/slides/viska_uwdb2016.pdf)
-- Talk 2: "Drawing causal inference from big data". Babak Salimi (UW) [Slides](slides/causality_BD.pptx)
+- Talk 2: "Drawing causal inference from big data". Babak Salimi (UW) [Slides](http://db.cs.washington.edu/events/database_day/2016/slides/causality_BD.pptx)
 
-- Talk 3: "Resource Management in Large-Scale Clusters". Konstantinos Karanasos (Microsoft) [Slides](slides/Karanasos_UW-DBday2016.pdf)
+- Talk 3: "Resource Management in Large-Scale Clusters". Konstantinos Karanasos (Microsoft) [Slides](http://db.cs.washington.edu/events/database_day/2016/slides/Karanasos_UW-DBday2016.pdf)
 - Discussion
 
 #### 3:10pm-3:40pm: Break
