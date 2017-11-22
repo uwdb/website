@@ -2,7 +2,7 @@
 
 {% include project name="Myria" caption="Big Data as a Service" image="myria.png" link="http://myria.cs.washington.edu" %}
 
-{% include project name="VisualCloud" caption="A DBMS for Virtual Reality" image="visualcloud.png" link="http://db.cs.washington.edu/projects/visualcloud" %}
+{% include project name="LightDB" caption="A DBMS for Virtual Reality" image="lightdb.png" link="http://db.cs.washington.edu/projects/lightdb" %}
 
 {% include project name="EntropyDB" caption="EntropyDB for Data Exploration" image="entropydb.png" link="http://db.cs.washington.edu/projects/entropydb" %}
 
