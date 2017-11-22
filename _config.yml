@@ -2,3 +2,5 @@ name: DB group
 markdown: kramdown
 highlighter: rouge
 baseurl: http://db.cs.washington.edu
+plugins:
+  - jekyll-redirect-from
