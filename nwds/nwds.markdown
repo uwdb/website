@@ -24,55 +24,25 @@ We thank our partners for supporting NWDS:
 
 ##  Upcoming Talks
 
-<p><a name="Gerome_Miklau_11_17_17"></a>
-<strong>Speaker</strong>: Gerome Miklau</p>
+<p><a name="Neal_Fachan_12_08_17"></a>
+<strong>Speaker</strong>: Neal Fachan</p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
 Paul Allen Center, CSE 305.</p>
 
 <p><strong>When</strong>: 
-Monday, December 11, 2017.</p>
+Friday, December 8, 2017.</p>
 
 <p><strong>Title</strong>:
-Systems support for designing differentially private algorithms
+Building a Distributed, Protected and Transactional Block Store 
 </p>
 
-<p><strong>Abstract</strong>: 
-Differential privacy has become the dominant standard in the research
-community for strong privacy protection. There has been a flood of
-research into query answering algorithms that meet this standard.  But
-algorithms are becoming increasingly complex, which poses challenges
-for both researchers and practitioners.  Deployment of differential
-privacy has been slowed by (i) an incomplete understanding of
-algorithm performance and (ii) a lack of tools for adapting
-state-of-the-art algorithms to real-world tasks.
-</p>
-
-<p>
-In this talk I will present recent work addressing both these
-challenges. First, I will discuss a set of principles designed to
-encourage the sound evaluation of privacy algorithms.  I will
-highlight the results of a thorough empirical study done in accordance
-with these principles.  One of the key findings is that, even in the
-well-defined domain of answering statistical counting queries, there
-is currently no single best algorithm across the range of inputs.
-Consequently, achieving state-of-the-art error requires maintaining
-and carefully deploying a range of complex algorithms.
-</p>
-
-<p>To ease the burden of private algorithm design I will describe
-"ektelo", a novel programming framework and system for developing
-private algorithms. Like past programming frameworks in this domain,
-it helps authors ensure the formal privacy of their programs.  But the
-main novelty is its significant support for authoring accurate and
-efficient programs.  I will describe the design and architecture of
-ektelo, highlighting how it leads to safer implementations and creates
-opportunities for automated optimization.
+<p><strong>Abstract</strong>: (coming soon)
 </p>
 
 <p><strong>Bio</strong>:
-Gerome Miklau is a Professor at the University of Massachusetts, Amherst. He was an Invited Professor at INRIA and ENS Cachan for the 2012-2013 academic year. His research focuses on private and secure data management. He designs algorithms to accurately learn from data without disclosing sensitive facts about individuals, primarily in the model of differential privacy. He also designs novel techniques for controlling access to data, limiting retention of data, and resisting forensic analysis. He received the Best Paper Award at the International Conference of Database Theory in 2013, the ACM PODS Alberto O. Mendelzon Test-of-Time Award in 2012, a Lilly Teaching Fellowship in 2011, an NSF CAREER Award in 2007, and he won the 2006 ACM SIGMOD Dissertation Award. He received his Ph.D. in Computer Science from the University of Washington in 2005. He earned Bachelor's degrees in Mathematics and in Rhetoric from the University of California, Berkeley, in 1995.
+Neal Fachan is a co-founder and Chief Scientist at Qumulo. He brings 20 years of systems software experience to Qumulo. At Amazon Web Services, he designed and led development of advanced database technologies. Prior to Amazon, Neal was Distinguished Engineer at Isilon, where he provided technical vision for Isilon’s award-winning OneFS clustered file system, resulting in more than thirty patented technologies. Prior to Isilon, Neal worked in the Third Market group at D. E. Shaw. Neal holds a degree in Math and Computer Science from the University of New Mexico.
 </p>
 
 ---
@@ -109,6 +79,10 @@ Oliver Kennedy has been an assistant professor at the University at Buffalo, SUN
 ##  Past Talks
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
+
+#### Fall 2017
+
+* [Gerome Miklau](http://people.cs.umass.edu/~miklau/) [[abstract](past_talks.html#Gerome_Miklau_11_17_17)] 
 
 #### Spring 2017
 
