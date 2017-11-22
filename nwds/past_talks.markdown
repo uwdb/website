@@ -58,6 +58,8 @@ opportunities for automated optimization.
 Gerome Miklau is a Professor at the University of Massachusetts, Amherst. He was an Invited Professor at INRIA and ENS Cachan for the 2012-2013 academic year. His research focuses on private and secure data management. He designs algorithms to accurately learn from data without disclosing sensitive facts about individuals, primarily in the model of differential privacy. He also designs novel techniques for controlling access to data, limiting retention of data, and resisting forensic analysis. He received the Best Paper Award at the International Conference of Database Theory in 2013, the ACM PODS Alberto O. Mendelzon Test-of-Time Award in 2012, a Lilly Teaching Fellowship in 2011, an NSF CAREER Award in 2007, and he won the 2006 ACM SIGMOD Dissertation Award. He received his Ph.D. in Computer Science from the University of Washington in 2005. He earned Bachelor's degrees in Mathematics and in Rhetoric from the University of California, Berkeley, in 1995.
 </p>
 
+* * *
+
 <p><a name="Frank_McSherry_5_26_17"></a>
 <strong>Speaker</strong>: <a href="https://github.com/frankmcsherry">Frank McSherry</a></p>
 
@@ -101,6 +103,7 @@ pro-bono research on topics related to privacy, transparency, and scalable
 computation.  
 </p>
 
+* * *
 
 <p><a name="Gang_Luo_1_27_17"></a>
 <strong>Speaker</strong>: Gang Luo, School of Medicine at University of Washington</p>
@@ -136,6 +139,7 @@ This talk will present the design, initial implementation, and some preliminary 
 Gang Luo obtained his Ph.D. degree in Computer Science minor in Mathematics at the University of Wisconsin-Madison in 2004. Between 2004 and 2012, he was a Research Staff Member at the IBM T.J. Watson research center. Between 2012 and 2016, he was a faculty member in the Department of Biomedical Informatics at the University of Utah. Gang is currently a faculty member in the Department of Biomedical Informatics and Medical Education of the School of Medicine at the University of Washington. His research interests include health/clinical informatics (software system design/development and data analytics), big data, information retrieval, database systems, and machine learning with a focus on health applications. He invented the first method for automatically providing rule-based explanation for any machine learning model&#39;s prediction/classification results without degrading accuracy, the questionnaire-guided intelligent medical search engine iMed, intelligent personal health record, and SQL and compiler progress indicators.
 </p>
 
+* * *
 
 <p><a name="Tim_Kraska_1_17_17"></a>
 <strong>Speaker</strong>: <a href="http://cs.brown.edu/~kraskat">Tim Kraska</a>, Brown University</p>
@@ -161,8 +165,7 @@ In this talk, I will present our vision and first results of QUDE, a component o
 Tim Kraska is an Assistant Professor in the Computer Science department at Brown University. Currently, his research focuses on Big Data management systems for modern hardware and new types of workloads, especially interactive analytics. Before joining Brown, Tim spent 3 years as a PostDoc in the AMPLab at UC Berkeley, where he worked on hybrid human-machine database systems and cloud-scale data management systems. Tim received his PhD from the ETH Zurich under the supervision of Donald Kossmann. He was awarded an NSF Career Award (2015), an Airforce Young Investigator award (2015), a Swiss National Science Foundation Prospective Researcher Fellowship (2010), a DAAD Scholarship (2006), a University of Sydney Master of Information Technology Scholarship for outstanding achievement (2005), the University of Sydney Siemens Prize (2005), two VLDB best demo awards (2015 and 2011), and an ICDE best paper award (2013). 
 </p>
 
-
-
+* * *
 
 <p><a name="Dharma_Shukla_11_18_16"></a>
 <strong>Speaker</strong>: <a href="http://www.dharmashukla.com/">Dharma Shukla</a>, Microsoft</p>
