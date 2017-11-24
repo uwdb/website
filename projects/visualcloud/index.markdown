@@ -1,3 +1,3 @@
 ---
-redirect_to: "http://db.cs.washington.edu/projects/lightdb"
+redirect_to: "{{ site.baseurl }}/projects/lightdb"
 ---
