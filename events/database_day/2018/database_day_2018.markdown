@@ -27,7 +27,11 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 Keynote speaker: Prof. Jeff Heer, UW CSE
 
-### **Hotels**:
+### **Agenda**:
+
+Coming Soon.
+
+### **Accommodations**:
 
 The following are suggested hotels near the University of Washington.  
 Please contact them for further information.
@@ -52,3 +56,10 @@ Please contact them for further information.
 
 [Watertown Hotel](http://www.watertownseattle.com/)
 
+### **Contact Information**:
+
+[Prof. Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda)
+
+[Prof. Alvin Cheung](https://homes.cs.washington.edu/~akcheung/)
+
+[Prof. Dan Suciu](https://homes.cs.washington.edu/~suciu/)
