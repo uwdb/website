@@ -5,7 +5,7 @@ group: "navigation"
 id: "database_day_2018"
 ---
 
-# Database Day 2018
+# NWDS Annual Meeting 2018
 
 ### **Where**: 
 
