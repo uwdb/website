@@ -57,8 +57,8 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 **&nbsp;&nbsp;3:30 pm&emsp;** Academic Talks (tentative)
 
-* Databases and PL (UW)
-* Databases and Virtual Reality (UW)
+* UW iSchool
+* UW CSE
 * TBD
 
 **&nbsp;&nbsp;4:30 pm&emsp;** Posters
