@@ -64,7 +64,12 @@ Contact the [LightDB developers](mailto:visualcloud@cs.washington.edu) or sign u
 #### Acknowledgements
 
 This work is supported in part by the National Science Foundation
-through NSF grants IIS-1247469, IIS-1546083, CCF-1518703, and CNS-1563788;
+through NSF grants 
+[CCF-1247469](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1703051), 
+[IIS-1247469](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1247469), 
+[IIS-1546083](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1546083), 
+[CCF-1518703](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1518703), and 
+[CNS-1563788](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1563788);
 DARPA award FA8750-16-2-0032; DOE award DE-SC0016260;
 and gifts from the Intel Science and Technology Center for Big
 Data, Intel Corporation, Adobe, Amazon, and Google.
