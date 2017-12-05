@@ -29,7 +29,41 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 ### **Agenda**:
 
-Coming Soon.
+
+**&nbsp;&nbsp;8:30 am&emsp;** Registration and coffee/tea
+
+**&nbsp;&nbsp;9:00 am&emsp;** Keynote talk by Prof. Jeff Heer
+
+**10:00 am&emsp;** Break
+
+**10:30 am&emsp;** Academic Talks
+
+* Oregon State University
+* University of British Columbia
+* Simon Fraser University
+* University of Victoria
+
+
+**12:00 pm&emsp;** Lunch
+
+**&nbsp;&nbsp;1:30 pm&emsp;** Industrial Talks
+
+* Intel
+* Amazon
+* Microsoft
+* Facebook
+
+**&nbsp;&nbsp;3:00 pm&emsp;** Break
+
+**&nbsp;&nbsp;3:30 pm&emsp;** UW Talks
+
+* TBD
+* TBD
+* TBD
+
+**&nbsp;&nbsp;4:30 pm&emsp;** Posters
+
+**&nbsp;&nbsp;5:30 pm&emsp;** Reception
 
 ### **Accommodations**:
 
