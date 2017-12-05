@@ -36,7 +36,7 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 **10:00 am&emsp;** Break
 
-**10:30 am&emsp;** Academic Talks
+**10:30 am&emsp;** Academic Talks (tentative)
 
 * Oregon State University
 * University of British Columbia
@@ -46,7 +46,7 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 **12:00 pm&emsp;** Lunch
 
-**&nbsp;&nbsp;1:30 pm&emsp;** Industrial Talks
+**&nbsp;&nbsp;1:30 pm&emsp;** Industrial Talks (tentative)
 
 * Intel
 * Amazon
