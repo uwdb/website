@@ -70,8 +70,8 @@ through NSF grants
 [IIS-1546083](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1546083), 
 [CCF-1518703](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1518703), and 
 [CNS-1563788](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1563788);
-DARPA award FA8750-16-2-0032; DOE award DE-SC0016260;
-and gifts from the Intel Science and Technology Center for Big
-Data, Intel Corporation, Adobe, Amazon, and Google.
+DARPA award [FA8750-16-2-0032](https://www.darpa.mil); DOE award [DE-SC0016260](https://science.energy.gov/grants);
+and gifts from the [Intel Science and Technology Center for Big
+Data](http://istc-bigdata.org), [Intel Corporation](https://www.intel.com), [Adobe](http://www.adobe.com), [Amazon](https://www.amazon.com), and [Google](https://google.com).
 
 &nbsp;
