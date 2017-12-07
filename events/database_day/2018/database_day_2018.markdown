@@ -48,10 +48,10 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 **&nbsp;&nbsp;1:30 pm&emsp;** Industrial Talks (tentative)
 
-* Intel
-* Amazon
-* Microsoft
-* Facebook
+* "Visual Data Management System," Vishakha Gupta-Cledat (Intel)
+* "Amazon Product Graph," Luna Dong (Amazon)
+* TBD, Jonathan Goldstein (Microsoft)
+* "Databases as source of data for Machine Learning," Kestutis Patiejunas (Facebook)
 
 **&nbsp;&nbsp;3:00 pm&emsp;** Break
 
