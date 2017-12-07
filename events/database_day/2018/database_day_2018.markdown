@@ -38,10 +38,10 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 **10:30 am&emsp;** Academic Talks (tentative)
 
-* Oregon State University
-* University of British Columbia
-* Simon Fraser University
-* University of Victoria
+* "Data Heterogeneity," Oregon State University
+* TBD, University of British Columbia
+* "Speeding Up Data Science: From a Data Management Perspective," Jiannan Wang (Simon Fraser University)
+* TBD, University of Victoria
 
 
 **12:00 pm&emsp;** Lunch
