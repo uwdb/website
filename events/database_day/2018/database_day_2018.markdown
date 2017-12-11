@@ -38,6 +38,7 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 **10:30 am&emsp;** Academic Talks (tentative)
 
+* Short introduction of five academic groups (Portland State, Evergreen State College, UW Tacoma, Seattle U, UW Bothell)
 * "Data Heterogeneity," Arash Termehchy (Oregon State University)
 * TBD, University of British Columbia
 * "Speeding Up Data Science: From a Data Management Perspective," Jiannan Wang (Simon Fraser University)
