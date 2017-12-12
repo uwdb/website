@@ -29,7 +29,6 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 ### **Agenda**:
 
-
 **&nbsp;&nbsp;8:30 am&emsp;** Registration and coffee/tea
 
 **&nbsp;&nbsp;9:00 am&emsp;** Keynote talk by Prof. Jeff Heer
@@ -38,7 +37,7 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 **10:30 am&emsp;** Academic Talks (tentative)
 
-* Short introduction of five academic groups (Portland State, Evergreen State College, UW Tacoma, Seattle U, UW Bothell)
+* Introductory Lightning Talks (Portland State, Evergreen State College, UW Tacoma, Seattle U, UW Bothell)
 * "Data Heterogeneity," Arash Termehchy (Oregon State University)
 * TBD, University of British Columbia
 * "Speeding Up Data Science: From a Data Management Perspective," Jiannan Wang (Simon Fraser University)
@@ -49,6 +48,7 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 **&nbsp;&nbsp;1:30 pm&emsp;** Industrial Talks (tentative)
 
+* Introductory Lightning Talks (Google, Qumulo, Teradata, Huawei, Tableau)
 * "Visual Data Management System," Vishakha Gupta-Cledat (Intel)
 * "Amazon Product Graph," Luna Dong (Amazon)
 * TBD, Jonathan Goldstein (Microsoft)
@@ -98,3 +98,14 @@ Please contact them for further information.
 [Prof. Alvin Cheung](https://homes.cs.washington.edu/~akcheung/)
 
 [Prof. Dan Suciu](https://homes.cs.washington.edu/~suciu/)
+
+### **Sponsors**:
+
+We thank our partners for supporting this event.
+
+* Microsoft
+* Tableau
+* MemSQL
+* Teradata
+* Qumulo
+* Facebook
