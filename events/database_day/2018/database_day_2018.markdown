@@ -41,7 +41,7 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 * "Data Heterogeneity," Arash Termehchy (Oregon State University)
 * "Understanding and Exploring: Schemas, Recommendations, and Provenance," Rachel Pottinger (University of British Columbia)
 * "Speeding Up Data Science: From a Data Management Perspective," Jiannan Wang (Simon Fraser University)
-* TBD, University of Victoria
+* "Improved Practical Efficiency for Misinformation Prevention in Social Networks," Michael Simpson (University of Victoria)
 
 
 **12:00 pm&emsp;** Lunch
