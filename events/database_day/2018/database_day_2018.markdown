@@ -39,7 +39,7 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 * Introductory Lightning Talks (Portland State, Evergreen State College, UW Tacoma, Seattle U, UW Bothell)
 * "Data Heterogeneity," Arash Termehchy (Oregon State University)
-* TBD, University of British Columbia
+* "Understanding and Exploring: Schemas, Recommendations, and Provenance," Rachel Pottinger (University of British Columbia)
 * "Speeding Up Data Science: From a Data Management Perspective," Jiannan Wang (Simon Fraser University)
 * TBD, University of Victoria
 
