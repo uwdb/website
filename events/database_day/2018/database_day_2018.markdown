@@ -50,7 +50,7 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 * Introductory Lightning Talks (Google, Qumulo, Teradata, Huawei, Tableau)
 * "Visual Data Management System," Vishakha Gupta-Cledat (Intel)
-* "Amazon Product Graph," Luna Dong (Amazon)
+* "Challenges and Innovations in Building a Product Knowledge Graph," Luna Dong (Amazon)
 * "DB Group Overview," Jonathan Goldstein (Microsoft)
 * "Databases as source of data for Machine Learning," Kestutis Patiejunas (Facebook)
 
