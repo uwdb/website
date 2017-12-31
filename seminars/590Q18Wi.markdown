@@ -5,11 +5,11 @@ group: "navigation"
 id: "590q18wi"
 ---
 
-# CSE590Q (2018 Winter): Blockchains, Cryptocurrencies & Databases
+## CSE590Q (2018 Winter): Blockchains, Cryptocurrencies & Databases
 
 ### Seminar Infomation:  
-Time: Tuesday, 2:30 - 3:30 PM (Unless noticed otherwise)
-Venue: CSE 305
+* Time: Tuesday, 2:30 - 3:30 PM (Unless noticed otherwise)
+* Venue: CSE 305
 
 ### Tentative Schedule
 
