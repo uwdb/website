@@ -23,7 +23,7 @@ Please email us if you have any question or you want to participate but are not 
 
 ### Tentative Schedule
 |   | Date   | Topic                                                                 | Speaker                                 |
-|---|--------|-----------------------------------------------------------------------|-----------------------------------------|
+|:--|:-------|:----------------------------------------------------------------------|:----------------------------------------|
 | 1 | Jan 4*  | New games, new markets: the science of cryptocurrencies and incentives (Unusual Time: Thursday, 3:30 PM, EEB 105) |*Arvind Narayanan*, Princeton University |
 | 2 | Jan 9  | Introduction to Bitcoin/Cryptocurrencies                              | *Shumo Chu*, University of Washington   |
 | 3 | Jan 16 | Introduction to Blockchain                                            |*Guna Prasaad*, University of Washington |
