@@ -9,7 +9,7 @@ id: "590q18wi"
 
 ### When and Where
 * When: Tuesday, 2:30 - 3:30 PM (Unless otherwise noticed)
-* Vhere: CSE 305 at Paul G. Allen Center 
+* Where: CSE 305 at Paul G. Allen Center 
 
 ### Organizers
 Please email us if you have any question or you want to participate but are not an Allen school member. 
