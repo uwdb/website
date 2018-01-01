@@ -25,7 +25,7 @@ Please email us if you have any question or you want to participate but are not 
 * Week 1 (*unusual time*: Jan. 4, Thursday, 3:30 PM, EEB 105): 
 New games, new markets: the science of cryptocurrencies and incentives, *Arvind Narayanan*, Princeton University
 * Week 2 (Jan. 9): Introduction to Bitcoin/Cryptocurrencies, *Shumo Chu*, University of Washington
-* Week 3 (Jan. 16): Introduction to Blockchain, *Guna*, University of Washington
+* Week 3 (Jan. 16): Introduction to Blockchain, *Guna Prasaad*, University of Washington
 * Week 4 (Jan. 23): Scalability & Performance, *TBD*, 
 * Week 5 (Jan. 30): Security & Verification, *TBD* 
 * Week 6 (Feb. 6): TBD, *Sophia Wang*, Uber
