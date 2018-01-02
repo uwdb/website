@@ -4,15 +4,17 @@ title: "590Q: Blockchains, Cryptocurrencies and Databases"
 group: "navigation"
 id: "590q18wi"
 ---
+<style>
+  .schedule : { border: 1px solid black; background-color: rgb(235, 235, 235);}
+</style>
 ## CSE590Q: Database Seminar - Winter 2018
 ### Blockchains, Cryptocurrencies & Databases
 #### Tuesday, 2:30 - 3:30 PM
 #### CSE 305, Paul G. Allen Center 
 <br>
-<br>
   
 ### Tentative Schedule
-<table>
+<table class='schedule'>
   <tr>
     <th>Week</th>
     <th>Date</th>
