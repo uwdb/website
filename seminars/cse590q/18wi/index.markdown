@@ -130,7 +130,7 @@ Please email us if you have any questions or you want to participate but are not
  <li><a href='https://arxiv.org/abs/1708.05665'>Untangling Blockchain: A Data Processing View of Blockchain Systems</a>, Tien Tuan Anh Dinh, Rui Liu, Meihui Zhang, Gang Chen, Beng Chin Ooi, Ji Wang, arXiv 2017</li>
 </ol>
 
-#### B. Scalability/Performance (C)
+#### Scalability/Performance (C)
 <ol class='indent'>
   <li><a href='http://www.initc3.org/files/Scaling2016.pdf'>On Scaling Decentralized Blockchains (A Position Paper)</a>, K. Croman, C. Decker, I. Eyal, A.E. Gencer, A. Juels, A. Kosba, A. Miller, P. Saxena, E. Shi, E. G. Sirer, D. Song, and R. Wattenhofer. </li>
  <li><a href='https://arxiv.org/abs/1510.02037'>Bitcoin-NG: A Scalable Blockchain Protocol</a>, I. Eyal, A. E. Gencer, E. G. Sirer and R. V. Renesse, NSDI, 2016.</li>
