@@ -7,7 +7,7 @@ id: "590q18wi"
 <style>
  tbody, tr, th, td { border: 2px solid black }
  th { background-color: #ddd }
- .indent { padding:10px; }
+ .indent { padding-left:10px; }
  .indent, li {margin-top: 5px} 
 </style>
 ## CSE590Q: Database Seminar - Winter 2018
@@ -126,9 +126,9 @@ Please email us if you have any questions or you want to participate but are not
 <ol class='indent'>
   <li> [Colloquia Talk] [Upcoming] <a href='https://www.cs.washington.edu/events/colloquia/details?id=2993'>New games, new markets: the science of cryptocurrencies and incentives</a> by <a href='http://randomwalker.info/'>Arvind Narayanan, Princeton University</a> </li>
   <li> [Colloquia Talk] <a href='https://www.cs.washington.edu/events/colloquia/search/details?id=2991'>New Era in Distributed Computing with Blockchains and Databases</a> by <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a> <a href='https://www.youtube.com/watch?v=Xq_25us15J8'>[Video]</a> <a href='https://www.facebook.com/notes/mohan-c-mohan/permissioned-blockchains-and-databases/10155027556287295'>[Resources]</a> </li>
-  <li> [VLDB 2017] <a href='https://drive.google.com/file/d/0B7lNUaak0bK1ZDhkak05VHA0d00/view'>Tutorial on Blockchains and Databases</a> by <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a </li>
+  <li> [VLDB 2017] <a href='https://drive.google.com/file/d/0B7lNUaak0bK1ZDhkak05VHA0d00/view'>Tutorial on Blockchains and Databases</a> by <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a> </li>
 </ol>
-
+  
 ### Miscellaneous Resources
 <ol class='indent'>
  <li> <a href='https://blockchain.info/'> Live Bitcoin Blockchain </a> </li>
