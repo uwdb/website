@@ -10,6 +10,7 @@ id: "590q18wi"
 #### CSE 305, Paul G. Allen Center 
 <br>
 <br>
+  
 ### Tentative Schedule
 <table>
   <tr>
