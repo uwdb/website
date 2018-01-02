@@ -5,7 +5,7 @@ group: "navigation"
 id: "590q18wi"
 ---
 <style>
-  .schedule : { border: 1px solid black; background-color: rgb(235, 235, 235);}
+  table th td { border: 1px solid black; background-color: rgb(235, 235, 235); }
 </style>
 ## CSE590Q: Database Seminar - Winter 2018
 ### Blockchains, Cryptocurrencies & Databases
