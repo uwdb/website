@@ -117,7 +117,7 @@ Please email us if you have any question or you want to participate but are not 
     <span class='tag'> <a href='https://www.facebook.com/notes/mohan-c-mohan/permissioned-blockchains-and-databases/10155027556287295'>Resources</a> </span>
   </li>
   <li>
-    <span class='badge badge-default'>[VLDB 2017]</span>
+    <span class='badge badge-default'>VLDB 2017</span>
     <a href='https://drive.google.com/file/d/0B7lNUaak0bK1ZDhkak05VHA0d00/view'>Tutorial on Blockchains and Databases</a>
     by 
     <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a>
