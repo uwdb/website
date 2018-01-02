@@ -136,8 +136,8 @@ Please email us if you have any questions or you want to participate but are not
  <li>I. Eyal, A. E. Gencer, E. G. Sirer and R. V. Renesse. <a href='https://arxiv.org/abs/1510.02037'>Bitcoin-NG: A Scalable Blockchain Protocol</a>. NSDI, 2016.</li>
  <li> Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich, <a href='https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf'>Algorand: Scaling Byzantine Agreements
 for Cryptocurrencies</a>, SOSP 2017.</li>
- <li> Tien Tuan Anh Dinh, Ji Wang, Gang Chen, Rui Liu, Beng Chin Ooi, Kian-Lee Tan, <a href='https://arxiv.org/abs/1703.04057'>BLOCKBENCH: A Framework for Analyzing Private Blockchains </li>, SIGMOD 2017.
- <li>  Suporn Pongnumkul, Chaiyaphum Siripanpornchana, Suttipong Thajchayapong<a href='http://ieeexplore.ieee.org/abstract/document/8038517/'>Performance Analysis of Private Blockchain Platforms in Varying Workloads</a>, ICCN 2017.</li>
+ <li> Tien Tuan Anh Dinh, Ji Wang, Gang Chen, Rui Liu, Beng Chin Ooi, Kian-Lee Tan, <a href='https://arxiv.org/abs/1703.04057'>BLOCKBENCH: A Framework for Analyzing Private Blockchains</a>, SIGMOD 2017 </li>.
+ <li>  Suporn Pongnumkul, Chaiyaphum Siripanpornchana, Suttipong Thajchayapong <a href='http://ieeexplore.ieee.org/abstract/document/8038517/'>Performance Analysis of Private Blockchain Platforms in Varying Workloads</a>, ICCN 2017.</li>
 </ol>
 
 #### Smart Contracts
