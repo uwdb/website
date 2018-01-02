@@ -221,3 +221,13 @@ table td {
 .event-image {
   margin: 10px;
 }
+
+.tag {
+  padding: 10px;
+  color: blue;
+}
+
+ul .tag-bullet-list {
+  list-style-type: none;
+  padding: 0px;
+}
