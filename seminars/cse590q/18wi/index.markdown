@@ -135,12 +135,14 @@ Please email us if you have any questions or you want to participate but are not
   <li>K. Croman, C. Decker, I. Eyal, A.E. Gencer, A. Juels, A. Kosba, A. Miller, P. Saxena, E. Shi, E. G. Sirer, D. Song, and R. Wattenhofer. <a href='http://www.initc3.org/files/Scaling2016.pdf'>On Scaling Decentralized Blockchains (A Position Paper).</a></li>
  <li>I. Eyal, A. E. Gencer, E. G. Sirer and R. V. Renesse. <a href='https://arxiv.org/abs/1510.02037'>Bitcoin-NG: A Scalable Blockchain Protocol</a>. NSDI, 2016.</li>
  <li> Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich, <a href='https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf'>Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a>, SOSP 2017</li>
+for Cryptocurrencies</a>, SOSP 2017.</li>
+ <li> Tien Tuan Anh Dinh, Ji Wang, Gang Chen, Rui Liu, Beng Chin Ooi, Kian-Lee Tan, <a href='https://arxiv.org/abs/1703.04057'>BLOCKBENCH: A Framework for Analyzing Private Blockchains </li>, SIGMOD 2017.
+ <li>  Suporn Pongnumkul, Chaiyaphum Siripanpornchana, Suttipong Thajchayapong<a href='http://ieeexplore.ieee.org/abstract/document/8038517/'>Performance Analysis of Private Blockchain Platforms in Varying Workloads</a>, ICCN 2017.</li>
 </ol>
 
 #### Smart Contracts
 <ol class='indent'>
- <li>F. Zhang, E. Cecchetti, K. Croman, A. Juels and E. Shi. Town Crier: An Authenticated Data Feed for Smart Contracts. ACM CCS, 2016.</li>
+ <li>Massimo Bartoletti and Livio Pompianu, <a href='https://arxiv.org/pdf/1703.06322.pdf'>An empirical analysis of smart contracts: platforms, applications, and design patterns</a>.</li>
 </ol>
   
 ### Talks
