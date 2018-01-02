@@ -40,14 +40,19 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>Jan 9</td>
     <td>Preliminaries and Introduction to Bitcoin/Cryptocurrencies</td>
     <td>Shumo Chu<br> University of Washington</td>
-    <td></td>
+    <td><span class='tag'><a href='http://bitcoinbook.cs.princeton.edu'>B1 Chapter 2</a></span>
+   </td>
   </tr>
   <tr>
     <td>3</td>
     <td>Jan 16</td> 
     <td>Introduction to Blockchain</td>
     <td>Guna Prasaad<br>University of Washington</td>
-    <td></td>
+   <td>
+    <span class='tag'><a href='http://bitcoinbook.cs.princeton.edu'>B1 Chapter 2</a></span>
+    <span class='tag'><a href=''>P1</a></span> 
+    <span class='tag'><a href=''>P2</a></span>
+   </td>
   </tr>
   <tr>
     <td>4</td>
@@ -116,10 +121,10 @@ Please email us if you have any questions or you want to participate but are not
  </ol>
   
 ### Papers
-<ol class='indent'>
- <li> <a href='https://bitcoin.org/bitcoin.pdf'>Bitcoin: A Peer-to-Peer Electronic Cash System</a>, Satoshi Nakamoto </li>
- <li> <a href='http://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf'>Design of a secure timestamping service with minimal trust requirement</a>, Henri Massias, Xavier Serret-Avila, and Jean-Jacques Quisquater </li>
+<ol class='indent'> 
  <li> <a href='https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world'>Blockchains: How they work and why they'll change the world</a></li>
+ <li> <a href='http://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf'>Design of a secure timestamping service with minimal trust requirement</a>, Henri Massias, Xavier Serret-Avila, and Jean-Jacques Quisquater </li>
+ <li> <a href='https://bitcoin.org/bitcoin.pdf'>Bitcoin: A Peer-to-Peer Electronic Cash System</a>, Satoshi Nakamoto </li>
 </ol>
   
 ### Talks
