@@ -39,7 +39,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>Jan 9</td>
     <td>Preliminaries and Introduction to Bitcoin/Cryptocurrencies</td>
     <td>Shumo Chu<br> University of Washington</td>
-    <td><a href='http://bitcoinbook.cs.princeton.edu'>[A1 Chapter 1]</a></td>
+    <td><a href='http://bitcoinbook.cs.princeton.edu'>[B1 Chapter 1]</a></td>
   </tr>
   <tr>
     <td>3</td>
@@ -47,9 +47,9 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>Introduction to Blockchain</td>
     <td>Guna Prasaad<br>University of Washington</td>
    <td>
-    <a href='http://bitcoinbook.cs.princeton.edu'>[A1 Chapter 2]</a>
-    <a href=''>[B1]</a>
-    <a href=''>[B2]</a>
+    <a href='http://bitcoinbook.cs.princeton.edu'>[B1 Chapter 2]</a>
+    <a href=''>[P1]</a>
+    <a href=''>[P2]</a>
    </td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ Please email us if you have any questions or you want to participate but are not
  <li><a href='mailto:akcheung@cs.washington.edu'>Alvin Cheung</a> </li>
 </ul>
 
-### Books (A)
+### Books
 <ol class='indent'>
   <li><a href='http://bitcoinbook.cs.princeton.edu/'>Bitcoin and Cryptocurrency Technologies</a>, Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark </li>
   <li><a href='https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133'> Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World</a>, Alex Tapscott and Don Tapscott</li>
@@ -121,7 +121,7 @@ Please email us if you have any questions or you want to participate but are not
   
 ### Papers
 
-#### Introduction/Overview (B)
+#### Introduction/Overview
 <ol class='indent'> 
  <li><a href='https://bitcoin.org/bitcoin.pdf'>Bitcoin: A Peer-to-Peer Electronic Cash System</a>, Satoshi Nakamoto</li>
  <li><a href='https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world'>Blockchains: How they work and why they'll change the world</a>, Morgen E. Peck, IEEE Spectrum</li>
@@ -130,8 +130,8 @@ Please email us if you have any questions or you want to participate but are not
  <li><a href='https://arxiv.org/abs/1708.05665'>Untangling Blockchain: A Data Processing View of Blockchain Systems</a>, Tien Tuan Anh Dinh, Rui Liu, Meihui Zhang, Gang Chen, Beng Chin Ooi, Ji Wang, arXiv 2017</li>
 </ol>
 
-#### Scalability/Performance (C)
-<ol class='indent'>
+#### Scalability/Performance
+<ol class='indent' start=6>
   <li><a href='http://www.initc3.org/files/Scaling2016.pdf'>On Scaling Decentralized Blockchains (A Position Paper)</a>, K. Croman, C. Decker, I. Eyal, A.E. Gencer, A. Juels, A. Kosba, A. Miller, P. Saxena, E. Shi, E. G. Sirer, D. Song, and R. Wattenhofer. </li>
  <li><a href='https://arxiv.org/abs/1510.02037'>Bitcoin-NG: A Scalable Blockchain Protocol</a>, I. Eyal, A. E. Gencer, E. G. Sirer and R. V. Renesse, NSDI, 2016.</li>
  <li><a href='https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf'>Algorand: Scaling Byzantine Agreements
@@ -141,8 +141,8 @@ for Cryptocurrencies</a>, Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlach
  <li><a href='https://github.com/bigchaindb/bigchaindb'>BigchainDB: a scalable blockchain database</a></li>
 </ol>
 
-#### Smart Contracts (D)
-<ol class='indent'>
+#### Smart Contracts
+<ol class='indent' start=12>
  <li><a href='https://arxiv.org/pdf/1703.06322.pdf'>An empirical analysis of smart contracts: platforms, applications, and design patterns</a>, Massimo Bartoletti and Livio Pompianu</li>
 </ol>
 
