@@ -5,7 +5,8 @@ group: "navigation"
 id: "590q18wi"
 ---
 <style>
-.container { font-family: Inconsolata; }
+.container { font-family: Roboto-Slab; }
+span { padding: 15px; font-color:blue; }
 </style>
 
 ## CSE590Q: Database Seminar - Winter 2018
