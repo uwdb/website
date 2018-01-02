@@ -7,7 +7,6 @@ id: "590q18wi"
 <style>
  tbody, tr, th, td { border: 2px solid black }
  th { background-color: #ddd }
- .indent { padding-left:10px; }
  .indent, li {margin-top: 5px} 
 </style>
 ## CSE590Q: Database Seminar - Winter 2018
