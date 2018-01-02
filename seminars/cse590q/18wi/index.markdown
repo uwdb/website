@@ -40,8 +40,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>Jan 9</td>
     <td>Preliminaries and Introduction to Bitcoin/Cryptocurrencies</td>
     <td>Shumo Chu<br> University of Washington</td>
-    <td><span class='tag'><a href='http://bitcoinbook.cs.princeton.edu'>B1 Chapter 2</a></span>
-   </td>
+    <td><a href='http://bitcoinbook.cs.princeton.edu'>[B1 Chapter 2]</a></td>
   </tr>
   <tr>
     <td>3</td>
@@ -49,9 +48,9 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>Introduction to Blockchain</td>
     <td>Guna Prasaad<br>University of Washington</td>
    <td>
-    <span class='tag'><a href='http://bitcoinbook.cs.princeton.edu'>B1 Chapter 2</a></span>
-    <span class='tag'><a href=''>P1</a></span> 
-    <span class='tag'><a href=''>P2</a></span>
+    <a href='http://bitcoinbook.cs.princeton.edu'>[B1 Chapter 2]</a>
+    <a href=''>[P1]</a>
+    <a href=''>[P2]</a>
    </td>
   </tr>
   <tr>
