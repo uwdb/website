@@ -5,20 +5,21 @@ group: "navigation"
 id: "590q18wi"
 ---
 
-## CSE590Q (2018 Winter): Blockchains, Cryptocurrencies & Databases
+## CSE590Q: Database Seminar - Winter 2018
+## Topic: Blockchains, Cryptocurrencies & Databases
 
 ### When and Where
 * When: Tuesday, 2:30 - 3:30 PM (Unless otherwise notified)
 * Where: CSE 305 at Paul G. Allen Center 
 
 ### Organizers
-Please email us if you have any question or you want to participate but are not an Allen school member. 
+Please email us if you have any question or you want to participate but are not an Allen School member. 
 * [Shumo Chu](mailto:chushumo@cs.washington.edu)
 * [Guna Prasaad](mailto:guna@cs.washington.edu)
 * [Alvin Cheung](mailto:akcheung@cs.washington.edu)
 
 ### Readings
-* [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/), Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark 
+* [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/), Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark
 
 ### Recommended Talks
 * [Colloquia Talk: New Era in Distributed Computing with Blockchains and Databases](https://www.cs.washington.edu/events/colloquia/search/details?id=2991) by C. Mohan, IBM Research on Dec 14, 2017 at University of Washington <br> [Video](https://www.youtube.com/watch?v=Xq_25us15J8) [Resources](https://www.facebook.com/notes/mohan-c-mohan/permissioned-blockchains-and-databases/10155027556287295) 
