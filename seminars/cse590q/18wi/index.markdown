@@ -108,7 +108,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
 Please email us if you have any questions or you want to participate but are not an Allen School member. 
 <ul class='indent'>
  <li><a href='mailto:chushumo@cs.washington.edu'>Shumo Chu</a> </li>
- <li><a href='mailto:guna@cs.washington.edu'>Guna Prasaad]</a> </li>
+ <li><a href='mailto:guna@cs.washington.edu'>Guna Prasaad</a> </li>
  <li><a href='mailto:akcheung@cs.washington.edu'>Alvin Cheung</a> </li>
 </ul>
 
@@ -120,10 +120,27 @@ Please email us if you have any questions or you want to participate but are not
  </ol>
   
 ### Papers
+
+#### Introduction/Overview
 <ol class='indent'> 
- <li> <a href='https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world'>Blockchains: How they work and why they'll change the world</a></li>
- <li> <a href='http://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf'>Design of a secure timestamping service with minimal trust requirement</a>, Henri Massias, Xavier Serret-Avila, and Jean-Jacques Quisquater </li>
- <li> <a href='https://bitcoin.org/bitcoin.pdf'>Bitcoin: A Peer-to-Peer Electronic Cash System</a>, Satoshi Nakamoto </li>
+ <li> Satoshi Nakamoto, <a href='https://bitcoin.org/bitcoin.pdf'>Bitcoin: A Peer-to-Peer Electronic Cash System</a> </li>
+ <li> Morgen E. Peck, <a href='https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world'>Blockchains: How they work and why they'll change the world</a>, IEEE Spectrum</li>
+ <li> Henri Massias, Xavier Serret-Avila, and Jean-Jacques Quisquater, <a href='http://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf'>Design of a secure timestamping service with minimal trust requirement</a></li>
+ <li> J. Bonneau, A. Miller, J. Clark, A. Narayanan, J. A. Kroll, E. W. Felten. <a href='http://www.ieee-security.org/TC/SP2015/papers-archived/6949a104.pdf'>SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies</a>, IEEE S&P, 2015. </li>
+ <li> S. Barber, X. Boyen, E. Shi, E. Uzun. <a href='http://elaineshi.com/docs/bitcoin.pdf'>Bitter to Better: How to Make Bitcoin a Better Digital Currency</a>. In Financial Cryptography and Data Security (FC), 2012.</li>
+</ol>
+
+#### Scalability/Performance
+<ol class='indent'>
+  <li>K. Croman, C. Decker, I. Eyal, A.E. Gencer, A. Juels, A. Kosba, A. Miller, P. Saxena, E. Shi, E. G. Sirer, D. Song, and R. Wattenhofer. <a href='http://www.initc3.org/files/Scaling2016.pdf'>On Scaling Decentralized Blockchains (A Position Paper).</a></li>
+ <li>I. Eyal, A. E. Gencer, E. G. Sirer and R. V. Renesse. <a href='https://arxiv.org/abs/1510.02037'>Bitcoin-NG: A Scalable Blockchain Protocol</a>. NSDI, 2016.</li>
+ <li> Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich, <a href='https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf'>Algorand: Scaling Byzantine Agreements
+for Cryptocurrencies</a>, SOSP 2017</li>
+</ol>
+
+#### Smart Contracts
+<ol class='indent'>
+ <li>F. Zhang, E. Cecchetti, K. Croman, A. Juels and E. Shi. Town Crier: An Authenticated Data Feed for Smart Contracts. ACM CCS, 2016.</li>
 </ol>
   
 ### Talks
