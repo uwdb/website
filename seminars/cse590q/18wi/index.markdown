@@ -6,7 +6,7 @@ id: "590q18wi"
 ---
 <style>
   tbody, tr, th, td { border: 2px solid black }
-  th { background-color: rgb(241, 241, 241)
+  th { background-color: #777 }
 </style>
 ## CSE590Q: Database Seminar - Winter 2018
 ### Blockchains, Cryptocurrencies & Databases
@@ -19,20 +19,22 @@ id: "590q18wi"
   <tr>
     <th>Week</th>
     <th>Date</th>
-    <th>Description</th>
+    <th>Topic</th>
     <th>Speaker</th>
+    <th>Resources</th>
   </tr>
   <tr>
     <td>1</td>  
     <td>Jan 9</td>
     <td>Preliminaries and Introduction to Bitcoin/Cryptocurrencies</td>
-    <td>Shumo Chu, University of Washington</td>
+    <td>Shumo Chu<br> University of Washington</td>
+    <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Jan 16</td> 
     <td>Introduction to Blockchain</td>
-    <td>Guna Prasaad, University of Washington</td>
+    <td>Guna Prasaad<br>University of Washington</td>
   </tr>
   <tr>
     <td>3</td>
@@ -50,13 +52,13 @@ id: "590q18wi"
     <td>5</td>
     <td>Feb 6</td>
     <td>TBD</td>
-    <td>Sophia Wang, Uber</td>  
+    <td>Sophia Wang <br> Uber</td>  
   </tr>
   <tr>
     <td>6</td>
     <td>Feb 13</td>
     <td>Architectural Support</td>
-    <td>Michael Taylor, University of Washington</td>
+    <td>Michael Taylor <br> University of Washington</td>
   </tr>
   <tr>
     <td>7</td>
@@ -87,44 +89,41 @@ Please email us if you have any question or you want to participate but are not 
 ### Readings
 <ul>
   <li> 
+    <span class='label label-default'>Book</span>
+     <span class='label label-default'>Recommended</span>
     <a href='http://bitcoinbook.cs.princeton.edu/'>Bitcoin and Cryptocurrency Technologies</a>, Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark 
-    <br>
-     <span class='label label-default'>Book</span>
   </li>
   <li> 
+    <span class='label label-default'>Book</span>
     <a href='https://www.amazon.com/Mastering-Blockchain-decentralization-cryptography-frameworks/dp/1787125440'> Mastering Blockchain</a>, Imran Bashir 
-    <br>
-    <span class='label label-default'>Book</span> 
   </li>
   <li> 
-    <a href='https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133'> Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World</a>, Alex Tapscott and Don Tapscott
-    <br>
     <span class='label label-default'>Book</span> 
+    <a href='https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133'> Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World</a>, Alex Tapscott and Don Tapscott
   </li>
 </ul>
 
 ### Recommended Talks
 <ul>
   <li>
+    <span class='label label-info'>Upcoming</span>
+    <span class='label label-default'>Colloquia Talk</span>
     <a href='https://www.cs.washington.edu/events/colloquia/details?id=2993'>New games, new markets: the science of cryptocurrencies and incentives</a> by 
     <a href='http://randomwalker.info/'>Arvind Narayanan, Princeton University</a> 
-    <br>
-     <span class='label label-default'>Colloquia Talk</span>
-    <span class='label label-info'>Upcoming</span>
   </li>
   <li> 
+    <span class='label label-default'>Colloquia Talk</span>
     <a href='https://www.cs.washington.edu/events/colloquia/search/details?id=2991'>New Era in Distributed Computing with Blockchains and Databases</a> by 
     <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a>
     <br>
-    <span class='label label-default'>Colloquia Talk</span>
     <span class='tag'> <a href='https://www.youtube.com/watch?v=Xq_25us15J8'>[Video]</a></span>      
-    <span class='tag'> <a href='https://www.facebook.com/notes/mohan-c-mohan/permissioned-blockchains-and-databases/10155027556287295'>Resources</a> </span>
+    <span class='tag'> <a href='https://www.facebook.com/notes/mohan-c-mohan/permissioned-blockchains-and-databases/10155027556287295'>[Resources]</a> </span>
   </li>
   <li>
+    <span class='label label-default'>VLDB 2017</span>
     <a href='https://drive.google.com/file/d/0B7lNUaak0bK1ZDhkak05VHA0d00/view'>Tutorial on Blockchains and Databases</a>
     by 
     <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a>
-    <span class='label label-default'>VLDB 2017</span>
   </li>
 </ul>
       
