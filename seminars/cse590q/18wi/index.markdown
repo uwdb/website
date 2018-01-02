@@ -87,40 +87,44 @@ Please email us if you have any question or you want to participate but are not 
 ### Readings
 <ul class='tag-bullet-list'>
   <li> 
-    <span class='badge badge-default'>Book</span>
     <a href='http://bitcoinbook.cs.princeton.edu/'>Bitcoin and Cryptocurrency Technologies</a>, Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark 
+    <br>
+     <span class='label label-default'>Book</span>
   </li>
   <li> 
-    <span class='badge badge-default'>Book</span> 
     <a href='https://www.amazon.com/Mastering-Blockchain-decentralization-cryptography-frameworks/dp/1787125440'> Mastering Blockchain</a>, Imran Bashir 
+    <br>
+    <span class='label label-default'>Book</span> 
   </li>
   <li> 
-    <span class='badge badge-default'>Book</span> 
     <a href='https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133'> Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World</a>, Alex Tapscott and Don Tapscott
+    <br>
+    <span class='label label-default'>Book</span> 
   </li>
 </ul>
 
 ### Recommended Talks
 <ul class='tag-bullet-list'>
   <li>
-    <span class='badge badge-default'>Colloquia Talk</span>
-    <span class='badge badge-info'>Upcoming</span>
     <a href='https://www.cs.washington.edu/events/colloquia/details?id=2993'>New games, new markets: the science of cryptocurrencies and incentives</a> by 
     <a href='http://randomwalker.info/'>Arvind Narayanan, Princeton University</a> 
+    <br>
+     <span class='label label-default'>Colloquia Talk</span>
+    <span class='label label-info'>Upcoming</span>
   </li>
   <li> 
-    <span class='badge badge-default'>Colloquia Talk</span>
     <a href='https://www.cs.washington.edu/events/colloquia/search/details?id=2991'>New Era in Distributed Computing with Blockchains and Databases</a> by 
     <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a>
-    <br> 
+    <br>
+    <span class='label label-default'>Colloquia Talk</span>
     <span class='tag'> <a href='https://www.youtube.com/watch?v=Xq_25us15J8'>[Video]</a></span>      
     <span class='tag'> <a href='https://www.facebook.com/notes/mohan-c-mohan/permissioned-blockchains-and-databases/10155027556287295'>Resources</a> </span>
   </li>
   <li>
-    <span class='badge badge-default'>VLDB 2017</span>
     <a href='https://drive.google.com/file/d/0B7lNUaak0bK1ZDhkak05VHA0d00/view'>Tutorial on Blockchains and Databases</a>
     by 
     <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a>
+    <span class='label label-default'>VLDB 2017</span>
   </li>
 </ul>
       
