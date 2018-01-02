@@ -5,11 +5,9 @@ group: "navigation"
 id: "590q18wi"
 ---
 <style>
-body {
+container {
 	font-family: Inconsolata;
 }
-h1   {color: blue;}
-p    {color: red;}
 </style>
 
 ## CSE590Q: Database Seminar - Winter 2018
