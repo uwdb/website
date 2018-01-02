@@ -102,9 +102,12 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
 
 ### Organizers
 Please email us if you have any questions or you want to participate but are not an Allen School member. 
-* [Shumo Chu](mailto:chushumo@cs.washington.edu)
-* [Guna Prasaad](mailto:guna@cs.washington.edu)
-* [Alvin Cheung](mailto:akcheung@cs.washington.edu)
+<ul class='indent'>
+ <li><a href='mailto:chushumo@cs.washington.edu'>Shumo Chu</a>
+ <li><a href='mailto:guna@cs.washington.edu'>Guna Prasaad]</a>
+ <li><a href='mailto:akcheung@cs.washington.edu'>Alvin Cheung</a>
+</ul>
+
 
 ### Readings
 <ul class='indent'>
@@ -119,6 +122,11 @@ Please email us if you have any questions or you want to participate but are not
     [Book]
     <a href='https://www.amazon.com/Mastering-Blockchain-decentralization-cryptography-frameworks/dp/1787125440'> Mastering Blockchain</a>, Imran Bashir 
   </li>
+ <li> [Paper] 
+  <a href='https://bitcoin.org/bitcoin.pdf'>Bitcoin: A Peer-to-Peer Electronic Cash System</a>, Satoshi Nakamoto
+ </li>
+ <li> [Paper] <a href='http://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf'>Design of a secure timestamping service with minimal trust requirement</a> </li>
+ <li> [IEEE Spectrum Overview] <a href='https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world'>Blockchains: How they work and why they'll change the world</a> </li>
 </ul>
 
 ### Talks
@@ -137,4 +145,13 @@ Please email us if you have any questions or you want to participate but are not
     <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a>
   </li>
 </ul>
-      
+
+### Miscellaneous Resources
+<ul class='indent'>
+ <li> <a href='https://blockchain.info/'> Live Bitcoin Blockchain </li>
+ <li> <a href='http://www.initc3.org/'>IC3: The Initiative for CryptoCurrencies & Contracts</a></li>
+ <li> <a href='https://entethalliance.org/'>Ethereum Enterprise Alliance</a> </li>
+ <li> <a href='https://blockchain.berkeley.edu/'> Blockchain at Berkeley </a> </li>
+ <li> <a href='http://nakamotoinstitute.org/'> Satoshi Nakamoto Institute </a> </li>
+ <li> <a href='https://www.coursera.org/learn/cryptocurrency'>Coursera course on Bitcoins and Crytocurrencies</a></li>
+<ul>
