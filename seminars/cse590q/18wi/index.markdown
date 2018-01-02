@@ -28,64 +28,71 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <th>Speaker</th>
     <th>Reading</th>
   </tr>
-  <tr>
+ <tr>
     <td>1</td>  
+    <td>Jan 4</td>
+    <td><a href='https://www.cs.washington.edu/events/colloquia/details?id=2993'>New games, new markets: the science of cryptocurrencies and incentives</a><br> *Unusual Timing: Thursday, 3:30 PM at EEB-105*</td>
+    <td>Arvind Narayanan<br> Princeton University</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>  
     <td>Jan 9</td>
     <td>Preliminaries and Introduction to Bitcoin/Cryptocurrencies</td>
     <td>Shumo Chu<br> University of Washington</td>
     <td></td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>3</td>
     <td>Jan 16</td> 
     <td>Introduction to Blockchain</td>
     <td>Guna Prasaad<br>University of Washington</td>
     <td></td>
   </tr>
   <tr>
-    <td>3</td>
+    <td>4</td>
     <td>Jan 23</td>
     <td>Scalability & Performance </td>
     <td>TBD</td>
     <td></td>
   </tr>
   <tr>
-    <td>4</td>
+    <td>5</td>
     <td>Jan 30</td>
     <td>Security and Verification</td>
     <td>TBD</td>
     <td></td>
   </tr>
   <tr>
-    <td>5</td>
+    <td>6</td>
     <td>Feb 6</td>
     <td>TBD</td>
     <td>Sophia Wang <br> Uber</td>  
     <td></td>
   </tr>
   <tr>
-    <td>6</td>
+    <td>7</td>
     <td>Feb 13</td>
     <td>Architectural Support</td>
     <td>Michael Taylor <br> University of Washington</td>
     <td></td>
   </tr>
   <tr>
-    <td>7</td>
+    <td>8</td>
     <td>Feb 20</td>
     <td>Smart Contracts</td>
     <td>TBD</td>
     <td></td>
   </tr> 
   <tr>
-    <td>8</td>
+    <td>9</td>
     <td>Feb 27</td>
     <td>Blockchains and Databases</td>
     <td>TBD</td>
     <td></td>
   </tr>
   <tr>
-    <td>9</td>
+    <td>10</td>
     <td>Mar 6</td>
     <td>TBD</td>
     <td>TBD</td>
