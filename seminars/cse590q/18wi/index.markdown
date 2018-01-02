@@ -5,8 +5,7 @@ group: "navigation"
 id: "590q18wi"
 ---
 <style>
-.container { font-family: Roboto-Slab; }
-span { padding: 15px; font-color:blue; }
+span { padding: 15px; color:blue; }
 </style>
 
 ## CSE590Q: Database Seminar - Winter 2018
@@ -23,8 +22,9 @@ Please email us if you have any question or you want to participate but are not 
 * [Alvin Cheung](mailto:akcheung@cs.washington.edu)
 
 ### Readings
-* [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/), Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark 
-* 
+* <span>[Book]</span>[Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/), Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark 
+* <span>[Book]</span>[Mastering Blockchain](https://www.amazon.com/Mastering-Blockchain-decentralization-cryptography-frameworks/dp/1787125440), Imran Bashir
+* <span>[Book]</span>[Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133), Alex Tapscott and Don Tapscott
 
 ### Recommended Talks
 * [Colloquia Talk: New Era in Distributed Computing with Blockchains and Databases](https://www.cs.washington.edu/events/colloquia/search/details?id=2991) by <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a> 
