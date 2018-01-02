@@ -19,9 +19,18 @@ Please email us if you have any question or you want to participate but are not 
 
 ### Readings
 <ul class='tag-bullet-list'>
-  <li> <span class='tag'>[Book]</span> [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/), Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark </li>
-  <li> <span class='tag'>[Book]</span> [Mastering Blockchain](https://www.amazon.com/Mastering-Blockchain-decentralization-cryptography-frameworks/dp/1787125440), Imran Bashir </li>
-  <li> <span class='tag'>[Book]</span> [Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133), Alex Tapscott and Don Tapscott </li>
+  <li> 
+    <span class='tag'>[Book]</span>
+    <a href='http://bitcoinbook.cs.princeton.edu/'>Bitcoin and Cryptocurrency Technologies</a>, Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark 
+  </li>
+  <li> 
+    <span class='tag'>[Book]</span> 
+    <a href='https://www.amazon.com/Mastering-Blockchain-decentralization-cryptography-frameworks/dp/1787125440' Mastering Blockchain</a>, Imran Bashir 
+  </li>
+  <li> 
+    <span class='tag'>[Book]</span> 
+    <a href='https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133'> Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World</a>, Alex Tapscott and Don Tapscott
+  </li>
 </ul>
 
 
