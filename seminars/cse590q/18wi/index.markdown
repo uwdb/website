@@ -5,16 +5,17 @@ group: "navigation"
 id: "590q18wi"
 ---
 <style>
-  tbody, tr, th, td { border: 2px solid black }
-  th { background-color: #ddd }
-  .indent { padding:10px; }
-	.indent, li {margin-top: 5px} 
+ tbody, tr, th, td { border: 2px solid black }
+ th { background-color: #ddd }
+ .indent { padding:10px; }
+ .indent, li {margin-top: 5px} 
 </style>
 ## CSE590Q: Database Seminar - Winter 2018
 ### Blockchains, Cryptocurrencies & Databases
 #### Tuesday, 2:30 - 3:30 PM
 #### CSE 305, Paul G. Allen Center 
   
+    
 ### Description
 In this seminar, we will deep dive into blockchain and cryptocurrency technologies, and discuss the new challenges and opportunities it brings to Computer Science system research. Topics to be discussed include the following but are not limited to: system performance & scalability of blockchain transactions, security & system verification of cryptocurrency and blockchain, smart contract,  co-design of blockchain and data management systems, architectural support of cryptocurrency, etc. It is organized as a weekly paper reading and discussion session. We also host invited speakers from Microsoft Research, Uber, and Allen school to discuss their views on some of these topics.
 
@@ -25,7 +26,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <th>Date</th>
     <th>Topic</th>
     <th>Speaker</th>
-    <th>Resources</th>
+    <th>Reading</th>
   </tr>
   <tr>
     <td>1</td>  
@@ -93,7 +94,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
 </table>
 
 ### Organizers
-Please email us if you have any question or you want to participate but are not an Allen School member. 
+Please email us if you have any questions or you want to participate but are not an Allen School member. 
 * [Shumo Chu](mailto:chushumo@cs.washington.edu)
 * [Guna Prasaad](mailto:guna@cs.washington.edu)
 * [Alvin Cheung](mailto:akcheung@cs.washington.edu)
@@ -113,7 +114,7 @@ Please email us if you have any question or you want to participate but are not 
   </li>
 </ul>
 
-### Recommended Talks
+### Talks
 <ul class='indent'>
   <li>
     [Colloquia Talk] [Upcoming] <a href='https://www.cs.washington.edu/events/colloquia/details?id=2993'>New games, new markets: the science of cryptocurrencies and incentives</a> by 
