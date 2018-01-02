@@ -85,7 +85,7 @@ Please email us if you have any question or you want to participate but are not 
 * [Alvin Cheung](mailto:akcheung@cs.washington.edu)
 
 ### Readings
-<ul class='tag-bullet-list'>
+<ul>
   <li> 
     <a href='http://bitcoinbook.cs.princeton.edu/'>Bitcoin and Cryptocurrency Technologies</a>, Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark 
     <br>
@@ -104,7 +104,7 @@ Please email us if you have any question or you want to participate but are not 
 </ul>
 
 ### Recommended Talks
-<ul class='tag-bullet-list'>
+<ul>
   <li>
     <a href='https://www.cs.washington.edu/events/colloquia/details?id=2993'>New games, new markets: the science of cryptocurrencies and incentives</a> by 
     <a href='http://randomwalker.info/'>Arvind Narayanan, Princeton University</a> 
