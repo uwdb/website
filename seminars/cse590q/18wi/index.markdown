@@ -21,8 +21,8 @@ Please email us if you have any question or you want to participate but are not 
 * [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/), Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark 
 
 ### Recommended Talks
-* [Colloquia Talk: New Era in Distributed Computing with Blockchains and Databases](https://www.cs.washington.edu/events/colloquia/search/details?id=2991) by C. Mohan, IBM Research on Dec 14, 2017 at 3:30 PM in EEB-105
-* [Colloquia Talk: New games, new markets: the science of cryptocurrencies and incentives](https://www.cs.washington.edu/events/colloquia/details?id=2993) by Arvind Narayanan, Princeton University on Jan 4, 2018 at 3:30 PM in EEB-105, University of Washington
+* [Colloquia Talk: New Era in Distributed Computing with Blockchains and Databases](https://www.cs.washington.edu/events/colloquia/search/details?id=2991) by C. Mohan, IBM Research on Dec 14, 2017 at University of Washington <br> [Video](https://www.youtube.com/watch?v=Xq_25us15J8) [Resources](https://www.facebook.com/notes/mohan-c-mohan/permissioned-blockchains-and-databases/10155027556287295) 
+* [Colloquia Talk: New games, new markets: the science of cryptocurrencies and incentives](https://www.cs.washington.edu/events/colloquia/details?id=2993) by Arvind Narayanan, Princeton University at University of Washington 
   
 ### Tentative Schedule
 <table>
