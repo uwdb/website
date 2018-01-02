@@ -114,6 +114,7 @@ Please email us if you have any questions or you want to participate but are not
   <li><a href='https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133'> Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World</a>, Alex Tapscott and Don Tapscott</li>
   <li><a href='https://www.amazon.com/Mastering-Blockchain-decentralization-cryptography-frameworks/dp/1787125440'> Mastering Blockchain</a>, Imran Bashir </li>
  </ol>
+  
 ### Papers
 <ol class='indent'>
  <li> <a href='https://bitcoin.org/bitcoin.pdf'>Bitcoin: A Peer-to-Peer Electronic Cash System</a>, Satoshi Nakamoto </li>
