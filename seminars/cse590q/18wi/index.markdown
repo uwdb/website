@@ -120,7 +120,7 @@ Please email us if you have any questions or you want to participate but are not
  <li> <a href='http://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf'>Design of a secure timestamping service with minimal trust requirement</a>, Henri Massias, Xavier Serret-Avila, and Jean-Jacques Quisquater </li>
  <li> <a href='https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world'>Blockchains: How they work and why they'll change the world</a></li>
 </ol>
-
+  
 ### Talks
 <ol class='indent'>
   <li> [Colloquia Talk] [Upcoming] <a href='https://www.cs.washington.edu/events/colloquia/details?id=2993'>New games, new markets: the science of cryptocurrencies and incentives</a> by <a href='http://randomwalker.info/'>Arvind Narayanan, Princeton University</a> </li>
