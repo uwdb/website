@@ -26,7 +26,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <th>Date</th>
     <th>Topic</th>
     <th>Speaker</th>
-    <th>Reading</th>
+    <th>Reading/Resources</th>
   </tr>
  <tr>
     <td>1</td>  
