@@ -4,6 +4,13 @@ title: "590Q: Blockchains, Cryptocurrencies and Databases"
 group: "navigation"
 id: "590q18wi"
 ---
+<style>
+body {
+	font-family: Inconsolata;
+}
+h1   {color: blue;}
+p    {color: red;}
+</style>
 
 ## CSE590Q: Database Seminar - Winter 2018
 ## Topic: Blockchains, Cryptocurrencies & Databases
@@ -23,9 +30,9 @@ Please email us if you have any question or you want to participate but are not 
 * 
 
 ### Recommended Talks
-* [Colloquia Talk: New Era in Distributed Computing with Blockchains and Databases](https://www.cs.washington.edu/events/colloquia/search/details?id=2991) by C. Mohan, IBM Research 
-<br> <b>[Video](https://www.youtube.com/watch?v=Xq_25us15J8)</b> <b>[Resources](https://www.facebook.com/notes/mohan-c-mohan/permissioned-blockchains-and-databases/10155027556287295)</b> 
-* [Colloquia Talk: New games, new markets: the science of cryptocurrencies and incentives](https://www.cs.washington.edu/events/colloquia/details?id=2993) by Arvind Narayanan, Princeton University 
+* [Colloquia Talk: New Era in Distributed Computing with Blockchains and Databases](https://www.cs.washington.edu/events/colloquia/search/details?id=2991) by <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a> 
+<br> <span>[[Video]](https://www.youtube.com/watch?v=Xq_25us15J8)</span> <span>[[Resources]](https://www.facebook.com/notes/mohan-c-mohan/permissioned-blockchains-and-databases/10155027556287295)</span> 
+* [Colloquia Talk: New games, new markets: the science of cryptocurrencies and incentives](https://www.cs.washington.edu/events/colloquia/details?id=2993) by <a href='http://randomwalker.info/'>Arvind Narayanan, Princeton University</a> 
   
 ### Tentative Schedule
 <table>
