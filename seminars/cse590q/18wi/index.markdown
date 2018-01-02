@@ -108,43 +108,25 @@ Please email us if you have any questions or you want to participate but are not
  <li><a href='mailto:akcheung@cs.washington.edu'>Alvin Cheung</a> </li>
 </ul>
 
-
-### Readings
+### Books
 <ol class='indent'>
-  <li> 
-    [Book] <a href='http://bitcoinbook.cs.princeton.edu/'>Bitcoin and Cryptocurrency Technologies</a>, Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark 
-  </li>
-  <li> 
-    [Book]
-    <a href='https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133'> Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World</a>, Alex Tapscott and Don Tapscott
-  </li>
-  <li> 
-    [Book]
-    <a href='https://www.amazon.com/Mastering-Blockchain-decentralization-cryptography-frameworks/dp/1787125440'> Mastering Blockchain</a>, Imran Bashir 
-  </li>
- <li> [Paper] 
-  <a href='https://bitcoin.org/bitcoin.pdf'>Bitcoin: A Peer-to-Peer Electronic Cash System</a>, Satoshi Nakamoto
- </li>
- <li> [Paper] <a href='http://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf'>Design of a secure timestamping service with minimal trust requirement</a>, Henri Massias, Xavier Serret-Avila, and Jean-Jacques Quisquater </li>
- <li> [IEEE Spectrum] <a href='https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world'>Blockchains: How they work and why they'll change the world</a></li>
-</ul>
+  <li><a href='http://bitcoinbook.cs.princeton.edu/'>Bitcoin and Cryptocurrency Technologies</a>, Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark </li>
+  <li><a href='https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133'> Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World</a>, Alex Tapscott and Don Tapscott</li>
+  <li><a href='https://www.amazon.com/Mastering-Blockchain-decentralization-cryptography-frameworks/dp/1787125440'> Mastering Blockchain</a>, Imran Bashir </li>
+ </ol>
+### Papers
+<ol class='indent'>
+ <li> <a href='https://bitcoin.org/bitcoin.pdf'>Bitcoin: A Peer-to-Peer Electronic Cash System</a>, Satoshi Nakamoto </li>
+ <li> <a href='http://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf'>Design of a secure timestamping service with minimal trust requirement</a>, Henri Massias, Xavier Serret-Avila, and Jean-Jacques Quisquater </li>
+ <li> <a href='https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world'>Blockchains: How they work and why they'll change the world</a></li>
+</ol>
 
 ### Talks
 <ol class='indent'>
-  <li>
-    [Colloquia Talk] [Upcoming] <a href='https://www.cs.washington.edu/events/colloquia/details?id=2993'>New games, new markets: the science of cryptocurrencies and incentives</a> by 
-    <a href='http://randomwalker.info/'>Arvind Narayanan, Princeton University</a> 
-  </li>
-  <li> 
-    [Colloquia Talk] <a href='https://www.cs.washington.edu/events/colloquia/search/details?id=2991'>New Era in Distributed Computing with Blockchains and Databases</a> by 
-    <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a> <a href='https://www.youtube.com/watch?v=Xq_25us15J8'>[Video]</a> <a href='https://www.facebook.com/notes/mohan-c-mohan/permissioned-blockchains-and-databases/10155027556287295'>[Resources]</a>
-  </li>
-  <li>
-    [VLDB 2017] <a href='https://drive.google.com/file/d/0B7lNUaak0bK1ZDhkak05VHA0d00/view'>Tutorial on Blockchains and Databases</a>
-    by 
-    <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a>
-  </li>
-</ul>
+  <li> [Colloquia Talk] [Upcoming] <a href='https://www.cs.washington.edu/events/colloquia/details?id=2993'>New games, new markets: the science of cryptocurrencies and incentives</a> by <a href='http://randomwalker.info/'>Arvind Narayanan, Princeton University</a> </li>
+  <li> [Colloquia Talk] <a href='https://www.cs.washington.edu/events/colloquia/search/details?id=2991'>New Era in Distributed Computing with Blockchains and Databases</a> by <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a> <a href='https://www.youtube.com/watch?v=Xq_25us15J8'>[Video]</a> <a href='https://www.facebook.com/notes/mohan-c-mohan/permissioned-blockchains-and-databases/10155027556287295'>[Resources]</a> </li>
+  <li> [VLDB 2017] <a href='https://drive.google.com/file/d/0B7lNUaak0bK1ZDhkak05VHA0d00/view'>Tutorial on Blockchains and Databases</a> by <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a </li>
+</ol>
 
 ### Miscellaneous Resources
 <ol class='indent'>
@@ -154,4 +136,4 @@ Please email us if you have any questions or you want to participate but are not
  <li> <a href='https://blockchain.berkeley.edu/'> Blockchain at Berkeley </a> </li>
  <li> <a href='http://nakamotoinstitute.org/'> Satoshi Nakamoto Institute </a> </li>
  <li> <a href='https://www.coursera.org/learn/cryptocurrency'>Coursera course on Bitcoins and Crytocurrencies</a></li>
-<ul>
+<ol>
