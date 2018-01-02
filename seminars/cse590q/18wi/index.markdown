@@ -127,7 +127,7 @@ Please email us if you have any questions or you want to participate but are not
  <li> Morgen E. Peck, <a href='https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world'>Blockchains: How they work and why they'll change the world</a>, IEEE Spectrum</li>
  <li> Henri Massias, Xavier Serret-Avila, and Jean-Jacques Quisquater, <a href='http://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf'>Design of a secure timestamping service with minimal trust requirement</a></li>
  <li> J. Bonneau, A. Miller, J. Clark, A. Narayanan, J. A. Kroll, E. W. Felten. <a href='http://www.ieee-security.org/TC/SP2015/papers-archived/6949a104.pdf'>SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies</a>, IEEE S&P, 2015. </li>
- <li> S. Barber, X. Boyen, E. Shi, E. Uzun. <a href='http://elaineshi.com/docs/bitcoin.pdf'>Bitter to Better: How to Make Bitcoin a Better Digital Currency</a>. In Financial Cryptography and Data Security (FC), 2012.</li>
+ <li> Tien Tuan Anh Dinh, Rui Liu, Meihui Zhang, Gang Chen, Beng Chin Ooi, Ji Wang, <a href='https://arxiv.org/abs/1708.05665'>Untangling Blockchain: A Data Processing View of Blockchain Systems</a>, arXiv 2017</li>
 </ol>
 
 #### Scalability/Performance
@@ -138,12 +138,14 @@ Please email us if you have any questions or you want to participate but are not
 for Cryptocurrencies</a>, SOSP 2017.</li>
  <li> Tien Tuan Anh Dinh, Ji Wang, Gang Chen, Rui Liu, Beng Chin Ooi, Kian-Lee Tan, <a href='https://arxiv.org/abs/1703.04057'>BLOCKBENCH: A Framework for Analyzing Private Blockchains</a>, SIGMOD 2017 </li>.
  <li>  Suporn Pongnumkul, Chaiyaphum Siripanpornchana, Suttipong Thajchayapong <a href='http://ieeexplore.ieee.org/abstract/document/8038517/'>Performance Analysis of Private Blockchain Platforms in Varying Workloads</a>, ICCN 2017.</li>
+ <li><a href='https://github.com/bigchaindb/bigchaindb'>BigchainDB: a scalable blockchain database</a></li>
 </ol>
 
 #### Smart Contracts
 <ol class='indent'>
  <li>Massimo Bartoletti and Livio Pompianu, <a href='https://arxiv.org/pdf/1703.06322.pdf'>An empirical analysis of smart contracts: platforms, applications, and design patterns</a>.</li>
 </ol>
+
   
 ### Talks
 <ol class='indent'>
@@ -160,4 +162,6 @@ for Cryptocurrencies</a>, SOSP 2017.</li>
  <li> <a href='https://blockchain.berkeley.edu/'> Blockchain at Berkeley </a> </li>
  <li> <a href='http://nakamotoinstitute.org/'> Satoshi Nakamoto Institute </a> </li>
  <li> <a href='https://www.coursera.org/learn/cryptocurrency'>Coursera course on Bitcoins and Crytocurrencies</a></li>
+ <li> <a href='https://github.com/hyperledger/fabric/releases/tag/v0.6.0-preview'>Hyperledger fabric v0.6.0.</li>
+<li> <a href='https://github.com/hyperledger/fabric/releases/tag/v1.0.0-rc1'>Hyperledger fabric v1.0.0-rc1</a></li>
 <ol>
