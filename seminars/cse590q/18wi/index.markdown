@@ -5,9 +5,7 @@ group: "navigation"
 id: "590q18wi"
 ---
 <style>
-container {
-	font-family: Inconsolata;
-}
+.container { font-family: Inconsolata; }
 </style>
 
 ## CSE590Q: Database Seminar - Winter 2018
