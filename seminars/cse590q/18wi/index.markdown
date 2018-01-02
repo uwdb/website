@@ -110,7 +110,7 @@ Please email us if you have any questions or you want to participate but are not
 
 
 ### Readings
-<ul class='indent'>
+<ol class='indent'>
   <li> 
     [Book] <a href='http://bitcoinbook.cs.princeton.edu/'>Bitcoin and Cryptocurrency Technologies</a>, Arvind Narayanan, Joseph Bonneau, Edward W. Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark 
   </li>
@@ -130,7 +130,7 @@ Please email us if you have any questions or you want to participate but are not
 </ul>
 
 ### Talks
-<ul class='indent'>
+<ol class='indent'>
   <li>
     [Colloquia Talk] [Upcoming] <a href='https://www.cs.washington.edu/events/colloquia/details?id=2993'>New games, new markets: the science of cryptocurrencies and incentives</a> by 
     <a href='http://randomwalker.info/'>Arvind Narayanan, Princeton University</a> 
@@ -147,7 +147,7 @@ Please email us if you have any questions or you want to participate but are not
 </ul>
 
 ### Miscellaneous Resources
-<ul class='indent'>
+<ol class='indent'>
  <li> <a href='https://blockchain.info/'> Live Bitcoin Blockchain </a> </li>
  <li> <a href='http://www.initc3.org/'>IC3: The Initiative for CryptoCurrencies & Contracts</a> </li>
  <li> <a href='https://entethalliance.org/'>Ethereum Enterprise Alliance</a> </li>
