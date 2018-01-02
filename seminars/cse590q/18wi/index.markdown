@@ -7,8 +7,8 @@ id: "590q18wi"
 <style>
   tbody, tr, th, td { border: 2px solid black }
   th { background-color: #aaa }
-	ul { padding:10px; }
-  li { margin-top: 5px }
+  .indent { padding:10px; }
+	.indent, li {margin-top: 5px} 
 </style>
 ## CSE590Q: Database Seminar - Winter 2018
 ### Blockchains, Cryptocurrencies & Databases
@@ -119,10 +119,7 @@ Please email us if you have any question or you want to participate but are not 
   </li>
   <li> 
     [Colloquia Talk] <a href='https://www.cs.washington.edu/events/colloquia/search/details?id=2991'>New Era in Distributed Computing with Blockchains and Databases</a> by 
-    <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a>
-    <br>
-    <span class='tag'> <a href='https://www.youtube.com/watch?v=Xq_25us15J8'>[Video]</a></span>      
-    <span class='tag'> <a href='https://www.facebook.com/notes/mohan-c-mohan/permissioned-blockchains-and-databases/10155027556287295'>[Resources]</a> </span>
+    <a href='http://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan'>C. Mohan, IBM Research</a> <a href='https://www.youtube.com/watch?v=Xq_25us15J8'>[Video]</a> <a href='https://www.facebook.com/notes/mohan-c-mohan/permissioned-blockchains-and-databases/10155027556287295'>[Resources]</a>
   </li>
   <li>
     [VLDB 2017] <a href='https://drive.google.com/file/d/0B7lNUaak0bK1ZDhkak05VHA0d00/view'>Tutorial on Blockchains and Databases</a>
