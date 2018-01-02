@@ -6,7 +6,8 @@ id: "590q18wi"
 ---
 <style>
   tbody, tr, th, td { border: 2px solid black }
-  th { background-color: #777 }
+  th { background-color: #aaa }
+  a { color: blue } 
 </style>
 ## CSE590Q: Database Seminar - Winter 2018
 ### Blockchains, Cryptocurrencies & Databases
@@ -35,48 +36,56 @@ id: "590q18wi"
     <td>Jan 16</td> 
     <td>Introduction to Blockchain</td>
     <td>Guna Prasaad<br>University of Washington</td>
+    <td></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Jan 23</td>
     <td>Scalability & Performance </td>
     <td>TBD</td>
+    <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>Jan 30</td>
     <td>Security and Verification</td>
     <td>TBD</td>
+    <td></td>
   </tr>
   <tr>
     <td>5</td>
     <td>Feb 6</td>
     <td>TBD</td>
     <td>Sophia Wang <br> Uber</td>  
+    <td></td>
   </tr>
   <tr>
     <td>6</td>
     <td>Feb 13</td>
     <td>Architectural Support</td>
     <td>Michael Taylor <br> University of Washington</td>
+    <td></td>
   </tr>
   <tr>
     <td>7</td>
     <td>Feb 20</td>
     <td>Smart Contracts</td>
     <td>TBD</td>
+    <td></td>
   </tr> 
   <tr>
     <td>8</td>
     <td>Feb 27</td>
     <td>Blockchains and Databases</td>
     <td>TBD</td>
+    <td></td>
   </tr>
   <tr>
     <td>9</td>
     <td>Mar 6</td>
     <td>TBD</td>
     <td>TBD</td>
+    <td></td>
   </tr> 
 </table>
 
