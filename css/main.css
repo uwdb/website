@@ -227,7 +227,7 @@ table td {
   color: blue;
 }
 
-ul .tag-bullet-list {
+.tag-bullet-list {
   list-style-type: none;
   padding: 0px;
 }
