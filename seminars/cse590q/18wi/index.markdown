@@ -5,10 +5,11 @@ group: "navigation"
 id: "590q18wi"
 ---
 ## CSE590Q: Database Seminar - Winter 2018
-## Blockchains, Cryptocurrencies & Databases
-### Tuesday, 2:30 - 3:30 PM
-### CSE 305, Paul G. Allen Center 
-
+### Blockchains, Cryptocurrencies & Databases
+#### Tuesday, 2:30 - 3:30 PM
+#### CSE 305, Paul G. Allen Center 
+<br>
+<br>
 ### Tentative Schedule
 <table>
   <tr>
@@ -99,7 +100,7 @@ Please email us if you have any question or you want to participate but are not 
 <ul class='tag-bullet-list'>
   <li>
     <span class='tag'>[Colloquia Talk]</span>
-    <span class='tag'>Upcoming</span>
+    <span class='tag'>[Upcoming]</span>
     <a href='https://www.cs.washington.edu/events/colloquia/details?id=2993'>New games, new markets: the science of cryptocurrencies and incentives</a> by 
     <a href='http://randomwalker.info/'>Arvind Narayanan, Princeton University</a> 
   </li>
