@@ -148,8 +148,8 @@ Please email us if you have any questions or you want to participate but are not
 
 ### Miscellaneous Resources
 <ul class='indent'>
- <li> <a href='https://blockchain.info/'> Live Bitcoin Blockchain </li>
- <li> <a href='http://www.initc3.org/'>IC3: The Initiative for CryptoCurrencies & Contracts</a></li>
+ <li> <a href='https://blockchain.info/'> Live Bitcoin Blockchain </a> </li>
+ <li> <a href='http://www.initc3.org/'>IC3: The Initiative for CryptoCurrencies & Contracts</a> </li>
  <li> <a href='https://entethalliance.org/'>Ethereum Enterprise Alliance</a> </li>
  <li> <a href='https://blockchain.berkeley.edu/'> Blockchain at Berkeley </a> </li>
  <li> <a href='http://nakamotoinstitute.org/'> Satoshi Nakamoto Institute </a> </li>
