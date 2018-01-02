@@ -103,9 +103,9 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
 ### Organizers
 Please email us if you have any questions or you want to participate but are not an Allen School member. 
 <ul class='indent'>
- <li><a href='mailto:chushumo@cs.washington.edu'>Shumo Chu</a>
- <li><a href='mailto:guna@cs.washington.edu'>Guna Prasaad]</a>
- <li><a href='mailto:akcheung@cs.washington.edu'>Alvin Cheung</a>
+ <li><a href='mailto:chushumo@cs.washington.edu'>Shumo Chu</a> </li>
+ <li><a href='mailto:guna@cs.washington.edu'>Guna Prasaad]</a> </li>
+ <li><a href='mailto:akcheung@cs.washington.edu'>Alvin Cheung</a> </li>
 </ul>
 
 
