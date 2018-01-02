@@ -123,27 +123,27 @@ Please email us if you have any questions or you want to participate but are not
 
 #### Introduction/Overview
 <ol class='indent'> 
- <li> Satoshi Nakamoto, <a href='https://bitcoin.org/bitcoin.pdf'>Bitcoin: A Peer-to-Peer Electronic Cash System</a> </li>
- <li> Morgen E. Peck, <a href='https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world'>Blockchains: How they work and why they'll change the world</a>, IEEE Spectrum</li>
- <li> Henri Massias, Xavier Serret-Avila, and Jean-Jacques Quisquater, <a href='http://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf'>Design of a secure timestamping service with minimal trust requirement</a></li>
- <li> J. Bonneau, A. Miller, J. Clark, A. Narayanan, J. A. Kroll, E. W. Felten. <a href='http://www.ieee-security.org/TC/SP2015/papers-archived/6949a104.pdf'>SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies</a>, IEEE S&P, 2015. </li>
- <li> Tien Tuan Anh Dinh, Rui Liu, Meihui Zhang, Gang Chen, Beng Chin Ooi, Ji Wang, <a href='https://arxiv.org/abs/1708.05665'>Untangling Blockchain: A Data Processing View of Blockchain Systems</a>, arXiv 2017</li>
+ <li><a href='https://bitcoin.org/bitcoin.pdf'>Bitcoin: A Peer-to-Peer Electronic Cash System</a>, Satoshi Nakamoto</li>
+ <li><a href='https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world'>Blockchains: How they work and why they'll change the world</a>, Morgen E. Peck, IEEE Spectrum</li>
+ <li><a href='http://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf'>Design of a secure timestamping service with minimal trust requirement</a>, Henri Massias, Xavier Serret-Avila, and Jean-Jacques Quisquater</li>
+ <li><a href='http://www.ieee-security.org/TC/SP2015/papers-archived/6949a104.pdf'>SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies</a>,J. Bonneau, A. Miller, J. Clark, A. Narayanan, J. A. Kroll, E. W. Felten, IEEE S&P, 2015. </li>
+ <li><a href='https://arxiv.org/abs/1708.05665'>Untangling Blockchain: A Data Processing View of Blockchain Systems</a>, Tien Tuan Anh Dinh, Rui Liu, Meihui Zhang, Gang Chen, Beng Chin Ooi, Ji Wang, arXiv 2017</li>
 </ol>
 
 #### Scalability/Performance
 <ol class='indent'>
-  <li>K. Croman, C. Decker, I. Eyal, A.E. Gencer, A. Juels, A. Kosba, A. Miller, P. Saxena, E. Shi, E. G. Sirer, D. Song, and R. Wattenhofer. <a href='http://www.initc3.org/files/Scaling2016.pdf'>On Scaling Decentralized Blockchains (A Position Paper).</a></li>
- <li>I. Eyal, A. E. Gencer, E. G. Sirer and R. V. Renesse. <a href='https://arxiv.org/abs/1510.02037'>Bitcoin-NG: A Scalable Blockchain Protocol</a>. NSDI, 2016.</li>
- <li> Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich, <a href='https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf'>Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a>, SOSP 2017.</li>
- <li> Tien Tuan Anh Dinh, Ji Wang, Gang Chen, Rui Liu, Beng Chin Ooi, Kian-Lee Tan, <a href='https://arxiv.org/abs/1703.04057'>BLOCKBENCH: A Framework for Analyzing Private Blockchains</a>, SIGMOD 2017.</li>
- <li>  Suporn Pongnumkul, Chaiyaphum Siripanpornchana, Suttipong Thajchayapong <a href='http://ieeexplore.ieee.org/abstract/document/8038517/'>Performance Analysis of Private Blockchain Platforms in Varying Workloads</a>, ICCN 2017.</li>
+  <li><a href='http://www.initc3.org/files/Scaling2016.pdf'>On Scaling Decentralized Blockchains (A Position Paper)</a>, K. Croman, C. Decker, I. Eyal, A.E. Gencer, A. Juels, A. Kosba, A. Miller, P. Saxena, E. Shi, E. G. Sirer, D. Song, and R. Wattenhofer. </li>
+ <li><a href='https://arxiv.org/abs/1510.02037'>Bitcoin-NG: A Scalable Blockchain Protocol</a>, I. Eyal, A. E. Gencer, E. G. Sirer and R. V. Renesse, NSDI, 2016.</li>
+ <li><a href='https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf'>Algorand: Scaling Byzantine Agreements
+for Cryptocurrencies</a>, Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich, SOSP 2017.</li>
+ <li><a href='https://arxiv.org/abs/1703.04057'>BLOCKBENCH: A Framework for Analyzing Private Blockchains</a>, Tien Tuan Anh Dinh, Ji Wang, Gang Chen, Rui Liu, Beng Chin Ooi, Kian-Lee Tan, SIGMOD 2017.</li>
+ <li><a href='http://ieeexplore.ieee.org/abstract/document/8038517/'>Performance Analysis of Private Blockchain Platforms in Varying Workloads</a>, Suporn Pongnumkul, Chaiyaphum Siripanpornchana, Suttipong Thajchayapong, ICCN 2017.</li>
  <li><a href='https://github.com/bigchaindb/bigchaindb'>BigchainDB: a scalable blockchain database</a></li>
 </ol>
 
 #### Smart Contracts
 <ol class='indent'>
- <li>Massimo Bartoletti and Livio Pompianu, <a href='https://arxiv.org/pdf/1703.06322.pdf'>An empirical analysis of smart contracts: platforms, applications, and design patterns</a>.</li>
+ <li><a href='https://arxiv.org/pdf/1703.06322.pdf'>An empirical analysis of smart contracts: platforms, applications, and design patterns</a>, Massimo Bartoletti and Livio Pompianu</li>
 </ol>
 
   
@@ -162,6 +162,6 @@ for Cryptocurrencies</a>, SOSP 2017.</li>
  <li> <a href='https://blockchain.berkeley.edu/'> Blockchain at Berkeley </a> </li>
  <li> <a href='http://nakamotoinstitute.org/'> Satoshi Nakamoto Institute </a> </li>
  <li> <a href='https://www.coursera.org/learn/cryptocurrency'>Coursera course on Bitcoins and Crytocurrencies</a></li>
- <li> <a href='https://github.com/hyperledger/fabric/releases/tag/v0.6.0-preview'>Hyperledger fabric v0.6.0.</li>
+ <li> <a href='https://github.com/hyperledger/fabric/releases/tag/v0.6.0-preview'>Hyperledger fabric v0.6.0.</a></li>
 <li> <a href='https://github.com/hyperledger/fabric/releases/tag/v1.0.0-rc1'>Hyperledger fabric v1.0.0-rc1</a></li>
 <ol>
