@@ -6,7 +6,7 @@ id: "590q18wi"
 ---
 <style>
   tbody, tr, th, td { border: 2px solid black }
-  th { background-color: #aaa }
+  th { background-color: #ddd }
   .indent { padding:10px; }
 	.indent, li {margin-top: 5px} 
 </style>
