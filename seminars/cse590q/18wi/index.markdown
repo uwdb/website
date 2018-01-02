@@ -131,7 +131,7 @@ Please email us if you have any questions or you want to participate but are not
 </ol>
 
 #### Scalability/Performance
-<ol class='indent' start=6>
+<ol class='indent' start='6'>
   <li><a href='http://www.initc3.org/files/Scaling2016.pdf'>On Scaling Decentralized Blockchains (A Position Paper)</a>, K. Croman, C. Decker, I. Eyal, A.E. Gencer, A. Juels, A. Kosba, A. Miller, P. Saxena, E. Shi, E. G. Sirer, D. Song, and R. Wattenhofer. </li>
  <li><a href='https://arxiv.org/abs/1510.02037'>Bitcoin-NG: A Scalable Blockchain Protocol</a>, I. Eyal, A. E. Gencer, E. G. Sirer and R. V. Renesse, NSDI, 2016.</li>
  <li><a href='https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf'>Algorand: Scaling Byzantine Agreements
@@ -142,7 +142,7 @@ for Cryptocurrencies</a>, Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlach
 </ol>
 
 #### Smart Contracts
-<ol class='indent' start=12>
+<ol class='indent' start='12'>
  <li><a href='https://arxiv.org/pdf/1703.06322.pdf'>An empirical analysis of smart contracts: platforms, applications, and design patterns</a>, Massimo Bartoletti and Livio Pompianu</li>
 </ol>
 
