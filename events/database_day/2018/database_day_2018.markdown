@@ -58,7 +58,7 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 **&nbsp;&nbsp;3:30 pm&emsp;** Academic Talks (tentative)
 
-* UW iSchool
+* "Responsible Data Science", Bill Howe (UW iSchool)
 * UW CSE
 * TBD
 
