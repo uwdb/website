@@ -14,7 +14,6 @@ id: "590q18wi"
 ### Blockchains, Cryptocurrencies & Databases
 #### Tuesday, 2:30 - 3:30 PM
 #### CSE 305, Paul G. Allen Center 
-<br>
   
 ### Description
 In this seminar, we will deep dive into blockchain and cryptocurrency technologies, and discuss the new challenges and opportunities it brings to Computer Science system research. Topics to be discussed include the following but are not limited to: system performance & scalability of blockchain transactions, security & system verification of cryptocurrency and blockchain, smart contract,  co-design of blockchain and data management systems, architectural support of cryptocurrency, etc. It is organized as a weekly paper reading and discussion session. We also host invited speakers from Microsoft Research, Uber, and Allen school to discuss their views on some of these topics.
