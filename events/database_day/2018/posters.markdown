@@ -1,17 +1,19 @@
 ---
 layout: page
-title: "NWDS Annual Meeting 2018"
+title: "NWDS Annual Meeting 2018: Posters"
 group: "navigation"
 id: "database_day_2018"
 ---
 
-# NWDS Annual Meeting 2018
+# NWDS Annual Meeting 2018: Posters
 
 
 * Pei Wang, Simon Fraser University
+
     Entity resolution is defined as finding different records that refer to the same real-world entity. We study deep entity resolution (DeepER) which aims to find pairs of records that describe the same entity between a local database and a hidden database. The local database can be accessed freely but the hidden database can only be accessed by a keyword-search query interface. To the best of our knowledge, we are the first to study this problem. We first show that straightforward solutions are inefficient because they fail to exploit the ideas of query sharing and local-database-aware crawling. In response, we propose SMARTC RAWL , a novel framework to overcome the limitations. Given a budget of b queries, SMARTCRAWL first constructs a query pool based on the local database and then iteratively issues b queries to the hidden database such that the union of the query results can cover the maximum number of records in the local database. Finally, it performs entity resolution between the local database and the crawled records. We find that query selection is the most challenging aspect, and we investigate how to select the query with the largest benefit at each iteration. SMARTCRAWL seeks to use a hidden database sample to estimate the query benefit. We propose unbiased estimators as well as biased estimators (with small biases) to achieve this goal, and devise efficient algorithms to implement them. We found that (1) biased estimators are much more effective than unbiased estimators, especially when the sample is small (e.g., 0.1%); (2) SMARTCRAWL is more robust to data errors than straightforward solutions. Experimental results over simulated and real hidden databases show that SMARTCRAWL can cover a large portion of the local database with a small budget, outperforming straightforward solutions by a factor of 2 − 7× in a large variety of situations.
 
 * Jinglin Peng, Simon Fraser University
+
     AQP++: connecting approximate query processing and aggregate precomputation for interactive analytics,"Interactive analytics requires database systems to be able to answer aggregation queries within interactive response times. As theamount of data is continuously growing at an unprecedented rate,this is becoming increasingly challenging. In the past, the database community has proposed twoseparateideas, sampling-based approximate query processing (AQP) and aggregate precomputation(AggPre) such as data cubes, to address this challenge. In this paper, we argue for the need to connect these two separate ideas forinteractive analytics. We propose AQP++, a novel framework to enable the connection. The framework can leverage both a sample as well as a precomputed aggregate to answer user queries.We discuss the advantages of having such a unified framework and identify new challenges to fulfill this vision. We conduct an indepth study of these challenges for range queries and explore both optimaland heuristic solutions to address them. Our experiments using two public benchmarks and one real-world dataset show that AQP++ achieves a more flexible and better trade-off among preprocessing cost, query response time, and answer quality than AQP or AggPre alternatives.
 
 Brandon Haynes,UW,LightDB: A DBMS for Virtual Reality,"We present the data model and architecture of LightDB, a database management 
