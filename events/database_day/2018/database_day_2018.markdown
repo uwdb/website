@@ -25,6 +25,31 @@ Friday, January 5th, 8:30am - 7:00pm.
 
 The Northwest Database Society Annual Meeting brings together researchers and practitioners from the greater Pacific Northwest for a day of technical talks and networking on the broad topic of data management systems.
 
+### **Keynote: "Predictive Interaction," Jeff Heer (UW CSE)**
+
+> How might we architect interactive systems that have better models of the
+> tasks we're trying to perform, help refine ambiguous user intent, and scale
+> to large or repetitive workloads? In this talk I will present Predictive
+> Interaction, a framework for interactive systems that shifts some of the
+> burden of specification from users to algorithms, while preserving human
+> guidance and expressive power. The central idea is to imbue software with
+> domain-specific models of user tasks, which in turn power predictive methods
+> to suggest a variety of possible actions. I will illustrate these concepts
+> with examples drawn from widely-deployed systems for data transformation and
+> visualization (with reported order-of-magnitude productivity gains) and
+> discuss related design considerations and future research directions.
+
+<div class="flex-container people image-container">
+    <div class="flex-item person">
+        <a href='https://homes.cs.washington.edu/~jheer/'>
+            <img src="pictures/heer-square.jpg"/>
+            <p>Jeff Heer</p>
+        </a>
+    </div>
+    <div class="flex-item" style="width: 80%;padding-left: 10px">
+    Jeffrey Heer is an Associate Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, where he conducts research on data visualization, human-computer interaction (HCI), and social computing. The visualization tools developed by his lab and collaborators (Vega, D3.js, Protovis, Prefuse) are used by researchers, companies, and thousands of data enthusiasts around the world. His group's papers have received awards at the premier venues in visualization (IEEE InfoVis, VAST, EuroVis) and HCI (ACM CHI, UIST, CSCW). Other awards include MIT Technology Review's TR35 (2009), a Sloan Foundation Fellowship (2012), the ACM Grace Murray Hopper Award (2016), and the IEEE Visualization Technical Achievement Award (2017). Jeff holds BS, MS and PhD degrees in Computer Science from UC Berkeley, whom he then "betrayed" to join the Stanford faculty from 2009 to 2013. Jeff is also co-founder of Trifacta, a provider of interactive tools for scalable data transformation.
+    </div>
+</div>
 ### **Agenda**:
 
 **&nbsp;&nbsp;8:30 am&emsp;** Registration and coffee/tea
