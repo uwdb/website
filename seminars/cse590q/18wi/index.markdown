@@ -97,8 +97,8 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
   <tr>
     <td>10</td>
     <td>Mar 6</td>
-    <td>TBD</td>
-    <td>TBD</td>
+    <td>Blockchains and Databases</td>
+    <td>Arvind Arasu <br> Microsoft Research </td>
     <td></td>
   </tr> 
 </table>
