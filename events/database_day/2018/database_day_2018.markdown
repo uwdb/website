@@ -25,18 +25,17 @@ Friday, January 5th, 8:30am - 7:00pm.
 
 The Northwest Database Society Annual Meeting brings together researchers and practitioners from the greater Pacific Northwest for a day of technical talks and networking on the broad topic of data management systems.
 
-Keynote speaker: Prof. Jeff Heer, UW CSE
-
 ### **Agenda**:
 
 **&nbsp;&nbsp;8:30 am&emsp;** Registration and coffee/tea
 
-**&nbsp;&nbsp;9:00 am&emsp;** Keynote talk by Prof. Jeff Heer
-* "Predictive Interaction"
+**&nbsp;&nbsp;8:55 am&emsp;** Introduction (Magda Balazinska, UW CSE)
+
+**&nbsp;&nbsp;9:00 am&emsp;** Keynote talk: "Predictive Interaction," Jeff Heer (UW CSE)
 
 **10:00 am&emsp;** Break
 
-**10:30 am&emsp;** Academic Talks (tentative)
+**10:30 am&emsp;** Academic Talks (Session chair: Dan Suciu) 
 
 * Introductory Lightning Talks (Portland State, Evergreen State College, UW Tacoma, Seattle U, UW Bothell)
 * "Data Heterogeneity," Arash Termehchy (Oregon State University)
@@ -47,7 +46,7 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 **12:00 pm&emsp;** Lunch
 
-**&nbsp;&nbsp;1:30 pm&emsp;** Industrial Talks (tentative)
+**&nbsp;&nbsp;1:30 pm&emsp;** Industrial Talks (Session chair: Alvin Cheung)
 
 * Introductory Lightning Talks (Google, Qumulo, Teradata, Huawei, Tableau)
 * "Visual Data Management System," Vishakha Gupta-Cledat (Intel)
@@ -57,11 +56,11 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 
 **&nbsp;&nbsp;3:00 pm&emsp;** Break
 
-**&nbsp;&nbsp;3:30 pm&emsp;** Academic Talks (tentative)
+**&nbsp;&nbsp;3:30 pm&emsp;** Academic Talks (Session chair: Magda Balazinska)
 
-* "Responsible Data Science", Bill Howe (UW iSchool)
-* UW CSE
-* TBD
+* "Responsible Data Science," Bill Howe (UW iSchool)
+* "Towards Self-Generating Database Systems," Alvin Cheung (UW CSE)
+* "LightDB: A DBMS for Virtual Reality," Brandon Haynes (UW CSE)
 
 **&nbsp;&nbsp;4:30 pm&emsp;** Posters
 
