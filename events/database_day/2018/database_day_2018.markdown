@@ -87,7 +87,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 * "Towards Application-Specific Database Systems," Alvin Cheung (UW CSE)
 * "LightDB: A DBMS for Virtual Reality," Brandon Haynes (UW CSE)
 
-**&nbsp;&nbsp;4:30 pm&emsp;** Posters
+**&nbsp;&nbsp;4:30 pm&emsp;** [Poster session](posters.html)
 
 **&nbsp;&nbsp;5:30 pm&emsp;** Reception
 
