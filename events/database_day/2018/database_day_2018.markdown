@@ -32,6 +32,7 @@ Keynote speaker: Prof. Jeff Heer, UW CSE
 **&nbsp;&nbsp;8:30 am&emsp;** Registration and coffee/tea
 
 **&nbsp;&nbsp;9:00 am&emsp;** Keynote talk by Prof. Jeff Heer
+* "Predictive Interaction"
 
 **10:00 am&emsp;** Break
 
