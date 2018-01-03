@@ -169,3 +169,5 @@ ambiguities via conversations with the users.
 * Leilani Battle, University of Washington, Generalizing Behavior-Driven Optimizations for Visual Analytics
 
     Exploration is a critical phase of the data analysis process, where users (i.e., researchers, analysts and data scientists) aim to make sense of new and unfamiliar datasets, often through the use of a visual analytics system (i.e., Tableau). However as datasets continue to grow rapidly in size and complexity, users struggle to explore their data at interactive speeds. Optimization techniques such as caching and predictive data pre-fetching have shown promise in improving visual exploration performance, however only in limited contexts. In this work, we propose to generalize and extend existing techniques to support large-scale data exploration through common (but sophisticated) visual analytics interfaces. We will present the design of and preliminary findings for an ongoing user study, and provide a high-level overview of our proposed optimization approach.
+
+[Back to the event page](database_day_2018.html)
