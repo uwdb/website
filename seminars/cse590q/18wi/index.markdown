@@ -84,7 +84,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
   <tr>
     <td>5</td>
     <td>Feb 6</td>
-    <td>TBD</td>
+    <td>Scalability & Performance</td>
    <td>
     <a href='http://sophiawang.org/'>Sophia Wang</a> <br> 
     Uber
@@ -168,6 +168,10 @@ for Cryptocurrencies</a>, Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlach
 #### Smart Contracts
 <ol class='indent' start='12'>
  <li><a href='https://arxiv.org/pdf/1703.06322.pdf'>An empirical analysis of smart contracts: platforms, applications, and design patterns</a>, Massimo Bartoletti and Livio Pompianu</li>
+ <li><a href='https://lightning.network/lightning-network-paper.pdf'>The Bitcoin Lightning Network:
+Scalable Off-Chain Instant Payments</a>, Joseph Poon and
+Thaddeus Dryja</li>
+<li> <a href='http://solidity.readthedocs.io/en/latest/'>The Solidity Language for Smart Contract</a></li>
 </ol>
 
   
