@@ -90,8 +90,8 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
   <tr>
     <td>9</td>
     <td>Feb 27</td>
-    <td>Blockchains and Databases</td>
-    <td>TBD</td>
+    <td>Probabilistic Proofs, Zero Knowledge Proofs on Blockchains</td>
+    <td>Srinath Setty <br> Microsoft Research</td>
     <td></td>
   </tr>
   <tr>
