@@ -17,7 +17,9 @@ Seattle, WA 98195
 
 [Directions to the venue](https://depts.washington.edu/thehub/home/directions/)
 
-[Parking information](https://facilities.uw.edu/transportation/park) (tell the gate attendant that you will be heading to the Husky Union Building and you will be directed to the nearest parking lot)
+[Parking information](https://facilities.uw.edu/transportation/park) (tell the gate attendant that you will be heading to the Husky Union Building and you will be directed)
+
+Wifi will be available to participants.
 
 ### **When**: 
 
