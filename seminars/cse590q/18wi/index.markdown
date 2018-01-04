@@ -31,21 +31,28 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>1</td>  
     <td>Jan 4</td>
     <td><a href='https://www.cs.washington.edu/events/colloquia/details?id=2993'>New games, new markets: the science of cryptocurrencies and incentives</a><br> *Unusual Timing: Thursday, 3:30 PM at EEB-105*</td>
-    <td>Arvind Narayanan<br> Princeton University</td>
+    <td>
+     <a href='http://randomwalker.info/'>Arvind Narayanan</a> <br> 
+     Princeton University</td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>  
     <td>Jan 9</td>
     <td>Preliminaries <br> Introduction to Bitcoin/Cryptocurrencies</td>
-    <td>Shumo Chu<br> University of Washington</td>
+    <td>
+     <a href='http://shumochu.com/'>Shumo Chu</a> <br> 
+     University of Washington</td>
     <td><a href='http://bitcoinbook.cs.princeton.edu'>[B1 Chapter 1]</a></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Jan 16</td> 
     <td>Introduction to Blockchain</td>
-    <td>Guna Prasaad<br>University of Washington</td>
+   <td> 
+    <a href='https://homes.cs.washington.edu/~guna/'>Guna Prasaad </a> <br>
+    University of Washington
+   </td>
    <td>
     <a href='http://bitcoinbook.cs.princeton.edu'>[B1 Chapter 2]</a>
     <a href=''>[P1]</a>
@@ -70,14 +77,19 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>6</td>
     <td>Feb 6</td>
     <td>TBD</td>
-    <td>Sophia Wang <br> Uber</td>  
-    <td></td>
+   <td>
+    <a href='http://sophiawang.org/'>Sophia Wang</a> <br> 
+    Uber
+   </td>  
+   <td></td>
   </tr>
   <tr>
     <td>7</td>
     <td>Feb 13</td>
     <td>Architectural Support</td>
-    <td>Michael Taylor <br> University of Washington</td>
+    <td>
+     <a href='https://www.cs.washington.edu/people/faculty/profmbt'>Michael Taylor</a> <br> 
+     University of Washington</td>
     <td></td>
   </tr>
   <tr>
@@ -91,14 +103,18 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>9</td>
     <td>Feb 27</td>
     <td>Probabilistic Proofs, Zero Knowledge Proofs on Blockchains</td>
-    <td>Srinath Setty <br> Microsoft Research</td>
+    <td> 
+     <a href='https://www.microsoft.com/en-us/research/people/srinath/'>Srinath Setty</a> <br> 
+      Microsoft Research</td>
     <td></td>
   </tr>
   <tr>
     <td>10</td>
     <td>Mar 6</td>
     <td>Blockchains and Databases</td>
-    <td>Arvind Arasu <br> Microsoft Research </td>
+    <td>
+     <a href='https://www.microsoft.com/en-us/research/people/arvinda/'>Arvind Arasu</a> <br> 
+     Microsoft Research </td>
     <td></td>
   </tr> 
 </table>
