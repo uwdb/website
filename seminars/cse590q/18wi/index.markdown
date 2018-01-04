@@ -43,20 +43,28 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>
      <a href='http://shumochu.com/'>Shumo Chu</a> <br> 
      University of Washington</td>
-    <td><a href='http://bitcoinbook.cs.princeton.edu'>[B1 Chapter 1]</a></td>
+    <td>
+     <a href='http://bitcoinbook.cs.princeton.edu'>[B1 Chapter 1]</a>
+     <a href='https://docs.google.com/presentation/d/15Y-kCduAYVCqZA97B4o0zcPFa42N4PEs-uPBJu58E2g/edit?amp;authuser=0#slide=id.p'>[Slides]</a>
+   </td>
   </tr>
   <tr>
     <td>3</td>
     <td>Jan 16</td> 
-    <td>Introduction to Blockchain</td>
+    <td>
+     Introduction to Blockchain <br>
+     Mechanics of Bitcoins
+   </td>
    <td> 
     <a href='https://homes.cs.washington.edu/~guna/'>Guna Prasaad </a> <br>
     University of Washington
    </td>
    <td>
     <a href='http://bitcoinbook.cs.princeton.edu'>[B1 Chapter 2]</a>
-    <a href=''>[P1]</a>
-    <a href=''>[P2]</a>
+    <a href='https://bitcoin.org/bitcoin.pdf'>[P1]</a>
+    <a href='https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world'>[P2]</a>
+    <a href='https://docs.google.com/presentation/d/1CmM2wU4UPtGLtCDOTUxgx-nZHjrFZCmaiGNy8qrkGZ8/edit#slide=id.p4'>[Slides 1]</a>
+    <a href='https://docs.google.com/presentation/d/1v-6kWSvr08yBcdMG1MJMuLBQdCx6fahuwM6sRjI2Tjk/edit#slide=id.p'>[Slides 2</a>
    </td>
   </tr>
   <tr>
