@@ -15,7 +15,9 @@ University of Washington, Seattle
 4001 E Stevens Way NE  
 Seattle, WA 98195
 
-Directions: [https://depts.washington.edu/thehub/home/directions/](https://depts.washington.edu/thehub/home/directions/)
+[Directions to the venue](https://depts.washington.edu/thehub/home/directions/)
+
+[Parking information](https://facilities.uw.edu/transportation/park) (tell the gate attendant that you will be heading to the Husky Union Building and you will be directed to the nearest parking lot)
 
 ### **When**: 
 
