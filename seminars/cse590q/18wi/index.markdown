@@ -46,7 +46,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>
      <a href='https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world'>[P1]</a>
      <a href='http://bitcoinbook.cs.princeton.edu'>[B1 Chapter 1]</a>
-     <a href='https://docs.google.com/presentation/d/15Y-kCduAYVCqZA97B4o0zcPFa42N4PEs-uPBJu58E2g/edit?amp;authuser=0#slide=id.p'>[Slides]</a>
+     <a href='https://docs.google.com/presentation/d/1VqtKL0BNiPp15HlJu4aKmA9kIkML_on_iuXSJFdIpLM/edit?usp=sharing'>[Slides]</a>
    </td>
   </tr>
   <tr>
