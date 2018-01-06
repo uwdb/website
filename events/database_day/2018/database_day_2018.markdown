@@ -69,7 +69,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 * Introductory Lightning Talks (Portland State, Evergreen State College, UW Tacoma, Seattle U, UW Bothell)
 * "Handling Heterogeneity in Representation, Communication, and Context," Arash Termehchy (Oregon State University)
 * "Understanding and Exploring: Schemas, Recommendations, and Provenance," Rachel Pottinger (University of British Columbia)
-* "Speeding Up Data Science: From a Data Management Perspective," Jiannan Wang (Simon Fraser University)
+* [Speeding Up Data Science: From a Data Management Perspective](slides/jiannan.pdf), Jiannan Wang (Simon Fraser University)
 * "Improved Practical Efficiency for Misinformation Prevention in Social Networks," Michael Simpson (University of Victoria)
 
 
