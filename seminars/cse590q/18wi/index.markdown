@@ -169,11 +169,9 @@ for Cryptocurrencies</a>, Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlach
 <ol class='indent' start='12'>
 <li> <a href='http://solidity.readthedocs.io/en/latest/'>The Solidity Language for Smart Contract</a></li>
 <li><a href="https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md">Guide to Ethereum Virtual Machine</li>
- <li><a href='https://arxiv.org/pdf/1703.06322.pdf'>An empirical analysis of smart contracts: platforms, applications, and design patterns</a>, Massimo Bartoletti and Livio Pompianu</li>
- <li><a href='https://lightning.network/lightning-network-paper.pdf'>The Bitcoin Lightning Network:
-Scalable Off-Chain Instant Payments</a>, Joseph Poon and
-Thaddeus Dryja</li>
-</ol>
+<li><a href='https://arxiv.org/pdf/1703.06322.pdf'>An empirical analysis of smart contracts: platforms, applications, and design patterns</a>, Massimo Bartoletti and Livio Pompianu</li>
+<li><a href='https://lightning.network/lightning-network-paper.pdf'>The Bitcoin Lightning Network:
+Scalable Off-Chain Instant Payments</a>, Joseph Poon and Thaddeus Dryja</li></ol>
 
 #### Architectural Support
 <ol class='indent' start='15'>
@@ -197,6 +195,6 @@ Hardware</a>, Michael Taylor</li>
  <li> <a href='https://blockchain.berkeley.edu/'> Blockchain at Berkeley </a> </li>
  <li> <a href='http://nakamotoinstitute.org/'> Satoshi Nakamoto Institute </a> </li>
  <li> <a href='https://www.coursera.org/learn/cryptocurrency'>Coursera course on Bitcoins and Crytocurrencies</a></li>
- <li> <a href='https://github.com/hyperledger/fabric/releases/tag/v0.6.0-preview'>Hyperledger fabric v0.6.0.</a></li>
+<li> <a href='https://github.com/hyperledger/fabric/releases/tag/v0.6.0-preview'>Hyperledger fabric v0.6.0.</a></li>
 <li> <a href='https://github.com/hyperledger/fabric/releases/tag/v1.0.0-rc1'>Hyperledger fabric v1.0.0-rc1</a></li>
 <ol>
