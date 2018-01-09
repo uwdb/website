@@ -70,14 +70,14 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
   <tr>
     <td>3</td>
     <td>Jan 23</td>
-    <td>Scalability & Performance </td>
+    <td>Smart Contract: Language and Execution</td>
     <td>TBD</td>
     <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>Jan 30</td>
-    <td>Security and Verification</td>
+    <td>Scalability & Performance</td>
     <td>TBD</td>
     <td></td>
   </tr>
@@ -103,7 +103,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
   <tr>
     <td>7</td>
     <td>Feb 20</td>
-    <td>Smart Contracts</td>
+    <td>Security and Verification</td>
     <td>TBD</td>
     <td></td>
   </tr> 
@@ -167,11 +167,12 @@ for Cryptocurrencies</a>, Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlach
 
 #### Smart Contracts
 <ol class='indent' start='12'>
+<li> <a href='http://solidity.readthedocs.io/en/latest/'>The Solidity Language for Smart Contract</a></li>
+<li><a href="https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md">Guide to Ethereum Virtual Machine</li>
  <li><a href='https://arxiv.org/pdf/1703.06322.pdf'>An empirical analysis of smart contracts: platforms, applications, and design patterns</a>, Massimo Bartoletti and Livio Pompianu</li>
  <li><a href='https://lightning.network/lightning-network-paper.pdf'>The Bitcoin Lightning Network:
 Scalable Off-Chain Instant Payments</a>, Joseph Poon and
 Thaddeus Dryja</li>
-<li> <a href='http://solidity.readthedocs.io/en/latest/'>The Solidity Language for Smart Contract</a></li>
 </ol>
 
 #### Architectural Support
