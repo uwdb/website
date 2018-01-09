@@ -173,6 +173,7 @@ for Cryptocurrencies</a>, Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlach
 <li><a href='https://lightning.network/lightning-network-paper.pdf'>The Bitcoin Lightning Network:
 Scalable Off-Chain Instant Payments</a>, Joseph Poon and Thaddeus Dryja</li></ol>
 
+
 #### Architectural Support
 <ol class='indent' start='15'>
  <li><a href='http://cseweb.ucsd.edu/~mbtaylor/papers/Taylor_Bitcoin_IEEE_Computer_2017.pdf'>
