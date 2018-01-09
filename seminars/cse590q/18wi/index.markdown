@@ -171,7 +171,8 @@ for Cryptocurrencies</a>, Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlach
 <li><a href="https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md">Guide to Ethereum Virtual Machine</li>
 <li><a href='https://arxiv.org/pdf/1703.06322.pdf'>An empirical analysis of smart contracts: platforms, applications, and design patterns</a>, Massimo Bartoletti and Livio Pompianu</li>
 <li><a href='https://lightning.network/lightning-network-paper.pdf'>The Bitcoin Lightning Network:
-Scalable Off-Chain Instant Payments</a>, Joseph Poon and Thaddeus Dryja</li></ol>
+Scalable Off-Chain Instant Payments</a>, Joseph Poon and Thaddeus Dryja</li>
+</ol>
 
 
 #### Architectural Support
