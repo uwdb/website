@@ -175,7 +175,7 @@ Scalable Off-Chain Instant Payments</a>, Joseph Poon and Thaddeus Dryja</li></ol
 
 
 #### Architectural Support
-<ol class='indent' start='15'>
+<ol class='indent' start='16'>
  <li><a href='http://cseweb.ucsd.edu/~mbtaylor/papers/Taylor_Bitcoin_IEEE_Computer_2017.pdf'>
  The Evolution of Bitcoin
 Hardware</a>, Michael Taylor</li>
