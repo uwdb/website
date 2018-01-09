@@ -23,56 +23,31 @@ We thank our partners for supporting NWDS:
 ---
 
 ##  Upcoming Talks
-
-<p><a name="Neal_Fachan_12_08_17"></a>
-<strong>Speaker</strong>: Neal Fachan</p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.</p>
-
-<p><strong>When</strong>: 
-Friday, December 8, 2017.</p>
-
-<p><strong>Title</strong>:
-Building a Distributed, Protected and Transactional Block Store 
-</p>
-
-<p><strong>Abstract</strong>: (coming soon)
-</p>
-
-<p><strong>Bio</strong>:
-Neal Fachan is a co-founder and Chief Scientist at Qumulo. He brings 20 years of systems software experience to Qumulo. At Amazon Web Services, he designed and led development of advanced database technologies. Prior to Amazon, Neal was Distinguished Engineer at Isilon, where he provided technical vision for Isilon’s award-winning OneFS clustered file system, resulting in more than thirty patented technologies. Prior to Isilon, Neal worked in the Third Market group at D. E. Shaw. Neal holds a degree in Math and Computer Science from the University of New Mexico.
-</p>
-
----
-
-<p><a name="Oliver_Kennedy_12_11_17"></a>
-<strong>Speaker</strong>: Oliver Kennedy</p>
+<p><a name="Ashwin_Machanavajjhala_01_19_18"></a>
+<strong>Speaker</strong>: <a href="https://users.cs.duke.edu/~ashwin">Ashwin Machanavajjhala</a></p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Computer Science and Engineering Department.<br>
-Paul Allen Center, CSE 305.</p>
+Paul Allen Center, Gates Commons.</p>
 
 <p><strong>When</strong>: 
-Monday, December 11, 2017.</p>
+Friday, January 19, 2018.</p>
 
 <p><strong>Title</strong>:
-Reliably Managing Unreliable Data 
+Differential Privacy in the wild: From theory to practice to systems
 </p>
 
-<p><strong>Abstract</strong>: 
-We've all seen news articles where data errors have severe implications on the real world, like a 12-year old being labeled a terrorist by "the system" and denied boarding on a flight with his parents.  Heuristic guesses like this are often treated as facts because databases simply have no better way of representing them. In this talk, I outline our efforts to make uncertain data management easier through a probabilistic database system called Mimir. First, I will outline how rethinking uncertainty as a form of provenance metadata 
-facilitates more natural and more efficient interactions with the database. Then, I will introduce Mimir's declarative approach to uncertainty in data, which allows it to decouple query processing from from more mechanical concerns like how to present uncertainty in query results, or which algorithms to use.
-</p>
+<p><strong>Abstract</strong>:
+Ensuring privacy of individual-level data is an important consideration for data-driven applications. Differential privacy, a provable property of certain algorithms, has emerged as a gold standard for exploring the tradeoffs between the privacy ensured to individuals, and the utility of statistical insights mined from the data. In this context, differential privacy is beginning to be adopted by certain commercial (e.g., Google and Apple) and government entities (e.g., US Census) for collecting and sharing sensitive user data. However, deployment of differential privacy is extremely challenging and requires teams of privacy experts.  It is currently challenging for privacy non-experts to easily author differentially-private algorithms due to a lack of reference implementations and benchmarks. Moreover, every application has different privacy requirements making the privacy goal a moving target. </p>
+
 <p>
-This work is supported by NSF Award ACI-1640864, NPS Award #N00244-16-1-0022, and gifts from Oracle.
+In this talk, I will highlight research from our group that tackles the challenge of making differential privacy work for privacy non-experts and real data science workflows. I will describe system tools that we have been building to help accelerate the design of differentially private algorithms for the task of answering queries over relational databases. I will also introduce methods to specify new privacy notions for emerging applications, and a transformation equivalence result that helps reduce the problem of designing algorithms for these new privacy notions to the problem of differentially private algorithm design.
 </p>
+
 
 <p><strong>Bio</strong>:
-Oliver Kennedy has been an assistant professor at the University at Buffalo, SUNY since 2012.  He earned his PhD from Cornell University in 2011.  Oliver's Online Data Interactions (ODIn) lab operates at the intersection of database and programming language techniques.  The ODIn lab is currently exploring issues related to the usability of uncertain data management systems, making index structures adapt to changing workloads, and modeling SQL workloads.
+Ashwin Machanavajjhala is an Assistant Professor in the Department of Computer Science, Duke University and an Associate Director at the Information Initiative@Duke (iiD). Previously, he was a Senior Research Scientist in the Knowledge Management group at Yahoo! Research. His primary research interests lie in algorithms for ensuring privacy in statistical databases and augmented reality applications. He is a recipient of a 2017 IEEE Influential paper award for the invention of L-diversity in 2006, the National Science Foundation Faculty Early CAREER award in 2013, and the 2008 ACM SIGMOD Jim Gray Dissertation Award Honorable Mention. In collaboration with the US Census Bureau, he is credited with developing the first differentially private deployment in a real-world system. Ashwin graduated with a Ph.D. from the Department of Computer Science, Cornell University and a B.Tech in Computer Science and Engineering from the Indian Institute of Technology, Madras.
 </p>
-
 
 ---
 
@@ -82,7 +57,9 @@ Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past
 
 #### Fall 2017
 
-* [Gerome Miklau](http://people.cs.umass.edu/~miklau/) [[abstract](past_talks.html#Gerome_Miklau_11_17_17)] 
+* [Oliver Kennedy](https://odin.cse.buffalo.edu/people/oliver_kennedy.html), University at Buffalo [[abstract](past_talks.html#Oliver_Kennedy_12_11_17)]
+* Neal Fachan [[abstract](past_talks.html#Neal_Fachan_12_08_17)], Qumulo
+* [Gerome Miklau](http://people.cs.umass.edu/~miklau/), University of Massachusetts Amherst [[abstract](past_talks.html#Gerome_Miklau_11_17_17)] 
 
 #### Spring 2017
 

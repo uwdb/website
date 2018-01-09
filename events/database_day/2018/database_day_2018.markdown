@@ -68,9 +68,9 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 * Introductory Lightning Talks (Portland State, Evergreen State College, UW Tacoma, Seattle U, UW Bothell)
 * "Handling Heterogeneity in Representation, Communication, and Context," Arash Termehchy (Oregon State University)
-* "Understanding and Exploring: Schemas, Recommendations, and Provenance," Rachel Pottinger (University of British Columbia)
+* [Understanding and Exploring: Schemas, Recommendations, and Provenance](slides/rachel.pdf), Rachel Pottinger (University of British Columbia)
 * [Speeding Up Data Science: From a Data Management Perspective](slides/jiannan.pdf), Jiannan Wang (Simon Fraser University)
-* "Improved Practical Efficiency for Misinformation Prevention in Social Networks," Michael Simpson (University of Victoria)
+* [Improved Practical Efficiency for Misinformation Prevention in Social Networks](slides/michael.pdf), Michael Simpson (University of Victoria)
 
 
 **12:00 pm&emsp;** Lunch
@@ -88,7 +88,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 **&nbsp;&nbsp;3:30 pm&emsp;** Academic Talks (Session chair: Magda Balazinska)
 
 * "Responsible Data Science," Bill Howe (UW iSchool)
-* "Towards Application-Specific Database Systems," Alvin Cheung (UW CSE)
+* [Towards Application-Specific Database Systems](slides/alvin.pdf), Alvin Cheung (UW CSE)
 * "LightDB: A DBMS for Virtual Reality," Brandon Haynes (UW CSE)
 
 **&nbsp;&nbsp;4:30 pm&emsp;** [Poster session](posters.html)
