@@ -57,11 +57,9 @@ Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past
 
 #### Fall 2017
 
-* [Gerome Miklau](http://people.cs.umass.edu/~miklau/) [[abstract](past_talks.html#Gerome_Miklau_11_17_17)] 
-
-* Neal Fachan [[abstract](past_talks.html#Neal_Fachan_12_08_17)]
-
 * [Oliver Kennedy](https://odin.cse.buffalo.edu/people/oliver_kennedy.html) [[abstract](past_talks.html#Oliver_Kennedy_12_11_17)]
+* Neal Fachan [[abstract](past_talks.html#Neal_Fachan_12_08_17)]
+* [Gerome Miklau](http://people.cs.umass.edu/~miklau/) [[abstract](past_talks.html#Gerome_Miklau_11_17_17)] 
 
 #### Spring 2017
 
