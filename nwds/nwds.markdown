@@ -31,7 +31,7 @@ Computer Science and Engineering Department.<br>
 Paul Allen Center, Gates Commons.</p>
 
 <p><strong>When</strong>: 
-Friday, January 19, 2018.</p>
+Friday, January 19, 2018, 2:30pm-3:30pm</p>
 
 <p><strong>Title</strong>:
 Differential Privacy in the wild: From theory to practice to systems
