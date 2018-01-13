@@ -55,6 +55,10 @@ Ashwin Machanavajjhala is an Assistant Professor in the Department of Computer S
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
 
+#### Winter 2018
+
+* [NWDS Annual Meeting](http://db.cs.washington.edu/events/database_day/2018/database_day_2018.html)
+
 #### Fall 2017
 
 * [Oliver Kennedy](https://odin.cse.buffalo.edu/people/oliver_kennedy.html), University at Buffalo [[abstract](past_talks.html#Oliver_Kennedy_12_11_17)]
