@@ -89,7 +89,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 * "Responsible Data Science," Bill Howe (UW iSchool)
 * [Towards Application-Specific Database Systems](slides/alvin.pdf), Alvin Cheung (UW CSE)
-* "LightDB: A DBMS for Virtual Reality," Brandon Haynes (UW CSE)
+* [LightDB: A DBMS for Virtual Reality](slides/lightdb-haynes.pdf), Brandon Haynes (UW CSE)
 
 **&nbsp;&nbsp;4:30 pm&emsp;** [Poster session](posters.html)
 
