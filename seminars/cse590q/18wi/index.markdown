@@ -64,7 +64,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
    <td>
     <a href='http://bitcoinbook.cs.princeton.edu'>[B1 Chapters 2, 3]</a>
     <a href='https://bitcoin.org/bitcoin.pdf'>[P1]</a>
-    <a href='https://homes.cs.washington.edu/~guna/assets/MechanicsBitcoinsBlockchains.pptx'> [Slides]
+    <a href='https://homes.cs.washington.edu/~guna/assets/MechanicsBitcoinsBlockchains.pptx'> [Slides] </a>
     <a href='https://www.youtube.com/watch?v=3rDei8f8yEA'> [Video] </a>
    </td>
   </tr>
