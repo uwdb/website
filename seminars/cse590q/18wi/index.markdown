@@ -72,8 +72,8 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>3</td>
     <td>Jan 23</td>
     <td>Smart Contract: Language and Execution</td>
-    <td>TBD</td>
-    <td></td>
+    <td><a href='https://www.linkedin.com/in/dylanhutchison/'>Dylan Hutchison</a></td>
+    <td>University of Washington</td>
   </tr>
   <tr>
     <td>4</td>
@@ -169,6 +169,7 @@ for Cryptocurrencies</a>, Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlach
 #### Smart Contracts
 <ol class='indent' start='12'>
 <li><a href='http://solidity.readthedocs.io/en/latest/'>The Solidity Language for Smart Contract</a></li>
+<li><a herf='https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial'> Ethereum Development Tutorial</a></li>
 <li><a href='https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md'>Guide to Ethereum Virtual Machine</a></li>
 <li><a href='https://arxiv.org/pdf/1703.06322.pdf'>An empirical analysis of smart contracts: platforms, applications, and design patterns</a>, Massimo Bartoletti and Livio Pompianu</li>
 <li><a href='https://lightning.network/lightning-network-paper.pdf'>The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments</a>, Joseph Poon and Thaddeus Dryja</li>
