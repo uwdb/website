@@ -66,14 +66,15 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <a href='https://bitcoin.org/bitcoin.pdf'>[P1]</a>
     <a href='https://docs.google.com/presentation/d/1CmM2wU4UPtGLtCDOTUxgx-nZHjrFZCmaiGNy8qrkGZ8/edit#slide=id.p4'>[Slides 1]</a>
     <a href='https://docs.google.com/presentation/d/1v-6kWSvr08yBcdMG1MJMuLBQdCx6fahuwM6sRjI2Tjk/edit#slide=id.p'>[Slides 2]</a>
+    <a href='https://www.youtube.com/watch?v=3rDei8f8yEA'> [Video] </a>
    </td>
   </tr>
   <tr>
     <td>3</td>
     <td>Jan 23</td>
     <td>Smart Contract: Language and Execution</td>
-    <td><a href='https://www.linkedin.com/in/dylanhutchison/'>Dylan Hutchison</a></td>
-    <td>University of Washington</td>
+    <td><a href='https://www.linkedin.com/in/dylanhutchison/'>Dylan Hutchison</a><br> University of Washington </td>
+    <td></td>
   </tr>
   <tr>
     <td>4</td>
