@@ -31,7 +31,7 @@ Computer Science and Engineering Department.<br>
 Paul Allen Center, Gates Commons.</p>
 
 <p><strong>When</strong>: 
-Friday, January 19, 2018.</p>
+Friday, January 19, 2018, 2:30pm-3:30pm</p>
 
 <p><strong>Title</strong>:
 Differential Privacy in the wild: From theory to practice to systems
@@ -54,6 +54,10 @@ Ashwin Machanavajjhala is an Assistant Professor in the Department of Computer S
 ##  Past Talks
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
+
+#### Winter 2018
+
+* [NWDS Annual Meeting](http://db.cs.washington.edu/events/database_day/2018/database_day_2018.html)
 
 #### Fall 2017
 

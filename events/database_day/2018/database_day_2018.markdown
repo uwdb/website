@@ -66,7 +66,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **10:30 am&emsp;** Academic Talks (Session chair: Dan Suciu) 
 
-* Introductory Lightning Talks (Portland State, Evergreen State College, UW Tacoma, Seattle U, UW Bothell)
+* [Academic Lightning Talks](slides/NWDS-2018-Academics-Short.pdf) (Portland State, Evergreen State College, UW Tacoma, Seattle U, UW Bothell)
 * "Handling Heterogeneity in Representation, Communication, and Context," Arash Termehchy (Oregon State University)
 * [Understanding and Exploring: Schemas, Recommendations, and Provenance](slides/rachel.pdf), Rachel Pottinger (University of British Columbia)
 * [Speeding Up Data Science: From a Data Management Perspective](slides/jiannan.pdf), Jiannan Wang (Simon Fraser University)
@@ -77,9 +77,9 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **&nbsp;&nbsp;1:30 pm&emsp;** Industrial Talks (Session chair: Alvin Cheung)
 
-* Introductory Lightning Talks (Google, Qumulo, Teradata, Huawei, Tableau)
+* [Industrial Lightning Talks](slides/NWDS-2018-Industrial-Short.pdf) (Google, Qumulo, Teradata, Huawei, Tableau)
 * "Visual Data Management System," Vishakha Gupta-Cledat (Intel)
-* "Challenges and Innovations in Building a Product Knowledge Graph," Luna Dong (Amazon)
+* [Challenges and Innovations in Building a Product Knowledge Graph](slides/luna_productgraph.pdf), Luna Dong (Amazon)
 * "DB Group Overview," Jonathan Goldstein (Microsoft)
 * "Databases as source of data for Machine Learning," Kestutis Patiejunas (Facebook)
 
@@ -89,7 +89,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 * "Responsible Data Science," Bill Howe (UW iSchool)
 * [Towards Application-Specific Database Systems](slides/alvin.pdf), Alvin Cheung (UW CSE)
-* "LightDB: A DBMS for Virtual Reality," Brandon Haynes (UW CSE)
+* [LightDB: A DBMS for Virtual Reality](slides/lightdb-haynes.pdf), Brandon Haynes (UW CSE)
 
 **&nbsp;&nbsp;4:30 pm&emsp;** [Poster session](posters.html)
 
