@@ -60,7 +60,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **&nbsp;&nbsp;8:55 am&emsp;** Introduction (Magda Balazinska, UW CSE)
 
-**&nbsp;&nbsp;9:00 am&emsp;** Keynote talk: "Predictive Interaction," Jeff Heer (UW CSE)
+**&nbsp;&nbsp;9:00 am&emsp;** Keynote talk: [Predictive Interaction](slides/heer.pdf), Jeff Heer (UW CSE)
 
 **10:00 am&emsp;** Break
 
