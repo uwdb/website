@@ -78,7 +78,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 **&nbsp;&nbsp;1:30 pm&emsp;** Industrial Talks (Session chair: Alvin Cheung)
 
 * [Industrial Lightning Talks](slides/NWDS-2018-Industrial-Short.pdf) (Google, Qumulo, Teradata, Huawei, Tableau)
-* "Visual Data Management System," Vishakha Gupta-Cledat (Intel)
+* [Visual Data Management System](slides/vishakha.pdf), Vishakha Gupta-Cledat (Intel)
 * [Challenges and Innovations in Building a Product Knowledge Graph](slides/luna_productgraph.pdf), Luna Dong (Amazon)
 * "DB Group Overview," Jonathan Goldstein (Microsoft)
 * "Databases as source of data for Machine Learning," Kestutis Patiejunas (Facebook)
