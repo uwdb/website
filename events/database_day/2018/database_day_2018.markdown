@@ -60,7 +60,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **&nbsp;&nbsp;8:55 am&emsp;** Introduction (Magda Balazinska, UW CSE)
 
-**&nbsp;&nbsp;9:00 am&emsp;** Keynote talk: "Predictive Interaction," Jeff Heer (UW CSE)
+**&nbsp;&nbsp;9:00 am&emsp;** Keynote talk: [Predictive Interaction](slides/heer.pdf), Jeff Heer (UW CSE)
 
 **10:00 am&emsp;** Break
 
@@ -78,7 +78,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 **&nbsp;&nbsp;1:30 pm&emsp;** Industrial Talks (Session chair: Alvin Cheung)
 
 * [Industrial Lightning Talks](slides/NWDS-2018-Industrial-Short.pdf) (Google, Qumulo, Teradata, Huawei, Tableau)
-* "Visual Data Management System," Vishakha Gupta-Cledat (Intel)
+* [Visual Data Management System](slides/vishakha.pdf), Vishakha Gupta-Cledat (Intel)
 * [Challenges and Innovations in Building a Product Knowledge Graph](slides/luna_productgraph.pdf), Luna Dong (Amazon)
 * "DB Group Overview," Jonathan Goldstein (Microsoft)
 * "Databases as source of data for Machine Learning," Kestutis Patiejunas (Facebook)
