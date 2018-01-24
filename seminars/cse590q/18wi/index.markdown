@@ -74,13 +74,18 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>Jan 23</td>
     <td>Smart Contract: Language and Execution</td>
     <td><a href='https://www.linkedin.com/in/dylanhutchison/'>Dylan Hutchison</a><br> University of Washington </td>
-    <td></td>
+    <td>
+    <a href='https://docs.google.com/presentation/d/16D2lZEEf5MguQYl1bPAhL6ndKuAFAkqIt2uUTr0Tstk/edit?usp=sharing'> [Slides] </a> 
+    <a href='https://www.youtube.com/watch?v=GMYkt7Rhmcg'> [Video]</a>
+    </td>
   </tr>
   <tr>
     <td>4</td>
     <td>Jan 30</td>
-    <td>Scalability & Performance</td>
-    <td>TBD</td>
+    <td>Scalability & Performance of Blockchain</td>
+    <td><a href='https://homes.cs.washington.edu/~congy/'>Cong Yan</a><br>
+    University of Washington
+    </td>
     <td></td>
   </tr>
   <tr>
@@ -105,8 +110,10 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
   <tr>
     <td>7</td>
     <td>Feb 20</td>
-    <td>Security and Verification</td>
-    <td>TBD</td>
+    <td>Programming Model of Blockchains</td>
+    <td><a href='https://www.microsoft.com/en-us/research/people/qadeer/'> Shaz Qadeer</a><br>
+    Microsoft Research
+    </td>
     <td></td>
   </tr> 
   <tr>
