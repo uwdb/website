@@ -81,7 +81,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
   <tr>
     <td>4</td>
     <td>Jan 30</td>
-    <td>Scalability & Performance of Blockchain</td>
+    <td>Alternative Consensus Protocols for Blockchain</td>
     <td><a href='https://homes.cs.washington.edu/~congy/'>Cong Yan</a><br>
     University of Washington
     </td>
