@@ -81,11 +81,13 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
   <tr>
     <td>4</td>
     <td>Jan 30</td>
-    <td>Alternative Consensus Protocols for Blockchain</td>
+    <td>Alternative Consensus Protocols for Blockchains</td>
     <td><a href='https://homes.cs.washington.edu/~congy/'>Cong Yan</a><br>
     University of Washington
     </td>
-    <td></td>
+    <td><a href='http://pmg.csail.mit.edu/papers/osdi99.pdf'>[P16]</a> 
+        <a href='https://arxiv.org/abs/1710.09437'>[P17]</a> 
+        <a href='https://arxiv.org/abs/1709.06921'>[P18]</a></td>
   </tr>
   <tr>
     <td>5</td>
@@ -182,9 +184,16 @@ for Cryptocurrencies</a>, Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlach
 <li><a href='https://lightning.network/lightning-network-paper.pdf'>The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments</a>, Joseph Poon and Thaddeus Dryja</li>
 </ol>
 
+#### Consensus
+<ol class='indent' start='16'>
+ <li><a href='http://pmg.csail.mit.edu/papers/osdi99.pdf'>
+ Practical Byzantine Fault Tolerance</a>, Miguel Castro and Barbara Liskov</li>
+ <li> <a href='https://arxiv.org/abs/1710.09437'>Casper the Friendly Finality Gadget</a>, Vitalik Buterin and Virgil Griffith</li>
+ <li> <a href='https://arxiv.org/abs/1709.06921'>A Byzantine Fault-Tolerant Ordering Service for the Hyperledger Fabric Blockchain Platform</a>, João Sousa, Alysson Bessani,  and Marko Vukolić</li>
+</ol>
 
 #### Architectural Support
-<ol class='indent' start='16'>
+<ol class='indent' start='19'>
  <li><a href='http://cseweb.ucsd.edu/~mbtaylor/papers/Taylor_Bitcoin_IEEE_Computer_2017.pdf'>
  The Evolution of Bitcoin
 Hardware</a>, Michael Taylor</li>
