@@ -23,31 +23,8 @@ We thank our partners for supporting NWDS:
 ---
 
 ##  Upcoming Talks
-<p><a name="Ashwin_Machanavajjhala_01_19_18"></a>
-<strong>Speaker</strong>: <a href="https://users.cs.duke.edu/~ashwin">Ashwin Machanavajjhala</a></p>
 
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Computer Science and Engineering Department.<br>
-Paul Allen Center, Gates Commons.</p>
-
-<p><strong>When</strong>: 
-Friday, January 19, 2018, 2:30pm-3:30pm</p>
-
-<p><strong>Title</strong>:
-Differential Privacy in the wild: From theory to practice to systems
-</p>
-
-<p><strong>Abstract</strong>:
-Ensuring privacy of individual-level data is an important consideration for data-driven applications. Differential privacy, a provable property of certain algorithms, has emerged as a gold standard for exploring the tradeoffs between the privacy ensured to individuals, and the utility of statistical insights mined from the data. In this context, differential privacy is beginning to be adopted by certain commercial (e.g., Google and Apple) and government entities (e.g., US Census) for collecting and sharing sensitive user data. However, deployment of differential privacy is extremely challenging and requires teams of privacy experts.  It is currently challenging for privacy non-experts to easily author differentially-private algorithms due to a lack of reference implementations and benchmarks. Moreover, every application has different privacy requirements making the privacy goal a moving target. </p>
-
-<p>
-In this talk, I will highlight research from our group that tackles the challenge of making differential privacy work for privacy non-experts and real data science workflows. I will describe system tools that we have been building to help accelerate the design of differentially private algorithms for the task of answering queries over relational databases. I will also introduce methods to specify new privacy notions for emerging applications, and a transformation equivalence result that helps reduce the problem of designing algorithms for these new privacy notions to the problem of differentially private algorithm design.
-</p>
-
-
-<p><strong>Bio</strong>:
-Ashwin Machanavajjhala is an Assistant Professor in the Department of Computer Science, Duke University and an Associate Director at the Information Initiative@Duke (iiD). Previously, he was a Senior Research Scientist in the Knowledge Management group at Yahoo! Research. His primary research interests lie in algorithms for ensuring privacy in statistical databases and augmented reality applications. He is a recipient of a 2017 IEEE Influential paper award for the invention of L-diversity in 2006, the National Science Foundation Faculty Early CAREER award in 2013, and the 2008 ACM SIGMOD Jim Gray Dissertation Award Honorable Mention. In collaboration with the US Census Bureau, he is credited with developing the first differentially private deployment in a real-world system. Ashwin graduated with a Ph.D. from the Department of Computer Science, Cornell University and a B.Tech in Computer Science and Engineering from the Indian Institute of Technology, Madras.
-</p>
+Stay tuned for next quarter's talks!
 
 ---
 
