@@ -87,12 +87,15 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     </td>
     <td><a href='http://pmg.csail.mit.edu/papers/osdi99.pdf'>[P16]</a> 
         <a href='https://arxiv.org/abs/1710.09437'>[P17]</a> 
-        <a href='https://arxiv.org/abs/1709.06921'>[P18]</a></td>
+        <a href='https://arxiv.org/abs/1709.06921'>[P18]</a>
+        <a href=''> [Slides]</a>
+        <a href=''> [Video]</a>
+    </td>
   </tr>
   <tr>
     <td>5</td>
     <td>Feb 6</td>
-    <td>Scalability & Performance</td>
+    <td> Advances in Scaling Blockchains</td>
    <td>
     <a href='http://sophiawang.org/'>Sophia Wang</a> <br> 
     Uber
