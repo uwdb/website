@@ -88,8 +88,8 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td><a href='http://pmg.csail.mit.edu/papers/osdi99.pdf'>[P16]</a> 
         <a href='https://arxiv.org/abs/1710.09437'>[P17]</a> 
         <a href='https://arxiv.org/abs/1709.06921'>[P18]</a>
-        <a href=''> [Slides]</a>
-        <a href=''> [Video]</a>
+        <a href='https://docs.google.com/presentation/d/1MeORZV8bp-r4pJsMzZtJAlJsPIi7mbV5AAVDBesAB8U/edit?usp=sharing'> [Slides]</a>
+        <a href='https://www.youtube.com/watch?v=DPEeY555F70'> [Video]</a>
     </td>
   </tr>
   <tr>
@@ -100,7 +100,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <a href='http://sophiawang.org/'>Sophia Wang</a> <br> 
     Uber
    </td>  
-   <td></td>
+   <td><a href='https://www.youtube.com/watch?v=I1f2HoBXEbE'>[Video]</a> </td>
   </tr>
   <tr>
     <td>6</td>
