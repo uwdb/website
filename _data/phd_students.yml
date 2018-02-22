@@ -1,3 +1,5 @@
+# use image: placeholder.jpg for those w/o pics
+
 - name: Maaz Ahmad
   nickname: Maaz
   website: http://homes.cs.washington.edu/~maazsaf/
@@ -7,11 +9,6 @@
   nickname: Shumo
   website: http://homes.cs.washington.edu/~chushumo/
   image: shumo.jpg
-
-- name: Jay Garlapat
-  nickname: Jay
-  website: https://www.linkedin.com/in/jay-garlapati-77016429
-  image: jay.jpg
 
 - name: Helga Guðmundsdóttir
   nickname: Helga
@@ -27,11 +24,6 @@
   nickname: Srini
   website: http://homes.cs.washington.edu/~sviyer/
   image: srini.jpg
-
-- name: Daniel Li
-  nickname: Daniel
-  website: http://homes.cs.washington.edu/~dyli/
-  image: placeholder.jpg
 
 - name: Shrainik Jain
   nickname: Shrainik
@@ -72,11 +64,6 @@
   nickname: Jingjing
   website: http://homes.cs.washington.edu/~jwang/
   image: jingjing.jpg
-
-- name: Shengliang Xu
-  nickname: Shengliang
-  website: http://homes.cs.washington.edu/~slxu/
-  image: shengliang.jpg
 
 - name: Dylan Hutchison
   nickname: Dylan

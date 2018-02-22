@@ -1,3 +1,23 @@
+- name: Jay Garlapati
+  nickname: Jay	
+  website: https://www.linkedin.com/in/jay-garlapati-77016429	
+  image: jay.jpg	
+  
+- name: Daniel Li	
+  nickname: Daniel	
+  website: http://homes.cs.washington.edu/~dyli/	
+  image: placeholder.jpg	
+
+- name: Shengliang Xu	
+  nickname: Shengliang	
+  website: http://homes.cs.washington.edu/~slxu/	
+  image: shengliang.jpg	
+  
+- name: Seung-Hee Bae
+  nickname: Seung-Hee
+  website: http://homes.cs.washington.edu/~shbae/
+  image: seunghee.jpg  
+
 - name: Prasang Upadhyaya
   nickname: Prasang
   website: http://homes.cs.washington.edu/~prasang/
