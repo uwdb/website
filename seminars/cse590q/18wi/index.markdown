@@ -114,11 +114,13 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
   <tr>
     <td>7</td>
     <td>Feb 20</td>
-    <td>Programming Model of Blockchains</td>
+    <td>Programming Abstractions of Blockchains</td>
     <td><a href='https://www.microsoft.com/en-us/research/people/qadeer/'> Shaz Qadeer</a><br>
     Microsoft Research
     </td>
-    <td></td>
+    <td>
+    <a href='https://www.youtube.com/watch?v=dWWmz3faFmQ'> [Video] </a>
+    </td>
   </tr> 
   <tr>
     <td>8</td>
