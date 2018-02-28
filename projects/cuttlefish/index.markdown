@@ -29,24 +29,60 @@ We have prototyped Cuttlefish in Apache Spark, and used it to adaptively choose 
 
 ### Using Cuttlefish
 
-In the code we link above, we provide a custom version of Apache Spark 2.2 that is extended with a prototype implementation of Cuttlefish.
+In the code we link above, we provide a custom version of Apache Spark 2.2 that is extended with a prototype implementation of Cuttlefish. When built, it produces a version of Spark versioned as `2.2.1-bandits-snapshot`. If this custom build is used in a cluster, any scala code that uses Spark can take advantage of Cuttlefish.
 
-Spark version:
+In this prototype, Cuttlefish directly exposes solvers of the multi-armed bandit problem as `Bandits`, and solvers that learn contextual cost models as `ContextualBandits` (both in package `org.apache.spark.bandit`). The prototype supports a variety of bandit algorithms, including the ones highlighted in the Cuttlefish paper.
 
-2.2.1-bandits-snapshot
+`Bandits` and `ContextualBandits` can be constructed by calling the `SparkContext.bandit` and `SparkContext.contextualBandit` methods respectively, and specifying a solver policy. Once these bandits are constructed, they can be used in any Spark operation (`map`, `flatmap`, `reduce`, etc.) and they will automatically share learning across the entire cluster by using Cuttlefish's distributed architecture.
 
-  <version>2.2.1-bandits-snapshot</version>
+Below is a hypothetical example of how Cuttlefish can be used to convolve images with multiple kernels, all the while automatically identifying the fastest of three convolution implementations. In this example, a Cuttlefish `Bandit` learns a single convolution implementation to use for all images in a dataset.
 
-To launch a LightDB server using a custom data source, instantiate a video source and pass it as an argument to the LightDB server constructor:
+```scala
+// Import the adaptive learning policies the Cuttlefish prototype supports
+import breeze.linalg._
+import org.apache.spark.bandit.policies._
 
-```c
-    FileIngestAccessMethod source(name, path);
-    LightDBServer server(name, hostname, port, source, ...);
+// Create a SparkContext
+val sc = new SparkContext(...)
 
-    server.start();
+// 3 implementations of convolution that convolve 1 image with several kernels
+def matMultConvolve(task: (Image, Seq[Image])): Seq[Image] = ...
+def fftConvolve(task: (Image, Seq[Image])): Seq[Image] = ...
+def loopConvolve(task: (Image, Seq[Image])): Seq[Image] = ...
+
+// Create a list containing all three implementations.
+val convolutionOps = Seq(loopConvolve(_), matMultConvolve(_), fftConvolve(_))
+
+// Create a bandit (a Cuttlefish tuner) that can convolve images, and automatically learn to use the fastest implementation as it goes
+// GaussianThompsonSamplingPolicy is the MAB solver we built to work especially well for Cuttlefish
+val bandit = sc.bandit(convolutionOps, GaussianThompsonSamplingPolicyParams())
+
+// Convolve a dataset of images with a set of kernels,
+// using Cuttlefish to automatically learn & use the fastest convolution implementation.
+// For every call of bandit.apply, the Cuttlefish bandit will select an implementation, convolve the image with the kernels, record how long it took, and update its learned state. 
+val kernels: Seq[Image] = ...
+val images: RDD[Image] = ...
+val convolutionResults: RDD[Seq[Image]] = images.map(image => bandit.apply((image, kernels)))
 ```
 
-LightDB currently supports loading from the file system (`FileIngestAccessMethod`) and from an RTMP endpoint (`RTMPIngestAccessMethod`).
+We now modify the example to show how Cuttlefish can take contextual features (such as image or kernel dimensions) into account when selecting implementations. In this example, as it convolves images the Cuttlefish `ContextualBandit` will automatically learn a cost model for how the different convolution algorithms perform with respect to image and kernel features computed by `genFeatures` on-the-fly for each call to `apply`. It will be able to select the best convolution implementation for each pair of image and kernels, rather than just a single best-on-average implementation for all images.
+
+```scala
+// Function to generate contextual features from a convolution task
+def genFeatures(task: (Image, Seq[Image])): DenseVector[Double] = ...
+// Set the number of features the function generates
+val numFeatures = ...
+
+// Create a contextual bandit (a Cuttlefish tuner that learns cost models)
+// Use the contextual learning algorithm used in the Cuttlefish paper
+val bandit = sc.contextualBandit(convolutionOps, features, new StandardizedLinThompsonSamplingPolicy(convolutionOps.length, numFeatures, 1.0, useCholesky = true))
+
+// Convolve a dataset of images with a set of kernels,
+//using Cuttlefish to automatically learn & use the fastest convolution implementation
+val kernels: Seq[Image] = ...
+val images: RDD[Image] = ...
+val convolutionResults: RDD[Seq[Image]] = images.map(image => bandit.apply((image, kernels)))
+```
 
 #### Acknowledgements
 
