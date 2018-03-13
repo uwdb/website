@@ -17,15 +17,15 @@ id: "projects"
 ### About HypDB
 
 HypDB, a system to detect, explain, and resolve bias in
-decision-support OLAP queries. We showed that biased queries can be perplexing
-and lead to statistical anomalies, such as Simpson's paradox. We proposed
-a novel technique to nd explanations for the bias, thereby assisting the analyst
-in interpreting the results. We developed an automated method for rewriting
-the query into an unbiased query that correctly performs the hypothesis test that the analyst had in mind. The rewritten queries compute causal eeffect or the eeffect of hypothetical interventions. At the core of our framework lies the
-ability to nd confounding variables. We showed that our method outperforms
+decision-support OLAP queries. We show that biased queries can be perplexing
+and lead to statistical anomalies, such as Simpson's paradox. We propose
+a novel technique to find explanations for the bias, thereby assisting the analyst
+in interpreting the results. We develope an automated method for rewriting
+the query into an unbiased query that correctly performs the hypothesis test that the analyst had in mind. The rewritten queries compute causal effect or the effect of hypothetical interventions. At the core of our framework lies the
+ability to find confounding variables. We showe that our method outperforms
 the state of the art causal DAG discovery methods. We showed that HypDB
 can be used to detect algorithmic unfairness post factum and the obtained insights
-go beyond state of the art e.g., Fairtest [54]. Our system can be used as
+go beyond state of the art e.g., Fairtest. Our system can be used as
 an adhoc analysis along with OLAP data-cubes to detect, resolve and explain
 bias interactively at query time.
 
