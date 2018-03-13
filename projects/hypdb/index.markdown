@@ -9,10 +9,9 @@ id: "projects"
 <link href="index.css" rel="stylesheet">
 
 <div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
-  <img src="../../images/projects/hypdb.png" alt="Logo" style="width: 20rem" />
+  <img src="../../images/projects/hypdb.jpg" alt="Logo" style="width: 20rem" />
   <text style="vertical-align: middle; font-size: 4em; font-weight: bold; letter-spacing: 0px; font-family: 'Verdana';">HypDB</text>
-  <h4>Bias in OLAP Queries: Detection, Explanation, and Removal
-(Or Think Twice About Your AVG-Query)</h4>
+  <h4>Bias in OLAP Queries: Detection, Explanation, and Removal </h4>
 </div>
 
 ### About HypDB
@@ -33,7 +32,7 @@ On line analytical processing (OLAP) is an essential element of decision-support
 
 ### Papers
 
-*   [Probabilistic Database Summarization for Interactive Data Exploration](bsalimi-sig2018-long.pdf). To appear in SIGMOD 2018.
+*   [Bias in OLAP Queries: Detection, Explanation, and Removal (Or Think Twice About Your AVG-Query)](bsalimi-sig2018-long.pdf). To appear in SIGMOD 2018.
 
 #### Questions?
 
