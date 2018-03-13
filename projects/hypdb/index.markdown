@@ -28,7 +28,7 @@ On line analytical processing (OLAP) is an essential element of decision-support
 *   [Dan Suciu](http://www.cs.washington.edu/homes/suciu/)
 
 **External Collaborator**
-*   [Johannes Gehrke]
+*   [Johannes Gehrke](https://www.linkedin.com/in/johannesgehrke)
 
 ### Papers
 
