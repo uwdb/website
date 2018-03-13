@@ -21,7 +21,7 @@ On line analytical processing (OLAP) is an essential element of decision-support
 ### People
 **Postdoc**
 
-*   [Babak Salimi]
+*   [Babak Salimi](https://www.linkedin.com/in/babak-salimi-8b758794/)
 
 **_Faculty_**
 
