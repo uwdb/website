@@ -18,7 +18,7 @@
 
 {% include project name="ZaliQL" caption="A Declarative Framework for Drawing Causal Inference from Big Data" image="causality.jpg" link="http://db.cs.washington.edu/projects/causality/" %}
 
-{% include project name="HypDb" caption="Detecting bias in OLAP" image="hypdb.jpg" link="http://db.cs.washington.edu/projects/causality/" %}
+{% include project name="HypDB" caption="Detecting bias in OLAP" image="hypdb.jpg" link="http://db.cs.washington.edu/projects/causality/" %}
 
 
 {% include project name="LARA" caption="A Key-Value Algebra underlying Arrays and Relations" image="lara-logo.png" link="https://arxiv.org/abs/1703.07342" %}
