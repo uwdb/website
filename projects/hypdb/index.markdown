@@ -16,7 +16,7 @@ id: "projects"
 
 ### About HypDB
 
-This paper proposed HypDB, a system to detect, explain, and resolve bias in
+HypDB, a system to detect, explain, and resolve bias in
 decision-support OLAP queries. We showed that biased queries can be perplexing
 and lead to statistical anomalies, such as Simpson's paradox. We proposed
 a novel technique to nd explanations for the bias, thereby assisting the analyst
