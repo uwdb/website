@@ -39,7 +39,7 @@ can be used to detect algorithmic unfairness post factum.
 
 ### Papers
 
-*   [Bias in OLAP Queries: Detection, Explanation, and Removal (Or Think Twice About Your AVG-Query)](https://arxiv.org/abs/1803.04562). To appear in SIGMOD 2018.
+*   [HypDB: Detect, Explain And Resolve Bias in OLAP](https://arxiv.org/abs/1803.04562). To appear in SIGMOD 2018.
 
 #### Questions?
 
