@@ -22,7 +22,7 @@ and lead to statistical anomalies, such as Simpson's paradox. We propose
 a novel technique to find explanations for the bias, thereby assisting the analyst
 in interpreting the results. We develop an automated method for rewriting
 the query into an unbiased query that correctly performs the hypothesis test that the analyst had in mind. The rewritten queries compute causal effect or the effect of hypothetical interventions. At the core of our framework lies the
-ability to find confounding variables.  HypDB
+ability to find confounding variables.  We show that HypDB
 can be used to detect algorithmic unfairness post factum.
 
 ### People
