@@ -30,7 +30,7 @@ can be used to detect algorithmic unfairness post factum.
 
 *   [Babak Salimi](https://www.linkedin.com/in/babak-salimi-8b758794/)
 
-**_Faculty_**
+**Faculty**
 
 *   [Dan Suciu](http://www.cs.washington.edu/homes/suciu/)
 
