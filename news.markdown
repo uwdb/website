@@ -20,5 +20,5 @@ id: "news"
 
 ### UWDB Newsletters
 
-[Fall 16]({{ site.baseurl }}/newsletters/fall16.pdf)
-[Summer 17]({{ site.baseurl }}/newsletters/summer17.pdf)
+- [Fall 16]({{ site.baseurl }}/newsletters/fall16.pdf)
+- [Summer 17]({{ site.baseurl }}/newsletters/summer17.pdf)
