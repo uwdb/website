@@ -17,3 +17,8 @@ id: "news"
   </li>
 {% endfor %}
 </ul>
+
+### UWDB Newsletters
+
+[Fall 16]({{ site.baseurl }}/newsletters/fall16.pdf)
+[Summer 17]({{ site.baseurl }}/newsletters/summer17.pdf)
