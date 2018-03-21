@@ -23,7 +23,7 @@ The University of Washington's database group aims at broadening the focus of da
 <p class="lead">
 <a href="https://twitter.com/uw_db" class="twitter-follow-button" data-size="large" data-show-count="false" data-show-screen-name="false">Follow @uw_db</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a href="https://medium.com/@uwdb"><img class="icon" src="https://creativecommons.org/wp-content/uploads/2015/05/Medium-logo-dark500-300x300.png" alt="follow uwdb on medium" title="follow uwdb on medium" height="24"/></a>
+<a href="https://medium.com/@uwdb"><img class="icon" src="https://cdn-images-1.medium.com/max/800/1*F6SrJR7_s95r6oCF3ugMZw.png" alt="follow uwdb on medium" title="follow uwdb on medium" height="24"/></a>
 
 <a class="github-button" href="https://github.com/uwdb" 
   aria-label="Follow @uwdb on GitHub"></a>  
