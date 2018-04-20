@@ -13,7 +13,7 @@ This page contains resources for securing AWS resources.
 
 A compromised password can result in tens of thousands of dollars in damage.  Please use a sufficiently complex password for your AWS account that is separate from ones used in other places.  Even better, consider using a [secure password manager](https://keepass.info) to store your credential.
 
-Enable two-factor authentication for your accounts.  Unless you already have a physical token, it's easiest to enable 2FA using a virtual device such as [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2).  Instructions for enabling a device under AWS are [https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html](located here).
+Enable two-factor authentication for your accounts.  Unless you already have a physical token, it's easiest to enable 2FA using a virtual device such as [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2).  Instructions for enabling a device under AWS are [located here](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html).
 
 ## S3 Buckets
 
