@@ -18,7 +18,7 @@ See the [lab day schedule][] and sign up to host!
 
 ## AWS Policies
 
-See [this page](//etc/aws.html) for best practices related to AWS usage.
+See [this page](/etc/aws.html) for best practices related to AWS usage.
 
 ## Wiki
 
