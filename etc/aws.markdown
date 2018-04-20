@@ -11,7 +11,7 @@ This page contains resources for securing AWS resources.
 
 ## Authentication
 
-A compromised password can result in tens of thousands of dollars in damage.  Please use a sufficiently complex password for your AWS account that is separate from ones used in other places.  Even better, consider using a [secure password manager](https://keepass.info) to store your credential.
+A compromised password can result in tens of thousands of dollars in damage.  Please use a unique, sufficiently complex password for your AWS account.  Even better, consider using a [secure password manager](https://keepass.info) to store your credential.
 
 Enable two-factor authentication for your accounts.  Unless you already have a physical token, it's easiest to enable 2FA using a virtual device such as [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2).  Instructions for enabling a device under AWS are [located here](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html).
 
@@ -25,7 +25,7 @@ There are also some [decent tools](https://github.com/kromtech/s3-inspector) tha
 
 ## EC2 Instances
 
-The default security group for EC2 instances is permissive, and allows external connections to any port.  For defense in depth, modify this group to allow inbound TCP port 22 (SSH) traffic only from the University of Washington subnet (205.175.0.0/16, maybe).  If you need to connect from off campus, first connect to the [university VPN](https://www.aa.washington.edu/students/computing/vpn) and then SSH as normal.
+The default security group for EC2 instances is permissive, and allows external connections to any port.  For defense in depth, [modify this group](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-network-security.html) to allow inbound TCP port 22 (SSH) traffic only from the University of Washington subnet (205.175.0.0/16, maybe?).  If you need to connect from off campus, first connect to the [university VPN](https://www.aa.washington.edu/students/computing/vpn) and then SSH as normal.
 
 ## Credential Rotation
 
