@@ -1,3 +1,12 @@
+- date: 2018-04-18
+  description: |
+  Two of [Jennifer Ortiz](https://homes.cs.washington.edu/~jortiz16/)'s papers got accepted!
+  - SLAOrchestrator: Reducing the Cost of Performance SLAs in the Cloud at USENIX ATC 2018.
+  - Learning State Representations for Query Optimization with Deep Reinforcement Learning at the DEEM workshop @ SIGMOD 2018.
+  
+- date: 2018-04-12
+  description: [Laurel Orr](https://homes.cs.washington.edu/~ljorr1/) received a honorable mention for the [NCWIT Collegiate Award](https://www.aspirations.org/). Congrats Laurel!
+  
 - date: 2018-03-05
   description: |
     Four papers from UWDB got accepted into SIGMOD 2018!   
