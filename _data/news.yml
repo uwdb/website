@@ -1,3 +1,6 @@
+- date: 2018-03-31
+  description: >
+    [Guna](http://gunaprsd.org)'s paper with the MSR folks on a blazing fast key-value store got accepted into SIGMOD 2018! Find more details [here](https://www.microsoft.com/en-us/research/publication/faster-concurrent-key-value-store-place-updates/)
 - date: 2017-07-19
   description: >
     Our automated solver for SQL, Cosette, has been [released](https://medium.com/@uwdb/introducing-cosette-527898504bd6)!
