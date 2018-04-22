@@ -1,7 +1,23 @@
-- date: 2018-03-31
+- date: 2018-03-05
+  description: >
+    [Babak Salimi](https://dblp.uni-trier.de/pers/hd/s/Salimi:Babak) and [Dan Suciu](https://homes.cs.washington.edu/~suciu/)'s paper titled 'HypDB: Detect, Explain And Resolve Bias in OLAP' got accepted at SIGMOD 2018
+
+- date: 2018-03-05
+  description: >
+    [Maaz Ahmad](https://homes.cs.washington.edu/~maazsaf/) and [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/)'s work on 'Automatically Leveraging MapReduce Frameworks for Data-Intensive Applications' got accepted into SIGMOD 2018! Find more about project Casper [here](http://casper.uwplse.org/). 
+ 
+- date: 2018-03-05
+  description: >
+    [Cong Yan](https://homes.cs.washington.edu/~congy/)'s paper 'Synthesizing Type-Detection Logic for Rich Semantic Data Types Using Open-source Code' got accepted at SIGMOD 2018. 
+    
+- date: 2018-03-05
   description: >
     [Guna](http://gunaprsd.org)'s paper with the MSR folks on a blazing fast key-value store got accepted into SIGMOD 2018! Find more details [here](https://www.microsoft.com/en-us/research/publication/faster-concurrent-key-value-store-place-updates/)
     
+- date: 2018-03-04
+  description: >
+    Four papers from UWDB got accepted into SIGMOD 2018! More details soon! 
+
 - date: 2017-07-19
   description: >
     Our automated solver for SQL, Cosette, has been [released](https://medium.com/@uwdb/introducing-cosette-527898504bd6)!
