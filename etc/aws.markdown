@@ -33,7 +33,7 @@ Everyone leaves their API keys lying around in cleartext.  Some people accidenta
 
 ## Billing Alerts
 
-Using this script, set up [billing alarms](https://cloudmaven.github.io/documentation/aws_cost_notification_system.html.) that automatically send out expenditure reports to faculty demigods.  This way if your account is compromised we can detect an issue as soon as possible.
+Using this script, set up [billing alarms](https://cloudmaven.github.io/documentation/aws_cost_notification_system.html) that automatically send out expenditure reports to faculty demigods.  This way if your account is compromised we can detect an issue as soon as possible.
 
 ## Contact Information
 
