@@ -1,8 +1,18 @@
+- name: Helga Guðmundsdóttir
+  nickname: Helga
+  website: https://www.linkedin.com/in/helgag/
+  image: helga.jpg
+
 - name: Jay Garlapati
   nickname: Jay	
   website: https://www.linkedin.com/in/jay-garlapati-77016429	
   image: jay.jpg	
   
+- name: Yuqing Guo
+  nickname: Yuqing
+  website: https://www.linkedin.com/in/yuqing-guo/
+  image: placeholder.jpg
+
 - name: Daniel Li	
   nickname: Daniel	
   website: http://homes.cs.washington.edu/~dyli/	
