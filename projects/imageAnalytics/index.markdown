@@ -47,18 +47,10 @@ augmented with age, gender and visual acuity data**, under submission.
 use to diagnose a wide range of retinal pathologies and several previous studies have used
 deep learning to create systems that can accurately classify retinal OCT as indicative of
 one of these pathologies. However, patients often exhibit multiple pathologies concurrently.
-Here, we designed a novel neural network algorithm that performs multiclass and multilabel
+Here, we implement a novel neural network algorithm that performs multiclass and multilabel
 classification of retinal images from OCT images in four common retinal pathologies:
-epiretinal membrane, diabetic macular edema, dry age-related macular degeneration and
-neovascular age-related macular degeneration. Furthermore, clinicians often also use additional
-information about the patient for diagnosis. Second contribution of this study
-is improvement of multiclass, multilabel classification augmented with information about
-the patient: age, visual acuity and gender. We compared two training strategies: a network
-pre-trained with ImageNet was used for transfer learning, or the network was trained
-from randomly initialized weights. Transfer learning does not perform better in this case,
-because many of the low-level filters are tuned to colors, and the OCT images are monochromatic.
-Finally, we provide a transparent and interpretable diagnosis by highlighting
-the regions recognized by the neural network.
+epiretinal membrane, diabetic macular edema,  dry age-related macular degeneration and
+neovascular age-related macular degeneration.
     - [Paper](bioarchive link)
 
 #### People
