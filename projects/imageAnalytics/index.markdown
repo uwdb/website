@@ -9,7 +9,7 @@ id: "projects"
 
 <div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
   <img src="imageAnal.png" alt="Logo" style="width: 40rem" />
-  <p>Image Analytics on Scientific Image data</p>
+  <p>Large scale analytics on scientific image data</p>
   <p>
   	<a class="btn btn-primary btn-lg label-primary" href="p1290-mehta.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
     <a class="btn btn-primary btn-lg label-primary" href="https://github.com/uwdb/image_analytics" role="button" style="width: 180px;"><span style="position: relative; top:10px">Get the Code</span><br/><small>&nbsp;</small></a>
