@@ -51,7 +51,7 @@ Here, we implement a novel neural network algorithm that performs multiclass and
 classification of retinal images from OCT images in four common retinal pathologies:
 epiretinal membrane, diabetic macular edema,  dry age-related macular degeneration and
 neovascular age-related macular degeneration.
-    - [Paper](bioarchive link)
+    - [Paper](https://www.biorxiv.org/content/early/2018/05/08/316349)
 
 #### People
 * Parmita Mehta
