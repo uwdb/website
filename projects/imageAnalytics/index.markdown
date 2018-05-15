@@ -8,7 +8,7 @@ id: "projects"
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
 <div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
-  <img src="../../images/projects/imageAnal.png" alt="Logo" style="width: 40rem" />
+  <img src="../../images/projects/imageAnal.png" alt="image analytics" style="width: 40rem" />
   <p>Large scale analytics on scientific image data</p>
   <p>
     <a class="btn btn-primary btn-lg label-primary" href="https://github.com/uwdb/image_analytics" role="button" style="width: 180px;"><span style="position: relative; top:10px">Code</span><br/><small>&nbsp;</small></a>
