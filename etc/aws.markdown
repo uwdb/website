@@ -7,7 +7,13 @@ id: "aws"
 
 # AWS Best Practices
 
-This page contains resources for securing AWS resources.
+This page contains resources for securing AWS resources.  You can cover most of these items by enabling the following rules in AWS Config:
+
+* root-account-mfa-enabled
+* s3-bucket-public-write-prohibited
+* s3-bucket-public-read-prohibited
+* restricted-ssh
+* restricted-common-ports
 
 ## Authentication
 
