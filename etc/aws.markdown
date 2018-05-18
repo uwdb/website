@@ -25,7 +25,17 @@ There are also some [decent tools](https://github.com/kromtech/s3-inspector) tha
 
 ## EC2 Instances
 
-The default security group for EC2 instances is permissive, and allows external connections to any port.  For defense in depth, [modify this group](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-network-security.html) to allow inbound TCP port 22 (SSH) traffic only from the University of Washington subnet (205.175.0.0/16, maybe?).  If you need to connect from off campus, first connect to the [university VPN](https://www.aa.washington.edu/students/computing/vpn) and then SSH as normal.
+The default security group for EC2 instances is permissive, and allows external connections to any port.  For defense in depth, [modify this group](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-network-security.html) to allow inbound TCP port 22 (SSH) traffic only from the University of Washington subnets.  If you need to connect from off campus, first connect to the [university VPN](https://www.aa.washington.edu/students/computing/vpn) and then SSH as normal.
+
+The following subnets cover the University of Washington networks, including VPN connections:
+
+* 128.95.0.0/16
+* 128.208.0.0/16
+* 140.142.0.0/16
+* 108.179.128.0/18
+* 173.250.128.0/17
+* 192.26.136.0/24
+* 69.91.128.0/17
 
 ## Credential Rotation
 
