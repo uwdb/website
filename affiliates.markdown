@@ -17,7 +17,7 @@ We thank our current affiliates:
 * [Qumulo](http://qumulo.com)
 * [Tableau](http://www.tableau.com)
 * [Teradata](http://www.teradata.com)
----
+
 
 ##  Member Benefits
 
