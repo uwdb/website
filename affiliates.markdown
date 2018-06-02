@@ -10,13 +10,13 @@ id: "affiliates"
 The affiliates program strengthens collaborations between the UW Database Group and industrial partners, and helps support our ongoing research. Affiliates get exclusive opportunities to interact with the UWDB researchers.
 
 We thank our current affiliates:
-* [Microsoft](http://www.microsoft.com)
-* [Tableau](http://www.tableau.com)
-* [MemSQL](http://www.memsql.com)
-* [Teradata](http://www.teradata.com)
-* [Qumulo](http://qumulo.com)
+* [Amazon](http://www.amazon.com)
 * [Facebook](http://www.facebook.com)
-
+* [MemSQL](http://www.memsql.com)
+* [Microsoft](http://www.microsoft.com)
+* [Qumulo](http://qumulo.com)
+* [Tableau](http://www.tableau.com)
+* [Teradata](http://www.teradata.com)
 ---
 
 ##  Member Benefits
