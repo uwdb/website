@@ -122,15 +122,6 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <a href='https://www.youtube.com/watch?v=dWWmz3faFmQ'> [Video] </a>
     </td>
   </tr> 
-  <!--- <tr>
-    <td>8</td>
-    <td>Feb 27</td>
-    <td>Probabilistic Proofs, Zero Knowledge Proofs on Blockchains</td>
-    <td> 
-     <a href='https://www.microsoft.com/en-us/research/people/srinath/'>Srinath Setty</a> <br> 
-      Microsoft Research</td>
-    <td></td>
-  </tr> --->
   <tr>
     <td>9</td>
     <td>Mar 6</td>
@@ -138,7 +129,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>
      <a href='https://www.microsoft.com/en-us/research/people/arvinda/'>Arvind Arasu</a> <br> 
      Microsoft Research </td>
-    <td></td>
+    <td> <a href="https://www.youtube.com/watch?v=UTiPyaQLgQk"> [Video]</a></td>
   </tr> 
 </table>
 

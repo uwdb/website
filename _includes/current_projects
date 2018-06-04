@@ -1,12 +1,17 @@
 <div class="current-projects flex-container image-container">
 
+
+{% include project name="Image Analytics" caption="Large scale image analytics on scientific data" image="imageAnal.png" link="http://db.cs.washington.edu/projects/imageAnalytics" %}
+
+{% include project name="DeepQuery" caption="Query Optimization with Deep Reinforcement Learning" image="deepQuery.png" link="http://db.cs.washington.edu/projects/deepQuery" %}
+
 {% include project name="LightDB" caption="A DBMS for Virtual Reality" image="lightdb.png" link="http://db.cs.washington.edu/projects/lightdb" %}
+
+{% include project name="Myria" caption="Big Data as a Service" image="myria.png" link="http://myria.cs.washington.edu" %}
 
 {% include project name="Cuttlefish" caption="A Lightweight Primitive for Adaptive Query Processing" image="cuttlefish.png" link="http://db.cs.washington.edu/projects/cuttlefish" %}
 
 {% include project name="EntropyDB" caption="EntropyDB for Data Exploration" image="entropydb.png" link="http://db.cs.washington.edu/projects/entropydb" %}
-
-{% include project name="DeepQuery" caption="Query Optimization with Deep Reinforcement Learning" image="deepQuery.png" link="http://db.cs.washington.edu/projects/deepQuery" %}
 
 {% include project name="Myria" caption="Big Data as a Service" image="myria.png" link="http://myria.cs.washington.edu" %}
 
