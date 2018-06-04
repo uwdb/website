@@ -29,6 +29,6 @@ Contact [Jennifer Ortiz](mailto:jortiz16@cs.washington.edu)
 #### Acknowledgments
 
 This work is supported in part by the National Science Foundation
-through NSF grant [IIS-1247469](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1247469).
+through NSF grant [IIS-1247469](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1247469) and Teradata.
 
 &nbsp;
