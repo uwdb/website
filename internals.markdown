@@ -51,4 +51,5 @@ _DBWORLD_: general conference and database-interest announcements. Subscribe by 
 
 ## Quals Reading List in Databases
 
-[link](https://docs.google.com/document/d/1Ke7cYCt4Dzn46mPexntxzk2kbM8-L4NsNEMRBrWnBYo)
+* [Reading List](https://docs.google.com/document/d/1Ke7cYCt4Dzn46mPexntxzk2kbM8-L4NsNEMRBrWnBYo)
+* [Papers, in PDF (Please buy the books in Fundamentals category or borrow from DB Lab)](https://drive.google.com/drive/u/1/folders/1DoDM6g_ObkOIn222wxREvo3s8np5XWdK)
