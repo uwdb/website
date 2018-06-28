@@ -8,7 +8,7 @@ id: "affiliates_workshop_2018"
 # UW DB Affiliates Workshop 2018
 
 ### **When**:
-Date:  Friday, July 13, 2018
+Friday, July 13, 2018
 
 ### **Where**:
 [Husky Union Building](https://uw.edu/maps/?hub), Room 145
