@@ -7,7 +7,7 @@ id: "affiliates_workshop_2018"
 
 # UW DB Affiliates Workshop 2018
 
-### **When:**:
+### **When**:
 Date:  Friday, July 13, 2018
 
 ### **Where**:
