@@ -11,7 +11,7 @@ id: "affiliates_workshop_2018"
 Date:  Friday, July 13, 2018
 
 ### **Where**:
-[Husky Union Building](uw.edu/maps/?hub), Room 145
+[Husky Union Building](https://uw.edu/maps/?hub), Room 145
 University of Washington, Seattle
 
 4001 E Stevens Way NE
