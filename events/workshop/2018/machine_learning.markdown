@@ -34,7 +34,7 @@ Seattle, WA 98195
 
 - 20 min - Algorithmic Curation and Causal Analysis over Scientific Data Repositories - Bill Howe
 
-- 20 min - Vega-Lite, scalable vis, or visualization recommendation - Dominik Moritz
+- 20 min - Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco - Dominik Moritz
 
 #### 12:00 pm - 2:00 pm: LUNCH
 
