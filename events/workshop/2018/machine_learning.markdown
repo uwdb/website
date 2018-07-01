@@ -20,14 +20,14 @@ Seattle, WA 98195
 ### **Agenda (tentative)**:
 
 
-#### 9:00 am:  Coffee & Tea
+#### 8:30 am:  Coffee & Tea
 
-#### 9:30 am - 10:30 am:  Session 1: Advances in machine learning
+#### 9:00 am - 10:00 am:  Session 1: Advances in machine learning
 - Keynote: Hannaneh Hajishirzi  - Talk title TBA
 
-#### 10:30 am - 11:00 am: BREAK
+#### 10:00 am - 10:30 am: BREAK
 
-#### 11:00 am - 12:30 pm: Session 2: Machine Learning for Data Management
+#### 10:30 am - 12:00 pm: Session 2: Machine Learning for Data Management
 - 20 min - Deep Learning for Query Optimization - Magda Balazinska
 
 - 20 min - Causal Inference in Database Systems - Babak Salimi
@@ -36,7 +36,7 @@ Seattle, WA 98195
 
 - 20 min - Vega-Lite, scalable vis, or visualization recommendation - Dominik Moritz
 
-#### 12:30 pm - 2:00 pm: LUNCH
+#### 12:00 pm - 2:00 pm: LUNCH
 
 #### 2:00 pm - 3:30 pm: Session 3: Databases Techniques for Machine Learning
 - 20 min "Building a broad and open knowledge graph" - Luna Dong
