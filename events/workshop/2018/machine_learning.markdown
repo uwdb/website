@@ -23,9 +23,7 @@ Seattle, WA 98195
 #### 8:30 am:  Coffee & Tea
 
 #### 9:00 am - 10:30 am:  Session 1: Advances in machine learning
-- Keynote 1: Hannaneh Hajishirzi  - Talk title TBA
-
-- Keynote 2: TBA
+- Keynote: Hannaneh Hajishirzi  - Talk title TBA
 
 #### 10:30 am - 11:00 am: BREAK
 
