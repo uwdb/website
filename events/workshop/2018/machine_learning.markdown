@@ -20,14 +20,15 @@ Seattle, WA 98195
 ### **Agenda (tentative)**:
 
 
-#### 8:30 am:  Coffee & Tea
+#### 8:00 am - 8:30 am:  Coffee & Tea
 
-#### 9:00 am - 10:00 am:  Session 1: Advances in machine learning
-- Keynote: Hannaneh Hajishirzi  - Talk title TBA
+#### 8:30 am - 10:30 am:  Session 1: Advances in machine learning
+- Keynote 1: Hannaneh Hajishirzi  - Talk title TBA
+- Keynote 2: Zaid Harchaoui - Talk title TBA
 
-#### 10:00 am - 10:30 am: BREAK
+#### 10:30 am - 11:00 am: BREAK
 
-#### 10:30 am - 12:00 pm: Session 2: Machine Learning for Data Management
+#### 11:00 am - 12:30 pm: Session 2: Machine Learning for Data Management
 - 20 min - Deep Learning for Query Optimization - Magda Balazinska
 
 - 20 min - Causal Inference in Database Systems - Babak Salimi
