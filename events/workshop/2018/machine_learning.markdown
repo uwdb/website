@@ -52,9 +52,9 @@ Seattle, WA 98195
 
 #### 4:00 pm - 5:00 pm: Breakout sessions.
 Topics:
-* Where can ML help in data management
-* DB support for ML: optimization, query rewriting
-* Can we use AQP in ML and how
+* Where can ML help in data management (Magda)
+* DB support for ML: optimization, query rewriting (Alvin)
+* Can we use AQP in ML and how (Dan)
 
 #### 5:00 pm - 5:30 pm: Report from breakouts & discussion
 
