@@ -231,3 +231,10 @@ table td {
   list-style-type: none;
   padding: 0px;
 }
+
+/* Group pics */
+
+.grouppic {
+  margin: 10px 0;
+  max-width: 800px;
+}

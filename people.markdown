@@ -7,6 +7,8 @@ id: "people"
 
 # People
 
+Group photos from different years are on the [group page]({{ site.baseurl }}/group.html).
+
 ## Faculty
 
 <div class="flex-container people image-container">
