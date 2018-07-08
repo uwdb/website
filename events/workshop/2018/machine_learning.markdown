@@ -17,7 +17,7 @@ University of Washington, Seattle
 4001 E Stevens Way NE
 Seattle, WA 98195
 
-### **Agenda (tentative)**:
+### **Agenda**:
 
 
 #### 8:00 am - 8:30 am:  Coffee & Tea
