@@ -40,7 +40,7 @@ Seattle, WA 98195
 #### 12:00 pm - 2:00 pm: LUNCH
 
 #### 2:00 pm - 3:30 pm: Session 3: Databases Techniques for Machine Learning
-- 20 min "Building a broad and open knowledge graph" - Luna Dong
+- ~~20 min "Building a broad and open knowledge graph" - Luna Dong~~
 
 - 20 min "DB support for deep learning over image databases" - Parmita Mehta
 
