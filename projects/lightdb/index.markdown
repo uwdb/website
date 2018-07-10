@@ -63,9 +63,8 @@ Contact the [LightDB developers](mailto:visualcloud@cs.washington.edu) or sign u
 
 #### Publications
 
-Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung. LightDB: A DBMS for Virtual Reality Video. _PVLDB_, 11 (10): 1192-1205, 2018
-
-Brandon Haynes, Artem Minyaylov, Magdalena Balazinska, Luis Ceze, Alvin Cheung.  VisualCloud Demonstration: A DBMS for Virtual Reality.  _SIGMOD_, 1615-1618, 2017.
+* Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung. LightDB: A DBMS for Virtual Reality Video. _PVLDB_, 11 (10): 1192-1205, 2018
+* Brandon Haynes, Artem Minyaylov, Magdalena Balazinska, Luis Ceze, Alvin Cheung.  VisualCloud Demonstration: A DBMS for Virtual Reality.  _SIGMOD_, 1615-1618, 2017.
 
 #### Acknowledgments
 
