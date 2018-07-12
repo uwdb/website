@@ -23,7 +23,7 @@ Seattle, WA 98195
 #### 8:00 am - 8:30 am:  Coffee & Tea
 
 #### 8:30 am - 10:00 am:  Session 1: Advances in machine learning
-- Keynote 1: Zaid Harchaoui - "Scales of Machine Learning"
+- Keynote 1: Zaid Harchaoui - "Learning Vector Embeddings of Complex Data: the challenges of music data"
 - Keynote 2: Hannaneh Hajishirzi  - "Learning to reason and answer question about multimodal data"
 
 #### 10:00 am - 10:30 am: BREAK
