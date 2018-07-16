@@ -23,7 +23,7 @@ Seattle, WA 98195
 #### 8:00 am - 8:30 am:  Coffee & Tea
 
 #### 8:30 am - 10:00 am:  Session 1: Advances in machine learning
-- Keynote 1: Zaid Harchaoui - "Scales of Machine Learning"
+- Keynote 1: Zaid Harchaoui - "Learning Vector Embeddings of Complex Data: the challenges of music data"
 - Keynote 2: Hannaneh Hajishirzi  - "Learning to reason and answer question about multimodal data"
 
 #### 10:00 am - 10:30 am: BREAK
@@ -35,7 +35,7 @@ Seattle, WA 98195
 
 - 20 min - Algorithmic Curation and Causal Analysis over Scientific Data Repositories - Bill Howe
 
-- 20 min - Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco - Dominik Moritz
+- 20 min - [Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco](https://uwdata.github.io/draco/) - Dominik Moritz
 
 #### 12:00 pm - 2:00 pm: LUNCH
 
