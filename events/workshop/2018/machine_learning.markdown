@@ -29,7 +29,7 @@ Seattle, WA 98195
 #### 10:00 am - 10:30 am: BREAK
 
 #### 10:30 am - 12:00 pm: Session 2: Machine Learning for Data Management
-- 20 min - Deep Learning for Query Optimization - Magda Balazinska
+- 20 min - [Deep Learning for Query Optimization](slides/Magda-DeepQuery.pdf) - Magda Balazinska
 
 - 20 min - Causal Inference in Database Systems - Babak Salimi
 
@@ -42,7 +42,7 @@ Seattle, WA 98195
 #### 2:00 pm - 3:30 pm: Session 3: Databases Techniques for Machine Learning
 - 20 min "The Open World Database" - Laurel Orr
 
-- 20 min "DB support for deep learning over image databases" - Parmita Mehta
+- 20 min ["DB support for deep learning over image databases"](slides/Parmita-Odin.pdf) - Parmita Mehta
 
 - 20 min "Delta-Based Neural Network Inference for Fast Video Analytics". - Jingjing Wang
 
