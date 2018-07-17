@@ -55,6 +55,7 @@ Topics:
 * Where can ML help in data management (Magda)
 * DB support for ML: optimization, query rewriting (Alvin)
 * Can we use AQP in ML and how (Dan)
+
 [Session Notes](slides/Break-Out-Sessions.pdf)
 
 #### 5:00 pm - 5:30 pm: Report from breakouts & discussion
