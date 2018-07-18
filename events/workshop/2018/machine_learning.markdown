@@ -44,7 +44,7 @@ Seattle, WA 98195
 
 - 20 min ["DB support for deep learning over image databases"](slides/Parmita-Odin.pdf) - Parmita Mehta
 
-- 20 min ["Delta-Based Neural Network Inference for Fast Video Analytics"](slides/Jingjing-Deluceva.pdf) - Jingjing Wang
+- 20 min ["Delta-Based Neural Network Inference for Fast Video Analytics"](slides/Jingjing_Deluceva.pdf) - Jingjing Wang
 
 - 20 min "Optimal Query Processing Meets Information Theory" - Dan Suciu
 
