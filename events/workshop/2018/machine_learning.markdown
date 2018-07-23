@@ -46,7 +46,7 @@ Seattle, WA 98195
 
 - 20 min ["Delta-Based Neural Network Inference for Fast Video Analytics"](slides/Jingjing_Deluceva.pdf) - Jingjing Wang
 
-- 20 min "Optimal Query Processing Meets Information Theory" - Dan Suciu
+- 20 min ["Optimal Query Processing Meets Information Theory"](slides/Dan-OQP.pdf) - Dan Suciu
 
 #### 3:30 pm - 4:00 pm: BREAK
 
