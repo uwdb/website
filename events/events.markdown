@@ -12,3 +12,4 @@ id: "events"
 
 # UWDB Affiliates Annual Workshop
 - [2017]({{ site.baseurl }}/events/workshop/2017/db_usability.html)
+- [2018]({{ site.baseurl }}/events/workshop/2018/machine_learning.html)

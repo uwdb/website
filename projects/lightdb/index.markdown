@@ -8,11 +8,11 @@ id: "projects"
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 <link href="VisualCloud Overview_embed.css" rel="stylesheet">
 
-<div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
+<div class="jumbotron" style="background-image: none; background-color: inherit; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
   <img src="../../images/projects/lightdb.png" alt="Logo" style="width: 40rem" />
-  <p>A Database Management System for Virtual Reality</p>
+  <p>A Database Management System for Virtual Reality Video</p>
   <p>
-  	<a class="btn btn-primary btn-lg label-primary" href="haynes-sigmod17-demo.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
+  	<a class="btn btn-primary btn-lg label-primary" href="p1144-haynes.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
   	<a class="btn btn-primary btn-lg label-default" href="#" role="button" style="width: 180px">Get the Code<br /><small>(coming soon!)</small></a>
   </p>
 </div>
@@ -61,9 +61,14 @@ LightDB currently supports loading from the file system (`FileIngestAccessMethod
 
 Contact the [LightDB developers](mailto:visualcloud@cs.washington.edu) or sign up for our [mailing list](https://mailman.cs.washington.edu/mailman/listinfo/visualcloud) to receive updates.
 
+#### Publications
+
+* Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung. LightDB: A DBMS for Virtual Reality Video. _PVLDB_, 11 (10): 1192-1205, 2018
+* Brandon Haynes, Artem Minyaylov, Magdalena Balazinska, Luis Ceze, Alvin Cheung.  VisualCloud Demonstration: A DBMS for Virtual Reality.  _SIGMOD_, 1615-1618, 2017. **[Best Demonstration Honorable Mention]**
+
 #### Acknowledgments
 
-This work is supported in part by the National Science Foundation
+This work is supported by the National Science Foundation
 through NSF grants 
 [CCF-1703051](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1703051), 
 [IIS-1247469](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1247469), 
@@ -74,6 +79,6 @@ DARPA award [FA8750-16-2-0032](https://www.darpa.mil); DOE award [DE-SC0016260](
 a [Google Faculty Research Award](https://docs.google.com/document/d/1IfCmWZ-ClmvmB4gzlApR4htAhYBjKliPGQxLpu6KmaU/edit);
 an award from the [University of Washington Reality Lab](https://realitylab.uw.edu);
 and gifts from the [Intel Science and Technology Center for Big
-Data](http://istc-bigdata.org), [Intel Corporation](https://www.intel.com), [Adobe](http://www.adobe.com), [Amazon](https://www.amazon.com), and [Google](https://google.com).
+Data](http://istc-bigdata.org), [Intel Corporation](https://www.intel.com), [Adobe](http://www.adobe.com), [Amazon](https://www.amazon.com), [Facebook](https://facebook.com), [Huawei](https://www.huawei.com) and [Google](https://google.com).
 
 &nbsp;

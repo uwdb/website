@@ -1,7 +1,7 @@
 name: DB group
 markdown: kramdown
 highlighter: rouge
-url: http://db.cs.washington.edu
+url: https://db.cs.washington.edu
 baseurl: ""
 plugins:
   - jekyll-redirect-from
