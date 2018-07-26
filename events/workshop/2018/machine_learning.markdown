@@ -31,9 +31,9 @@ Seattle, WA 98195
 #### 10:30 am - 12:00 pm: Session 2: Machine Learning for Data Management
 - 20 min - [Deep Learning for Query Optimization](slides/Magda-DeepQuery.pdf) - Magda Balazinska
 
-- 20 min - Causal Inference in Database Systems - Babak Salimi
+- 20 min - [Causal Inference in Database Systems](slides/Babk-BiasInOLAP.pptx) - Babak Salimi
 
-- 20 min - Algorithmic Curation and Causal Analysis over Scientific Data Repositories - Bill Howe
+- 20 min - [Algorithmic Curation and Causal Analysis over Scientific Data Repositories](slides/Bill-Curation.pptx) - Bill Howe
 
 - 20 min - [Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco](https://uwdata.github.io/draco/) - Dominik Moritz
 
