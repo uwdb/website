@@ -32,7 +32,7 @@ Allen School of Computer Science and Engineering.<br>
 Paul Allen Center, CSE 305.</p>
 
 <p><strong>When</strong>: 
-Friday, August 3, 2018.</p>
+Friday, August 3, 2018. 2:00pm - 2:30pm</p>
 
 <p><strong>Title</strong>:
 What if we could reason about the design space data structures? 
@@ -56,7 +56,7 @@ Allen School of Computer Science and Engineering.<br>
 Paul Allen Center, CSE 305.</p>
 
 <p><strong>When</strong>: 
-Friday, August 3, 2018.</p>
+Friday, August 3, 2018. 3:00pm - 3:30pm</p>
 
 <p><strong>Title</strong>:
 Hardware-conscious data processing systems 
