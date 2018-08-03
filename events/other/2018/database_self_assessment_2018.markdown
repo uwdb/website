@@ -19,7 +19,7 @@ Seattle WA 98195-2350
 Tuesday, October 9th 2018 - Wednesday, October 10th 2018
 
 ### **Hotel**:
-[Silver Cloud Hotel Seattle - University District](https://www.silvercloud.com/university/)
+[Silver Cloud Hotel Seattle, University District](https://www.silvercloud.com/university/)  
 1-800-205-6940
 
 Our group rate at the Silver Cloud is $215/night+taxes with complimentary breakfast and internet. Individual reservations should be made by calling the hotel directly and using the group name: 2018 Database Meeting.
