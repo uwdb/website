@@ -15,4 +15,4 @@ id: "events"
 - [2018]({{ site.baseurl }}/events/workshop/2018/machine_learning.html)
 
 # Other
-- [2018]({{ site.baseurl }}/events/other/2018/db_self_assesment.html)
+- [The Database Research Self-Assessment 2018]({{ site.baseurl }}/events/other/2018/database_self_assessment_2018.html)
