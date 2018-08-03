@@ -7,7 +7,7 @@ id: "database_self_assessment_2018"
 
 # The Database Research Self-Assessment Meeting 2018
 
-### **Where**:
+### **Where**
 
 Gates Commons Room CSE691  
 Paul G. Allen Center for Computer Science & Engineering  
@@ -15,21 +15,21 @@ University of Washington
 185 E Stevens Way NE  
 Seattle WA 98195-2350
 
-### **When**:
+### **When**
 Tuesday, October 9th 2018 - Wednesday, October 10th 2018
 
-### **Hotel**:
+### **Hotel**
 [Silver Cloud Hotel Seattle, University District](https://www.silvercloud.com/university/)  
 1-800-205-6940
 
 Our group rate at the Silver Cloud is $215/night+taxes with complimentary breakfast and internet. Individual reservations should be made by calling the hotel directly and using the group name: 2018 Database Meeting.
 
-We have 20 standard king rooms and 20 standard double queen rooms for October 8th, 9th and 10th 2018.
+We have 20 standard king rooms and 20 standard double queen rooms for October 8th, 9th, and 10th 2018.
 
 The deadline to book a room at our group rate is September, 7th 2018. Beyond that, reservations will be at non-group rate and subject to availability.
 
 
-### **Transportation**:
+### **Transportation**
 
 **To get to and from the airport to the hotel**:
 
@@ -56,7 +56,7 @@ _coming soon_
 The Seattle meeting was supported financially by donations from Microsoft, Google, and Megagon Labs (formerly Recruit Institute of Technology).
 
 
-### **Contact Information**:
+### **Contact Information**
 
 [Prof. Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda)
 
