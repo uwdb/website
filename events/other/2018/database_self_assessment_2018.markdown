@@ -9,11 +9,11 @@ id: "database_self_assessment_2018"
 
 ### **Where**:
 
-Gates Commons Room CSE691 
-Paul G. Allen Center for Computer Science & Engineering 
-University of Washington 
-185 E Stevens Way NE 
-Seattle WA 98195-2350 
+Gates Commons Room CSE691  
+Paul G. Allen Center for Computer Science & Engineering  
+University of Washington  
+185 E Stevens Way NE  
+Seattle WA 98195-2350
 
 ### **When**:
 Tuesday, October 9th 2018 - Wednesday, October 10th 2018
