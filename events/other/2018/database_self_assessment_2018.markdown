@@ -15,10 +15,6 @@ University of Washington
 185 E Stevens Way NE
 Seattle WA 98195-2350
 
-[Getting here](https://www.cs.washington.edu/visitors/getting_here)
-
-[Parking information](https://facilities.uw.edu/transportation/park) (tell the gate attendant that you will be heading to the Paul G Allen Center and you will be directed)
-
 ### **When**:
 Tuesday, October 9th 2018 - Wednesday, October 10th 2018
 
