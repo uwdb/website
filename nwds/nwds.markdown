@@ -24,65 +24,19 @@ We thank our partners for supporting NWDS:
 
 ##  Upcoming Talks
 
-<p><a name="Stratos_Idreos_8_3_18"></a>
-<strong>Speaker</strong>: Stratos Idreos</p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Allen School of Computer Science and Engineering.<br>
-Paul Allen Center, CSE 305.</p>
-
-<p><strong>When</strong>: 
-Friday, August 3, 2018. 2:00pm - 2:30pm</p>
-
-<p><strong>Title</strong>:
-What if we could reason about the design space data structures? 
-</p>
-
-<p><strong>Abstract</strong>: 
-Data structures are critical in any data-driven scenario, and they define the behavior of modern data systems. However, they are notoriously hard to design due to a massive design space and the dependence of performance on workload and hardware which evolve continuously. In this talk, we ask two questions: What if we knew how many and which data structures are possible to design? What if we could compute the expected performance of a data structure design on a given workload and hardware without having to implement it and without even having access to the target machine? We will discuss our quest for the first principles of data structures to accelerate the process of design and envision new classes of adaptive systems that cross design spaces. We will also draw examples from the NoSQL key-value store design space and discuss how to accelerate them and balance space-time tradeoffs. 
-</p>
-
-<p><strong>Bio</strong>:
-Stratos Idreos is an assistant professor of Computer Science at Harvard University where he leads DASlab, the Data Systems Laboratory@Harvard SEAS. Stratos works on data system architectures with emphasis on how we can make it easy to design efficient data systems as applications and hardware keep evolving and on how we can make it easy to use these systems even for non-experts. For his doctoral work on Database Cracking, Stratos won the 2011 ACM SIGMOD Jim Gray Doctoral Dissertation award and the 2011 ERCIM Cor Baayen award. He is also a recipient of an IBM zEnterpise System Recognition Award, a VLDB Challenges and Visions best paper award and an NSF Career award. In 2015 he was awarded the IEEE TCDE Rising Star Award from the IEEE Technical Committee on Data Engineering for his work on adaptive data systems.
-</p>
-
----
-
-<p><a name="Holger_Pirk_8_3_18"></a>
-<strong>Speaker</strong>: Holger Pirk</p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Allen School of Computer Science and Engineering.<br>
-Paul Allen Center, CSE 305.</p>
-
-<p><strong>When</strong>: 
-Friday, August 3, 2018. 3:00pm - 3:30pm</p>
-
-<p><strong>Title</strong>:
-Hardware-conscious data processing systems 
-</p>
-
-<p><strong>Abstract</strong>: 
-Hardware-conscious database systems evaluate queries in milliseconds that take minutes in conventional systems, turning long-running jobs into interactive queries. However, the plethora of hardware-focused tuning techniques creates a design-space that is hard to navigate for a skilled performance engineer and even harder to exploit for modern, code-generating data processing systems. In addition, hardware-conscious tuning is often at odds with other design goals such as implementation effort, ease of use and maintainability -- in particular when developing code-generating database systems. Well-designed programming abstractions are essential to allow the creation of systems that are fast, easy to use and maintainable.
-</p>
-<p>
-In my talk, I demonstrate how existing frameworks for high-performance, data-parallel programming fall short of this goal. I argue that the poor performance of many mainstream data processing systems is due to the lack of an appropriate intermediate abstraction layer, i.e., one that is amenable to both, traditional data-oriented as well as low-level hardware-focused optimizations.
-</p>
-<p>
-To address this problem, I introduce Voodoo, a data parallel intermediate language that is abstract enough to allow effective code generation and optimization but low-level enough to express many common optimizations such as parallelization, loop tiling or memory locality optimizations. I demonstrate how we used Voodoo to build a relational data processing system that outperforms the fastest state-of-the-art in-memory database systems by up to five times. I also demonstrate how Voodoo can be used as a performance engineering framework, allowing the expression of many known optimizations and even enabling the discovery of entirely new optimizations.
-</p>
-
-<p><strong>Bio</strong>:
-Holger is an Assistant Professor (Lecturer) in the Department of Computing at Imperial College London. As such, he is a member of the Large-Scale Data and Systems Group. Before that, he was a Postdoc at the Database group at MIT CSAIL. He spent his PhD years in the Database Architectures group at CWI in Amsterdam resulting in a PhD from the University of Amsterdam in 2015. He received a master's degree (Diplom) in computer science at Humboldt-Universität zu Berlin in 2010. His research interests lie in analytical query processing on memory-resident data. In particular, he studies storage schemes and processing models for modern hardware.
-</p>
-
-
+Stay tuned for next quarter's talks!
 
 ---
 
 ##  Past Talks
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
+
+#### Summer 2018
+
+* [Holger Pirk](https://www.doc.ic.ac.uk/~hlgr/), Imperial College London [[abstract](past_talks.html#Holger_Pirk_8_3_18)] [[video](https://www.youtube.com/watch?v=A0tIcaRwooE)]
+
+* [Stratos Idreos](https://stratos.seas.harvard.edu/), Harvard University [[abstsract](past_talks.html#Stratos_Idreos_8_3_18)] [[video](https://www.youtube.com/watch?v=hXYhGtyKR30)]
 
 #### Winter 2018
 
