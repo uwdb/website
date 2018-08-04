@@ -35,7 +35,6 @@ Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past
 #### Summer 2018
 
 * [Holger Pirk](https://www.doc.ic.ac.uk/~hlgr/), Imperial College London [[abstract](past_talks.html#Holger_Pirk_8_3_18)] [[video](https://www.youtube.com/watch?v=A0tIcaRwooE)]
-
 * [Stratos Idreos](https://stratos.seas.harvard.edu/), Harvard University [[abstsract](past_talks.html#Stratos_Idreos_8_3_18)] [[video](https://www.youtube.com/watch?v=hXYhGtyKR30)]
 
 #### Winter 2018

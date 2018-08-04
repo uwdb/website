@@ -28,7 +28,7 @@ Data structures are critical in any data-driven scenario, and they define the be
 Stratos Idreos is an assistant professor of Computer Science at Harvard University where he leads DASlab, the Data Systems Laboratory@Harvard SEAS. Stratos works on data system architectures with emphasis on how we can make it easy to design efficient data systems as applications and hardware keep evolving and on how we can make it easy to use these systems even for non-experts. For his doctoral work on Database Cracking, Stratos won the 2011 ACM SIGMOD Jim Gray Doctoral Dissertation award and the 2011 ERCIM Cor Baayen award. He is also a recipient of an IBM zEnterpise System Recognition Award, a VLDB Challenges and Visions best paper award and an NSF Career award. In 2015 he was awarded the IEEE TCDE Rising Star Award from the IEEE Technical Committee on Data Engineering for his work on adaptive data systems.
 </p>
 
----
+* * *
 
 <p><a name="Holger_Pirk_8_3_18"></a>
 <strong>Speaker</strong>: Holger Pirk</p>
