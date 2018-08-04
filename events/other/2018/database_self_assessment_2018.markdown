@@ -48,7 +48,7 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 
 ### **Meeting Agenda**
 
-_coming soon_
+The agenda will be finalized and posted closer to the meeting dates.
 
 
 ### **Acknowledgments**
