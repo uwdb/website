@@ -49,7 +49,7 @@ Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past
 
 #### Spring 2017
 
-* [Frank McSherry](https://github.com/frankmcsherry) [[abstract](past_talks.html#Frank_McSherry_5_26_17) [[video](https://youtu.be/v483UydXszY)]
+* [Frank McSherry](https://github.com/frankmcsherry) [[abstract](past_talks.html#Frank_McSherry_5_26_17)] [[video](https://youtu.be/v483UydXszY)]
 
 #### Winter 2017
 
