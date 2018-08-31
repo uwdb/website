@@ -15,7 +15,6 @@ We thank our current affiliates:
 * [Google](http://www.google.com)
 * [MemSQL](http://www.memsql.com)
 * [Microsoft](http://www.microsoft.com)
-* [Qumulo](http://qumulo.com)
 * [Tableau](http://www.tableau.com)
 * [Teradata](http://www.teradata.com)
 
