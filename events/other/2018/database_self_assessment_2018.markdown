@@ -40,6 +40,10 @@ The deadline to book a room at our group rate is September, 7th 2018. Beyond tha
 
 We will use a shuttle to go from the hotel to the building and back. We will post more information here closer to the event dates.
 
+**Driving and Parking Information For Those Coming On Their Own**:
+
+If you are not staying at the Silver Cloud Inn and will be getting to campus directly, please use the following directions: [How to get to the Paul G. Allen Center for CSE](https://www.cs.washington.edu/visitors/getting_here)
+
 
 ### **Participants**
 
