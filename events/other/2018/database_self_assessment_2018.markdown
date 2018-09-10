@@ -60,10 +60,9 @@ The agenda will be finalized and posted closer to the meeting dates.
 The Seattle meeting was supported financially by donations from Microsoft, Google, and Megagon Labs (formerly Recruit Institute of Technology).
 
 
-### **Contact Information**
+### **Organizers**
 
-[Prof. Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda)
+[Surajit Chaudhuri](https://www.microsoft.com/en-us/research/people/surajitc/)
 
-[Prof. Alvin Cheung](https://homes.cs.washington.edu/~akcheung/)
+[Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda)
 
-[Prof. Dan Suciu](https://homes.cs.washington.edu/~suciu/)
