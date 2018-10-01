@@ -64,8 +64,8 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 #### 10:15 am - 10:45 am: BREAK
 
 #### 10:45 am - 12:30 pm: Breakouts
-- Working Group 2 (Responsible and Novel Uses of Data) in Room 503
-- Working Group 3 (Database Engine) in Room 203
+- Group 2 (Responsible and Novel Uses of Data) in Room 503
+- Group 3 (Database Engine) in Room 203
 
 #### 12:30 pm - 1:30 pm: LUNCH 
 - Invited Talk by Raluca Popa, UC Berkeley
@@ -96,8 +96,8 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 #### 8:00 am - 8:30 am:  Coffee & Tea
 
 #### 8:30 am - 10:15 am: Breakouts
-- Working Group 1 (Data Science) in Room 303
-- Working Group 4 (Cloud Data Services) in Room 203
+- Group 1 (Data Science) in Room 303
+- Group 4 (Cloud Data Services) in Room 203
 
 #### 10:15 am - 10:45 am: BREAK
 
