@@ -24,9 +24,51 @@ We thank our partners for supporting NWDS:
 
 ##  Upcoming Talks
 
-Stay tuned for next quarter's talks!
+#### Fall 2018
+* [Spyros Blanas](https://web.cse.ohio-state.edu/~blanas.2/), Ohio State University
+
+<p><a name="Spyros_Blanas_10_19_18"></a>
+<strong>Speaker</strong>: <a href="https://web.cse.ohio-state.edu/~blanas.2/">Spyros Blanas</a></p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul Allen Center, CSE 403.</p>
+
+<p><strong>When</strong>: 
+Friday, October 19, 2018. 2:30pm - 3:30pm</p>
+
+<p><strong>Title</strong>:
+Scaling database systems to high-performance computers
+</p>
+
+<p><strong>Abstract</strong>: 
+We are witnessing the increasing use of warehouse-scale computers to analyze massive datasets quickly. This poses two challenges for database systems. The first challenge is interoperability with established analytics libraries and tools. Massive datasets often consist of images (arrays) in file formats like FITS and HDF5. We will first present ArrayBridge, an open-source I/O library that allows SciDB, TensorFlow and HDF5-based programs to co-exist in a pipeline without converting between file formats. The second challenge is scalability, as warehouse-scale computers expose communication bottlenecks in foundational data processing operations. We will present GRASP, a parallel aggregation algorithm for high-cardinality aggregation that avoids unscalable all-to-all communication and leverages similarity to complete the aggregation faster than repartitioning. Finally, we will present an RDMA-aware data shuffling algorithm that transmits data up to 4X faster than MPI. We conclude by highlighting additional challenges that need to be overcome to scale database systems to massive computers.
+</p>
+
+<p><strong>Bio</strong>:
+Spyros Blanas is an assistant professor in the Department of Computer Science and Engineering at The Ohio State University. His research interest is high performance database systems, and his current goal is to build a database system for high-end computing facilities. He has received the IEEE TCDE Rising Star award and a Google Research Faculty award. He completed his Ph.D. at the University of Wisconsin–Madison where part of his Ph.D. dissertation was commercialized in Microsoft SQL Server as the Hekaton in-memory transaction processing engine.
+</p>
 
 ---
+
+<p><a name="Arun_Kumar_11_2_18"></a>
+<strong>Speaker</strong>: <a href="http://cseweb.ucsd.edu/~arunkk/">Arun Kumar</a></p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul Allen Center, CSE 305.</p>
+
+<p><strong>When</strong>: 
+Friday, November 2, 2018. 2:30pm - 3:30pm</p>
+
+<p><strong>Title</strong>:
+TBD
+</p>
+
+<p><strong>Abstract</strong>: 
+TBD
+</p>
+
 
 ##  Past Talks
 
