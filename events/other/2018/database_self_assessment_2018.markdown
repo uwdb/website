@@ -77,14 +77,14 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 #### 3:30 pm - 4:00 pm: BREAK
 
 #### 4:00 pm - 5:00 pm: Discussion
-- 4:00pm - 5:00pm Group 5 (Education and Publications) Discussion
+- Group 5 (Education and Publications) Discussion
 
 #### 5:00 pm - 6:15 pm: RECEPTION
 - Anti-conference planning
 
 #### 6:30 pm - 6:45 pm: Transportation to Dinner
 
-#### 7 pm - 9pm: DINNER at [Mamma Melina's] (http://mammamelina.com/)
+#### 7 pm - 9pm: DINNER at [Mamma Melina's](http://mammamelina.com/)
 
 #### 9 pm - 11 pm: DRINKS at [Silver Cloud Inn's AG47 Bistro](https://www.silvercloud.com/university/)
 
