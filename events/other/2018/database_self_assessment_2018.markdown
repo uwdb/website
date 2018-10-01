@@ -89,6 +89,33 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 #### 9 pm - 11 pm: DRINKS at [Silver Cloud Inn's AG47 Bistro](https://www.silvercloud.com/university/)
 
 
+### **Wednesday**
+
+#### 8:00 am - 8:30 am:  Coffee & Tea
+
+#### 8:30 am - 10:15 am: Breakouts
+-- Working Group 1 (Data Science) in Room 303
+-- Working Group 4 (Cloud Data Services) in Room 203
+
+#### 10:15 am - 10:45 am: BREAK
+
+#### 10:45 am - 12:00 pm Anti-conference 
+
+#### 12:00 pm - 1:00 pm: LUNCH
+-- Anti-conference report back 
+
+#### 1:00 pm - 2:00 pm: Group 1 Discussion 
+
+#### 2:00 pm - 3:00 pm: Group 4 Discussion 
+
+#### 3:00 pm - 3:30 pm: BREAK 
+
+#### 3:30 pm - 4:30 pm: Group 6 (Innovation and Partnerships) Discussion 
+
+#### 4:30 pm : ADJOURN
+
+THANK YOU for your participation!
+
 
 ### **Acknowledgments**
 
