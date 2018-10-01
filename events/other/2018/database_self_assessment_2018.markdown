@@ -84,9 +84,11 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 
 #### 6:30 pm - 6:45 pm: Transportation to Dinner
 
-#### 7 pm - 9pm: DINNER at [Mamma Melina's](http://mammamelina.com/)
+#### 7:00 pm - 9:00 pm: DINNER
+- [Mamma Melina's](http://mammamelina.com/)
 
-#### 9 pm - 11 pm: DRINKS at [Silver Cloud Inn's AG47 Bistro](https://www.silvercloud.com/university/)
+#### 9:00 pm - 11:00 pm: DRINKS
+- [Silver Cloud Inn's AG47 Bistro](https://www.silvercloud.com/university/)
 
 
 ### **Wednesday**
