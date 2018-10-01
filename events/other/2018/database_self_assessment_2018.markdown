@@ -112,7 +112,8 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 
 #### 3:00 pm - 3:30 pm: BREAK 
 
-#### 3:30 pm - 4:30 pm: Group 6 (Innovation and Partnerships) Discussion 
+#### 3:30 pm - 4:30 pm: Discussion
+- Group 6 (Innovation and Partnerships) Discussion 
 
 #### 4:30 pm : ADJOURN
 
