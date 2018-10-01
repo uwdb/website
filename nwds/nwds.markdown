@@ -25,8 +25,6 @@ We thank our partners for supporting NWDS:
 ##  Upcoming Talks
 
 #### Fall 2018
-* [Spyros Blanas](https://web.cse.ohio-state.edu/~blanas.2/), Ohio State University
-
 <p><a name="Spyros_Blanas_10_19_18"></a>
 <strong>Speaker</strong>: <a href="https://web.cse.ohio-state.edu/~blanas.2/">Spyros Blanas</a></p>
 
