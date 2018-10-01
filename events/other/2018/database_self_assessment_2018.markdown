@@ -61,7 +61,7 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 - 8:45am - 9:15am: Report from Beckman'13 (AnHai Doan)
 - 9:15am - 10:15am: Invited Talk (David Anderson, CMU)
 
-#### 10:15 am - 10:40 am: BREAK
+#### 10:15 am - 10:45 am: BREAK
 
 #### 10:45 am - 12:30 pm: Breakouts
 - Working Group 2 (Responsible and Novel Uses of Data) in Room 503
