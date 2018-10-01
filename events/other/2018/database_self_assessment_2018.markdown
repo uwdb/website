@@ -38,7 +38,7 @@ The deadline to book a room at our group rate is September, 7th 2018. Beyond tha
 
 **To get from the hotel to the Paul G. Allen Center for CSE**:
 
-We will use a shuttle to go from the hotel to the building and back. We will post more information here closer to the event dates.
+We will use a shuttle to go from the hotel to the building and back. On both days morning, our shuttle is at 8am sharp. Please be in the hotel lobby before 8am. If you miss the shuttle, you can walk (it takes 20 min, with one part uphill) or please use your favorite taxi or ride sharing service.
 
 **Driving and parking information for those coming on their own**:
 
@@ -64,23 +64,23 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 #### 10:15 am - 10:40 am: BREAK
 
 #### 10:45 am - 12:30 pm: Breakouts
--- Working Group 2 (Responsible and Novel Uses of Data) in Room 503
--- Working Group 3 (Database Engine) in Room 203
+- Working Group 2 (Responsible and Novel Uses of Data) in Room 503
+- Working Group 3 (Database Engine) in Room 203
 
 #### 12:30 pm - 1:30 pm: LUNCH 
--- Invited Talk by Raluca Popa, UC Berkeley
+- Invited Talk by Raluca Popa, UC Berkeley
 
 #### 1:30 pm - 3:30 pm: Discussion 
--- 1:30pm - 2:30pm: Group 2 Discussion 
--- 2:30pm - 3:30pm: Group 3 Discussion 
+- 1:30pm - 2:30pm: Group 2 Discussion 
+- 2:30pm - 3:30pm: Group 3 Discussion 
 
 #### 3:30 pm - 4:00 pm: BREAK
 
 #### 4:00 pm - 5:00 pm: Discussion
--- 4:00pm - 5:00pm Group 5 (Education and Publications) Discussion
+- 4:00pm - 5:00pm Group 5 (Education and Publications) Discussion
 
 #### 5:00 pm - 6:15 pm: RECEPTION
--- Anti-conference planning
+- Anti-conference planning
 
 #### 6:30 pm - 6:45 pm: Transportation to Dinner
 
@@ -94,19 +94,19 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 #### 8:00 am - 8:30 am:  Coffee & Tea
 
 #### 8:30 am - 10:15 am: Breakouts
--- Working Group 1 (Data Science) in Room 303
--- Working Group 4 (Cloud Data Services) in Room 203
+- Working Group 1 (Data Science) in Room 303
+- Working Group 4 (Cloud Data Services) in Room 203
 
 #### 10:15 am - 10:45 am: BREAK
 
 #### 10:45 am - 12:00 pm Anti-conference 
 
 #### 12:00 pm - 1:00 pm: LUNCH
--- Anti-conference report back 
+- Anti-conference report back 
 
 #### 1:00 pm - 3:00 pm: Discussion
--- 1:00pm - 2:00pm: Group 1 Discussion 
--- 2:00pm - 3:00pm: Group 4 Discussion 
+- 1:00pm - 2:00pm: Group 1 Discussion 
+- 2:00pm - 3:00pm: Group 4 Discussion 
 
 #### 3:00 pm - 3:30 pm: BREAK 
 
