@@ -56,11 +56,10 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 
 #### 8:00 am - 8:30 am:  Coffee & Tea
 
-#### 8:30 am - 8:40 am:  Welcome Remarks (Magda and Surajit)
-
-#### 8:45 am - 9:15 am:  Report from Beckman'13 (AnHai Doan)
-
-#### 9:15 am - 10:15 am: Invited Talk (David Anderson, CMU)
+#### 8:30 am - 10:15 am:  Invited Talks
+- 8:30am - 8:40am: Welcome Remarks (Magda and Surajit)
+- 8:45am - 9:15am: Report from Beckman'13 (AnHai Doan)
+- 9:15am - 10:15am: Invited Talk (David Anderson, CMU)
 
 #### 10:15 am - 10:40 am: BREAK
 
@@ -71,13 +70,14 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 #### 12:30 pm - 1:30 pm: LUNCH 
 -- Invited Talk by Raluca Popa, UC Berkeley
 
-#### 1:30 pm - 2:30 pm: Group 2 Discussion 
-
-#### 2:30 pm - 3:30 pm: Group 3 Discussion 
+#### 1:30 pm - 3:30 pm: Discussion 
+-- 1:30pm - 2:30pm: Group 2 Discussion 
+-- 2:30pm - 3:30pm: Group 3 Discussion 
 
 #### 3:30 pm - 4:00 pm: BREAK
 
-#### 4:00 pm - 5:00 pm: Group 5 (Education and Publications) Discussion
+#### 4:00 pm - 5:00 pm: Discussion
+-- 4:00pm - 5:00pm Group 5 (Education and Publications) Discussion
 
 #### 5:00 pm - 6:15 pm: RECEPTION
 -- Anti-conference planning
@@ -104,9 +104,9 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 #### 12:00 pm - 1:00 pm: LUNCH
 -- Anti-conference report back 
 
-#### 1:00 pm - 2:00 pm: Group 1 Discussion 
-
-#### 2:00 pm - 3:00 pm: Group 4 Discussion 
+#### 1:00 pm - 3:00 pm: Discussion
+-- 1:00pm - 2:00pm: Group 1 Discussion 
+-- 2:00pm - 3:00pm: Group 4 Discussion 
 
 #### 3:00 pm - 3:30 pm: BREAK 
 
