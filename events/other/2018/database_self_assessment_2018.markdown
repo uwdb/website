@@ -54,7 +54,7 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 
 ### **Tuesday**
 
-#### 8:00 am - 8:30 am:  Very Light Breakfast
+#### 8:00 am - 8:30 am:  Light Breakfast
 
 #### 8:30 am - 10:15 am:  Invited Talks
 - 8:30am - 8:40am: Welcome Remarks (Magda and Surajit)
@@ -93,7 +93,7 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 
 ### **Wednesday**
 
-#### 8:00 am - 8:30 am:  Very Light Breakfast
+#### 8:00 am - 8:30 am:  Light Breakfast
 
 #### 8:30 am - 10:15 am: Breakouts
 - Group 1 (Data Science) in Room 303
@@ -110,12 +110,12 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 - 1:00pm - 2:00pm: Group 1 Discussion 
 - 2:00pm - 3:00pm: Group 4 Discussion 
 
-#### 3:00 pm - 3:30 pm: BREAK 
+#### 3:00 pm - 3:15 pm: BREAK 
 
-#### 3:30 pm - 4:30 pm: Discussion
+#### 3:15 pm - 4:15 pm: Discussion
 - Group 6 (Innovation and Partnerships) Discussion 
 
-#### 4:30 pm : ADJOURN
+#### 4:15 pm : Closing Remarks and Next Steps (Magda & Surajit)
 
 #### 5:30 pm : Shuttle back to the hotel
 
