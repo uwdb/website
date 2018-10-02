@@ -117,6 +117,9 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 
 #### 4:30 pm : ADJOURN
 
+#### 5:30 pm : Shuttle back to the hotel
+
+
 THANK YOU for your participation!
 
 
