@@ -59,7 +59,7 @@ Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen
 #### 8:30 am - 10:15 am:  Invited Talks
 - 8:30am - 8:40am: Welcome Remarks (Magda and Surajit)
 - 8:45am - 9:15am: Report from Beckman'13 (AnHai Doan)
-- 9:15am - 10:15am: Invited Talk (David Anderson, CMU)
+- 9:15am - 10:15am: Invited Talk (David Andersen, CMU)
 
 #### 10:15 am - 10:45 am: BREAK
 
