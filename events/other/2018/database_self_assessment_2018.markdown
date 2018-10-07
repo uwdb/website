@@ -47,7 +47,7 @@ If you are not staying at the Silver Cloud Inn and will be getting to campus dir
 
 ### **Participants**
 
-Daniel Abadi, Rakesh Agrawal, Anastasia Ailamaki, Gustavo Alonso, David Andersen, Peter Bailis, Magdalena Balazinska, Phil Bernstein, Peter Boncz, Surajit Chaudhuri, Alvin Cheung, Anhai Doan, Luna Dong, Mike Franklin, Juliana Freire, Alon Halevy, Joe Hellerstein, Stratos Idreos, Donald Kossman, Tim Kraska, Sailesh Krishnamurthy, Sam Madden, Volker Markl, Tova Milo, C. Mohan, Jeff Naughton, Thomas Neumann, Beng Chin Ooi, Fatma Ozcan, Jignesh Patel, Andy Pavlo, Raluca Popa, Raghu Ramakrishnan, Christopher Re, Mike Stonebraker, and Dan Suciu.
+Daniel Abadi, Anastasia Ailamaki, David Andersen, Peter Bailis, Magdalena Balazinska, Phil Bernstein, Peter Boncz, Surajit Chaudhuri, Alvin Cheung, Anhai Doan, Luna Dong, Mike Franklin, Juliana Freire, Alon Halevy, Joe Hellerstein, Stratos Idreos, Donald Kossman, Tim Kraska, Sailesh Krishnamurthy, Volker Markl, Sergey Melnik, Tova Milo, C. Mohan, Thomas Neumann, Beng Chin Ooi, Fatma Ozcan, Jignesh Patel, Andy Pavlo, Raluca Popa, Raghu Ramakrishnan, Christopher Re, Mike Stonebraker, and Dan Suciu.
 
 
 ### **Meeting Agenda**
