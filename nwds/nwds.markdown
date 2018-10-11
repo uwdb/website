@@ -25,6 +25,30 @@ We thank our partners for supporting NWDS:
 ##  Upcoming Talks
 
 #### Fall 2018
+<p><a name="Daniel_Harrison_10_12_18"></a>
+<strong>Speaker</strong>: Daniel Harrison</a></p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul Allen Center, CSE 403.</p>
+
+<p><strong>When</strong>: 
+Friday, October 12, 2018. 2:30pm - 3:30pm</p>
+
+<p><strong>Title</strong>:
+CockroachDB: Scalable, survivable, strongly consistent, SQL
+</p>
+
+<p><strong>Abstract</strong>: 
+In this talk, we'll introduce CockroachDB, an open source relational database that combines the rich functionality of SQL with the horizontal scalability common to NoSQL offerings. It also supports MVCC and strongly consistent geo-replication. With minimal effort, an application developer can build against a SQL database that scales to arbitrary sizes while providing beyond enterprise-grade disaster recovery. We'll look at the design of CockroachDB and explore several complex data architectures which it can replace. Come learn about CockroachDB and how it makes data easy.
+</p>
+
+<p><strong>Bio</strong>:
+Dan Harrison is a Software Engineer at Cockroach Labs. At Google, he had the luxury of infrastructure that scales effortlessly; then at Foursquare, he saw how much time is wasted when it doesn't. Dan joined Cockroach Labs to help bring that benefit to everyone.
+</p>
+
+---
+
 <p><a name="Spyros_Blanas_10_19_18"></a>
 <strong>Speaker</strong>: <a href="https://web.cse.ohio-state.edu/~blanas.2/">Spyros Blanas</a></p>
 
