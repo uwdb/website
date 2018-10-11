@@ -26,7 +26,7 @@ We thank our partners for supporting NWDS:
 
 #### Fall 2018
 <p><a name="Daniel_Harrison_10_12_18"></a>
-<strong>Speaker</strong>: Daniel Harrison</a></p>
+<strong>Speaker</strong>: Daniel Harrison</p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
