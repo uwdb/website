@@ -11,6 +11,7 @@ The affiliates program strengthens collaborations between the UW Database Group 
 
 We thank our current affiliates:
 * [Amazon](http://www.amazon.com)
+* [Cockroach Labs](https://www.cockroachlabs.com)
 * [Facebook](http://www.facebook.com)
 * [Google](http://www.google.com)
 * [MemSQL](http://www.memsql.com)
