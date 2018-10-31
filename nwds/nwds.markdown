@@ -84,13 +84,17 @@ Paul Allen Center, CSE 305.</p>
 Friday, November 2, 2018. 2:30pm - 3:30pm</p>
 
 <p><strong>Title</strong>:
-TBD
+Multi-Query Optimization for Machine Learning Systems
 </p>
 
 <p><strong>Abstract</strong>: 
-TBD
+As machine learning (ML) permeates data-driven applications in enterprise, Web, and scientific domains, data management and systems bottlenecks in ML are proving increasingly critical. The overarching goal of my research is to mitigate such bottlenecks and improve the efficiency of ML systems and productivity of ML users, which in turn can help reduce costs and democratize ML-based analytics. Toward this grand goal, we are building abstractions, algorithms, and systems to improve the processes of sourcing and preparing data for ML, performing iterative ML model selection, and integrating ML models with data-driven applications. In this talk, I will give an overview of our recent work on all these fronts, focusing specifically on a new direction that could transform how ML systems are built: multi-query optimization for ML. Drawing on the lessons of decades of work on query optimization in relational database systems, I will talk about some of our recent work on connecting linear algebra, learning theory, and optimization theory with scalable system design and implementation to accelerate the model selection process in ML systems. Our approach is a step toward bridging the large gap between current ML system abstractions and the level at which ML users think, has implications for both statistical models and deep learning, and could lay a principled systems foundation for new AutoML frameworks. 
 </p>
 
+<p><strong>Bio</strong>:
+Arun Kumar is an Assistant Professor in the Department of Computer Science and Engineering at the University of California, San Diego. He is a member of the Database Lab and Center for Networked Systems and an affiliate member of the AI Group. His primary research interests are in data management and systems for machine learning/artificial intelligence-based data analytics. Systems and ideas based on his research have been released as part of the MADlib open-source library, shipped as part of products from EMC, Oracle, Cloudera, and IBM, and used internally by Facebook, LogicBlox, Microsoft, and other companies. He is a recipient of the ACM SIGMOD 2014 Best Paper Award, the 2016 Graduate Student Research Award for the best dissertation research in UW-Madison CS, a 2016 Google Faculty Research Award, and a 2018 Hellman Fellowship. 
+</p>
+<p><a href="https://adalabucsd.github.io/">Research webpage</a></p>
 
 ##  Past Talks
 
