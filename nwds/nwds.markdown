@@ -30,7 +30,7 @@ We thank our partners for supporting NWDS:
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
-Paul Allen Center, CSE 403.</p>
+Paul G. Allen Center, CSE 403.</p>
 
 <p><strong>When</strong>: 
 Friday, October 12, 2018. 2:30pm - 3:30pm</p>
@@ -54,7 +54,7 @@ Dan Harrison is a Software Engineer at Cockroach Labs. At Google, he had the lux
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
-Paul Allen Center, CSE 403.</p>
+Paul G. Allen Center, CSE 403.</p>
 
 <p><strong>When</strong>: 
 Friday, October 19, 2018. 2:30pm - 3:30pm</p>
@@ -78,7 +78,7 @@ Spyros Blanas is an assistant professor in the Department of Computer Science an
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
-Paul Allen Center, CSE 305.</p>
+Paul G. Allen Center, CSE 305.</p>
 
 <p><strong>When</strong>: 
 Friday, November 2, 2018. 2:30pm - 3:30pm</p>
