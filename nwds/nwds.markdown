@@ -12,14 +12,7 @@ The goal of NWDS is to bring together researchers and practitioners in the field
 
 One of our main activities is a talk series with a variety of distinguished speakers from academia and industry. These talks are also part of the **Microsoft Database Lecture Series** (sponsored by Microsoft). This quarter's talks are organized by [Alvin](http://www.cs.washington.edu/homes/akcheung/).
 
-We thank our partners for supporting NWDS:
-* [Microsoft](http://www.microsoft.com)
-* [Tableau](http://www.tableau.com)
-* [MemSQL](http://www.memsql.com)
-* [Teradata](http://www.teradata.com)
-* [Qumulo](http://qumulo.com)
-* [Facebook](http://www.facebook.com)
-* [CockroachLabs](https://www.cockroachlabs.com)
+We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for supporting NWDS.
 
 ---
 
