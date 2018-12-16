@@ -20,13 +20,14 @@ We thank our partners for supporting NWDS:
 * [Qumulo](http://qumulo.com)
 * [Facebook](http://www.facebook.com)
 * [CockroachLabs](https://www.cockroachlabs.com)
+
 ---
 
 ##  Upcoming Talks
 
 #### Winter 2019
 <p><a name="Azza Abouzied_1_9_19"></a>
-<strong>Speaker</strong>: Azza Abouzied</p>
+<strong>Speaker</strong>: <a href="http://azza.azurewebsites.net/">Azza Abouzied</a></p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
