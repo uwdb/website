@@ -20,6 +20,7 @@ id: "news"
 
 ### UWDB Newsletters
 
+- [Summer 18](https://us14.campaign-archive.com/?u=92f84e871b02fe55e9a745c7d&id=5b7f98930a)
 - [Winter 18]({{ site.baseurl }}/newsletters/winter18.pdf)
 - [Summer 17]({{ site.baseurl }}/newsletters/summer17.pdf)
 - [Fall 16]({{ site.baseurl }}/newsletters/fall16.pdf)
