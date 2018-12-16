@@ -6,6 +6,80 @@ id: "nwds_past_talks"
 ---
 
 #  Past Talks
+<p><a name="Daniel_Harrison_10_12_18"></a>
+<strong>Speaker</strong>: Daniel Harrison</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 403.</p>
+
+<p><strong>When</strong>: 
+Friday, October 12, 2018. 2:30pm - 3:30pm</p>
+
+<p><strong>Title</strong>:
+CockroachDB: Scalable, survivable, strongly consistent, SQL
+</p>
+
+<p><strong>Abstract</strong>: 
+In this talk, we'll introduce CockroachDB, an open source relational database that combines the rich functionality of SQL with the horizontal scalability common to NoSQL offerings. It also supports MVCC and strongly consistent geo-replication. With minimal effort, an application developer can build against a SQL database that scales to arbitrary sizes while providing beyond enterprise-grade disaster recovery. We'll look at the design of CockroachDB and explore several complex data architectures which it can replace. Come learn about CockroachDB and how it makes data easy.
+</p>
+
+<p><strong>Bio</strong>:
+Dan Harrison is a Software Engineer at Cockroach Labs. At Google, he had the luxury of infrastructure that scales effortlessly; then at Foursquare, he saw how much time is wasted when it doesn't. Dan joined Cockroach Labs to help bring that benefit to everyone.
+</p>
+
+* * *
+
+<p><a name="Spyros_Blanas_10_19_18"></a>
+<strong>Speaker</strong>: <a href="https://web.cse.ohio-state.edu/~blanas.2/">Spyros Blanas</a></p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 403.</p>
+
+<p><strong>When</strong>: 
+Friday, October 19, 2018. 2:30pm - 3:30pm</p>
+
+<p><strong>Title</strong>:
+Scaling database systems to high-performance computers
+</p>
+
+<p><strong>Abstract</strong>: 
+We are witnessing the increasing use of warehouse-scale computers to analyze massive datasets quickly. This poses two challenges for database systems. The first challenge is interoperability with established analytics libraries and tools. Massive datasets often consist of images (arrays) in file formats like FITS and HDF5. We will first present ArrayBridge, an open-source I/O library that allows SciDB, TensorFlow and HDF5-based programs to co-exist in a pipeline without converting between file formats. The second challenge is scalability, as warehouse-scale computers expose communication bottlenecks in foundational data processing operations. We will present GRASP, a parallel aggregation algorithm for high-cardinality aggregation that avoids unscalable all-to-all communication and leverages similarity to complete the aggregation faster than repartitioning. Finally, we will present an RDMA-aware data shuffling algorithm that transmits data up to 4X faster than MPI. We conclude by highlighting additional challenges that need to be overcome to scale database systems to massive computers.
+</p>
+
+<p><strong>Bio</strong>:
+Spyros Blanas is an assistant professor in the Department of Computer Science and Engineering at The Ohio State University. His research interest is high performance database systems, and his current goal is to build a database system for high-end computing facilities. He has received the IEEE TCDE Rising Star award and a Google Research Faculty award. He completed his Ph.D. at the University of Wisconsin–Madison where part of his Ph.D. dissertation was commercialized in Microsoft SQL Server as the Hekaton in-memory transaction processing engine.
+</p>
+
+* * *
+
+<p><a name="Arun_Kumar_11_2_18"></a>
+<strong>Speaker</strong>: <a href="http://cseweb.ucsd.edu/~arunkk/">Arun Kumar</a></p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 305.</p>
+
+<p><strong>When</strong>: 
+Friday, November 2, 2018. 2:30pm - 3:30pm</p>
+
+<p><strong>Title</strong>:
+Multi-Query Optimization for Machine Learning Systems
+</p>
+
+<p><strong>Abstract</strong>: 
+As machine learning (ML) permeates data-driven applications in enterprise, Web, and scientific domains, data management and systems bottlenecks in ML are proving increasingly critical. The overarching goal of my research is to mitigate such bottlenecks and improve the efficiency of ML systems and productivity of ML users, which in turn can help reduce costs and democratize ML-based analytics. Toward this grand goal, we are building abstractions, algorithms, and systems to improve the processes of sourcing and preparing data for ML, performing iterative ML model selection, and integrating ML models with data-driven applications. In this talk, I will give an overview of our recent work on all these fronts, focusing specifically on a new direction that could transform how ML systems are built: multi-query optimization for ML. Drawing on the lessons of decades of work on query optimization in relational database systems, I will talk about some of our recent work on connecting linear algebra, learning theory, and optimization theory with scalable system design and implementation to accelerate the model selection process in ML systems. Our approach is a step toward bridging the large gap between current ML system abstractions and the level at which ML users think, has implications for both statistical models and deep learning, and could lay a principled systems foundation for new AutoML frameworks. 
+</p>
+
+<p><strong>Bio</strong>:
+Arun Kumar is an Assistant Professor in the Department of Computer Science and Engineering at the University of California, San Diego. He is a member of the Database Lab and Center for Networked Systems and an affiliate member of the AI Group. His primary research interests are in data management and systems for machine learning/artificial intelligence-based data analytics. Systems and ideas based on his research have been released as part of the MADlib open-source library, shipped as part of products from EMC, Oracle, Cloudera, and IBM, and used internally by Facebook, LogicBlox, Microsoft, and other companies. He is a recipient of the ACM SIGMOD 2014 Best Paper Award, the 2016 Graduate Student Research Award for the best dissertation research in UW-Madison CS, a 2016 Google Faculty Research Award, and a 2018 Hellman Fellowship. 
+</p>
+<p><a href="https://adalabucsd.github.io/">Research webpage</a></p>
+
+
+
+
 <p><a name="Stratos_Idreos_8_3_18"></a>
 <strong>Speaker</strong>: Stratos Idreos</p>
 
