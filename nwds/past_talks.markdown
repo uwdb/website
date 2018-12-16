@@ -77,8 +77,7 @@ Arun Kumar is an Assistant Professor in the Department of Computer Science and E
 </p>
 <p><a href="https://adalabucsd.github.io/">Research webpage</a></p>
 
-
-
+* * *
 
 <p><a name="Stratos_Idreos_8_3_18"></a>
 <strong>Speaker</strong>: Stratos Idreos</p>
