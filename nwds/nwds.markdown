@@ -104,7 +104,7 @@ Michael Cafarella is an Associate Professor of Computer Science and Engineering 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
 
 #### Fall 2018
-* Daniel Harrison, Cockroach Labs [[abstract](past_talks.html#Daniel_Harrison_10_12_18)] [[video](https://youtu.be/H6w_Ihth-m4)]
+* Daniel Harrison, Cockroach Labs [[abstract](past_talks.html#Daniel_Harrison_10_12_18)] [[video](https://youtu.be/H6w_Ihth-m4)] [[slides]({{ site.baseurl }}/nwds/Daniel_Harrison_10_12_18.pdf)]
 * [Spyros Blanas](https://web.cse.ohio-state.edu/~blanas.2/), Ohio State University [[abstract](past_talks.html#Spyros_Blanas_10_19_18)]
 * [Arun Kumar](http://cseweb.ucsd.edu/~arunkk/), University of California, San Diego [[abstract](past_talks.html#Arun_Kumar_11_2_18)] [[video](https://www.youtube.com/watch?v=VChn-bNAOi0)] 
 
