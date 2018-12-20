@@ -24,7 +24,7 @@ We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for 
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, CSE .</p>
+Paul G. Allen Center, CSE 305.</p>
 
 <p><strong>When</strong>: 
 Wednesday, January 9, 2019. 2:30pm - 3:30pm</p>
@@ -48,7 +48,7 @@ TBD
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, CSE .</p>
+Paul G. Allen Center, CSE 305.</p>
 
 <p><strong>When</strong>: 
 Friday, January 18, 2019. 2:30pm - 3:30pm</p>
@@ -72,7 +72,7 @@ TBD
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, CSE .</p>
+Paul G. Allen Center, CSE 305.</p>
 
 <p><strong>When</strong>: 
 Friday, January 25, 2019. 2:30pm - 3:30pm</p>
