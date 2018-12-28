@@ -25,6 +25,10 @@ At SIGMOD in Chicago.
 
 <img src="{{ site.baseurl }}/images/group/2017a.jpg" class="grouppic">
 
+## 2015
+
+<img src="{{ site.baseurl }}/images/group/2015.jpg" class="grouppic">
+
 ## 2014
 
 At SIGMOD in Snowbird.
