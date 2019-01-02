@@ -54,15 +54,15 @@ Paul G. Allen Center, CSE 305.</p>
 Friday, January 18, 2019. 2:30pm - 3:30pm</p>
 
 <p><strong>Title</strong>:
-TBD
+Time-series Querying by Sketching
 </p>
 
 <p><strong>Abstract</strong>: 
-TBD
+In this talk, I’ll describe the design of Qetch: a time series querying tool, where users can freely sketch patterns on a scale-less canvas.  By studying how humans (mis)-sketch time series patterns, we developed a novel matching algorithm that accounts for human sketching errors: humans preserve visually salient perceptual features but often non-uniformly scale and locally distort a pattern. Qetch enables the easy construction of complex and expressive queries with two key features: regular expressions over sketches and relative positioning of sketches to query multiple time-aligned series. Through user studies, we demonstrate the effectiveness of Qetch’s different interaction features. We also demonstrate the effectiveness of Qetch’s matching algorithm compared to popular algorithms on targeted, and exploratory query-by-sketch search tasks on a variety of data sets.
 </p>
 
 <p><strong>Bio</strong>:
-TBD
+Azza Abouzied is an Assistant Professor of Computer Science at New York University, Abu Dhabi. Azza’s research work focuses on designing novel and intuitive data analytics tools and on supporting complex analytics natively within databases, such as specifying and solving objective optimization problems. Her work combines techniques from various fields such as UI-design, active learning and databases. She received her doctoral degree from Yale in 2013 and BSc (CS) from Dalhousie. She spent a year as a visiting scholar at UC Berkeley. She is the recipient of an NSERC Canada Graduate Scholarships-Doctoral Fellowship, and multiple research paper awards including a SIGMOD Research Highlight Award, a best of VLDB citation and a best CHI paper award. She is also one of the co-founders of Hadapt – a Big Data analytics platform.
 </p>
 
 ---
