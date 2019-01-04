@@ -43,7 +43,7 @@ Azza Abouzied is an Assistant Professor of Computer Science at New York Universi
 
 ---
 
-<p><a name="Paris_Koutris_1_18_19"></a>
+<p><a name="Paris_Koutris_1_25_19"></a>
 <strong>Speaker</strong>: <a href="http://pages.cs.wisc.edu/~paris/">Paris Koutris</a></p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
@@ -51,7 +51,7 @@ Allen School of Computer Science and Engineering.<br>
 Paul G. Allen Center, CSE 305.</p>
 
 <p><strong>When</strong>: 
-Friday, January 18, 2019. 2:30pm - 3:30pm</p>
+Friday, January 25, 2019. 2:30pm - 3:30pm</p>
 
 <p><strong>Title</strong>:
 TBD
@@ -67,7 +67,7 @@ TBD
 
 ---
 
-<p><a name="Michael_Cafarella_1_25_19"></a>
+<p><a name="Michael_Cafarella_2_1_19"></a>
 <strong>Speaker</strong>: <a href="http://web.eecs.umich.edu/~michjc/">Michael Cafarella</a></p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
@@ -75,7 +75,7 @@ Allen School of Computer Science and Engineering.<br>
 Paul G. Allen Center, CSE 305.</p>
 
 <p><strong>When</strong>: 
-Friday, January 25, 2019. 2:30pm - 3:30pm</p>
+Friday, February 1, 2019. 2:30pm - 3:30pm</p>
 
 <p><strong>Title</strong>:
 Data-Intensive Systems for the Social Sciences
