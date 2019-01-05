@@ -51,7 +51,7 @@ Allen School of Computer Science and Engineering.<br>
 Paul G. Allen Center, CSE 305.</p>
 
 <p><strong>When</strong>: 
-Friday, January 25, 2019. 2:30pm - 3:30pm</p>
+Friday, January 25, 2019. 11:00am - 12:00pm</p>
 
 <p><strong>Title</strong>:
 TBD
