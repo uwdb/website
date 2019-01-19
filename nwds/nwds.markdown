@@ -54,15 +54,15 @@ Paul G. Allen Center, CSE 305.</p>
 Friday, January 25, 2019. 11:00am - 12:00pm</p>
 
 <p><strong>Title</strong>:
-TBD
+Model-based Pricing for Machine Learning in a Data Market
 </p>
 
 <p><strong>Abstract</strong>: 
-TBD
+Data analytics using machine learning (ML) has become ubiquitous in science, business intelligence, journalism and many other domains. While research efforts mainly focus on reducing the training cost, runtime and storage cost of ML models, not much work has studied how to reduce the cost of data acquisition, which potentially leads to a loss of sellers' revenue and buyers' affordability and efficiency. In this talk, I will introduce a novel model-based pricing (MBP) framework. Instead of pricing the underlying data, MBP directly prices ML model instances. We first formally describe the desired properties of the MBP framework, with a focus on avoiding arbitrage opportunities. Next, we show a concrete realization of the MBP framework using random noise injection, which provably satisfies the formal properties. Based on the MBP framework, we provide algorithmic solutions on how the seller can assign prices to models under different market scenarios (e.g., to maximize revenue or satisfy certain price constraints). Our experiments show that our proposed framework can provide high revenue to the seller, high affordability to the buyer, and operate on low runtime cost. I will conclude with open questions and directions for future research.
 </p>
 
 <p><strong>Bio</strong>:
-TBD
+Paris Koutris is an assistant professor at the University of Wisconsin-Madison, where he started in Fall 2015. He completed his Ph.D. in the Computer Science & Engineering Department at the University of Washington, advised by Dan Suciu. His research focuses on the theoretical aspects of data management. He is particularly interested in applying formal methods to various problems of modern data management systems: data processing in massively parallel systems and at scale, data pricing, and managing data with uncertainty. For his Ph.D. thesis, he received the 2016 SIGMOD Jim Gray Doctoral Dissertation Award.
 </p>
 
 ---
