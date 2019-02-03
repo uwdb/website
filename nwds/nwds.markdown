@@ -16,7 +16,7 @@ We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for 
 
 ---
 
-##  Upcoming Talks
+## Current Quarter Talks
 
 #### Winter 2019
 <p><a name="Michael_Cafarella_2_1_19"></a>
