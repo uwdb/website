@@ -19,6 +19,34 @@ We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for 
 ## Current Quarter Talks
 
 #### Winter 2019
+<p><a name="Karthik_Ramachandra_3_8_19"></a>
+<strong>Speaker</strong>: <a href="https://www.microsoft.com/en-us/research/people/karam/">Karthik Ramachandra</a></p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center.</p>
+
+<p><strong>When</strong>: 
+Friday, March 8, 2019. 2:30pm - 3:30pm</p>
+
+<p><strong>Title</strong>:
+Optimizing imperative programs in relational databases using Froid
+</p>
+
+<p><strong>Abstract</strong>: 
+For decades, databases have supported declarative SQL as well as imperative user-defined functions as ways to express data processing tasks. While the evaluation of declarative SQL has received a lot of attention resulting in highly sophisticated techniques, the evaluation of imperative programs has remained naive and highly inefficient. Imperative programs offer several benefits over SQL and hence are often preferred and widely used. But unfortunately, their abysmal performance discourages, and even prohibits their use in many situations. We address this important problem that has hitherto received little attention. 
+</p>
+<p>
+We present Froid, an extensible framework for optimizing imperative programs in databases. Froid’s novel approach automatically transforms entire User Defined Functions (UDFs) into relational algebraic expressions, and embeds them into the calling SQL query. This form is now amenable to cost-based optimization and results in efficient, set-oriented, parallel plans as opposed to inefficient, iterative, serial execution of UDFs. Froid’s approach additionally brings the benefits of many compiler optimizations to UDFs with no additional implementation effort. We will describe the design of Froid and demonstrate our experimental evaluation that results in performance improvements of up to multiple orders of magnitude on real workloads. The first version of Froid is currently in preview as part of Microsoft SQL Server 2019, and has been receiving positive responses from users.
+
+</p>
+
+<p><strong>Bio</strong>:
+Karthik Ramachandra is a Senior Applied Scientist at Microsoft Research India. Prior to this, he was a Senior Scientist at Microsoft Gray Systems Lab in Madison, WI. His areas of research include query processing and optimization in large scale databases and data management systems. He holds a Ph.D. in Computer Science from IIT Bombay, where his work focused on improving performance of database applications using techniques that lie in the intersection of databases and compilers/programming languages. His work has received an honorable mention for the 2015 "ACM SIGMOD Jim Gray Doctoral Dissertation award" and has won the IIT Bombay "Excellence in PhD research award".
+</p>
+
+---
+
 <p><a name="Michael_Cafarella_2_1_19"></a>
 <strong>Speaker</strong>: <a href="http://web.eecs.umich.edu/~michjc/">Michael Cafarella</a></p>
 
