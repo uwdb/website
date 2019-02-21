@@ -16,7 +16,7 @@ We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for 
 
 ---
 
-#### Winter 2019
+#### Spring 2019
 <p><a name="Niv_Daya_4_26_19"></a>
 <strong>Speaker</strong>: <a href="https://nivdayan.github.io/">Niv Dayan</a></p>
 
