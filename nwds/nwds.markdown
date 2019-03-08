@@ -22,7 +22,7 @@ We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for 
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center.</p>
+Paul G. Allen Center, CSE 305.</p>
 
 <p><strong>When</strong>: 
 Friday, April 26, 2019. 2:30pm - 3:30pm</p>
@@ -52,7 +52,7 @@ As a part of the CrimsonDB project at the Harvard DasLab, we developed two insig
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center.</p>
+Paul G. Allen Center, CSE 305.</p>
 
 <p><strong>When</strong>: 
 Friday, March 8, 2019. 2:30pm - 3:30pm</p>
