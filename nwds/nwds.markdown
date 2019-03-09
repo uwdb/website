@@ -42,123 +42,18 @@ As a part of the CrimsonDB project at the Harvard DasLab, we developed two insig
 <p><strong>Bio</strong>: Niv Dayan is a postdoc at the Data Systems Lab at Harvard since September 2015. Before that he was a PhD student at the IT University of Copenhagen. Niv works at the intersection of systems and theory for designing efficient data storage. His current work is towards identifying and mapping the fundamentally best scalability trade-offs that are possible to achieve for key-value stores. His past work includes data structure design for internal metadata management in SSDs. 
 </p>
 
----
-
 ## Current Quarter Talks
-
-#### Winter 2019
-<p><a name="Karthik_Ramachandra_3_8_19"></a>
-<strong>Speaker</strong>: <a href="https://www.microsoft.com/en-us/research/people/karam/">Karthik Ramachandra</a></p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, CSE 305.</p>
-
-<p><strong>When</strong>: 
-Friday, March 8, 2019. 2:30pm - 3:30pm</p>
-
-<p><strong>Title</strong>:
-Optimizing imperative programs in relational databases using Froid
-</p>
-
-<p><strong>Abstract</strong>: 
-For decades, databases have supported declarative SQL as well as imperative user-defined functions as ways to express data processing tasks. While the evaluation of declarative SQL has received a lot of attention resulting in highly sophisticated techniques, the evaluation of imperative programs has remained naive and highly inefficient. Imperative programs offer several benefits over SQL and hence are often preferred and widely used. But unfortunately, their abysmal performance discourages, and even prohibits their use in many situations. We address this important problem that has hitherto received little attention. 
-</p>
-<p>
-We present Froid, an extensible framework for optimizing imperative programs in databases. Froid’s novel approach automatically transforms entire User Defined Functions (UDFs) into relational algebraic expressions, and embeds them into the calling SQL query. This form is now amenable to cost-based optimization and results in efficient, set-oriented, parallel plans as opposed to inefficient, iterative, serial execution of UDFs. Froid’s approach additionally brings the benefits of many compiler optimizations to UDFs with no additional implementation effort. We will describe the design of Froid and demonstrate our experimental evaluation that results in performance improvements of up to multiple orders of magnitude on real workloads. The first version of Froid is currently in preview as part of Microsoft SQL Server 2019, and has been receiving positive responses from users.
-
-</p>
-
-<p><strong>Bio</strong>:
-Karthik Ramachandra is a Senior Applied Scientist at Microsoft Research India. Prior to this, he was a Senior Scientist at Microsoft Gray Systems Lab in Madison, WI. His areas of research include query processing and optimization in large scale databases and data management systems. He holds a Ph.D. in Computer Science from IIT Bombay, where his work focused on improving performance of database applications using techniques that lie in the intersection of databases and compilers/programming languages. His work has received an honorable mention for the 2015 "ACM SIGMOD Jim Gray Doctoral Dissertation award" and has won the IIT Bombay "Excellence in PhD research award".
-</p>
-
----
-
-<p><a name="Michael_Cafarella_2_1_19"></a>
-<strong>Speaker</strong>: <a href="http://web.eecs.umich.edu/~michjc/">Michael Cafarella</a></p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, CSE 305.</p>
-
-<p><strong>When</strong>: 
-Friday, February 1, 2019. 2:30pm - 3:30pm</p>
-
-<p><strong>Title</strong>:
-Data-Intensive Systems for the Social Sciences
-</p>
-
-<p><strong>Abstract</strong>: 
-The social sciences are crucial for deciding billions in spending, and yet are often starved for data and badly underserved by modern computational tools. Building data-intensive systems for social science workloads holds the promise of enabling exciting discoveries in both computational and domain-specific fields, while also making an outsized real-world impact.
-</p>
-
-<p>
-This talk will describe two data systems for the social sciences. The first is RaccoonDB, a declarative nowcasting data management system, which enables users to predict real-world time-series phenomena from social media signals. RaccoonDB’s novel query optimization methods allow it to generate useful social science predictions 123 times faster than competing systems, using just 10% of the computational resources. When applied to unemployment phenomena, the system yields predictions with accuracy that is comparable to predictions from real-world economists.
-</p>
-<p>
-The second system is an information extraction system designed to analyze online text and help law enforcement officers identify potential human trafficking victims. This system has been successfully applied to real-world cases. In addition, the resulting extracted dataset enables several novel social science findings about behavior in an illicit and often opaque market.
-</p>
-
-<p><strong>Bio</strong>:
-Michael Cafarella is an Associate Professor of Computer Science and Engineering at the University of Michigan. His research interests include databases, information extraction, data integration, and data mining. He has published extensively in venues such as SIGMOD, VLDB, and elsewhere. Mike received his PhD from the University of Washington in 2009 with advisors Oren Etzioni and Dan Suciu. His academic awards include the NSF CAREER award, the Sloan Research Fellowship, and the VLDB Test of Time Award. In addition to his academic work, Mike cofounded (with Doug Cutting) the Hadoop open-source project. In 2015 he cofounded (with Chris Re and Feng Niu) Lattice Data, Inc., which is now part of Apple.
-</p>
-
----
-
-<p><a name="Paris_Koutris_1_25_19"></a>
-<strong>Speaker</strong>: <a href="http://pages.cs.wisc.edu/~paris/">Paris Koutris</a></p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, CSE 305.</p>
-
-<p><strong>When</strong>: 
-Friday, January 25, 2019. 11:00am - 12:00pm</p>
-
-<p><strong>Title</strong>:
-Model-based Pricing for Machine Learning in a Data Market
-</p>
-
-<p><strong>Abstract</strong>: 
-Data analytics using machine learning (ML) has become ubiquitous in science, business intelligence, journalism and many other domains. While research efforts mainly focus on reducing the training cost, runtime and storage cost of ML models, not much work has studied how to reduce the cost of data acquisition, which potentially leads to a loss of sellers' revenue and buyers' affordability and efficiency. In this talk, I will introduce a novel model-based pricing (MBP) framework. Instead of pricing the underlying data, MBP directly prices ML model instances. We first formally describe the desired properties of the MBP framework, with a focus on avoiding arbitrage opportunities. Next, we show a concrete realization of the MBP framework using random noise injection, which provably satisfies the formal properties. Based on the MBP framework, we provide algorithmic solutions on how the seller can assign prices to models under different market scenarios (e.g., to maximize revenue or satisfy certain price constraints). Our experiments show that our proposed framework can provide high revenue to the seller, high affordability to the buyer, and operate on low runtime cost. I will conclude with open questions and directions for future research.
-</p>
-
-<p><strong>Bio</strong>:
-Paris Koutris is an assistant professor at the University of Wisconsin-Madison, where he started in Fall 2015. He completed his Ph.D. in the Computer Science & Engineering Department at the University of Washington, advised by Dan Suciu. His research focuses on the theoretical aspects of data management. He is particularly interested in applying formal methods to various problems of modern data management systems: data processing in massively parallel systems and at scale, data pricing, and managing data with uncertainty. For his Ph.D. thesis, he received the 2016 SIGMOD Jim Gray Doctoral Dissertation Award.
-</p>
-
----
-
-<p><a name="Azza Abouzied_1_9_19"></a>
-<strong>Speaker</strong>: <a href="http://azza.azurewebsites.net/">Azza Abouzied</a></p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, CSE 305.</p>
-
-<p><strong>When</strong>: 
-Wednesday, January 9, 2019. 3:30pm - 4:30pm</p>
-
-<p><strong>Title</strong>:
-Time-series Querying by Sketching
-</p>
-
-<p><strong>Abstract</strong>: 
-In this talk, I’ll describe the design of Qetch: a time series querying tool, where users can freely sketch patterns on a scale-less canvas.  By studying how humans (mis)-sketch time series patterns, we developed a novel matching algorithm that accounts for human sketching errors: humans preserve visually salient perceptual features but often non-uniformly scale and locally distort a pattern. Qetch enables the easy construction of complex and expressive queries with two key features: regular expressions over sketches and relative positioning of sketches to query multiple time-aligned series. Through user studies, we demonstrate the effectiveness of Qetch’s different interaction features. We also demonstrate the effectiveness of Qetch’s matching algorithm compared to popular algorithms on targeted, and exploratory query-by-sketch search tasks on a variety of data sets.
-</p>
-
-<p><strong>Bio</strong>:
-Azza Abouzied is an Assistant Professor of Computer Science at New York University, Abu Dhabi. Azza’s research work focuses on designing novel and intuitive data analytics tools and on supporting complex analytics natively within databases, such as specifying and solving objective optimization problems. Her work combines techniques from various fields such as UI-design, active learning and databases. She received her doctoral degree from Yale in 2013 and BSc (CS) from Dalhousie. She spent a year as a visiting scholar at UC Berkeley. She is the recipient of an NSERC Canada Graduate Scholarships-Doctoral Fellowship, and multiple research paper awards including a SIGMOD Research Highlight Award, a best of VLDB citation and a best CHI paper award. She is also one of the co-founders of Hadapt – a Big Data analytics platform.
-</p>
-
----
-
 
 
 ##  Past Talks
 
 Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
+
+#### Winter 2019
+* <a href="https://www.microsoft.com/en-us/research/people/karam/">Karthik Ramachandra</a>, Microsoft Research India [[abstract](past_talks.html#Karthik_Ramachandra_3_8_19)][[video](https://www.youtube.com/watch?v=Xyvpcf2RtO4)]
+* <a href="http://web.eecs.umich.edu/~michjc/">Michael Cafarella</a>, University of Michigan [[abstract](past_talks.html#Michael_Cafarella_2_1_19)][[video](https://www.youtube.com/watch?v=xb718hbdqmE)]
+* <a href="http://pages.cs.wisc.edu/~paris/">Paris Koutris</a>, University of Wisconsin-Madison [[abstract](past_talks.html#Paris_Koutris_1_25_19)][[video](https://www.youtube.com/watch?v=R52w13RecCk)]
+* <a href="http://azza.azurewebsites.net/">Azza Abouzied</a>, New York University, Abu Dhabi [[abstract](past_talks.html#Azza Abouzied_1_9_19")][[video](https://www.youtube.com/watch?v=KfYTWnfu4io)]
 
 #### Fall 2018
 * Daniel Harrison, Cockroach Labs [[abstract](past_talks.html#Daniel_Harrison_10_12_18)] [[video](https://youtu.be/H6w_Ihth-m4)] [[slides]({{ site.baseurl }}/nwds/Daniel_Harrison_10_12_18.pdf)]
