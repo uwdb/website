@@ -13,7 +13,7 @@ id: "projects"
   <p>A Database Management System for Virtual Reality Video</p>
   <p>
   	<a class="btn btn-primary btn-lg label-primary" href="p1144-haynes.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
-  	<a class="btn btn-primary btn-lg label-default" href="#" role="button" style="width: 180px">Get the Code<br /><small>(coming soon!)</small></a>
+  	<a class="btn btn-primary btn-lg label-default" href="https://github.com/uwdb/lightdb" role="button" style="width: 180px">Get the Code</a>
   </p>
 </div>
 
