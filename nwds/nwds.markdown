@@ -53,7 +53,7 @@ Our key-idea is to gather data streams based on the data demand of streaming que
 
 <p><strong>Bio</strong>: 
  Jonas is a Research Associate at Technische Universität Berlin and the German Research Center for Artificial Intelligence (DFKI). His research interests include data stream processing, sensor data analysis, and data acquisition from sensor nodes. Jonas authored several publications related to data stream gathering, processing and transmission in the Internet of Things and will complete his PhD in March 2019 under the supervision of Volker Markl. Before he started his PhD, Jonas wrote his master thesis at the Royal Institute of Technology (KTH) and the Swedish Institute of Computer Science (SICS) / RISE in Stockholm under supervision of Seif Haridi and Volker Markl and advised by Paris Carbone and Asterios Katsifodimos. Prior to that, he received his B.Sc. degree at Baden-Württemberg Cooperative State University (DHBW Stuttgart) and worked several years at IBM in Germany and the USA.
-Jonas is an alumnus of "Software Campus", "Studienstiftung des deutschen Volkes" and "Deutschlandstipendium". All publication and supplementary material are available [online](http://www.user.tu-berlin.de/powibol/).
+Jonas is an alumnus of "Software Campus", "Studienstiftung des deutschen Volkes" and "Deutschlandstipendium". All publication and supplementary material are available <a href="http://www.user.tu-berlin.de/powibol/">online</a>.
 </p>
 
 <strong>Speaker</strong>: Andreas Kunft
