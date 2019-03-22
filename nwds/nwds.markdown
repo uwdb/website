@@ -17,7 +17,72 @@ We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for 
 ---
 
 #### Spring 2019
-<p><a name="Niv_Daya_4_26_19"></a>
+<p><a name="Volker_Markl_4_5_19"></a>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 305.</p>
+
+<p><strong>When</strong>: 
+Friday, April 5, 2019. 2:30pm - 3:30pm</p>
+
+<strong>Speaker</strong>: Sebastian Breß</p>
+
+<p><strong>Title</strong>:
+Efficient Data Processing on Modern Hardware
+</p>
+
+<p><strong>Abstract</strong>: 
+Processor manufacturers build increasingly specialized processors to mitigate the effects of the power wall in order to deliver improved performance. Currently, database engines have to be manually optimized for each processor which is a costly and error prone process. In this talk, we provide an overview of our research on automatic performance tuning in Hawk, a hardware-tailored code generator. Our key idea is to create processor-specific code variants and to learn a well- performing code variant for each processor. These code variants leverage various parallelization strategies and apply both generic and processor-specific code transformations. We observe that performance of different code variants may diverge up to two orders of magnitude. Thus, we need to generate custom code for each processor for peak performance. To this end, Hawk automatically finds efficient code variants for CPUs, GPUs, and MICs.
+
+<p><strong>Bio</strong>: 
+Sebastian Breß received his PhD (Dr.-Ing.) from University of Magdeburg, Germany in 2015, under the supervision of Gunter Saake (University of Magdeburg) and Jens Teubner (TU Dortmund). He is the the initiator and system architect of the research database system CoGaDB and the Hawk Code Generator. Currently, Sebastian is a Senior Researcher at German Research Center for Artificial Intelligence (DFKI) and a PostDoc at Technische Universität Berlin, working with Prof. Dr. Volker Markl and Prof. Dr. Tilmann Rabl. Sebastian‘s research interests include data management on modern hardware, query compilation, stream processing, and optimizing data management systems for heterogeneous processors. Sebastian has been selected as a Distinguished Program Committee Member at SIGMOD 2018.
+</p>
+
+<strong>Speaker</strong>: Jonas Traub</p>
+
+<p><strong>Title</strong>:
+On-Demand Data Stream Gathering in the Internet of Things
+</p>
+
+<p><strong>Abstract</strong>: 
+In the Internet of Things (IoT), billions of sensor nodes form a sensor cloud and offer data streams to analysis systems. However, it is impossible to transfer all available data with maximal frequencies to all applications. In this talk, we show how we gather streaming data efficiently from a huge number of sensor nodes and how we make it available to a huge number of applications.
+Our key-idea is to gather data streams based on the data demand of streaming queries. The data demand of a query is the minimum number of data points which allows for answering the query with the desired precision. We present a solution which shares sensor nodes among many concurrent streaming queries by multiplexing their data demands. Our technique shares sensor reads and corresponding network traffic among all queries to save costs. Our experiments with real-world sensor data show that our approach saves up to 87% in data transmissions.
+
+<p><strong>Bio</strong>: 
+ Jonas is a Research Associate at Technische Universität Berlin and the German Research Center for Artificial Intelligence (DFKI). His research interests include data stream processing, sensor data analysis, and data acquisition from sensor nodes. Jonas authored several publications related to data stream gathering, processing and transmission in the Internet of Things and will complete his PhD in March 2019 under the supervision of Volker Markl. Before he started his PhD, Jonas wrote his master thesis at the Royal Institute of Technology (KTH) and the Swedish Institute of Computer Science (SICS) / RISE in Stockholm under supervision of Seif Haridi and Volker Markl and advised by Paris Carbone and Asterios Katsifodimos. Prior to that, he received his B.Sc. degree at Baden-Württemberg Cooperative State University (DHBW Stuttgart) and worked several years at IBM in Germany and the USA.
+Jonas is an alumnus of "Software Campus", "Studienstiftung des deutschen Volkes" and "Deutschlandstipendium". All publication and supplementary material are available <a href="http://www.user.tu-berlin.de/powibol/">online</a>.
+</p>
+
+<strong>Speaker</strong>: Andreas Kunft</p>
+
+<p><strong>Title</strong>:
+Efficient Matrix Partitioning Through Joins
+</p>
+
+<p><strong>Abstract</strong>: 
+End-to-end machine learning pipelines often consist of (i) relational operators to join the input data, (ii) user defined functions for feature extraction and vectorization, and (iii) linear algebra operators for model training and cross-validation. Often, these pipelines need to scale out to large datasets. In this case, these pipelines are usually implemented on top of dataflow engines like Hadoop, Spark, or Flink. Dataflow engines implement relational operators on row-partitioned datasets. However, efficient linear algebra operators use block-partitioned matrices. As a result, pipelines combining both kinds of operators require rather expensive changes to the physical representation, in particular re-partitioning steps. In this talk, I investigate the potential of reducing shuffling costs by fusing relational and linear algebra operations into specialized physical operators. I present BlockJoin, a distributed join algorithm which directly produces block-partitioned results. To minimize shuffling costs, BlockJoin applies database techniques known from columnar processing, such as index-joins and late materialization, in the context of parallel dataflow engines.
+
+<p><strong>Bio</strong>: 
+Andreas Kunft is a PhD student/research associate at Technische Universität Berlin in the Database Systems and Information Management Group (DIMA) led by Volker Markl. His research interests include massive parallel processing frameworks, databases, and compilers, with focus on the integration of database and compiler techniques for holistic optimization of analytics pipelines.
+</p>
+
+<strong>Speaker</strong>: Martin Kiefer</p>
+
+<p><strong>Title</strong>:
+Approximate Data Analysis using Modern Hardware
+</p>
+
+<p><strong>Abstract</strong>: 
+Data summaries are an effective tool to balance efficiency and accuracy in data analysis tasks: Most relational query optimizers rely heavily on selectivity estimates computed from histograms or samples. Sketches have become an increasingly popular technique to perform high-bandwidth stream analysis tasks such as change or heavy-hitter detection. Using modern hardware such as GPUs and FPGAs reduces the cost of approximate data analysis tasks even further. However, efficient and accurate data analysis requires co-designing the type of data summary, the hardware, and the application scenario. In my talk, I will introduce approaches to hardware-acceleration for approximate data analysis using data summaries.
+
+<p><strong>Bio</strong>: 
+Martin Kiefer is a research associate and PhD student at TU Berlin, Germany. Before his master studies at TU Berlin, he received his bachelor’s degree in an integrated degree program while working at IBM. Martin's research interests include modern hardware as well as data summaries, query optimization, and stream processing.
+</p>
+
+---
+
+<p><a name="Niv_Dayan_4_26_19"></a>
 <strong>Speaker</strong>: <a href="https://nivdayan.github.io/">Niv Dayan</a></p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
@@ -41,9 +106,6 @@ As a part of the CrimsonDB project at the Harvard DasLab, we developed two insig
 
 <p><strong>Bio</strong>: Niv Dayan is a postdoc at the Data Systems Lab at Harvard since September 2015. Before that he was a PhD student at the IT University of Copenhagen. Niv works at the intersection of systems and theory for designing efficient data storage. His current work is towards identifying and mapping the fundamentally best scalability trade-offs that are possible to achieve for key-value stores. His past work includes data structure design for internal metadata management in SSDs. 
 </p>
-
-## Current Quarter Talks
-
 
 ##  Past Talks
 
