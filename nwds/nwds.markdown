@@ -17,7 +17,7 @@ We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for 
 ---
 
 #### Spring 2019
-<p><a name="Volker_Markl_4_5_19"></a>
+<p><a name="Volker_Markl_4_5_19"></a></p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
@@ -26,7 +26,7 @@ Paul G. Allen Center, CSE 305.</p>
 <p><strong>When</strong>: 
 Friday, April 5, 2019. 2:30pm - 3:30pm</p>
 
-<strong>Speaker</strong>: Sebastian Breß</p>
+<strong>Speaker</strong>: Sebastian Breß
 
 <p><strong>Title</strong>:
 Efficient Data Processing on Modern Hardware
@@ -40,7 +40,7 @@ Processor manufacturers build increasingly specialized processors to mitigate th
 Sebastian Breß received his PhD (Dr.-Ing.) from University of Magdeburg, Germany in 2015, under the supervision of Gunter Saake (University of Magdeburg) and Jens Teubner (TU Dortmund). He is the the initiator and system architect of the research database system CoGaDB and the Hawk Code Generator. Currently, Sebastian is a Senior Researcher at German Research Center for Artificial Intelligence (DFKI) and a PostDoc at Technische Universität Berlin, working with Prof. Dr. Volker Markl and Prof. Dr. Tilmann Rabl. Sebastian‘s research interests include data management on modern hardware, query compilation, stream processing, and optimizing data management systems for heterogeneous processors. Sebastian has been selected as a Distinguished Program Committee Member at SIGMOD 2018.
 </p>
 
-<strong>Speaker</strong>: Jonas Traub</p>
+<strong>Speaker</strong>: Jonas Traub
 
 <p><strong>Title</strong>:
 On-Demand Data Stream Gathering in the Internet of Things
@@ -56,7 +56,7 @@ Our key-idea is to gather data streams based on the data demand of streaming que
 Jonas is an alumnus of "Software Campus", "Studienstiftung des deutschen Volkes" and "Deutschlandstipendium". All publication and supplementary material are available [online](http://www.user.tu-berlin.de/powibol/).
 </p>
 
-<strong>Speaker</strong>: Andreas Kunft</p>
+<strong>Speaker</strong>: Andreas Kunft
 
 <p><strong>Title</strong>:
 Efficient Matrix Partitioning Through Joins
@@ -70,7 +70,7 @@ End-to-end machine learning pipelines often consist of (i) relational operators 
 Andreas Kunft is a PhD student/research associate at Technische Universität Berlin in the Database Systems and Information Management Group (DIMA) led by Volker Markl. His research interests include massive parallel processing frameworks, databases, and compilers, with focus on the integration of database and compiler techniques for holistic optimization of analytics pipelines.
 </p>
 
-<strong>Speaker</strong>: Martin Kiefer</p>
+<strong>Speaker</strong>: Martin Kiefer
 
 <p><strong>Title</strong>:
 Approximate Data Analysis using Modern Hardware
