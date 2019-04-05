@@ -73,15 +73,22 @@ Andreas Kunft is a PhD student/research associate at Technische Universität Be
 <strong>Speaker</strong>: Martin Kiefer
 
 <p><strong>Title</strong>:
-Approximate Data Analysis using Modern Hardware
+GPU-Accelerated Join Selectivity Estimation using Kernel Density Models
 </p>
 
 <p><strong>Abstract</strong>: 
-Data summaries are an effective tool to balance efficiency and accuracy in data analysis tasks: Most relational query optimizers rely heavily on selectivity estimates computed from histograms or samples. Sketches have become an increasingly popular technique to perform high-bandwidth stream analysis tasks such as change or heavy-hitter detection. Using modern hardware such as GPUs and FPGAs reduces the cost of approximate data analysis tasks even further. However, efficient and accurate data analysis requires co-designing the type of data summary, the hardware, and the application scenario. In my talk, I will introduce approaches to hardware-acceleration for approximate data analysis using data summaries.
+Accurately predicting the cardinality of intermediate plan operations is an essential part of any modern relational query optimizer. The accuracy of said estimates has a strong and direct impact on the quality of the generated plans, and incorrect estimates can have a negative impact on query performance. One of the biggest challenges in this field is to predict the result size of join operations.
+</p>
+<p>
+Kernel Density Estimation (KDE) is a statistical method to estimate multivariate probability distributions from a data sample. Previously, we introduced a modern, self-tuning selectivity estimator for range scans based on KDE that out-performs state-of-the-art multidimensional histograms and is efficient to evaluate on graphics cards. This talk introduces our recent work that brings the benefits of KDE-based estimators to join selectivity estimation.
 </p>
 
 <p><strong>Bio</strong>: 
-Martin Kiefer is a research associate and PhD student at TU Berlin, Germany. Before his master studies at TU Berlin, he received his bachelor’s degree in an integrated degree program while working at IBM. Martin's research interests include modern hardware as well as data summaries, query optimization, and stream processing.
+Martin Kiefer is a research associate and PhD student at TU Berlin, Germany. Before his master studies at TU Berlin, he received his bachelors degree in an integrated degree program while working at IBM. Martin's research interests include modern hardware as well as data summaries, query optimization, and stream processing.
+</p>
+
+<p><strong>Bio</strong>: 
+<a href="http://www.dima.tu-berlin.de">Volker Markl</a> is a Full Professor and Chair of the Database Systems and Information Management (DIMA) Group at the Technische Universität Berlin (TU Berlin) and was an Adjunct Full Professor at the University of Toronto until June 2018. At the German Research Center for Artificial Intelligence (DFKI), he is both a Chief Scientist and Head of the Intelligent Analytics for Massive Data Research Group. In addition, he is Director of the Berlin Big Data Center (BBDC) and Co-Director of the Berlin Machine Learning Center (BzMl). Earlier in his career, he was a Research Staff Member and Project Leader at the IBM Almaden Research Center in San Jose, California, USA and a Research Group Leader at FORWISS, the Bavarian Research Center for Knowledge-based Systems located in Munich, Germany. Dr. Markl has published numerous research papers on indexing, query optimization, lightweight information integration, and scalable data processing. He holds 18 patents, has transferred technology into several commercial products, and advises several companies and startups. He has been both the Speaker and Principal Investigator for the Stratosphere Project, which resulted in a Humboldt Innovation Award as well as Apache Flink, the open-source big data analytics system. He serves as the President-Elect of the VLDB Endowment and was elected as one of Germany's leading Digital Minds (Digitale Köpfe) by the German Informatics (GI) Society. Most recently, Volker and his team earned an ACM SIGMOD Research Highlight Award 2016 for their work on "Implicit Parallelism Through Deep Language Embedding." Volker Markl and his team earned an ACM SIGMOD Research Highlight Award 2016 for their work on implicit parallelism through deep language embedding.
 </p>
 
 ---
