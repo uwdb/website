@@ -72,7 +72,7 @@ In this seminar, we will deep dive into blockchain and cryptocurrency technologi
     <td>3</td>
     <td>Jan 23</td>
     <td>Smart Contract: Language and Execution</td>
-    <td><a href='https://www.linkedin.com/in/dylanhutchison/'>Dylan Hutchison</a><br> University of Washington </td>
+    <td><a href='https://www.linkedin.com/in/shanahutchison/'>Shana Hutchison</a><br> University of Washington </td>
     <td>
     <a href='https://docs.google.com/presentation/d/16D2lZEEf5MguQYl1bPAhL6ndKuAFAkqIt2uUTr0Tstk/edit?usp=sharing'> [Slides] </a> 
     <a href='https://www.youtube.com/watch?v=GMYkt7Rhmcg'> [Video]</a>
