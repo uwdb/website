@@ -25,11 +25,6 @@
   website: http://homes.cs.washington.edu/~shrainik/
   image: shrainik.jpg
 
-- name: Tomer Kaftan
-  nickname: Tomer
-  website: http://homes.cs.washington.edu/~tomerk11/
-  image: tomer.jpg
-
 - name: Dominik Moritz
   nickname: Dominik
   website: http://homes.cs.washington.edu/~domoritz/
@@ -55,11 +50,6 @@
   website: http://homes.cs.washington.edu/~guna/
   image: guna.jpg
 
-- name: Jingjing Wang
-  nickname: Jingjing
-  website: http://homes.cs.washington.edu/~jwang/
-  image: jingjing.jpg
-
 - name: Shana Hutchison
   nickname: Shana
   website: http://homes.cs.washington.edu/~shutchis/
@@ -74,3 +64,8 @@
   nickname: Cong
   website: http://homes.cs.washington.edu/~congy/
   image: cong.jpg
+
+- name: Maureen Daum
+  nickname: Maureen
+  website: http://db.cs.washington.edu/people.html
+  image: maureen.jpg

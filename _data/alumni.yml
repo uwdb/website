@@ -131,3 +131,15 @@
 - name: Daniel Halperin
   website: http://www.halper.in/
   at: Google
+
+- name: Tomer Kaftan
+  nickname: Tomer
+  website: http://homes.cs.washington.edu/~tomerk11/
+  image: tomer.jpg
+  at: Google Brain
+
+- name: Jingjing Wang
+  nickname: Jingjing
+  website: http://homes.cs.washington.edu/~jwang/
+  image: jingjing.jpg
+  at: Facebook
