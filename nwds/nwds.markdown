@@ -35,7 +35,6 @@ Friday, June 14, 2019. 2:30pm - 3:30pm</p>
 </p>
 
 <p><strong>Abstract</strong>
- 
 Large technology companies rely on collecting data from their users to
 understand their interests, and better customize the company's products.
 Increasingly, this must be done while preserving individual users'
@@ -48,9 +47,11 @@ distributions.
 </p>
 <p>
 This is joint work with Tejas Kulkarni and Divesh Srivastava.
-
 </p>
 
+<p><strong>Bio</strong>: 
+From 2004-06, I worked at Bell Laboratories in the Internet Management Research Department. From 2006-2013, I was a researcher at AT&T Labs-Research. Between 2002 and 2004, I was a postdoctoral fellow at DIMACS, the Center for Discrete Mathematics and Computer Science. I completed my PhD at the Department of Computer Science at the University of Warwick, UK in 2002. I spent a year of my PhD studying in Cleveland, Ohio at Case Western Reserve University with the Electrical Engineering and Computer Science Department , and Summer 2000 at AT&T Shannon research labs.
+</p>
 
 ---
 <p><a name="Volker_Markl_4_5_19"></a></p>
