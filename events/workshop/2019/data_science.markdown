@@ -92,7 +92,7 @@ Seattle, WA 98195 -->
 
 #### 2:30 pm - 3:00 pm: BREAK
 
-#### 3:00 pm - 4:30 pm: Session 5: Relational Models
+#### 3:00 pm - 4:00 pm: Session 5: Relational Models
 - 15 min - Discovering Acyclic Schemas - Batya Kenig
 
 - 15 min - A Layered Aggregate Engine for Analytics Workloads - Max Schleich
