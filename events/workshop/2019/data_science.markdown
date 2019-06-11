@@ -69,7 +69,7 @@ Seattle, WA 98195 -->
 #### 8:30 am - 9:00 am: Coffee & Tea
 
 #### 9:00 am - 10:00 am: Session 1: Keynote 1
-- Molham Aref (RelationalAI) Relational Artificial Intelligence
+- Molham Aref (RelationalAI) - "Relational Artificial Intelligence"
 
 #### 10:00 am - 10:30 am: BREAK
 
@@ -83,12 +83,12 @@ Seattle, WA 98195 -->
 - 15 min - Towards Efficient Querying of Rich Video Content - Maureen Daum
 
 #### 11:30 am - 12:15 pm: Session 3: Systems for ML
-- Special Guest: Tianqi Chen (University of Washington) TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
+- Special Guest: Tianqi Chen (UW) "TVM: An Automated End-to-End Optimizing Compiler for Deep Learning"
 
 #### 12:15 pm - 1:30 pm: LUNCH
 
 #### 1:30 pm - 2:30 pm: Session 4: Keynote 2
-- Alex Ratner (Stanford and UW) Accelerating Machine Learning with Training Data Management Systems
+- Alex Ratner (Stanford and UW) - "Accelerating Machine Learning with Training Data Management Systems"
 
 #### 2:30 pm - 3:00 pm: BREAK
 
@@ -101,7 +101,7 @@ Seattle, WA 98195 -->
 
 - 15 min - Relational Causal Models - Babak Salimi (by Zoom)
 
-#### 4:30 pm - 5:00 pm: Panel: Deep Learning and Data Management: Friends or Foes?
+#### 4:00 pm - 5:00 pm: Panel: Deep Learning and Data Management: Friends or Foes?
 - Moderator: Magda Balazinska (UW)
 - Panelists: TBD
 - Panel questions: 
