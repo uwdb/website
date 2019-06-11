@@ -10,12 +10,63 @@ id: "affiliates_workshop_2019"
 ### **When**:
 Friday, July 19, 2019
 
-<!-- ### **Where**:
-[Husky Union Building](https://uw.edu/maps/?hub), Room 145
+### **Where**:
+[Bill & Melinda Gates Center For Computer Science & Engineering](https://www.washington.edu/maps/#!/cse2), Zillow Conference Center
 University of Washington, Seattle
 
-4001 E Stevens Way NE
-Seattle, WA 98195 -->
+3800 E Stevens Way NE
+Seattle, WA 98195
+
+### **Agenda**:
+
+
+#### 8:30 am - 9:00 am: Coffee & Tea
+
+#### 9:00 am - 10:00 am: Session 1: Keynote 1
+- Molham Aref (RelationalAI) - "Relational Artificial Intelligence"
+
+#### 10:00 am - 10:30 am: BREAK
+
+#### 10:30 am - 11:30 am: Session 2: Data Management for Image & Video Analytics
+- 15 min - From Open Satellite Imagery to Emergency Response - Valentina Staneva
+
+- 15 min - Data Management for Debugging Deep Learning Models over Images - Parmita Mehta
+
+- 15 min - LightDB: Data Management System for Video Databases - Brandon Haynes
+
+- 15 min - Towards Efficient Querying of Rich Video Content - Maureen Daum
+
+#### 11:30 am - 12:15 pm: Session 3: Systems for ML
+- Special Guest: Tianqi Chen (UW) "TVM: An Automated End-to-End Optimizing Compiler for Deep Learning"
+
+#### 12:15 pm - 1:30 pm: LUNCH
+
+#### 1:30 pm - 2:30 pm: Session 4: Keynote 2
+- Alex Ratner (Stanford and UW) - "Accelerating Machine Learning with Training Data Management Systems"
+
+#### 2:30 pm - 3:00 pm: BREAK
+
+#### 3:00 pm - 4:00 pm: Session 5: Relational Models
+- 15 min - Discovering Acyclic Schemas - Batya Kenig
+
+- 15 min - A Layered Aggregate Engine for Analytics Workloads - Max Schleich
+
+- 15 min - Pessimistic Cardinality Estimation - Walter Cai
+
+- 15 min - Relational Causal Models - Babak Salimi (by Zoom)
+
+#### 4:00 pm - 5:30 pm: Panel: Deep Learning and Data Management: Friends or Foes?
+- Moderator: Magda Balazinska (UW)
+- Panelists: TBD
+- Panel questions: 
+    - Is deep learning a hype or a new type of workload that we should support?
+    - What is the role of data management in deep learning? In training or in deployment or both?
+    - Can traditional data management principles be applied to deep learning workloads?
+    - What is the role of deep learning in data management? Will DL replace all the components of traditional DB systems? Why or why not, and which pieces will survive?
+    - There are 100 new papers on DL each month. Should we keep up or wait for the dust to settle?
+
+
+#### 5:30 pm: Reception
 
 ### **Keynote 1: "Relational Artificial Intelligence" Molham Aref (RelationalAI)**
 
@@ -62,54 +113,3 @@ Seattle, WA 98195 -->
 > optimizing deep compiler stack that brings deep learning models on diverse
 > hardware back-ends that are competitive with state-of-the-art hand-tuned
 > libraries for low-power CPU, mobile GPU, and server-class GPUs.
-
-### **Agenda**:
-
-
-#### 8:30 am - 9:00 am: Coffee & Tea
-
-#### 9:00 am - 10:00 am: Session 1: Keynote 1
-- Molham Aref (RelationalAI) - "Relational Artificial Intelligence"
-
-#### 10:00 am - 10:30 am: BREAK
-
-#### 10:30 am - 11:30 am: Session 2: Data Management for Image & Video Analytics
-- 15 min - From Open Satellite Imagery to Emergency Response - Valentina Staneva
-
-- 15 min - Data Management for Debugging Deep Learning Models over Images - Parmita Mehta
-
-- 15 min - LightDB: Data Management System for Video Databases - Brandon Haynes
-
-- 15 min - Towards Efficient Querying of Rich Video Content - Maureen Daum
-
-#### 11:30 am - 12:15 pm: Session 3: Systems for ML
-- Special Guest: Tianqi Chen (UW) "TVM: An Automated End-to-End Optimizing Compiler for Deep Learning"
-
-#### 12:15 pm - 1:30 pm: LUNCH
-
-#### 1:30 pm - 2:30 pm: Session 4: Keynote 2
-- Alex Ratner (Stanford and UW) - "Accelerating Machine Learning with Training Data Management Systems"
-
-#### 2:30 pm - 3:00 pm: BREAK
-
-#### 3:00 pm - 4:00 pm: Session 5: Relational Models
-- 15 min - Discovering Acyclic Schemas - Batya Kenig
-
-- 15 min - A Layered Aggregate Engine for Analytics Workloads - Max Schleich
-
-- 15 min - Pessimistic Cardinality Estimation - Walter Cai
-
-- 15 min - Relational Causal Models - Babak Salimi (by Zoom)
-
-#### 4:00 pm - 5:00 pm: Panel: Deep Learning and Data Management: Friends or Foes?
-- Moderator: Magda Balazinska (UW)
-- Panelists: TBD
-- Panel questions: 
-    - Is deep learning a hype or a new type of workload that we should support?
-    - What is the role of data management in deep learning? In training or in deployment or both?
-    - Can traditional data management principles be applied to deep learning workloads?
-    - What is the role of deep learning in data management? Will DL replace all the components of traditional DB systems? Why or why not, and which pieces will survive?
-    - There are 100 new papers on DL each month. Should we keep up or wait for the dust to settle?
-
-
-#### 5:00 pm: Reception
