@@ -12,9 +12,13 @@ Friday, July 19, 2019
 
 ### **Where**:
 [Bill & Melinda Gates Center For Computer Science & Engineering](https://www.washington.edu/maps/#!/cse2)
+
 Zillow Conference Center
+
 University of Washington
+
 3800 E Stevens Way NE
+
 Seattle, WA 98195
 
 ### **Agenda**:
