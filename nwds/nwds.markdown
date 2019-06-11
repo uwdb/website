@@ -17,6 +17,42 @@ We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for 
 ---
 
 #### Spring 2019
+
+---
+
+<p><a name="Graham_Cormode_2019_06_14"></a>
+<strong>Speaker</strong>: Graham Cormode</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 405.</p>
+
+<p><strong>When</strong>: 
+Friday, June 14, 2019. 2:30pm - 3:30pm</p>
+
+<p><strong>Title</strong>:
+    Distributed Private Data Collection at Scale
+</p>
+
+<p><strong>Abstract</strong>
+ 
+Large technology companies rely on collecting data from their users to
+understand their interests, and better customize the company's products.
+Increasingly, this must be done while preserving individual users'
+privacy. Recently, techniques based on randomization and data sketching
+have been adopted to provide data collection protocols which optimize
+the privacy-accuracy tradeoff. In this talk, I'll discuss methods
+deployed by Google and Apple to collect frequency information, and our
+recent work to capturing information on marginal and cumulative
+distributions.
+</p>
+<p>
+This is joint work with Tejas Kulkarni and Divesh Srivastava.
+
+</p>
+
+
+---
 <p><a name="Volker_Markl_4_5_19"></a></p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
