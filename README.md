@@ -12,3 +12,9 @@ Write your recent news into the news data file [`_data/news.yml`](_data/news.yml
 * head over to [localhost:4000](http://127.0.0.1:4000)
 
 If jekyll throws a version error, you may need to `gem install json` before serving.
+
+## How to add slides for NWDS
+* SSH to recycle or another CSE machine
+* cd to /cse/www2/db/db2-files/nwds/pdf
+* Upload pdf version of slides
+* Add the correct link on the NWDS markdown page

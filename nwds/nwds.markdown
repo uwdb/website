@@ -46,7 +46,7 @@ From 2004-06, I worked at Bell Laboratories in the Internet Management Research 
 </p>
 
 <p>
-Recorded [[videoo](https://youtu.be/H6w_Ihth-m4)]
+Recorded [[video](https://www.youtube.com/watch?v=V4dSj_yE36Y)] and [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Graham_Cormode_06_14_19.pdf)]
 </p>
 
 ---
@@ -163,7 +163,7 @@ Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_t
 * <a href="http://azza.azurewebsites.net/">Azza Abouzied</a>, New York University, Abu Dhabi [[abstract](past_talks.html#Azza Abouzied_1_9_19")][[video](https://www.youtube.com/watch?v=KfYTWnfu4io)]
 
 #### Fall 2018
-* Daniel Harrison, Cockroach Labs [[abstract](past_talks.html#Daniel_Harrison_10_12_18)] [[video](https://youtu.be/H6w_Ihth-m4)] [[slides]({{ site.baseurl }}/nwds/Daniel_Harrison_10_12_18.pdf)]
+* Daniel Harrison, Cockroach Labs [[abstract](past_talks.html#Daniel_Harrison_10_12_18)] [[video](https://youtu.be/H6w_Ihth-m4)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Daniel_Harrison_10_12_18.pdf)]
 * [Spyros Blanas](https://web.cse.ohio-state.edu/~blanas.2/), Ohio State University [[abstract](past_talks.html#Spyros_Blanas_10_19_18)]
 * [Arun Kumar](http://cseweb.ucsd.edu/~arunkk/), University of California, San Diego [[abstract](past_talks.html#Arun_Kumar_11_2_18)] [[video](https://www.youtube.com/watch?v=VChn-bNAOi0)] 
 
@@ -196,8 +196,8 @@ Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_t
 
 *   [Dharma Shukla](http://www.dharmashukla.com), Microsoft [[abstract](past_talks.html#Dharma_Shukla_11_18_16)]
     [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJcnV0U1dRWG9wc2s/view?usp=sharing_eixpa_nl&ts=5835f5b0)]
-*   [Olga Papaemmanouil](http://www.cs.brandeis.edu/~olga/home.html), Brandeis University [[abstract](past_talks.html#Olga_Papaemmanouil_11_4_16)] [[video](https://www.youtube.com/watch?v=oH60uVu6bPE)][[slides]({{ site.baseurl }}/nwds/Olga_Papaemmanouil_11_4_16.pdf)]
-*   [Immanuel Trummer](http://www.itrummer.org), Cornell University [[abstract](past_talks.html#Immanuel_Trummer_10_14_16)] [[video](https://www.youtube.com/watch?v=Dm1_r5tUMu0)][[slides]({{ site.baseurl }}/nwds/Immanuel_Trummer_10_14_16.pdf)]
+*   [Olga Papaemmanouil](http://www.cs.brandeis.edu/~olga/home.html), Brandeis University [[abstract](past_talks.html#Olga_Papaemmanouil_11_4_16)] [[video](https://www.youtube.com/watch?v=oH60uVu6bPE)][[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Olga_Papaemmanouil_11_4_16.pdf)]
+*   [Immanuel Trummer](http://www.itrummer.org), Cornell University [[abstract](past_talks.html#Immanuel_Trummer_10_14_16)] [[video](https://www.youtube.com/watch?v=Dm1_r5tUMu0)][[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Immanuel_Trummer_10_14_16.pdf)]
 
 #### Spring 2016
 
