@@ -35,15 +35,7 @@ Friday, June 14, 2019. 2:30pm - 3:30pm</p>
 </p>
 
 <p><strong>Abstract</strong>
-Large technology companies rely on collecting data from their users to
-understand their interests, and better customize the company's products.
-Increasingly, this must be done while preserving individual users'
-privacy. Recently, techniques based on randomization and data sketching
-have been adopted to provide data collection protocols which optimize
-the privacy-accuracy tradeoff. In this talk, I'll discuss methods
-deployed by Google and Apple to collect frequency information, and our
-recent work to capturing information on marginal and cumulative
-distributions.
+Large technology companies rely on collecting data from their users to understand their interests, and better customize the company's products. Increasingly, this must be done while preserving individual users' privacy. Recently, techniques based on randomization and data sketching have been adopted to provide data collection protocols which optimize the privacy-accuracy tradeoff. In this talk, I'll discuss methods deployed by Google and Apple to collect frequency information, and our recent work to capturing information on marginal and cumulative distributions.
 </p>
 <p>
 This is joint work with Tejas Kulkarni and Divesh Srivastava.
@@ -54,7 +46,7 @@ From 2004-06, I worked at Bell Laboratories in the Internet Management Research 
 </p>
 
 <p>
-    [[video](https://www.youtube.com/watch?v=V4dSj_yE36Y)]
+Recorded [[videoo](https://youtu.be/H6w_Ihth-m4)]
 </p>
 
 ---
@@ -162,7 +154,7 @@ As a part of the CrimsonDB project at the Harvard DasLab, we developed two insig
 
 ##  Past Talks
 
-Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past_talks.html) for abstracts.
+Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_talks.html) for abstracts.
 
 #### Winter 2019
 * <a href="https://www.microsoft.com/en-us/research/people/karam/">Karthik Ramachandra</a>, Microsoft Research India [[abstract](past_talks.html#Karthik_Ramachandra_3_8_19)][[video](https://www.youtube.com/watch?v=Xyvpcf2RtO4)]
@@ -179,7 +171,7 @@ Listed in reverse chronological order. Click [here]({{ site.baseurl }}/nwds/past
 #### Summer 2018
 
 * [Holger Pirk](https://www.doc.ic.ac.uk/~hlgr/), Imperial College London [[abstract](past_talks.html#Holger_Pirk_8_3_18)] [[video](https://youtu.be/sOBRGl2n_9s)]
-* [Stratos Idreos](https://stratos.seas.harvard.edu/), Harvard University [[abstsract](past_talks.html#Stratos_Idreos_8_3_18)] [[video](https://youtu.be/jttQrUIX64k)]
+* [Stratos Idreos](https://stratos.seas.harvard.edu/), Harvard University [[abstract](past_talks.html#Stratos_Idreos_8_3_18)] [[video](https://youtu.be/jttQrUIX64k)]
 
 #### Winter 2018
 
