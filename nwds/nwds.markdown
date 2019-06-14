@@ -45,7 +45,7 @@ This is joint work with Tejas Kulkarni and Divesh Srivastava.
 From 2004-06, I worked at Bell Laboratories in the Internet Management Research Department. From 2006-2013, I was a researcher at AT&T Labs-Research. Between 2002 and 2004, I was a postdoctoral fellow at DIMACS, the Center for Discrete Mathematics and Computer Science. I completed my PhD at the Department of Computer Science at the University of Warwick, UK in 2002. I spent a year of my PhD studying in Cleveland, Ohio at Case Western Reserve University with the Electrical Engineering and Computer Science Department , and Summer 2000 at AT&T Shannon research labs.
 </p>
 
-Recorded [video](https://www.youtube.com/watch?v=V4dSj_yE36Y) and [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Graham_Cormode_06_14_19.pdf)]
+Recordedd [video](https://www.youtube.com/watch?v=V4dSj_yE36Y) and [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Graham_Cormode_06_14_19.pdf)]
 
 ---
 <p><a name="Volker_Markl_4_5_19"></a></p>
