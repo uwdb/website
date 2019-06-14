@@ -1,6 +1,8 @@
 <div class="current-projects flex-container image-container">
 
 
+{% include project name="Pessimistic Query Optimization" caption="Tighter bounds for intermediate join cardinalities" image="pqo.png" link="http://db.cs.washington.edu/projects/pqo" %}
+
 {% include project name="Image Analytics" caption="Large scale image analytics on scientific data" image="imageAnal.png" link="http://db.cs.washington.edu/projects/imageAnalytics" %}
 
 {% include project name="DeepQuery" caption="Query Optimization with Deep Reinforcement Learning" image="deepQuery.png" link="http://db.cs.washington.edu/projects/deepQuery" %}
