@@ -46,7 +46,7 @@ From 2004-06, I worked at Bell Laboratories in the Internet Management Research 
 </p>
 
 <p>
-Recorded [[video](https://www.youtube.com/watch?v=V4dSj_yE36Y)]
+Recorded [[videoo](https://youtu.be/H6w_Ihth-m4)]
 </p>
 
 ---
@@ -171,7 +171,7 @@ Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_t
 #### Summer 2018
 
 * [Holger Pirk](https://www.doc.ic.ac.uk/~hlgr/), Imperial College London [[abstract](past_talks.html#Holger_Pirk_8_3_18)] [[video](https://youtu.be/sOBRGl2n_9s)]
-* [Stratos Idreos](https://stratos.seas.harvard.edu/), Harvard University [[abstsract](past_talks.html#Stratos_Idreos_8_3_18)] [[video](https://youtu.be/jttQrUIX64k)]
+* [Stratos Idreos](https://stratos.seas.harvard.edu/), Harvard University [[abstract](past_talks.html#Stratos_Idreos_8_3_18)] [[video](https://youtu.be/jttQrUIX64k)]
 
 #### Winter 2018
 
