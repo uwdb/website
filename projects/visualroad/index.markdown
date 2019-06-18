@@ -41,9 +41,32 @@ id: "projects"
 
 ### About Visual Road
 
-Coming soon!
+<p>
+Video database management systems (VDBMSs)
+have recently re-emerged as an active area of research and
+development. To accelerate innovation in this area, we
+present Visual Road, a benchmark that evaluates the
+performance of these systems. Visual Road comes with a
+<b>data generator</b> and a <b>suite of queries</b> over cameras positioned
+within a simulated metropolitan environment. Visual Road's
+video data is automatically generated with a <a href="#samples">high degree
+of realism</a>, and annotated using a modern simulation and
+visualization engine. This allows for VDBMS performance
+evaluation while scaling up the size of the input data.
+</p>
+
+<p>
+Visual Road is designed to evaluate a broad variety of VDBMSs: real-time systems, systems for longitudinal analytical queries,
+systems processing traditional videos, and systems designed for 360◦ videos. 
+</p>
+
+<figure id="architecture" class="figure">
+	<img src="images/architecture.png" alt="Visual Road architecture diagram" />
+</figure>
 
 ### Sample Traffic Camera Videos
+
+<div id="samples">
 
 <figure class="figure video">
 	<video controls autoplay="true" muted="true" loop="true">
@@ -77,6 +100,8 @@ Coming soon!
 	</video>
 	<figcaption class="figure-caption text-center">Sunny with moderate foot traffic</figcaption>
 </figure>
+
+</div>
 
 <a href="#datasets"></a>
 ### Pregenerated Datasets
