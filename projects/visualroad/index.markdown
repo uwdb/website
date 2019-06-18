@@ -61,7 +61,7 @@ evaluation while scaling up the size of the input data.
 
 <p>
 Visual Road is designed to evaluate a broad variety of VDBMSs: real-time systems, systems for longitudinal analytical queries,
-systems processing traditional videos, and systems designed for 360◦ videos. 
+systems processing traditional videos, and systems designed for 360◦ videos.  Visual Road relies on the [Unreal Engine](https://www.unrealengine.com) for physical simulation and rendering, and the [Carla simulator](http://carla.org) as a back-end engine (including its assets, geographic elements, and actor automation logic).
 </p>
 
 <figure id="architecture" class="figure">
@@ -71,6 +71,8 @@ systems processing traditional videos, and systems designed for 360◦ videos.
 
 <div id="samples"></div>
 ### Sample Traffic Camera Videos
+
+The following videos are representative of the traffic cameras found in a synthetic Visual Road dataset:
 
 <figure class="figure video">
 	<video controls autoplay="true" muted="true" loop="true">
@@ -110,7 +112,6 @@ systems processing traditional videos, and systems designed for 360◦ videos.
 
 Downloads coming soon!
 
-<p id="datasets" class="table-responsive">
 | Name     | Scale | Resolution      | Duration | Version | Seed      |
 |----------|-------|-----------------|----------|---------|-----------|
 | 1K-Short | 2     | 1K (960x540)    | 15 min   | 1       | 0x75BCD15 |
@@ -119,7 +120,6 @@ Downloads coming soon!
 | 2K-Long  | 4     | 2K (1920x1080)  | 60 min   | 1       | 0x75BCD15 |
 | 4K-Short | 2     | 4K (3840x2160)  | 15 min   | 1       | 0x75BCD15 |
 | 4K-Long  | 4     | 4K (3840x2160)  | 60 min   | 1       | 0x75BCD15 |
-</p>
 
 <script type="text/javascript">
 	document.getElementsByTagName("table")[0].className = "table table-striped table-hover";
