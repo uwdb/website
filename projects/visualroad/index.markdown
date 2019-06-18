@@ -30,6 +30,7 @@ id: "projects"
 
 	#architecture img {
 		width: 100%;
+		margin-bottom: 2em;
 	}
 
 	table.table {
@@ -48,15 +49,15 @@ id: "projects"
   </p>
 </div>
 
-### About Visual Road
+# About Visual Road
 
-<p>
+<p style="margin-bottom: 2em">
 Video database management systems (VDBMSs)
 have recently re-emerged as an active area of research and
 development. To accelerate innovation in this area, we
 present Visual Road, a benchmark that evaluates the
 performance of these systems. Visual Road comes with a
-<b>data generator</b> and a <b>suite of queries</b> over cameras positioned
+<b>dataset generator</b> and a <b>suite of benchmark queries</b> over cameras positioned
 within a simulated metropolitan environment. Visual Road's
 video data is automatically generated with a <a href="#samples">high degree
 of realism</a>, and annotated using a modern simulation and
@@ -66,7 +67,7 @@ evaluation while scaling up the size of the input data.
 
 <p>
 Visual Road is designed to evaluate a broad variety of VDBMSs: real-time systems, systems for longitudinal analytical queries,
-systems processing traditional videos, and systems designed for 360◦ videos.  Visual Road relies on the [Unreal Engine](https://www.unrealengine.com) for physical simulation and rendering, and the [Carla simulator](http://carla.org) as a back-end engine (including its assets, geographic elements, and actor automation logic).
+systems processing traditional videos, and systems designed for 360◦ videos.  Visual Road relies on the <a href="https://www.unrealengine.com">Unreal Engine</a> for physical simulation and rendering, and the <a href="http://carla.org">Carla simulator</a> as a back-end engine (including its assets, geographic elements, and actor automation logic).
 </p>
 
 <figure id="architecture" class="figure">
@@ -75,7 +76,7 @@ systems processing traditional videos, and systems designed for 360◦ videos.  
 
 
 <div id="samples"></div>
-### Sample Traffic Camera Videos
+# Sample Traffic Camera Videos
 
 The following videos are representative of the traffic cameras found in a synthetic Visual Road dataset:
 
@@ -113,7 +114,8 @@ The following videos are representative of the traffic cameras found in a synthe
 </figure>
 
 <div id="datasets" style="clear: both"></div>
-### Pregenerated Datasets
+
+# Pregenerated Datasets
 
 Downloads coming soon!
 
