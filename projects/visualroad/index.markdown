@@ -15,6 +15,7 @@ id: "projects"
 
 	.title {
 		font-family: AdventPro;
+		margin-top: 0;
 	}
 
 	figure.video {
@@ -40,7 +41,16 @@ id: "projects"
 
 ### About Visual Road
 
-Coming soon!
+Downloads coming soon!
+
+| Name     | Scale | Resolution      | Duration | Version | Seed      |
+|----------|-------|-----------------|----------|---------|-----------|
+| 1K-Short | 2     | 1K (960x540)    | 15 min   | 1       | 0x75BCD15 |
+| 1K-Long  | 4     | 1K (960x540)    | 60 min   | 1       | 0x75BCD15 |
+| 2K-Short | 2     | 2K (1920x1080)  | 15 min   | 1       | 0x75BCD15 |
+| 2K-Long  | 4     | 2K (1920x1080)  | 60 min   | 1       | 0x75BCD15 |
+| 4K-Short | 2     | 4K (3840x2160)  | 15 min   | 1       | 0x75BCD15 |
+| 4K-Long  | 4     | 4K (3840x2160)  | 60 min   | 1       | 0x75BCD15 |
 
 ### Sample Traffic Camera Videos
 
@@ -77,6 +87,7 @@ Coming soon!
 	<figcaption class="figure-caption text-center">Sunny with moderate foot traffic</figcaption>
 </figure>
 
+<a href="#datasets"></a>
 ### Pregenerated Datasets
 
 Coming soon!
