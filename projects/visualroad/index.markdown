@@ -12,7 +12,7 @@ id: "projects"
   <p>A Video Data Management Benchmark</p>
   <p>
   	<a class="btn btn-primary btn-lg label-danger" href="p300-haynes.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
-  	<a class="btn btn-primary btn-lg label-primary" href="#" pendinghref="https://github.com/uwdb/visualroad" role="button" style="width: 180px"><span style="position: relative; top:10px">Get the Benchmark<br/>(Coming soon!)</span><br/><small>&nbsp;</small></a>
+  	<a class="btn btn-primary btn-lg label-primary" href="#" pendinghref="https://github.com/uwdb/visualroad" role="button" style="width: 180px"><span style="position: relative; top:10px">Get the Benchmark</span><br/><small>(Coming soon!)</small></a>
   </p>
 </div>
 
