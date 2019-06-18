@@ -93,7 +93,7 @@ Downloads coming soon!
 | 4K-Long  | 4     | 4K (3840x2160)  | 60 min   | 1       | 0x75BCD15 |
 
 <script type="text/javascript">
-	$("table").addClass("table table-striped table-responsive table-hover");
+	document.getElementsByTagName("table")[0].className = "table table-striped table-responsive table-hover";
 </script>
 
 ### Acknowledgments
