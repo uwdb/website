@@ -8,6 +8,15 @@ id: "projects"
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
 <style type="text/css">
+	@font-face {
+	    font-family: "AdventPro";
+	    src: url("fonts/AdventPro-Bold.woff") format('woff');
+	}
+
+	.title {
+		font-family: AdventPro;
+	}
+
 	figure.video {
 		width: 50%;
 		float: left;
@@ -21,6 +30,7 @@ id: "projects"
 
 <div class="jumbotron" style="background-image: none; background-color: inherit; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
   <img src="../../images/projects/visualroad.png" alt="Logo" style="width: 8rem" />
+  <h1 class="title">Visual Road</h1>
   <p>A Video Data Management Benchmark</p>
   <p>
   	<a class="btn btn-primary btn-lg label-danger" href="p300-haynes.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
