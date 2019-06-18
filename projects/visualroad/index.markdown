@@ -27,17 +27,6 @@ id: "projects"
 	figure.video video {
 		width: 100%;
 	}
-
-	table {
-	  @extend .table;
-	  @extend .table-striped;
-	  @extend .table-hover;
-	  @extend .table-responsive;
-	}
-
-	table thead {
-	  @extend .thead-dark;
-	}
 </style>
 
 <div class="jumbotron" style="background-image: none; background-color: inherit; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
@@ -102,6 +91,10 @@ Downloads coming soon!
 | 2K-Long  | 4     | 2K (1920x1080)  | 60 min   | 1       | 0x75BCD15 |
 | 4K-Short | 2     | 4K (3840x2160)  | 15 min   | 1       | 0x75BCD15 |
 | 4K-Long  | 4     | 4K (3840x2160)  | 60 min   | 1       | 0x75BCD15 |
+
+<script type="text/javascript">
+	$("table").addClass("table table-striped table-responsive table-hover");
+</script>
 
 ### Acknowledgments
 
