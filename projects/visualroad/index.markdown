@@ -30,7 +30,7 @@ id: "projects"
 
 	#architecture img {
 		width: 100%;
-		margin-bottom: 2em;
+		margin: 2em;
 	}
 
 	table.table {
@@ -51,7 +51,7 @@ id: "projects"
 
 # About Visual Road
 
-<p style="margin-bottom: 2em">
+<p>
 Video database management systems (VDBMSs)
 have recently re-emerged as an active area of research and
 development. To accelerate innovation in this area, we
