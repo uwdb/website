@@ -34,6 +34,7 @@ id: "projects"
 
 	table.table {
 		min-width: 40em;
+		overflow-x: auto;
 	}
 </style>
 
@@ -111,7 +112,7 @@ The following videos are representative of the traffic cameras found in a synthe
 	<figcaption class="figure-caption text-center">Sunny with moderate foot traffic</figcaption>
 </figure>
 
-<div id="datasets"></div>
+<div id="datasets" style="clear: both"></div>
 ### Pregenerated Datasets
 
 Downloads coming soon!
