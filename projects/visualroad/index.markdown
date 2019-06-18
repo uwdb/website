@@ -5,7 +5,15 @@ group: "navigation"
 id: "projects"
 ---
 
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<style type="text/css">
+	figure.video {
+		width: 50%;
+		float: left;
+		padding: 0.5em;
+	}
+</style>
 
 <div class="jumbotron" style="background-image: none; background-color: inherit; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
   <img src="../../images/projects/visualroad.png" alt="Logo" style="width: 8rem" />
@@ -20,31 +28,42 @@ id: "projects"
 
 Coming soon!
 
-<video controls autoplay="true" muted="true" loop="true">
-  <source src="videos/visualroad1.mp4" type="video/mp4">
-  <p>Your browser doesn't support HTML5 video. Here is
-     a <a href="videos/visualroad1.mp4">link to the video</a> instead.</p>
-</video>
+### Sample Traffic Camera Videos
 
-<video controls autoplay="true" muted="true" loop="true">
-  <source src="videos/visualroad2.mp4" type="video/mp4">
-  <p>Your browser doesn't support HTML5 video. Here is
-     a <a href="videos/visualroad2.mp4">link to the video</a> instead.</p>
-</video>
+<figure class="figure video">
+	<video controls autoplay="true" muted="true" loop="true">
+	  <source src="videos/visualroad1.mp4" type="video/mp4">
+	  <p>Your browser doesn't support HTML5 video. Here is
+	     a <a href="videos/visualroad1.mp4">link to the video</a> instead.</p>
+	</video>
+	<figcaption class="figure-caption text-center">Tile 26: Rain with light traffic</figcaption>
+</figure>
+<figure class="figure video">
+	<video controls autoplay="true" muted="true" loop="true">
+	  <source src="videos/visualroad2.mp4" type="video/mp4">
+	  <p>Your browser doesn't support HTML5 video. Here is
+	     a <a href="videos/visualroad2.mp4">link to the video</a> instead.</p>
+	</video>
+	<figcaption class="figure-caption text-center">Tile 26: Rain with light traffic</figcaption>
+</figure>
+<figure class="figure video">
+	<video controls autoplay="true" muted="true" loop="true">
+	  <source src="videos/visualroad3.mp4" type="video/mp4">
+	  <p>Your browser doesn't support HTML5 video. Here is
+	     a <a href="videos/visualroad3.mp4">link to the video</a> instead.</p>
+	</video>
+	<figcaption class="figure-caption text-center">Tile 26: Rain with light traffic</figcaption>
+</figure>
+<figure class="figure video">
+	<video controls autoplay="true" muted="true" loop="true">
+	  <source src="videos/visualroad4.mp4" type="video/mp4">
+	  <p>Your browser doesn't support HTML5 video. Here is
+	     a <a href="videos/visualroad4.mp4">link to the video</a> instead.</p>
+	</video>
+	<figcaption class="figure-caption text-center">Tile 26: Rain with light traffic</figcaption>
+</figure>
 
-<video controls autoplay="true" muted="true" loop="true">
-  <source src="videos/visualroad3.mp4" type="video/mp4">
-  <p>Your browser doesn't support HTML5 video. Here is
-     a <a href="videos/visualroad3.mp4">link to the video</a> instead.</p>
-</video>
-
-<video controls autoplay="true" muted="true" loop="true">
-  <source src="videos/visualroad4.mp4" type="video/mp4">
-  <p>Your browser doesn't support HTML5 video. Here is
-     a <a href="videos/visualroad4.mp4">link to the video</a> instead.</p>
-</video>
-
-#### Acknowledgments
+### Acknowledgments
 
 This work is supported by the NSF through grants 
 [CCF-1703051](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1703051), 
