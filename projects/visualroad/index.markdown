@@ -31,6 +31,10 @@ id: "projects"
 	#architecture img {
 		width: 100%;
 	}
+
+	table.table {
+		min-width: 40em;
+	}
 </style>
 
 <div class="jumbotron" style="background-image: none; background-color: inherit; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
