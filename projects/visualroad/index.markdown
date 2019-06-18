@@ -21,27 +21,27 @@ id: "projects"
 Coming soon!
 
 <video controls autoplay="true" muted="true" loop="true">
-  <source src="risualroad1.mp4" type="video/mp4">
+  <source src="videos/visualroad1.mp4" type="video/mp4">
   <p>Your browser doesn't support HTML5 video. Here is
-     a <a href="visualroad1.mp4">link to the video</a> instead.</p>
+     a <a href="videos/visualroad1.mp4">link to the video</a> instead.</p>
 </video>
 
 <video controls autoplay="true" muted="true" loop="true">
-  <source src="risualroad2.mp4" type="video/mp4">
+  <source src="videos/visualroad2.mp4" type="video/mp4">
   <p>Your browser doesn't support HTML5 video. Here is
-     a <a href="visualroad2.mp4">link to the video</a> instead.</p>
+     a <a href="videos/visualroad2.mp4">link to the video</a> instead.</p>
 </video>
 
 <video controls autoplay="true" muted="true" loop="true">
-  <source src="risualroad3.mp4" type="video/mp4">
+  <source src="videos/visualroad3.mp4" type="video/mp4">
   <p>Your browser doesn't support HTML5 video. Here is
-     a <a href="visualroad3.mp4">link to the video</a> instead.</p>
+     a <a href="videos/visualroad3.mp4">link to the video</a> instead.</p>
 </video>
 
 <video controls autoplay="true" muted="true" loop="true">
-  <source src="risualroad4.mp4" type="video/mp4">
+  <source src="videos/visualroad4.mp4" type="video/mp4">
   <p>Your browser doesn't support HTML5 video. Here is
-     a <a href="visualroad4.mp4">link to the video</a> instead.</p>
+     a <a href="videos/visualroad4.mp4">link to the video</a> instead.</p>
 </video>
 
 #### Acknowledgments
