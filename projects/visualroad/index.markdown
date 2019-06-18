@@ -13,6 +13,10 @@ id: "projects"
 		float: left;
 		padding: 0.5em;
 	}
+
+	figure.video video {
+		width: 100%;
+	}
 </style>
 
 <div class="jumbotron" style="background-image: none; background-color: inherit; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
