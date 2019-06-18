@@ -27,6 +27,10 @@ id: "projects"
 	figure.video video {
 		width: 100%;
 	}
+
+	#architecture img {
+		width: 100%;
+	}
 </style>
 
 <div class="jumbotron" style="background-image: none; background-color: inherit; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
@@ -64,9 +68,9 @@ systems processing traditional videos, and systems designed for 360◦ videos.
 	<img src="images/architecture.png" alt="Visual Road architecture diagram" />
 </figure>
 
-### Sample Traffic Camera Videos
 
 <div id="samples">
+### Sample Traffic Camera Videos
 
 <figure class="figure video">
 	<video controls autoplay="true" muted="true" loop="true">
@@ -108,6 +112,7 @@ systems processing traditional videos, and systems designed for 360◦ videos.
 
 Downloads coming soon!
 
+<div class="table-responsive">
 | Name     | Scale | Resolution      | Duration | Version | Seed      |
 |----------|-------|-----------------|----------|---------|-----------|
 | 1K-Short | 2     | 1K (960x540)    | 15 min   | 1       | 0x75BCD15 |
@@ -116,9 +121,10 @@ Downloads coming soon!
 | 2K-Long  | 4     | 2K (1920x1080)  | 60 min   | 1       | 0x75BCD15 |
 | 4K-Short | 2     | 4K (3840x2160)  | 15 min   | 1       | 0x75BCD15 |
 | 4K-Long  | 4     | 4K (3840x2160)  | 60 min   | 1       | 0x75BCD15 |
+</div>
 
 <script type="text/javascript">
-	document.getElementsByTagName("table")[0].className = "table table-striped table-responsive table-hover";
+	document.getElementsByTagName("table")[0].className = "table table-striped table-hover";
 </script>
 
 ### Acknowledgments
