@@ -40,7 +40,7 @@ Coming soon!
 	  <p>Your browser doesn't support HTML5 video. Here is
 	     a <a href="videos/visualroad1.mp4">link to the video</a> instead.</p>
 	</video>
-	<figcaption class="figure-caption text-center">Tile 26: Rain with light traffic</figcaption>
+	<figcaption class="figure-caption text-center">Rain with light traffic</figcaption>
 </figure>
 <figure class="figure video">
 	<video controls autoplay="true" muted="true" loop="true">
@@ -48,7 +48,7 @@ Coming soon!
 	  <p>Your browser doesn't support HTML5 video. Here is
 	     a <a href="videos/visualroad2.mp4">link to the video</a> instead.</p>
 	</video>
-	<figcaption class="figure-caption text-center">Tile 26: Rain with light traffic</figcaption>
+	<figcaption class="figure-caption text-center">Postpluvial with heavy traffic</figcaption>
 </figure>
 <figure class="figure video">
 	<video controls autoplay="true" muted="true" loop="true">
@@ -56,7 +56,7 @@ Coming soon!
 	  <p>Your browser doesn't support HTML5 video. Here is
 	     a <a href="videos/visualroad3.mp4">link to the video</a> instead.</p>
 	</video>
-	<figcaption class="figure-caption text-center">Tile 26: Rain with light traffic</figcaption>
+	<figcaption class="figure-caption text-center">Postpluvial with heavy auto and foot traffic</figcaption>
 </figure>
 <figure class="figure video">
 	<video controls autoplay="true" muted="true" loop="true">
@@ -64,8 +64,12 @@ Coming soon!
 	  <p>Your browser doesn't support HTML5 video. Here is
 	     a <a href="videos/visualroad4.mp4">link to the video</a> instead.</p>
 	</video>
-	<figcaption class="figure-caption text-center">Tile 26: Rain with light traffic</figcaption>
+	<figcaption class="figure-caption text-center">Sunny with moderate foot traffic</figcaption>
 </figure>
+
+### Pregenerated Datasets
+
+Coming soon!
 
 ### Acknowledgments
 
