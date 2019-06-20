@@ -74,7 +74,11 @@ Seattle, WA 98195
 
 ### **Keynote 1: "Relational Artificial Intelligence" Molham Aref (RelationalAI)**
 
-> Abstract TDB.
+> ABSTRACT: In this talk, Molham Aref will make the case for a first-principles approach to machine learning over relational databases that exploits recent development in database systems and theory. The input to learning classification and regression models is defined by feature extraction queries over relational databases. He casts the machine learning problem as a database problem by decomposing the learning task into a batch of aggregates over the feature extraction query and by computing this batch over the input database. The performance of this approach benefits tremendously from structural properties of the relational data and of the feature extraction query; such properties may be algebraic (semi-ring), combinatorial (hypertree width), or statistical (sampling). This translates to several orders-of-magnitude speed-up over state-of-the-art systems. 
+
+> This work is based on collaboration with Hung Q. Ngo (RelationalAI), Mahmoud Abo-Khamis (RelationalAI), Ryan Curtin (RelationalAI), Dan Olteanu (Oxford), Maximilian Schleich (Oxford), Ben Moseley (CMU), and XuanLong Nguyen (Michigan) and other members of the RelationalAI team and faculty network.
+
+> BIO: Molham Aref is the Chief Executive Officer of RelationalAI. He has more than 28 years of experience in leading organisations that develop and implement high value machine learning and artificial intelligence solutions across various industries. Prior to RelationalAI he was CEO of LogicBlox and Predictix (now Infor), Optimi (now Ericsson), and co-founder of Brickstream (now FLIR). Molham held senior leadership positions at HNC Software (now FICO) and Retek (now Oracle).
 
 ### **Keynote 2: "Accelerating Machine Learning with Training Data Management Systems" Alex Ratner (Stanford and UW)**
 
