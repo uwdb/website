@@ -108,7 +108,7 @@ systems processing traditional videos, and systems designed for 360◦ videos.  
 
 	<div class="flex-item person" title="Alvin Cheung">
 		<a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/akcheung.html">
-			<img src="{{ site.baseurl }}/images/people/magda.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/alvin.jpg"/>
 			<p>Alvin Cheung</p>
 		</a>
 	</div>
