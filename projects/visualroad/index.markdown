@@ -74,6 +74,45 @@ systems processing traditional videos, and systems designed for 360◦ videos.  
 	<img src="images/architecture.png" alt="Visual Road architecture diagram" />
 </figure>
 
+<div id="people"></div>
+# People
+
+<div class="flex-container people image-container">
+	<div class="flex-item person" title="Brandon Haynes">
+		<a href="https://homes.cs.washington.edu/~bhaynes">
+			<img src="{{ site.baseurl }}/images/people/brandonH.jpg"/>
+			<p>Brandon Haynes</p>
+		</a>
+	</div>
+
+	<div class="flex-item person" title="Amrita Mazumdar">
+		<a href="https://homes.cs.washington.edu/~amrita/">
+			<img src="images/amrita.jpg"/>
+			<p>Amrita Mazumdar</p>
+		</a>
+	</div>
+
+	<div class="flex-item person" title="Magdalena Balazinska">
+		<a href="https://www.cs.washington.edu/people/faculty/magda">
+			<img src="{{ site.baseurl }}/images/people/magda.jpg"/>
+			<p>Magdalena Balazinska</p>
+		</a>
+	</div>
+
+	<div class="flex-item person" title="Luis Ceze">
+		<a href="https://www.cs.washington.edu/people/faculty/luisceze">
+			<img src="images/luis.jpg"/>
+			<p>Luis Ceze</p>
+		</a>
+	</div>
+
+	<div class="flex-item person" title="Alvin Cheung">
+		<a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/akcheung.html">
+			<img src="{{ site.baseurl }}/images/people/magda.jpg"/>
+			<p>Alvin Cheung</p>
+		</a>
+	</div>
+</div>
 
 <div id="samples"></div>
 # Sample Traffic Camera Videos
@@ -131,6 +170,14 @@ Downloads coming soon!
 <script type="text/javascript">
 	document.getElementsByTagName("table")[0].className = "table table-striped table-hover";
 </script>
+
+#### Related Publications
+
+* Brandon Haynes, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung. [Visual Road: A Video Data Management Benchmark](https://db.cs.washington.edu/projects/visualroad), SIGMOD 2019
+
+* Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung. [LightDB: A DBMS for Virtual Reality Video](https://db.cs.washington.edu/projects/lightdb). _PVLDB_, 11 (10): 1192-1205, 2018
+
+* Brandon Haynes, Artem Minyaylov, Magdalena Balazinska, Luis Ceze, Alvin Cheung.  VisualCloud Demonstration: A DBMS for Virtual Reality.  _SIGMOD_, 1615-1618, 2017. **[Best Demonstration Honorable Mention]**
 
 ### Acknowledgments
 
