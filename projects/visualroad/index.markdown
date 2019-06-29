@@ -156,8 +156,6 @@ The following videos are representative of the traffic cameras found in a synthe
 
 # Pregenerated Datasets
 
-Downloads coming soon!
-
 | Name     | Scale | Resolution      | Duration | Version | Seed      | Download        |
 |----------|-------|-----------------|----------|---------|-----------|-----------------|
 | 1K-Short | 2     | 1K (960x540)    | 15 min   | 1       | 0x00181CD | [1k-short.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-1k.tar.gz) |
