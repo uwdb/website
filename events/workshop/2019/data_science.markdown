@@ -61,7 +61,11 @@ Seattle, WA 98195
 
 #### 4:00 pm - 5:30 pm: Panel: Deep Learning and Data Management: Friends or Foes?
 - Moderator: Magda Balazinska (UW)
-- Panelists: TBD
+- Panelists:
+    - Mingge Deng, Google
+    - Hannaneh Hajishirzi, University of Washington
+    - Yao Lu, Microsoft
+    - Jennifer Ortiz, University of Washington
 - Panel questions: 
     - Is deep learning a hype or a new type of workload that we should support?
     - What is the role of data management in deep learning? In training or in deployment or both?
