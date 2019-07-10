@@ -20,7 +20,9 @@ We explore the idea of using deep reinforcement learning for query optimization.
 
 Query optimization is not a solved problem, and existing database management systems (DBMSs) still choose poor execution plans for some queries. More recently, thanks to dropping hardware costs and growing datasets available for training, deep learning has successfully been applied to solving computationally intensive learning tasks in other domains. The advantage of these type of models comes from their ability to learn unique patterns and features of the data that are difficult to manually find or design. 
 
-In this project, we explore the idea of training a deep learning model to predict query cardinalities. Instead of relying entirely on basic statistics and formulas to estimate cardinalities, we train a model to automatically learn important properties of the data to more accurately infer these estimates. Importantly, we use that model to learn subquery representations that can serve to derive the representation, and cardinality, of more complex queries and that can serve to build query plans bottom-up using deep reinforcement learning.
+In this project, we explore the idea of training a deep learning model to predict query cardinalities. Instead of relying entirely on basic statistics and formulas to estimate cardinalities, we train a model to automatically learn important properties of the data to more accurately infer these estimates. Importantly, we use that model to learn subquery representations that can serve to derive the representation of more complex queries and that can serve to build query plans bottom-up using deep reinforcement learning. 
+
+This work also includes a study of using <a href="https://arxiv.org/pdf/1905.06425.pdf">deep learning for cardinality estimation.</a>
 
 #### Questions?
 
