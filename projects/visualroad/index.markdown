@@ -162,7 +162,7 @@ The following videos are representative of the traffic cameras found in a synthe
 | 1K-Long  | 4     | 1K (960x540)    | 60 min   | 1       | 0x75BCD15 | Coming soon!    |
 | 2K-Short | 2     | 2K (1920x1080)  | 15 min   | 1       | 0x75BCD15 | Coming soon!    |
 | 2K-Long  | 4     | 2K (1920x1080)  | 60 min   | 1       | 0x75BCD15 | Coming soon!    |
-| 4K-Short | 2     | 4K (3840x2160)  | 15 min   | 1       | 0x75BCD15 | [4k-short.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-4k.tar.gz) |
+| 4K-Short | 2     | 4K (3840x2160)  | 15 min   | 1       | 0x00181CD | [4k-short.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-4k.tar.gz) |
 | 4K-Long  | 4     | 4K (3840x2160)  | 60 min   | 1       | 0x75BCD15 | Coming soon!    |
 
 <script type="text/javascript">
