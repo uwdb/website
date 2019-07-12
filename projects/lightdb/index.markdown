@@ -101,7 +101,7 @@ LightDB support declarative queries over _temporal light fields_ (TLF).  To obta
 Each of the algebraic operators described in section 3.2 of the [LightDB paper](http://db.cs.washington.edu/projects/lightdb/p1144-haynes.pdf) may be applied to a TLF.  For example, to apply the predictive 360° query described in [section 3.5](http://db.cs.washington.edu/projects/lightdb/p1144-haynes.pdf), a user would write the following query:
 
 ```python
-    query = Scan("threesixty")
+    query = Scan("internal-tlf")
               .Partition(Dimension::Theta, degrees{90})
               .Partition(Dimension::Phi, degrees{90})
               .Subquery(lambda tlf: tlf.Encode(Codec.hevc, bitrate=b))
