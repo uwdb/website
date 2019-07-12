@@ -12,8 +12,8 @@ id: "projects"
   <img src="../../images/projects/lightdb.png" alt="Logo" style="width: 40rem" />
   <p>A Database Management System for Virtual Reality Video</p>
   <p>
-  	<a class="btn btn-primary btn-lg label-danger" href="p1144-haynes.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
-  	<a class="btn btn-primary btn-lg label-primary" href="https://github.com/uwdb/lightdb" role="button" style="width: 180px"><span style="position: relative; top:10px">Get the Code</span><br/><small>&nbsp;</small></a>
+    <a class="btn btn-primary btn-lg label-danger" href="p1144-haynes.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
+    <a class="btn btn-primary btn-lg label-primary" href="https://github.com/uwdb/lightdb" role="button" style="width: 180px"><span style="position: relative; top:10px">Get the Code</span><br/><small>&nbsp;</small></a>
   </p>
 </div>
 
@@ -46,47 +46,47 @@ enhanced viewer experience over congested network connections.
 # People
 
 <div class="flex-container people image-container">
-	<div class="flex-item person" title="Brandon Haynes">
-		<a href="https://homes.cs.washington.edu/~bhaynes">
-			<img src="{{ site.baseurl }}/images/people/brandonH.jpg"/>
-			<p>Brandon Haynes</p>
-		</a>
-	</div>
+    <div class="flex-item person" title="Brandon Haynes">
+        <a href="https://homes.cs.washington.edu/~bhaynes">
+            <img src="{{ site.baseurl }}/images/people/brandonH.jpg"/>
+            <p>Brandon Haynes</p>
+        </a>
+    </div>
 
-	<div class="flex-item person" title="Amrita Mazumdar">
-		<a href="https://homes.cs.washington.edu/~amrita">
-			<img src="images/amrita.jpg"/>
-			<p>Amrita Mazumdar</p>
-		</a>
-	</div>
+    <div class="flex-item person" title="Amrita Mazumdar">
+        <a href="https://homes.cs.washington.edu/~amrita">
+            <img src="images/amrita.jpg"/>
+            <p>Amrita Mazumdar</p>
+        </a>
+    </div>
 
-	<div class="flex-item person" title=" Armin Alaghi">
-		<a href="https://homes.cs.washington.edu/~armin">
-			<img src="images/armin.jpg"/>
-			<p> Armin Alaghi</p>
-		</a>
-	</div>
+    <div class="flex-item person" title=" Armin Alaghi">
+        <a href="https://homes.cs.washington.edu/~armin">
+            <img src="images/armin.jpg"/>
+            <p> Armin Alaghi</p>
+        </a>
+    </div>
 
-	<div class="flex-item person" title="Magdalena Balazinska">
-		<a href="https://www.cs.washington.edu/people/faculty/magda">
-			<img src="{{ site.baseurl }}/images/people/magda.jpg"/>
-			<p>Magdalena Balazinska</p>
-		</a>
-	</div>
+    <div class="flex-item person" title="Magdalena Balazinska">
+        <a href="https://www.cs.washington.edu/people/faculty/magda">
+            <img src="{{ site.baseurl }}/images/people/magda.jpg"/>
+            <p>Magdalena Balazinska</p>
+        </a>
+    </div>
 
-	<div class="flex-item person" title="Luis Ceze">
-		<a href="https://www.cs.washington.edu/people/faculty/luisceze">
-			<img src="images/luis.jpg"/>
-			<p>Luis Ceze</p>
-		</a>
-	</div>
+    <div class="flex-item person" title="Luis Ceze">
+        <a href="https://www.cs.washington.edu/people/faculty/luisceze">
+            <img src="images/luis.jpg"/>
+            <p>Luis Ceze</p>
+        </a>
+    </div>
 
-	<div class="flex-item person" title="Alvin Cheung">
-		<a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/akcheung.html">
-			<img src="{{ site.baseurl }}/images/people/alvin.jpg"/>
-			<p>Alvin Cheung</p>
-		</a>
-	</div>
+    <div class="flex-item person" title="Alvin Cheung">
+        <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/akcheung.html">
+            <img src="{{ site.baseurl }}/images/people/alvin.jpg"/>
+            <p>Alvin Cheung</p>
+        </a>
+    </div>
 </div>
 
 ### Using LightDB
@@ -103,9 +103,9 @@ Each of the algebraic operators described in section 3.2 of the [LightDB paper](
 ```python
     query = Scan("threesixty")
               .Partition(Dimension::Theta, degrees{90})
-      		  .Partition(Dimension::Phi, degrees{90})
-      		  .Subquery(lambda tlf: tlf.Encode(Codec.hevc, bitrate=b))
-      		  .Store("result")
+              .Partition(Dimension::Phi, degrees{90})
+              .Subquery(lambda tlf: tlf.Encode(Codec.hevc, bitrate=b))
+              .Store("result")
     Coordinator().execute(query)
 ```
 
