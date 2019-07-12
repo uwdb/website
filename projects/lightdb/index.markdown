@@ -17,12 +17,12 @@ id: "projects"
   </p>
 </div>
 
-### About LightDB
+# About LightDB
 
 LightDB is a database management system (DBMS) designed
 to efficiently ingest, store, and deliver virtual reality (VR)
 content at scale. LightDB currently targets both live and prerecorded
-spherical panoramic (a.k.a. 360◦) VR videos. It persists content
+spherical panoramic (a.k.a. 360°) VR videos. It persists content
 as a multidimensional array that utilizes both dense (e.g., space and
 time) and sparse (e.g., bit-rate) dimensions. LightDB uses orientation
 prediction to reduce data transfer by degrading out-of-view
@@ -42,24 +42,82 @@ reduces bandwidth (and thus also power) consumption on
 client devices, scales to many concurrent connections, and offers an
 enhanced viewer experience over congested network connections.
 
-<iframe class="tscplayer_inline" id="embeddedSmartPlayerInstance" src="VisualCloud Overview_player.html?embedIFrameId=embeddedSmartPlayerInstance" scrolling="no" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<div id="people"></div>
+# People
+
+<div class="flex-container people image-container">
+	<div class="flex-item person" title="Brandon Haynes">
+		<a href="https://homes.cs.washington.edu/~bhaynes">
+			<img src="{{ site.baseurl }}/images/people/brandonH.jpg"/>
+			<p>Brandon Haynes</p>
+		</a>
+	</div>
+
+	<div class="flex-item person" title="Amrita Mazumdar">
+		<a href="https://homes.cs.washington.edu/~amrita">
+			<img src="images/amrita.jpg"/>
+			<p>Amrita Mazumdar</p>
+		</a>
+	</div>
+
+	<div class="flex-item person" title=" Armin Alaghi">
+		<a href="https://homes.cs.washington.edu/~armin">
+			<img src="images/armin.jpg"/>
+			<p> Armin Alaghi</p>
+		</a>
+	</div>
+
+	<div class="flex-item person" title="Magdalena Balazinska">
+		<a href="https://www.cs.washington.edu/people/faculty/magda">
+			<img src="{{ site.baseurl }}/images/people/magda.jpg"/>
+			<p>Magdalena Balazinska</p>
+		</a>
+	</div>
+
+	<div class="flex-item person" title="Luis Ceze">
+		<a href="https://www.cs.washington.edu/people/faculty/luisceze">
+			<img src="images/luis.jpg"/>
+			<p>Luis Ceze</p>
+		</a>
+	</div>
+
+	<div class="flex-item person" title="Alvin Cheung">
+		<a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/akcheung.html">
+			<img src="{{ site.baseurl }}/images/people/alvin.jpg"/>
+			<p>Alvin Cheung</p>
+		</a>
+	</div>
+</div>
 
 ### Using LightDB
 
-To launch a LightDB server using a custom data source, instantiate a video source and pass it as an argument to the LightDB server constructor:
+LightDB support declarative queries over _temporal light fields_ (TLF).  To obtain a reference to a TLF, `scan` it from the internal LightDB catalog or `load` it from disk:
 
-```c
-    FileIngestAccessMethod source(name, path);
-    LightDBServer server(name, hostname, port, source, ...);
-
-    server.start();
+```python
+    tlf = Scan("internal-tlf")
+    tlf2 = Load("~/video.mp4")
 ```
 
-LightDB currently supports loading from the file system (`FileIngestAccessMethod`) and from an RTMP endpoint (`RTMPIngestAccessMethod`).
+Each of the algebraic operators described in section 3.2 of the [LightDB paper](http://db.cs.washington.edu/projects/lightdb/p1144-haynes.pdf) may be applied to a TLF.  For example, to apply the predictive 360° query described in [section 3.5](http://db.cs.washington.edu/projects/lightdb/p1144-haynes.pdf), a user would write the following query:
+
+```python
+    query = Scan("threesixty")
+              .Partition(Dimension::Theta, degrees{90})
+      		  .Partition(Dimension::Phi, degrees{90})
+      		  .Subquery(lambda tlf: tlf.Encode(Codec.hevc, bitrate=b))
+      		  .Store("result")
+    Coordinator().execute(query)
+```
+
+Note that this query performs the workload presented in our SIGMOD'16 VideoCloud demonstration and discussed in the video shown below.  Note that LightDB's architecture and functionality now extend far beyond this use case; see the paper for more details.
+
+<iframe style="width: 50%" class="tscplayer_inline" id="embeddedSmartPlayerInstance" src="VisualCloud Overview_player.html?embedIFrameId=embeddedSmartPlayerInstance" scrolling="no" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+LightDB exposes both a C++ and Python API.  Please see the [repository](https://github.com/uwdb/lightdb) for more details.
 
 #### Questions?
 
-Contact the [LightDB developers](mailto:visualcloud@cs.washington.edu) or sign up for our [mailing list](https://mailman.cs.washington.edu/mailman/listinfo/visualcloud) to receive updates.
+Open an issue in our [source repository](https://github.com/uwdb/lightdb) with any questions or issues you might have.
 
 #### Publications
 
