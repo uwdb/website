@@ -1,6 +1,6 @@
 <div class="current-projects flex-container image-container">
 
-{% include project name="Themis" caption="An open world database system of automatic data debiasing" image="themis.png" link="http://db.cs.washington.edu/projects/themis" %}
+{% include project name="Themis" caption="An open world database system for automatic data debiasing" image="themis.png" link="http://db.cs.washington.edu/projects/themis" %}
 
 {% include project name="Visual Road" caption="A video data management benchmark" image="visualroad.png" link="http://db.cs.washington.edu/projects/visualroad" %}
 
