@@ -18,19 +18,36 @@ id: "projects"
 
 EntropyDB is the result of our goal to develop a probabilistic approach to generate a small, query-able summary of a dataset for interactive data exploration. Departing from traditional summarization techniques, we use the Principle of Maximum Entropy to generate a probabilistic representation of the data that can be used to give approximate query answers.  We develop the theoretical framework and formulation of our probabilistic representation and show how to use it to answer queries. We present solving techniques and give three critical optimizations to improve preprocessing time and query accuracy. Lastly, we experimentally evaluate our work using a 5 GB dataset of flights within the United States and a 210 GB dataset from an astronomy particle simulation. While our current work only supports linear queries, we show that our technique can successfully answer queries faster than sampling while introducing, on average, no more error than sampling and can better distinguish between rare and nonexistent values.
 
+<div id="people"></div>
 ### People
-**_Graduate Students_**
 
-*   [Laurel Orr](http://homes.cs.washington.edu/~ljorr1/)
+<div class="flex-container people image-container">
+    <div class="flex-item person" title="Laurel Orr">
+        <a href="https://homes.cs.washington.edu/~ljorr1">
+            <img src="{{ site.baseurl }}/images/people/laurel.jpg"/>
+            <p>Laurel Orr</p>
+        </a>
+    </div>
 
-**_Faculty_**
+    <div class="flex-item person" title="Magdalena Balazinska">
+        <a href="https://www.cs.washington.edu/people/faculty/magda">
+            <img src="{{ site.baseurl }}/images/people/magda.jpg"/>
+            <p>Magdalena Balazinska</p>
+        </a>
+    </div>
 
-*   [Magdalena Balazinska](http://www.cs.washington.edu/homes/magda/)
-*   [Dan Suciu](http://www.cs.washington.edu/homes/suciu/)
+    <div class="flex-item person" title="Dan Suciu">
+        <a href="https://www.cs.washington.edu/people/faculty/suciu">
+            <img src="{{ site.baseurl }}/images/people/dan.jpg"/>
+            <p>Dan Suciu</p>
+        </a>
+    </div>
+</div>
 
 ### Papers
 
 *   [Probabilistic Database Summarization for Interactive Data Exploration](ljorr-vldb2017.pdf). VLDB 2017.
+*   EntropyDB: A Probabilistic Approach to Approximate Query Processing (under submission). VLDBJ 2019.
 
 #### Questions?
 
