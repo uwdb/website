@@ -47,7 +47,7 @@ EntropyDB is the result of our goal to develop a probabilistic approach to gener
 ### Papers
 
 *   [Probabilistic Database Summarization for Interactive Data Exploration](ljorr-vldb2017.pdf). VLDB 2017.
-*   EntropyDB: A Probabilistic Approach to Approximate Query Processing (under submission). VLDBJ 2019.
+*   EntropyDB: A Probabilistic Approach to Approximate Query Processing (in submission). VLDBJ 2019.
 
 #### Questions?
 
