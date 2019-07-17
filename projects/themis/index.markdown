@@ -48,7 +48,7 @@ Open world database management systems assume tuples not in the database still e
 
 #### Questions?
 
-Contact [Laurel Orr](mailto:ljorr1@cs.washington.edu)
+Contact [Laurel Orr].(mailto:ljorr1@cs.washington.edu)
 
 #### Publications
 
