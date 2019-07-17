@@ -56,6 +56,6 @@ Laurel Orr, Magdalena Balazinska, Dan Suciu. Sample Debiasing in the Themis Open
 
 #### Acknowledgments
 
-This work is supported by the National Science Foundation through NSF grants 
+This work is supported by the National Science Foundation through NSF grants AITF 1535565 and III-1614738.
 
 &nbsp;
