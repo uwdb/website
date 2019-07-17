@@ -12,7 +12,7 @@ id: "projects"
   <img src="../../images/projects/themis.png" alt="Logo" style="width: 40rem" />
   <p>An Open World Database for Automatic Data Debiasing</p>
   <p>
-    <a class="btn btn-primary btn-lg label-primary" href="#" pendinghref="themis_submission_orr.pdf" role="button" style="width: 180px;"><span style="position: relative; top:7px">Read the paper<br/><small>(available after<br/>submission)</small></span></a>
+    <a class="btn btn-primary btn-lg label-primary" href="#" pendinghref="themis_submission_orr.pdf" role="button" style="width: 180px;"><span style="position: relative; top:7px">Read the paper<br/><small>(coming soon)</small></span></a>
     <a class="btn btn-primary btn-lg label-primary" href="#" pendinghref="https://github.com/uwdb/themis" role="button" style="width: 180px"><span style="position: relative; top:7px">Get the code</span><br/><small>(coming soon)</small></a>
   </p>
 </div>
