@@ -52,10 +52,10 @@ Contact [Laurel Orr](mailto:ljorr1@cs.washington.edu).
 
 #### Publications
 
-Laurel Orr, Magdalena Balazinska, Dan Suciu. Sample Debiasing in the Themis Open World Database System, SIGMOD 2020 (in submission)
+(Publication in submission.)
 
 #### Acknowledgments
 
-This work is supported by the National Science Foundation through NSF grants AITF 1535565 and III-1614738.
+This work is supported by the National Science Foundation through NSF grants AITF 1535565 and III-1614738 and through a gift from Intel.
 
 &nbsp;
