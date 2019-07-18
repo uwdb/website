@@ -65,7 +65,7 @@ Seattle, WA 98195
     - Mingge Deng, Google
     - Hannaneh Hajishirzi, University of Washington
     - Yao Lu, Microsoft
-    - Jennifer Ortiz, University of Washington
+    - Jennifer Ortiz, University of Washington / Google
 - Panel questions: 
     - Is deep learning a hype or a new type of workload that we should support?
     - What is the role of data management in deep learning? In training or in deployment or both?
