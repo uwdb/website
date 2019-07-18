@@ -57,7 +57,7 @@ Seattle, WA 98195
 
 - 15 min - Pessimistic Cardinality Estimation - Walter Cai
 
-- 15 min - Relational Causal Models - Babak Salimi (by Zoom)
+- 15 min - Relational Causal Models - Babak Salimi ~~(by Zoom)~~
 
 #### 4:00 pm - 5:30 pm: Panel: Deep Learning and Data Management: Friends or Foes?
 - Moderator: Magda Balazinska (UW)
