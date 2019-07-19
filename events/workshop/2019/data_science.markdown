@@ -36,7 +36,7 @@ Seattle, WA 98195
 
 - 15 min - Data Management for Debugging Deep Learning Models over Images - Parmita Mehta
 
-- 15 min - LightDB: Data Management System for Video Databases - Brandon Haynes
+- 15 min - Data Management for Modern Video Analytics - Brandon Haynes
 
 - 15 min - Towards Efficient Querying of Rich Video Content - Maureen Daum
 
