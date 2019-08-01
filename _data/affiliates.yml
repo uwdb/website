@@ -3,3 +3,9 @@
   website: http://research.microsoft.com/~philbe/
   image: phil.jpg
   dblp: ':author:Philip_A._Bernstein:'
+
+- name: Alvin Cheung
+  nickname: Alvin
+  website: https://people.eecs.berkeley.edu/~akcheung
+  image: alvin.jpg
+  dblp: ':author:Alvin_Cheung:'
