@@ -169,7 +169,7 @@ The following videos are representative of the traffic cameras found in a synthe
 
 ### Share your dataset configuration!
 
-If you've generated a dataset and would like to share its configuration with the world, please [post it here](https://github.com/uwdb/visualroad/issues/new?labels=Benchmark+Configuration&template=benchmark-configuration.md) with the details!  To view a list of dataset configurations created by us and shared by others, please [click here](https://github.com/uwdb/visualroad/issues?q=label%3A%22Benchmark+Configuration).
+If you've generated a dataset and would like to share its configuration with the world, please [post it here](https://github.com/uwdb/visualroad/issues/new?labels=Benchmark+Configuration&template=benchmark-configuration.md) with the details!  To view a list of dataset configurations, please [click here](https://github.com/uwdb/visualroad/issues?q=label%3A%22Benchmark+Configuration).
 
 <script type="text/javascript">
 	document.getElementsByTagName("table")[0].className = "table table-striped table-hover";
