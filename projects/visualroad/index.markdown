@@ -167,7 +167,7 @@ The following videos are representative of the traffic cameras found in a synthe
 | 4K-Long  | 2     | 4K (3840x2160)  | 60 min   | 1       | 0x75BCD15 | Coming soon!    |
 | 4K-Long  | 4     | 4K (3840x2160)  | 60 min   | 1       | 0x75BCD15 | Coming soon!    |
 
-### Share your dataset configuration!
+## Share your dataset configuration!
 
 If you've generated a dataset and would like to share its configuration with the world, please [post it here](https://github.com/uwdb/visualroad/issues/new?labels=Benchmark+Configuration&template=benchmark-configuration.md) with the details!  To view a list of dataset configurations, please [click here](https://github.com/uwdb/visualroad/issues?q=label%3A%22Benchmark+Configuration).
 
@@ -175,7 +175,7 @@ If you've generated a dataset and would like to share its configuration with the
 	document.getElementsByTagName("table")[0].className = "table table-striped table-hover";
 </script>
 
-#### Related Publications
+# Related Publications
 
 * Brandon Haynes, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung. [Visual Road: A Video Data Management Benchmark](https://db.cs.washington.edu/projects/visualroad), SIGMOD 2019
 
@@ -183,7 +183,7 @@ If you've generated a dataset and would like to share its configuration with the
 
 * Brandon Haynes, Artem Minyaylov, Magdalena Balazinska, Luis Ceze, Alvin Cheung.  VisualCloud Demonstration: A DBMS for Virtual Reality.  _SIGMOD_, 1615-1618, 2017. **[Best Demonstration Honorable Mention]**
 
-### Acknowledgments
+## Acknowledgments
 
 This work is supported by the NSF through grants 
 [CCF-1703051](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1703051), 
