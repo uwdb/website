@@ -158,7 +158,7 @@ The following videos are representative of the traffic cameras found in a synthe
 
 | Name     | Scale | Resolution      | Duration | Version | Configuration      | Download        |
 |----------|-------|-----------------|----------|---------|-----------|-----------------|
-| 1K-Short | 1     | 1K (960x540)    | 15 min   | 1       | 0x00181CD | [1k-short.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-1k.tar.gz) |
+| 1K-Short | 1     | 1K (960x540)    | 15 min   | 1       | [Link](https://github.com/uwdb/visualroad/issues/1) | [1k-short.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-1k.tar.gz) |
 | 1K-Short  | 2     | 1K (960x540)    | 15 min   | 1       | 0x75BCD15 | Coming soon!    |
 | 1K-Long  | 4     | 1K (960x540)    | 60 min   | 1       | 0x75BCD15 | Coming soon!    |
 | 2K-Short | 2     | 2K (1920x1080)  | 15 min   | 1       | 0x75BCD15 | Coming soon!    |
@@ -169,7 +169,7 @@ The following videos are representative of the traffic cameras found in a synthe
 
 ## Share your dataset configuration!
 
-If you've generated a dataset and would like to share its configuration with the world, please [post it here](https://github.com/uwdb/visualroad/issues/new?labels=Benchmark+Configuration&template=benchmark-configuration.md) with the details!  To view a list of dataset configurations, please [click here](https://github.com/uwdb/visualroad/issues?q=label%3A%22Benchmark+Configuration).
+If you've generated a dataset and would like to share its configuration with the world, please [post it here](https://github.com/uwdb/visualroad/issues/new?labels=Benchmark+Configuration&template=benchmark-configuration.md) with the details!  To view a list of dataset configurations, please [click here](https://github.com/uwdb/visualroad/issues?q=label%3A%22Benchmark+Configuration%22).
 
 <script type="text/javascript">
 	document.getElementsByTagName("table")[0].className = "table table-striped table-hover";
