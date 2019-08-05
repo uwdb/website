@@ -165,6 +165,8 @@ The following videos are representative of the traffic cameras found in a synthe
 | 4K-Short | 2     | 4K (3840x2160)  | 15 min   | 1       | 0x00181CD | [4k-short.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-4k.tar.gz) |
 | 4K-Long  | 4     | 4K (3840x2160)  | 60 min   | 1       | 0x75BCD15 | Coming soon!    |
 
+### Share your dataset configuration!
+
 If you've generated a dataset and would like to share its configuration with the world, please [post it here](https://github.com/uwdb/visualroad/issues/new?labels=Benchmark+Configuration&template=benchmark-configuration.md) with the details!  To view a list of dataset configurations created by us and shared by others, please [click here](https://github.com/uwdb/visualroad/issues?q=label%3A%22Benchmark+Configuration).
 
 <script type="text/javascript">
