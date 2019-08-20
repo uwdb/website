@@ -27,35 +27,35 @@ Seattle, WA 98195
 #### 8:30 am - 9:00 am: Coffee & Tea
 
 #### 9:00 am - 10:00 am: Session 1: Keynote 1
-- Molham Aref (RelationalAI) - "Relational Artificial Intelligence"
+- Molham Aref (RelationalAI) - ["Relational Artificial Intelligence"](slides/molham-aref.pptx)
 
 #### 10:00 am - 10:30 am: BREAK
 
 #### 10:30 am - 11:30 am: Session 2: Data Management for Image & Video Analytics
-- 15 min - From Open Satellite Imagery to Emergency Response - Valentina Staneva
+- 15 min - [From Open Satellite Imagery to Emergency Response](slides/valentina-staneva.pdf) - Valentina Staneva
 
 - 15 min - Data Management for Debugging Deep Learning Models over Images - Parmita Mehta
 
-- 15 min - Data Management for Modern Video Analytics - Brandon Haynes
+- 15 min - [Data Management for Modern Video Analytics](slides/brandon-haynes.pdf) - Brandon Haynes
 
-- 15 min - Towards Efficient Querying of Rich Video Content - Maureen Daum
+- 15 min - [Towards Efficient Querying of Rich Video Content](slides/maureen-daum.pptx) - Maureen Daum
 
 #### 11:30 am - 12:15 pm: Session 3: Systems for ML
-- Special Guest: Tianqi Chen (UW) "TVM: An Automated End-to-End Optimizing Compiler for Deep Learning"
+- Special Guest: Tianqi Chen (UW) ["TVM: An Automated End-to-End Optimizing Compiler for Deep Learning"](slides/tianqi-chen.pdf)
 
 #### 12:15 pm - 1:30 pm: LUNCH
 
 #### 1:30 pm - 2:30 pm: Session 4: Keynote 2
-- Alex Ratner (Stanford and UW) - "Accelerating Machine Learning with Training Data Management Systems"
+- Alex Ratner (Stanford and UW) - ["Accelerating Machine Learning with Training Data Management Systems"](slides/alex-ratner.pdf)
 
 #### 2:30 pm - 3:00 pm: BREAK
 
 #### 3:00 pm - 4:00 pm: Session 5: Relational Models
-- 15 min - Discovering Acyclic Schemas - Batya Kenig
+- 15 min - [Discovering Acyclic Schemas](slides/batya-kenig.pptx) - Batya Kenig
 
-- 15 min - A Layered Aggregate Engine for Analytics Workloads - Max Schleich
+- 15 min - [A Layered Aggregate Engine for Analytics Workloads](slides/maximilian-schleich.pdf) - Max Schleich
 
-- 15 min - Pessimistic Cardinality Estimation - Walter Cai
+- 15 min - [Pessimistic Cardinality Estimation](slides/walter-cai.pdf) - Walter Cai
 
 - 15 min - Relational Causal Models - Babak Salimi ~~(by Zoom)~~
 
