@@ -159,7 +159,7 @@ The following videos are representative of the traffic cameras found in a synthe
 | Name     | Scale | Resolution      | Duration | Version | Configuration      | Download        |
 |----------|-------|-----------------|----------|---------|-----------|-----------------|
 | 1K-Short-1 | 1     | 1K (960x540)    | 15 min   | 1       | [Link](https://github.com/uwdb/visualroad/issues/1) | [1k-short.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-1k.tar.gz) |
-| 1K-Short-2  | 2     | 1K (960x540)    | 15 min   | 1       | 0x75BCD15 | Coming soon!    |
+| 1K-Short-2  | 2     | 1K (960x540)    | 15 min   | 1       | [Link](https://github.com/uwdb/visualroad/issues/1) | [1k-short-2.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-1k-2.tar.gz) |
 | 1K-Long-4  | 4     | 1K (960x540)    | 60 min   | 1       | 0x75BCD15 | Coming soon!    |
 | 2K-Short-2 | 2     | 2K (1920x1080)  | 15 min   | 1       | 0x75BCD15 | Coming soon!    |
 | 2K-Long-4  | 4     | 2K (1920x1080)  | 60 min   | 1       | 0x75BCD15 | Coming soon!    |
