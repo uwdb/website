@@ -60,8 +60,6 @@ Processor manufacturers build increasingly specialized processors to mitigate th
 Sebastian Breß received his PhD (Dr.-Ing.) from University of Magdeburg, Germany in 2015, under the supervision of Gunter Saake (University of Magdeburg) and Jens Teubner (TU Dortmund). He is the the initiator and system architect of the research database system CoGaDB and the Hawk Code Generator. Currently, Sebastian is a Senior Researcher at German Research Center for Artificial Intelligence (DFKI) and a PostDoc at Technische Universität Berlin, working with Prof. Dr. Volker Markl and Prof. Dr. Tilmann Rabl. Sebastian‘s research interests include data management on modern hardware, query compilation, stream processing, and optimizing data management systems for heterogeneous processors. Sebastian has been selected as a Distinguished Program Committee Member at SIGMOD 2018.
 </p>
 
-* * *
-
 <strong>Speaker</strong>: Jonas Traub
 
 <p><strong>Title</strong>:
@@ -78,8 +76,6 @@ Our key-idea is to gather data streams based on the data demand of streaming que
 Jonas is an alumnus of "Software Campus", "Studienstiftung des deutschen Volkes" and "Deutschlandstipendium". All publication and supplementary material are available <a href="http://www.user.tu-berlin.de/powibol/">online</a>.
 </p>
 
-* * *
-
 <strong>Speaker</strong>: Andreas Kunft
 
 <p><strong>Title</strong>:
@@ -93,8 +89,6 @@ End-to-end machine learning pipelines often consist of (i) relational operators 
 <p><strong>Bio</strong>: 
 Andreas Kunft is a PhD student/research associate at Technische Universität Berlin in the Database Systems and Information Management Group (DIMA) led by Volker Markl. His research interests include massive parallel processing frameworks, databases, and compilers, with focus on the integration of database and compiler techniques for holistic optimization of analytics pipelines.
 </p>
-
-* * *
 
 <strong>Speaker</strong>: Martin Kiefer
 
