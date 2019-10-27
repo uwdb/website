@@ -69,7 +69,7 @@ Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_t
 * <a href="https://www.microsoft.com/en-us/research/people/karam/">Karthik Ramachandra</a>, Microsoft Research India [[abstract](past_talks.html#Karthik_Ramachandra_3_8_19)][[video](https://www.youtube.com/watch?v=Xyvpcf2RtO4)]
 * <a href="http://web.eecs.umich.edu/~michjc/">Michael Cafarella</a>, University of Michigan [[abstract](past_talks.html#Michael_Cafarella_2_1_19)][[video](https://www.youtube.com/watch?v=xb718hbdqmE)]
 * <a href="http://pages.cs.wisc.edu/~paris/">Paris Koutris</a>, University of Wisconsin-Madison [[abstract](past_talks.html#Paris_Koutris_1_25_19)][[video](https://www.youtube.com/watch?v=R52w13RecCk)]
-* <a href="http://azza.azurewebsites.net/">Azza Abouzied</a>, New York University, Abu Dhabi [[abstract](past_talks.html#Azza Abouzied_1_9_19")][[video](https://www.youtube.com/watch?v=KfYTWnfu4io)]
+* <a href="http://azza.azurewebsites.net/">Azza Abouzied</a>, New York University, Abu Dhabi [[abstract](past_talks.html#Azza Abouzied_1_9_19)][[video](https://www.youtube.com/watch?v=KfYTWnfu4io)]
 
 #### Fall 2018
 * Daniel Harrison, Cockroach Labs [[abstract](past_talks.html#Daniel_Harrison_10_12_18)] [[video](https://youtu.be/H6w_Ihth-m4)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Daniel_Harrison_10_12_18.pdf)]
