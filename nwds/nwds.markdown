@@ -16,143 +16,54 @@ We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for 
 
 ---
 
-#### Spring 2019
+#### Fall 2019
 
 ---
 
-<p><a name="Graham_Cormode_2019_06_14"></a>
-<strong>Speaker</strong>: Graham Cormode</p>
+<p><a name="Daniel_Ting_2019_11_01"></a>
+<strong>Speaker</strong>: <a href="https://research.tableau.com/user/daniel-ting">Daniel Ting</a></p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, CSE 405.</p>
+Paul G. Allen Center, CSE 291.</p>
 
 <p><strong>When</strong>: 
-Friday, June 14, 2019. 2:30pm - 3:30pm</p>
+Friday, November 1st, 2019, 2:30pm - 3:30pm</p>
 
 <p><strong>Title</strong>:
-    Distributed Private Data Collection at Scale
+    Big data in small space: Statistical techniques for practical and truly optimal data sketching
 </p>
 
 <p><strong>Abstract</strong>
-Large technology companies rely on collecting data from their users to understand their interests, and better customize the company's products. Increasingly, this must be done while preserving individual users' privacy. Recently, techniques based on randomization and data sketching have been adopted to provide data collection protocols which optimize the privacy-accuracy tradeoff. In this talk, I'll discuss methods deployed by Google and Apple to collect frequency information, and our recent work to capturing information on marginal and cumulative distributions.
+Statistics has long been in the business of taking big data (i.e. the entire world's) and taking a small set of measurements that allow confident answers to data questions. The problem is the same faced by approximate query processing systems and internal database systems that compute summary statistics or data sketches: how to store big data as small sketches while answering all relevant questions. We argue that traditional space-complexity motivated approaches to data sketching can sometimes fall short. "Optimal" procedures can have very bad constants, reported errors far too large to be of use, and sketches very narrowly focused on a single problem.
 </p>
 <p>
-This is joint work with Tejas Kulkarni and Divesh Srivastava.
-</p>
-
-<p><strong>Bio</strong>: 
-From 2004-06, I worked at Bell Laboratories in the Internet Management Research Department. From 2006-2013, I was a researcher at AT&T Labs-Research. Between 2002 and 2004, I was a postdoctoral fellow at DIMACS, the Center for Discrete Mathematics and Computer Science. I completed my PhD at the Department of Computer Science at the University of Warwick, UK in 2002. I spent a year of my PhD studying in Cleveland, Ohio at Case Western Reserve University with the Electrical Engineering and Computer Science Department , and Summer 2000 at AT&T Shannon research labs.
-</p>
-
-Recorded [[video](https://www.youtube.com/watch?v=V4dSj_yE36Y)] and [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Graham_Cormode_06_14_19.pdf)]
-
----
-<p><a name="Volker_Markl_4_5_19"></a></p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, CSE 305.</p>
-
-<p><strong>When</strong>: 
-Friday, April 5, 2019. 2:30pm - 3:30pm</p>
-
-<strong>Speaker</strong>: Sebastian Breß
-
-<p><strong>Title</strong>:
-Efficient Data Processing on Modern Hardware
-</p>
-
-<p><strong>Abstract</strong>: 
-Processor manufacturers build increasingly specialized processors to mitigate the effects of the power wall in order to deliver improved performance. Currently, database engines have to be manually optimized for each processor which is a costly and error prone process. In this talk, we provide an overview of our research on automatic performance tuning in Hawk, a hardware-tailored code generator. Our key idea is to create processor-specific code variants and to learn a well- performing code variant for each processor. These code variants leverage various parallelization strategies and apply both generic and processor-specific code transformations. We observe that performance of different code variants may diverge up to two orders of magnitude. Thus, we need to generate custom code for each processor for peak performance. To this end, Hawk automatically finds efficient code variants for CPUs, GPUs, and MICs.
-</p>
-
-<p><strong>Bio</strong>: 
-Sebastian Breß received his PhD (Dr.-Ing.) from University of Magdeburg, Germany in 2015, under the supervision of Gunter Saake (University of Magdeburg) and Jens Teubner (TU Dortmund). He is the the initiator and system architect of the research database system CoGaDB and the Hawk Code Generator. Currently, Sebastian is a Senior Researcher at German Research Center for Artificial Intelligence (DFKI) and a PostDoc at Technische Universität Berlin, working with Prof. Dr. Volker Markl and Prof. Dr. Tilmann Rabl. Sebastian‘s research interests include data management on modern hardware, query compilation, stream processing, and optimizing data management systems for heterogeneous processors. Sebastian has been selected as a Distinguished Program Committee Member at SIGMOD 2018.
-</p>
-
-<strong>Speaker</strong>: Jonas Traub
-
-<p><strong>Title</strong>:
-On-Demand Data Stream Gathering in the Internet of Things
-</p>
-
-<p><strong>Abstract</strong>: 
-In the Internet of Things (IoT), billions of sensor nodes form a sensor cloud and offer data streams to analysis systems. However, it is impossible to transfer all available data with maximal frequencies to all applications. In this talk, we show how we gather streaming data efficiently from a huge number of sensor nodes and how we make it available to a huge number of applications.
-Our key-idea is to gather data streams based on the data demand of streaming queries. The data demand of a query is the minimum number of data points which allows for answering the query with the desired precision. We present a solution which shares sensor nodes among many concurrent streaming queries by multiplexing their data demands. Our technique shares sensor reads and corresponding network traffic among all queries to save costs. Our experiments with real-world sensor data show that our approach saves up to 87% in data transmissions.
-</p>
-
-<p><strong>Bio</strong>: 
- Jonas is a Research Associate at Technische Universität Berlin and the German Research Center for Artificial Intelligence (DFKI). His research interests include data stream processing, sensor data analysis, and data acquisition from sensor nodes. Jonas authored several publications related to data stream gathering, processing and transmission in the Internet of Things and will complete his PhD in March 2019 under the supervision of Volker Markl. Before he started his PhD, Jonas wrote his master thesis at the Royal Institute of Technology (KTH) and the Swedish Institute of Computer Science (SICS) / RISE in Stockholm under supervision of Seif Haridi and Volker Markl and advised by Paris Carbone and Asterios Katsifodimos. Prior to that, he received his B.Sc. degree at Baden-Württemberg Cooperative State University (DHBW Stuttgart) and worked several years at IBM in Germany and the USA.
-Jonas is an alumnus of "Software Campus", "Studienstiftung des deutschen Volkes" and "Deutschlandstipendium". All publication and supplementary material are available <a href="http://www.user.tu-berlin.de/powibol/">online</a>.
-</p>
-
-<strong>Speaker</strong>: Andreas Kunft
-
-<p><strong>Title</strong>:
-Efficient Matrix Partitioning Through Joins
-</p>
-
-<p><strong>Abstract</strong>: 
-End-to-end machine learning pipelines often consist of (i) relational operators to join the input data, (ii) user defined functions for feature extraction and vectorization, and (iii) linear algebra operators for model training and cross-validation. Often, these pipelines need to scale out to large datasets. In this case, these pipelines are usually implemented on top of dataflow engines like Hadoop, Spark, or Flink. Dataflow engines implement relational operators on row-partitioned datasets. However, efficient linear algebra operators use block-partitioned matrices. As a result, pipelines combining both kinds of operators require rather expensive changes to the physical representation, in particular re-partitioning steps. In this talk, I investigate the potential of reducing shuffling costs by fusing relational and linear algebra operations into specialized physical operators. I present BlockJoin, a distributed join algorithm which directly produces block-partitioned results. To minimize shuffling costs, BlockJoin applies database techniques known from columnar processing, such as index-joins and late materialization, in the context of parallel dataflow engines.
-</p>
-
-<p><strong>Bio</strong>: 
-Andreas Kunft is a PhD student/research associate at Technische Universität Berlin in the Database Systems and Information Management Group (DIMA) led by Volker Markl. His research interests include massive parallel processing frameworks, databases, and compilers, with focus on the integration of database and compiler techniques for holistic optimization of analytics pipelines.
-</p>
-
-<strong>Speaker</strong>: Martin Kiefer
-
-<p><strong>Title</strong>:
-GPU-Accelerated Join Selectivity Estimation using Kernel Density Models
-</p>
-
-<p><strong>Abstract</strong>: 
-Accurately predicting the cardinality of intermediate plan operations is an essential part of any modern relational query optimizer. The accuracy of said estimates has a strong and direct impact on the quality of the generated plans, and incorrect estimates can have a negative impact on query performance. One of the biggest challenges in this field is to predict the result size of join operations.
+We show how statistical techniques help with algorithm design and analysis.  We show how these can improve and extend sketches for a number of problems including heavy-hitters, subset sum, and distinct counting. This leads to more practical, easier to use, more capable, and more accurate sketches. Importantly, this is typically done with zero assumptions on the distribution of data that are associated with statistical modeling.
 </p>
 <p>
-Kernel Density Estimation (KDE) is a statistical method to estimate multivariate probability distributions from a data sample. Previously, we introduced a modern, self-tuning selectivity estimator for range scans based on KDE that out-performs state-of-the-art multidimensional histograms and is efficient to evaluate on graphics cards. This talk introduces our recent work that brings the benefits of KDE-based estimators to join selectivity estimation.
+As an example, we present our work from SIGMOD 2019 which shows how the distinct counting capabilities of HyperLogLog (HLL) sketches can be combined with the counter compression capabilities of CountMin to yield a sketch that can provide the capabilities of billions of individual HLL sketches, analytically yield very precise measures of the accuracy, and be provably correct.
 </p>
 
 <p><strong>Bio</strong>: 
-Martin Kiefer is a research associate and PhD student at TU Berlin, Germany. Before his master studies at TU Berlin, he received his bachelors degree in an integrated degree program while working at IBM. Martin's research interests include modern hardware as well as data summaries, query optimization, and stream processing.
+My interests lie in developing novel statistical methods. In particular, I am interested in data sketching and sampling which lies in the intersection of statistics and databases. These are methods to summarize big data into memory efficient summarizations that can still answer a broad set of questions. I also have strong interests in the analysis and design of experiments and machine learning. My visualization oriented ML research is in manifold learning and non-linear dimensionality reduction where I study the mathematical limit operators implied by existing methods and how to design new operators and, hence, new methods.
 </p>
-
-<p><strong>Bio</strong>: 
-<a href="http://www.dima.tu-berlin.de">Volker Markl</a> is a Full Professor and Chair of the Database Systems and Information Management (DIMA) Group at the Technische Universität Berlin (TU Berlin) and was an Adjunct Full Professor at the University of Toronto until June 2018. At the German Research Center for Artificial Intelligence (DFKI), he is both a Chief Scientist and Head of the Intelligent Analytics for Massive Data Research Group. In addition, he is Director of the Berlin Big Data Center (BBDC) and Co-Director of the Berlin Machine Learning Center (BzMl). Earlier in his career, he was a Research Staff Member and Project Leader at the IBM Almaden Research Center in San Jose, California, USA and a Research Group Leader at FORWISS, the Bavarian Research Center for Knowledge-based Systems located in Munich, Germany. Dr. Markl has published numerous research papers on indexing, query optimization, lightweight information integration, and scalable data processing. He holds 18 patents, has transferred technology into several commercial products, and advises several companies and startups. He has been both the Speaker and Principal Investigator for the Stratosphere Project, which resulted in a Humboldt Innovation Award as well as Apache Flink, the open-source big data analytics system. He serves as the President-Elect of the VLDB Endowment and was elected as one of Germany's leading Digital Minds (Digitale Köpfe) by the German Informatics (GI) Society. Most recently, Volker and his team earned an ACM SIGMOD Research Highlight Award 2016 for their work on "Implicit Parallelism Through Deep Language Embedding." Volker Markl and his team earned an ACM SIGMOD Research Highlight Award 2016 for their work on implicit parallelism through deep language embedding.
-</p>
-
-<p><a href="http://infrastructure.dima.tu-berlin.de/usa2019/">Talk materials</a></p>
----
-
-<p><a name="Niv_Dayan_4_26_19"></a>
-<strong>Speaker</strong>: <a href="https://nivdayan.github.io/">Niv Dayan</a></p>
-
-<p><strong>Where</strong>: University of Washington, Seattle.<br>
-Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, CSE 305.</p>
-
-<p><strong>When</strong>: 
-Friday, April 26, 2019. 2:30pm - 3:30pm</p>
-
-<p><strong>Title</strong>:
-    Scaling Write-Intensive Key-Value Stores
-</p>
-
-<p><strong>Abstract</strong>: 
-In recent years, the log-structured merge-tree (LSM-tree) has become the mainstream core data structure used by key-value stores to ingest and persist data quickly. LSM-tree enables fast writes by buffering incoming data in memory and flushing it as independent sorted batches to storage whenever the buffer is full. To enable fast reads, LSM-tree sort-merges batches in storage to restrict the number that reads have to search, and it also uses in-memory Bloom filters to enable point reads to probabilistically skip accessing batches that do not contain a target entry. In this talk, we show that such LSM-tree based designs do not scale well: as the data size increases, both reads and writes take increasingly long to execute. We pinpoint the problem to suboptimal core design: the Bloom filters have been attached to LSM-tree as an afterthought and are therefore not optimized to minimize the overall probability of access to storage. Point reads are therefore unnecessarily expensive. To compensate, more merging than necessary has to take place thereby making writes unnecessarily expensive.
-</p>
-
 <p>
-As a part of the CrimsonDB project at the Harvard DasLab, we developed two insights to address this problem. Firstly, we show that the optimal approach for allocating Bloom filters given any amount of available memory resources is to assign significantly lower false positive rates to smaller data batches. This shaves a logarithmic factor from point read cost thereby allowing key-value stores to scale better in terms of reads. Secondly, having lower false positive rates for smaller batches allows to merge newer data more lazily without compromising point read cost. This allows eliminating most of the merge overheads of LSM-tree thereby improving the scalability of writes. We close by describing a higher-level lessons from our work: while data structure design up until today has focused on the cost balance between reads and writes, the inclusion of memory utilization as a direct additional optimization objective opens up new avenues for asymptotic improvements, which studying reads and writes in isolation could not have revealed.
+I received my PhD in Statistics at UC Berkeley under the supervision of Michael Jordan. My PhD work focused on non-parametric Bayesian cluster models and semi-supervised/manifold learning. I also worked on data privacy for my MSc at Carnegie Mellon under Stephen Fienberg. Before Tableau, I was a core data scientist at Facebook primarily working on experimentation.
 </p>
 
-<p><strong>Bio</strong>: Niv Dayan is a postdoc at the Data Systems Lab at Harvard since September 2015. Before that he was a PhD student at the IT University of Copenhagen. Niv works at the intersection of systems and theory for designing efficient data storage. His current work is towards identifying and mapping the fundamentally best scalability trade-offs that are possible to achieve for key-value stores. His past work includes data structure design for internal metadata management in SSDs. 
-</p>
+Streaming [[video](https://www.youtube.com/watch?v=tQ57UHsj-CI)]
 
 ##  Past Talks
 
 Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_talks.html) for abstracts.
+
+#### Spring 2019
+* Graham Cormode, University of Warwick [[abstract](past_talks.html#Graham_Cormode_2019_06_14)][[video](https://www.youtube.com/watch?v=V4dSj_yE36Y)]
+* <a href="https://www.user.tu-berlin.de/sebastian.bress/">Sebastian Breß</a>, TU Berlin [[abstract](past_talks.html#Volker_Markl_4_5_19)]
+* <a href="http://www.user.tu-berlin.de/powibol/">Jonas Traub</a>, TU Berlin [[abstract](past_talks.html#Volker_Markl_4_5_19)]
+* <a href="http://www.user.tu-berlin.de/akunft/">Andreas Kunft</a>, TU Berlin [[abstract](past_talks.html#Volker_Markl_4_5_19)]
+* <a href="http://www.user.tu-berlin.de/mkiefer/">Martin Kiefer</a>, TU Berlin [[abstract](past_talks.html#Volker_Markl_4_5_19)]
+* <a href="https://nivdayan.github.io/">Niv Dayan</a>, Harvard University [[abstract](past_talks.html#Niv_Dayan_4_26_19)]
 
 #### Winter 2019
 * <a href="https://www.microsoft.com/en-us/research/people/karam/">Karthik Ramachandra</a>, Microsoft Research India [[abstract](past_talks.html#Karthik_Ramachandra_3_8_19)][[video](https://www.youtube.com/watch?v=Xyvpcf2RtO4)]
