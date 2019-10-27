@@ -225,7 +225,7 @@ Paris Koutris is an assistant professor at the University of Wisconsin-Madison, 
 
 * * *
 
-<p><a name="Azza Abouzied_1_9_19"></a>
+<p><a name="Azza_Abouzied_1_9_19"></a>
 <strong>Speaker</strong>: <a href="http://azza.azurewebsites.net/">Azza Abouzied</a></p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
