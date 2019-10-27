@@ -146,6 +146,7 @@ As a part of the CrimsonDB project at the Harvard DasLab, we developed two insig
 <p><strong>Bio</strong>: Niv Dayan is a postdoc at the Data Systems Lab at Harvard since September 2015. Before that he was a PhD student at the IT University of Copenhagen. Niv works at the intersection of systems and theory for designing efficient data storage. His current work is towards identifying and mapping the fundamentally best scalability trade-offs that are possible to achieve for key-value stores. His past work includes data structure design for internal metadata management in SSDs. 
 </p>
 
+* * *
 
 <p><a name="Karthik_Ramachandra_3_8_19"></a>
 <strong>Speaker</strong>: <a href="https://www.microsoft.com/en-us/research/people/karam/">Karthik Ramachandra</a></p>
