@@ -51,7 +51,7 @@ My interests lie in developing novel statistical methods. In particular, I am in
 I received my PhD in Statistics at UC Berkeley under the supervision of Michael Jordan. My PhD work focused on non-parametric Bayesian cluster models and semi-supervised/manifold learning. I also worked on data privacy for my MSc at Carnegie Mellon under Stephen Fienberg. Before Tableau, I was a core data scientist at Facebook primarily working on experimentation.
 </p>
 
-Streaming [[video](https://www.youtube.com/watch?v=tQ57UHsj-CI)]
+Streaming <s>[[video](https://www.youtube.com/watch?v=tQ57UHsj-CI)]</s> Due to unforseen technical difficulties, the talk will not be streamed.
 
 ##  Past Talks
 
