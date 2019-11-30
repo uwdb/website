@@ -27,7 +27,7 @@ Seattle, WA 98195
 #### 8:30 am - 9:00 am: Coffee & Tea
 
 #### 9:00 am - 10:00 am: Session 1: Keynote 1
-- Molham Aref (RelationalAI) - ["Relational Artificial Intelligence"](slides/molham-aref.pptx)
+- Molham Aref (RelationalAI) - ["Relational Artificial Intelligence"](slides/molham-aref.pdf)
 
 #### 10:00 am - 10:30 am: BREAK
 
