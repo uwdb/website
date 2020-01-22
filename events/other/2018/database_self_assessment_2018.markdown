@@ -7,6 +7,8 @@ id: "database_self_assessment_2018"
 
 # The Database Research Self-Assessment Meeting 2018
 
+[http://seattle-dbresearch-assessment.cs.washington.edu](http://seattle-dbresearch-assessment.cs.washington.edu)
+
 ### **Where**
 
 Gates Commons Room CSE691  
