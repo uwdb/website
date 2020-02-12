@@ -9,6 +9,8 @@ id: "database_self_assessment_2018"
 
 [http://seattle-dbresearch-assessment.cs.washington.edu](http://seattle-dbresearch-assessment.cs.washington.edu)
 
+### **[Full Report](Seattle_DBResearch_Report-Full.pdf)**
+
 ### **Where**
 
 Gates Commons Room CSE691  
@@ -19,33 +21,6 @@ Seattle WA 98195-2350
 
 ### **When**
 Tuesday, October 9th 2018 - Wednesday, October 10th 2018
-
-### **Hotel**
-[Silver Cloud Hotel Seattle, University District](https://www.silvercloud.com/university/)  
-1-800-205-6940
-
-Our group rate at the Silver Cloud is $215/night+taxes with complimentary breakfast and internet. Individual reservations should be made by calling the hotel directly and using the group name: 2018 Database Meeting.
-
-We have 20 standard king rooms and 20 standard double queen rooms for October 8th, 9th, and 10th 2018.
-
-The deadline to book a room at our group rate is September, 7th 2018. Beyond that, reservations will be at non-group rate and subject to availability.
-
-
-### **Transportation**
-
-**To get to and from the airport to the hotel**:
-
-* By car service or taxi: The driving time is 33 minutes and distance is 19 miles.
-* By “Link” light rail service: The fare to/from the airport is $3.25. Take the light rail North to the last stop, the University of Washington station. The station is 1 mile from the hotel, and there is a courtesy hotel shuttle for up to 14 passengers with luggage available 7:00am – 10:00pm. For shuttle pick-up, contact the Hotel at 206-526-5200.
-
-**To get from the hotel to the Paul G. Allen Center for CSE**:
-
-We will use a shuttle to go from the hotel to the building and back. On both days morning, our shuttle is at 8am sharp. Please be in the hotel lobby before 8am. If you miss the shuttle, you can walk (it takes 20 min, with one part uphill) or please use your favorite taxi or ride sharing service.
-
-**Driving and parking information for those coming on their own**:
-
-If you are not staying at the Silver Cloud Inn and will be getting to campus directly, please use the following directions: [How to get to the Paul G. Allen Center for CSE](https://www.cs.washington.edu/visitors/getting_here)
-
 
 ### **Participants**
 
@@ -135,4 +110,27 @@ The Seattle meeting was supported financially by donations from Microsoft, Googl
 [Surajit Chaudhuri](https://www.microsoft.com/en-us/research/people/surajitc/)
 
 [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda)
+
+### **Logistics Information**
+[Silver Cloud Hotel Seattle, University District](https://www.silvercloud.com/university/)  
+1-800-205-6940
+
+Our group rate at the Silver Cloud is $215/night+taxes with complimentary breakfast and internet. Individual reservations should be made by calling the hotel directly and using the group name: 2018 Database Meeting.
+
+We have 20 standard king rooms and 20 standard double queen rooms for October 8th, 9th, and 10th 2018.
+
+The deadline to book a room at our group rate is September, 7th 2018. Beyond that, reservations will be at non-group rate and subject to availability.
+
+**To get to and from the airport to the hotel**:
+
+* By car service or taxi: The driving time is 33 minutes and distance is 19 miles.
+* By “Link” light rail service: The fare to/from the airport is $3.25. Take the light rail North to the last stop, the University of Washington station. The station is 1 mile from the hotel, and there is a courtesy hotel shuttle for up to 14 passengers with luggage available 7:00am – 10:00pm. For shuttle pick-up, contact the Hotel at 206-526-5200.
+
+**To get from the hotel to the Paul G. Allen Center for CSE**:
+
+We will use a shuttle to go from the hotel to the building and back. On both days morning, our shuttle is at 8am sharp. Please be in the hotel lobby before 8am. If you miss the shuttle, you can walk (it takes 20 min, with one part uphill) or please use your favorite taxi or ride sharing service.
+
+**Driving and parking information for those coming on their own**:
+
+If you are not staying at the Silver Cloud Inn and will be getting to campus directly, please use the following directions: [How to get to the Paul G. Allen Center for CSE](https://www.cs.washington.edu/visitors/getting_here)
 
