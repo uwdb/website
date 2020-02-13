@@ -11,6 +11,14 @@ id: "database_self_assessment_2018"
 
 ### **[Full Report](Seattle_DBResearch_Report-Full.pdf)**
 
+### **Group Reports**
+- [Data Science](DataScience.pdf)
+- [Responsible and Novel Uses of Data](ResponsibleAndNovelUsesOfData.pdf)
+- [Database Engine](DatabaseEngine.pdf)
+- [Cloud_Data Services](CloudDataServices.pdf)
+- [Education and Publications](EducationAndPublications.pdf)
+- [Innovation and Partnerships](InnovationAndPartnerships.pdf)
+
 ### **Where**
 
 Gates Commons Room CSE691  
