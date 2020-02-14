@@ -15,3 +15,7 @@ id: "database_self_assessment_2018_supplemental"
 - [Cloud_Data Services](CloudDataServices.pdf)
 - [Education and Publications](EducationAndPublications.pdf)
 - [Innovation and Partnerships](InnovationAndPartnerships.pdf)
+
+### **Slides**
+- [Beckman Retrospective](http://pages.cs.wisc.edu/~anhai/db-initiatives/anhai-seattle-workshop2019-v2.pdf) - [[AnHai Doan](http://pages.cs.wisc.edu/~anhai/)]
+- [Databases and technology Trends](Databases_and_Technology_Trends_2018_dga.pdf) - [[Dave Anderson](http://www.cs.cmu.edu/~dga/)]
