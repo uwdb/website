@@ -21,4 +21,4 @@ The documents below are informal documents prepared by subsets of the participan
 
 ### **Slides**
 - [Beckman Retrospective](http://pages.cs.wisc.edu/~anhai/db-initiatives/anhai-seattle-workshop2019-v2.pdf) - [[AnHai Doan](http://pages.cs.wisc.edu/~anhai/)]
-- [Databases and Technology Trends](Databases_and_Technology_Trends_2018_dga.pdf) - [[Dave Anderson](http://www.cs.cmu.edu/~dga/)]
+- [Databases and Technology Trends](Databases_and_Technology_Trends_2018_dga.pdf) - [[David Anderson](http://www.cs.cmu.edu/~dga/)]
