@@ -19,7 +19,7 @@ id: "database_self_assessment_2018"
 - [Education and Publications](EducationAndPublications.pdf)
 - [Innovation and Partnerships](InnovationAndPartnerships.pdf) -->
 
-### [Supplemental Information]({{ site.baseurl }}/events/other/2018/database_self_assessment_2018_supplemental.html)
+### [Supplemental Information](https://db.cs.washington.edu/events/other/2018/database_self_assessment_2018_supplemental.html)
 
 ### **Where**
 
