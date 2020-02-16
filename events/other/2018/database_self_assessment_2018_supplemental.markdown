@@ -15,7 +15,7 @@ The documents below are informal documents prepared by subsets of the participan
 - [Data Science](DataScience.pdf)
 - [Responsible and Novel Uses of Data](ResponsibleAndNovelUsesOfData.pdf)
 - [Database Engine](DatabaseEngine.pdf)
-- [Cloud_Data Services](CloudDataServices.pdf)
+- [Cloud Data Services](CloudDataServices.pdf)
 - [Education and Publications](EducationAndPublications.pdf)
 - [Innovation and Partnerships](InnovationAndPartnerships.pdf)
 
