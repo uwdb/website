@@ -36,6 +36,17 @@ Tuesday, October 9th 2018 - Wednesday, October 10th 2018
 
 Daniel Abadi, Anastasia Ailamaki, David Andersen, Peter Bailis, Magdalena Balazinska, Phil Bernstein, Peter Boncz, Surajit Chaudhuri, Alvin Cheung, Anhai Doan, Luna Dong, Mike Franklin, Juliana Freire, Alon Halevy, Joe Hellerstein, Stratos Idreos, Donald Kossman, Tim Kraska, Sailesh Krishnamurthy, Volker Markl, Sergey Melnik, Tova Milo, C. Mohan, Thomas Neumann, Beng Chin Ooi, Fatma Ozcan, Jignesh Patel, Andy Pavlo, Raluca Popa, Raghu Ramakrishnan, Christopher Re, Mike Stonebraker, and Dan Suciu.
 
+### **Organizers**
+
+[Surajit Chaudhuri](https://www.microsoft.com/en-us/research/people/surajitc/)
+
+[Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda)
+
+
+### **Acknowledgments**
+
+The Seattle meeting was supported financially by donations from Microsoft, Google, and Megagon Labs (formerly Recruit Institute of Technology).
+
 
 ### **Meeting Agenda**
 
@@ -109,17 +120,6 @@ Daniel Abadi, Anastasia Ailamaki, David Andersen, Peter Bailis, Magdalena Balazi
 
 THANK YOU for your participation!
 
-
-### **Acknowledgments**
-
-The Seattle meeting was supported financially by donations from Microsoft, Google, and Megagon Labs (formerly Recruit Institute of Technology).
-
-
-### **Organizers**
-
-[Surajit Chaudhuri](https://www.microsoft.com/en-us/research/people/surajitc/)
-
-[Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda)
 
 ### **Logistics Information**
 [Silver Cloud Hotel Seattle, University District](https://www.silvercloud.com/university/)  
