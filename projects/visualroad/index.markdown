@@ -160,12 +160,9 @@ The following videos are representative of the traffic cameras found in a synthe
 |----------|-------|-----------------|----------|---------|-----------|-----------------|
 | 1K-Short-1 | 1     | 1K (960x540)    | 15 min   | 1       | [Link](https://github.com/uwdb/visualroad/issues/1) | [1k-short.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-1k.tar.gz) |
 | 1K-Short-2  | 2     | 1K (960x540)    | 15 min   | 1       | [Link](https://github.com/uwdb/visualroad/issues/5) | [1k-short-2.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-1k-2.tar.gz) |
-| 1K-Long-4  | 4     | 1K (960x540)    | 60 min   | 1       | 0x75BCD15 | [Link](https://github.com/uwdb/visualroad/issues/10)    |
+| 1K-Long-4  | 4     | 1K (960x540)    | 60 min   | 1       | [Link](https://github.com/uwdb/visualroad/issues/10)    | [1k-long-4.tar.gz](https://drive.google.com/open?id=1waiXfYGPo_kJcuPDCcKg4aXgyGY1bZkR) |
 | 2K-Short-2 | 2     | 2K (1920x1080)  | 15 min   | 1       | [Link](https://github.com/uwdb/visualroad/issues/6) | [2k-short-2.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-2k-2.tar.gz)    |
-<!--| 2K-Long-4  | 4     | 2K (1920x1080)  | 60 min   | 1       | 0x75BCD15 | Coming soon!    |-->
 | 4K-Short-1 | 1     | 4K (3840x2160)  | 15 min   | 1       | [Link](https://github.com/uwdb/visualroad/issues/2) | [4k-short.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-4k.tar.gz) |
-<!--| 4K-Long-2  | 2     | 4K (3840x2160)  | 60 min   | 1       | 0x75BCD15 | Coming soon!    |-->
-<!--| 4K-Long-4 | 4     | 4K (3840x2160)  | 60 min   | 1       | 0x75BCD15 | Coming soon!    |-->
 
 ## Share your dataset configuration!
 
