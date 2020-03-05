@@ -50,10 +50,6 @@ Open world database management systems assume tuples not in the database still e
 
 Contact [Laurel Orr](mailto:ljorr1@cs.washington.edu).
 
-#### Publications
-
-(Publication in submission.)
-
 #### Acknowledgments
 
 This work is supported by the National Science Foundation through NSF grants AITF 1535565 and III-1614738 and through a gift from Intel.
