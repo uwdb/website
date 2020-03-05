@@ -12,8 +12,8 @@ id: "projects"
   <img src="../../images/projects/themis.png" alt="Logo" style="width: 40rem" />
   <p>An Open World Database for Automatic Data Debiasing</p>
   <p>
-    <a class="btn btn-primary btn-lg label-primary" href="https://arxiv.org/abs/2002.09799" role="button" style="width: 180px;"><span style="position: relative; top:5px">Read the paper</span></a>
-    <a class="btn btn-primary btn-lg label-primary" href="https://gitlab.cs.washington.edu/uwdb/project_themis_debias" role="button" style="width: 180px"><span style="position: relative; top:5px">Get the code</span></a>
+    <a class="btn btn-primary btn-lg label-primary" href="https://arxiv.org/abs/2002.09799" role="button" style="width: 180px;"><span style="position: relative; top:2px">Read the paper</span></a>
+    <a class="btn btn-primary btn-lg label-primary" href="https://gitlab.cs.washington.edu/uwdb/project_themis_debias" role="button" style="width: 180px"><span style="position: relative; top:2px">Get the code</span></a>
   </p>
 </div>
 
