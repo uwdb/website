@@ -152,3 +152,33 @@
   website: http://homes.cs.washington.edu/~jwang/
   image: jingjing.jpg
   at: Facebook
+
+- name: Shrainik Jain
+  nickname: Shrainik
+  website: http://homes.cs.washington.edu/~shrainik/
+  image: shrainik.jpg
+  at: Snowflake
+  
+- name: Dominik Moritz
+  nickname: Dominik
+  website: https://www.domoritz.de/
+  image: dominik.jpg
+  at: CMU
+
+- name: Laurel Orr
+  nickname: Laurel
+  website: https://cs.stanford.edu/people/lorr1/
+  image: laurel.jpg
+  at: Stanford
+  
+- name: Srini Iyer
+  nickname: Srini
+  website: http://sriniiyer.github.io/
+  image: srini.jpg
+  at: Facebook AI Research
+
+- name: Jennifer Ortiz
+  nickname: Jennifer
+  website: https://homes.cs.washington.edu/~jortiz16/
+  image: jennifer.jpg
+  at: Google
