@@ -25,13 +25,6 @@ Group photos from different years are on the [group page]({{ site.baseurl }}/gro
 {% endfor %}
 </div>
 
-## Staff
-<div class="flex-container people image-container">
-{% for person in site.data.staff %}
-  {% include person_image image=person.image caption=person.name link=person.website title=person.name %}
-{% endfor %}
-</div>
-
 ## Postdocs
 <div class="flex-container people image-container">
 {% for person in site.data.postdocs %}
