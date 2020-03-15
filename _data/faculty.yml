@@ -9,6 +9,12 @@
   website: http://www.cs.washington.edu/homes/billhowe/
   image: bill.jpg
   dblp: ':author:Bill_Howe:'
+  
+- name: Alex Ratner
+  nickname: Dan
+  website: https://ajratner.github.io/
+  image: alex.jpg
+  dblp: ':author:Alex_Ratner:'
 
 - name: Dan Suciu
   nickname: Dan
