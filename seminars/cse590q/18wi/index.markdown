@@ -212,4 +212,5 @@ Hardware</a>, Michael Taylor</li>
  <li> <a href='https://www.coursera.org/learn/cryptocurrency'>Coursera course on Bitcoins and Crytocurrencies</a></li>
 <li> <a href='https://github.com/hyperledger/fabric/releases/tag/v0.6.0-preview'>Hyperledger fabric v0.6.0.</a></li>
 <li> <a href='https://github.com/hyperledger/fabric/releases/tag/v1.0.0-rc1'>Hyperledger fabric v1.0.0-rc1</a></li>
+<li> <a href='https://paybis.com/blog/learn-about-cryptocurrency/'>Paybis - Learn about cryptocurrency</a></li>
 <ol>
