@@ -84,7 +84,16 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
   <div class="media-body">
     <h4 class="media-heading">Tile-Aware Storage Management (TASM)</h4>
-		...
+		The tile-aware storage manager (TASM) utilizes  We present the design of 
+		TASM is a tile-aware storage
+		manager which uses a feature in modern video
+		codecs called ``tiles'' to enable spatial random access into encoded
+		videos.  TASM significantly improves the performance of machine and deep learning queries
+		over videos when the workload is known, and can
+		incrementally adapt the physical layout of videos to improve
+		performance even when the workload is not known. Layouts picked
+		by TASM speed up individual queries by an average of 51% and up
+		to 94% while maintaining good quality.
   </div>
 </div>
 
