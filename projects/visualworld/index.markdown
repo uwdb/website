@@ -17,7 +17,20 @@ VisualWorld, a collection of video data management projects ongoing in the Unive
 VisualWorld projects explore video data management from a number of perspectives, including new approaches to VR and AR (LightDB), low-level video data storage especially in the context of machine learning (TASM and VFS), and evaluation of the performance and scalability of video data management systems (Visual Road).
 </p>
 
-<div class="media panel panel-default">
+<style type="text/css">
+	.media {
+		border: 1px solid rgba(0,0,0,.125);
+	}
+	.media-left {
+		fill: rgb(134, 142, 150);
+	}
+
+	.media-body {
+		padding: 20px;
+	}
+</style>
+
+<div class="media">
   <div class="media-left">
     <a href="#">
       <img src="../../images/projects/visualworlddb.png" class="card-img" alt="VisualWorldDB Logo" style="height: 8em" />
