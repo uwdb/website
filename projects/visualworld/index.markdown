@@ -22,11 +22,20 @@ VisualWorld projects explore video data management from a number of perspectives
 		border: 1px solid rgba(0,0,0,.125);
 	}
 	.media-left {
-		fill: rgb(134, 142, 150);
+		background: rgb(134, 142, 150);
+		vertical-align: middle;
+		padding-left: 10px;
+		padding-right: 10px;
 	}
 
 	.media-body {
 		padding: 20px;
+	}
+
+	.media-heading {
+		font-size: 20px;
+		font-weight: 750;
+		line-height: 1.2;
 	}
 </style>
 
