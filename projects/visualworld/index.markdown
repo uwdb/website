@@ -20,17 +20,17 @@ VisualWorld projects explore video data management from a number of perspectives
 <div class="media">
   <div class="media-left">
     <a href="#">
-      <img src="../../images/projects/visualworlddb.png" class="card-img" alt="VisualWorldDB Logo">
+      <img src="../../images/projects/visualworlddb.png" class="card-img" alt="VisualWorldDB Logo" />
     </a>
   </div>
   <div class="media-body">
-    <h4 class="media-heading">Visual Road</h4>
+    <h4 class="media-heading">VisualWorldDB</h4>
 	VisualWorldDB is a vision
 	and an initial architecture for a new type of database
 	management system optimized for multi-video applications.
 	VisualWorldDB ingests video data from many perspectives
-	and makes them queryable as a <i>single multidimensional
-	visual object</i>. It incorporates new techniques for optimizing,
+	and makes them queryable as a <em>single multidimensional
+	visual object</em>. It incorporates new techniques for optimizing,
 	executing, and storing multi-perspective video data. Our
 	preliminary results suggest that this approach allows for faster
 	queries and lower storage costs, improving the state of the art
@@ -38,35 +38,28 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
 </div>
 
-
-<!--
-<div class="card mb-3 text-white bg-secondary" style="max-width: 540px;">
-  <div class="row no-gutters">
-    <div class="col-md-4">
-      <img src="../../images/projects/visualroad.png" class="card-img" alt="Visual Road Logo">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">Visual Road</h5>
-        <p class="card-text">
-			Video database management systems (VDBMSs)
-			have recently re-emerged as an active area of research and
-			development. To accelerate innovation in this area, we
-			present Visual Road, a benchmark that evaluates the
-			performance of these systems. Visual Road comes with a
-			<b>dataset generator</b> and a <b>suite of benchmark queries</b> over cameras positioned
-			within a simulated metropolitan environment. Visual Road's
-			video data is automatically generated with a <a href="#samples">high degree
-			of realism</a>, and annotated using a modern simulation and
-			visualization engine. This allows for VDBMS performance
-			evaluation while scaling up the size of the input data.
-		</p>
-      </div>
-      <div class="card-footer bg-transparent border-success">Project Paper Code</div>
-    </div>
+<div class="media">
+  <div class="media-left">
+    <a href="#">
+      <img src="../../images/projects/visualroad.png" class="card-img" alt="Visual Road Logo" />
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">VisualWorldDB</h4>
+		Video database management systems (VDBMSs)
+		have recently re-emerged as an active area of research and
+		development. To accelerate innovation in this area, we
+		present Visual Road, a benchmark that evaluates the
+		performance of these systems. Visual Road comes with a
+		<strong>dataset generator</strong> and a <strong>suite of benchmark queries</strong> over cameras positioned
+		within a simulated metropolitan environment. Visual Road's
+		video data is automatically generated with a high degree
+		of realism, and annotated using a modern simulation and
+		visualization engine. This allows for VDBMS performance
+		evaluation while scaling up the size of the input data.
   </div>
 </div>
--->
+
 
 <div id="people"></div>
 # People
