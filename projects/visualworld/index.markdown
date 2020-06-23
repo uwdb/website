@@ -20,6 +20,7 @@ VisualWorld projects explore video data management from a number of perspectives
 <style type="text/css">
 	.media {
 		border: 1px solid rgba(0,0,0,.125);
+		width: 50em;
 	}
 	.media-left {
 		background: rgb(134, 142, 150);
