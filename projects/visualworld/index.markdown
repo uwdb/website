@@ -7,15 +7,15 @@ id: "projects"
 
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
-# VisualWorld
+# The VisualWorld Project
 
-<p>
+<blockquote>
 Our ability to collect and reason about video data at
 scale is revolutionizing how we interact with the world.
 To explore these ideas, we introduce 
 VisualWorld, a collection of video data management projects ongoing in the University of Washington database group.
 VisualWorld projects explore video data management from a number of perspectives, including new approaches to VR and AR (LightDB), low-level video data storage especially in the context of machine learning (TASM and VFS), and evaluation of the performance and scalability of video data management systems (Visual Road).
-</p>
+</blockquote>
 
 <style type="text/css">
 	.media {
@@ -46,7 +46,7 @@ VisualWorld projects explore video data management from a number of perspectives
 <div class="media">
   <div class="media-left">
     <a href="#">
-      <img src="../../images/projects/visualworlddb.png" class="card-img" alt="VisualWorldDB Logo" style="height: 8em" />
+      <img src="../../images/projects/visualworlddb.png" class="card-img" alt="VisualWorldDB Logo" />
     </a>
   </div>
   <div class="media-body">
@@ -67,7 +67,7 @@ VisualWorld projects explore video data management from a number of perspectives
 <div class="media">
   <div class="media-left">
     <a href="#">
-      <img src="../../images/projects/lightdb.png" class="card-img" alt="LightDB Logo" style="height: 8em" />
+      <img src="../../images/projects/lightdb.png" class="card-img" alt="LightDB Logo" />
     </a>
   </div>
   <div class="media-body">
@@ -79,7 +79,31 @@ VisualWorld projects explore video data management from a number of perspectives
 <div class="media">
   <div class="media-left">
     <a href="#">
-      <img src="../../images/projects/visualroad.png" class="card-img" alt="Visual Road Logo" style="height: 8em" />
+      <img src="../../images/projects/tasm.png" class="card-img" alt="Tile Aware Storage Manager (TASM) Logo" />
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Tile-Aware Storage Management (TASM)</h4>
+		...
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <a href="#">
+      <img src="../../images/projects/tasm.png" class="card-img" alt="VFS Logo" />
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">VFS</h4>
+		...
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <a href="#">
+      <img src="../../images/projects/visualroad.png" class="card-img" alt="Visual Road Logo" />
     </a>
   </div>
   <div class="media-body">
@@ -92,6 +116,18 @@ VisualWorld projects explore video data management from a number of perspectives
 		of realism, and annotated using a modern simulation and
 		visualization engine. This allows for VDBMS performance
 		evaluation while scaling up the size of the input data.
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <a href="#">
+      <img src="../../images/projects/visualcloud.png" class="card-img" alt="Visual Cloud Logo" />
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Visual Cloud</h4>
+		...
   </div>
 </div>
 
