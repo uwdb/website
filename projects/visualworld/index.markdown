@@ -47,7 +47,7 @@ VisualWorld projects explore video data management from a number of perspectives
 <div class="media">
   <div class="media-left">
     <a href="#">
-      <img src="../../images/projects/visualworlddb.png" class="card-img" alt="VisualWorldDB Logo" />
+      <img src="../../images/projects/visualworlddb.png" class="card-img" alt="VisualWorldDB Logo" style="width: 6em" />
     </a>
   </div>
   <div class="media-body">
