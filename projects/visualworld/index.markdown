@@ -5,42 +5,7 @@ group: "navigation"
 id: "projects"
 ---
 
-<!--
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
--->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-
-<style type="text/css">
-	@font-face {
-	    font-family: "AdventPro";
-	    src: url("fonts/AdventPro-Bold.woff") format('woff');
-	}
-
-	.title {
-		font-family: AdventPro;
-		margin-top: 0;
-	}
-
-	figure.video {
-		width: 50%;
-		float: left;
-		padding: 0.5em;
-	}
-
-	figure.video video {
-		width: 100%;
-	}
-
-	#architecture img {
-		width: 100%;
-		margin: 2em;
-	}
-
-	table.table {
-		min-width: 40em;
-		overflow-x: auto;
-	}
-</style>
 
 # VisualWorld
 
@@ -52,32 +17,29 @@ VisualWorld, a collection of video data management projects ongoing in the Unive
 VisualWorld projects explore video data management from a number of perspectives, including new approaches to VR and AR (LightDB), low-level video data storage especially in the context of machine learning (TASM and VFS), and evaluation of the performance and scalability of video data management systems (Visual Road).
 </p>
 
-<div class="card mb-3 text-white bg-secondary" style="max-width: 540px;">
-  <div class="row no-gutters">
-    <div class="col-md-4">
+<div class="media">
+  <div class="media-left">
+    <a href="#">
       <img src="../../images/projects/visualworlddb.png" class="card-img" alt="VisualWorldDB Logo">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">VisualWorldDB</h5>
-        <p class="card-text">
-			VisualWorldDB is a vision
-			and an initial architecture for a new type of database
-			management system optimized for multi-video applications.
-			VisualWorldDB ingests video data from many perspectives
-			and makes them queryable as a <i>single multidimensional
-			visual object</i>. It incorporates new techniques for optimizing,
-			executing, and storing multi-perspective video data. Our
-			preliminary results suggest that this approach allows for faster
-			queries and lower storage costs, improving the state of the art
-			for applications that operate over this type of video data.
-        </p>
-      </div>
-      <div class="card-footer bg-transparent border-success">Paper</div>
-    </div>
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">Visual Road</h4>
+	VisualWorldDB is a vision
+	and an initial architecture for a new type of database
+	management system optimized for multi-video applications.
+	VisualWorldDB ingests video data from many perspectives
+	and makes them queryable as a <i>single multidimensional
+	visual object</i>. It incorporates new techniques for optimizing,
+	executing, and storing multi-perspective video data. Our
+	preliminary results suggest that this approach allows for faster
+	queries and lower storage costs, improving the state of the art
+	for applications that operate over this type of video data.
   </div>
 </div>
 
+
+<!--
 <div class="card mb-3 text-white bg-secondary" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
@@ -104,7 +66,7 @@ VisualWorld projects explore video data management from a number of perspectives
     </div>
   </div>
 </div>
-
+-->
 
 <div id="people"></div>
 # People
