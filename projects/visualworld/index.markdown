@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visual Road
+title: VisualWorld
 group: "navigation"
 id: "projects"
 ---
@@ -39,40 +39,69 @@ id: "projects"
 	}
 </style>
 
-<div class="jumbotron" style="background-image: none; background-color: inherit; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
-  <img src="../../images/projects/visualroad.png" alt="Logo" style="width: 8rem" />
-  <h1 class="title">Visual Road</h1>
-  <p>A Video Data Management Benchmark</p>
-  <p>
-  	<a class="btn btn-primary btn-lg label-danger" href="p300-haynes.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
-  	<a class="btn btn-primary btn-lg label-primary" href="https://github.com/uwdb/visualroad" role="button" style="width: 180px"><span style="position: relative; top:10px">Get the Benchmark&nbsp;</span><br/><small>&nbsp;</small></a>
-  </p>
+# VisualWorld
+
+<p>
+Our ability to collect and reason about video data at
+scale is revolutionizing how we interact with the world.
+To explore these ideas, we introduce 
+VisualWorld, a collection of video data management projects ongoing in the University of Washington database group.
+VisualWorld projects explore video data management from a number of perspectives, including new approaches to VR and AR (LightDB), low-level video data storage especially in the context of machine learning (TASM and VFS), and evaluation of the performance and scalability of video data management systems (Visual Road).
+</p>
+
+<div class="card mb-3 text-white bg-secondary" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="../../images/projects/visualworlddb.png" class="card-img" alt="VisualWorldDB Logo">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">VisualWorldDB</h5>
+        <p class="card-text">
+			VisualWorldDB is a vision
+			and an initial architecture for a new type of database
+			management system optimized for multi-video applications.
+			VisualWorldDB ingests video data from many perspectives
+			and makes them queryable as a <i>single multidimensional
+			visual object</i>. It incorporates new techniques for optimizing,
+			executing, and storing multi-perspective video data. Our
+			preliminary results suggest that this approach allows for faster
+			queries and lower storage costs, improving the state of the art
+			for applications that operate over this type of video data.
+        </p>
+      </div>
+      <div class="card-footer bg-transparent border-success">Paper</div>
+    </div>
+  </div>
 </div>
 
-# About Visual Road
+<div class="card mb-3 text-white bg-secondary" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="../../images/projects/visualroad.png" class="card-img" alt="Visual Road Logo">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Visual Road</h5>
+        <p class="card-text">
+			Video database management systems (VDBMSs)
+			have recently re-emerged as an active area of research and
+			development. To accelerate innovation in this area, we
+			present Visual Road, a benchmark that evaluates the
+			performance of these systems. Visual Road comes with a
+			<b>dataset generator</b> and a <b>suite of benchmark queries</b> over cameras positioned
+			within a simulated metropolitan environment. Visual Road's
+			video data is automatically generated with a <a href="#samples">high degree
+			of realism</a>, and annotated using a modern simulation and
+			visualization engine. This allows for VDBMS performance
+			evaluation while scaling up the size of the input data.
+		</p>
+      </div>
+      <div class="card-footer bg-transparent border-success">Project Paper Code</div>
+    </div>
+  </div>
+</div>
 
-<p>
-Video database management systems (VDBMSs)
-have recently re-emerged as an active area of research and
-development. To accelerate innovation in this area, we
-present Visual Road, a benchmark that evaluates the
-performance of these systems. Visual Road comes with a
-<b>dataset generator</b> and a <b>suite of benchmark queries</b> over cameras positioned
-within a simulated metropolitan environment. Visual Road's
-video data is automatically generated with a <a href="#samples">high degree
-of realism</a>, and annotated using a modern simulation and
-visualization engine. This allows for VDBMS performance
-evaluation while scaling up the size of the input data.
-</p>
-
-<p>
-Visual Road is designed to evaluate a broad variety of VDBMSs: real-time systems, systems for longitudinal analytical queries,
-systems processing traditional videos, and systems designed for 360◦ videos.  Visual Road relies on the <a href="https://www.unrealengine.com">Unreal Engine</a> for physical simulation and rendering, and the <a href="http://carla.org">Carla simulator</a> as a back-end engine (including its assets, geographic elements, and actor automation logic).
-</p>
-
-<figure id="architecture" class="figure">
-	<img src="images/architecture.png" alt="Visual Road architecture diagram" />
-</figure>
 
 <div id="people"></div>
 # People
@@ -113,64 +142,6 @@ systems processing traditional videos, and systems designed for 360◦ videos.  
 		</a>
 	</div>
 </div>
-
-<div id="samples"></div>
-# Sample Traffic Camera Videos
-
-The following videos are representative of the traffic cameras found in a synthetic Visual Road dataset:
-
-<figure class="figure video">
-	<video controls autoplay="true" muted="true" loop="true">
-	  <source src="videos/visualroad1.mp4" type="video/mp4">
-	  <p>Your browser doesn't support HTML5 video. Here is
-	     a <a href="videos/visualroad1.mp4">link to the video</a> instead.</p>
-	</video>
-	<figcaption class="figure-caption text-center">Rain with light traffic</figcaption>
-</figure>
-<figure class="figure video">
-	<video controls autoplay="true" muted="true" loop="true">
-	  <source src="videos/visualroad2.mp4" type="video/mp4">
-	  <p>Your browser doesn't support HTML5 video. Here is
-	     a <a href="videos/visualroad2.mp4">link to the video</a> instead.</p>
-	</video>
-	<figcaption class="figure-caption text-center">Postpluvial with heavy traffic</figcaption>
-</figure>
-<figure class="figure video">
-	<video controls autoplay="true" muted="true" loop="true">
-	  <source src="videos/visualroad3.mp4" type="video/mp4">
-	  <p>Your browser doesn't support HTML5 video. Here is
-	     a <a href="videos/visualroad3.mp4">link to the video</a> instead.</p>
-	</video>
-	<figcaption class="figure-caption text-center">Postpluvial with heavy auto and foot traffic</figcaption>
-</figure>
-<figure class="figure video">
-	<video controls autoplay="true" muted="true" loop="true">
-	  <source src="videos/visualroad4.mp4" type="video/mp4">
-	  <p>Your browser doesn't support HTML5 video. Here is
-	     a <a href="videos/visualroad4.mp4">link to the video</a> instead.</p>
-	</video>
-	<figcaption class="figure-caption text-center">Sunny with moderate foot traffic</figcaption>
-</figure>
-
-<div id="datasets" style="clear: both"></div>
-
-# Pregenerated Datasets
-
-| Name     | Scale | Resolution      | Duration | Version | Configuration      | Download        |
-|----------|-------|-----------------|----------|---------|-----------|-----------------|
-| 1K-Short-1 | 1     | 1K (960x540)    | 15 min   | 1       | [Link](https://github.com/uwdb/visualroad/issues/1) | [1k-short.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-1k.tar.gz) |
-| 1K-Short-2  | 2     | 1K (960x540)    | 15 min   | 1       | [Link](https://github.com/uwdb/visualroad/issues/5) | [1k-short-2.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-1k-2.tar.gz) |
-| 1K-Long-4  | 4     | 1K (960x540)    | 60 min   | 1       | [Link](https://github.com/uwdb/visualroad/issues/10)    | [1k-long-4.tar.gz](https://drive.google.com/uc?export=download&id=1waiXfYGPo_kJcuPDCcKg4aXgyGY1bZkR) |
-| 2K-Short-2 | 2     | 2K (1920x1080)  | 15 min   | 1       | [Link](https://github.com/uwdb/visualroad/issues/6) | [2k-short-2.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-2k-2.tar.gz)    |
-| 4K-Short-1 | 1     | 4K (3840x2160)  | 15 min   | 1       | [Link](https://github.com/uwdb/visualroad/issues/2) | [4k-short.tar.gz](http://homes.cs.washington.edu/~bhaynes/datasets/short-4k.tar.gz) |
-
-## Share your dataset configuration!
-
-If you've generated a dataset and would like to share its configuration with the world, please [post it here](https://github.com/uwdb/visualroad/issues/new?labels=Benchmark+Configuration&template=benchmark-configuration.md) with the details!  To view a list of dataset configurations, please [click here](https://github.com/uwdb/visualroad/issues?q=label%3A%22Benchmark+Configuration%22).
-
-<script type="text/javascript">
-	document.getElementsByTagName("table")[0].className = "table table-striped table-hover";
-</script>
 
 # Related Publications
 
