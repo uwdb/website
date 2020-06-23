@@ -63,15 +63,24 @@ VisualWorld projects explore video data management from a number of perspectives
 <div class="media">
   <div class="media-left">
     <a href="#">
+      <img src="../../images/projects/lightdb.png" class="card-img" alt="LightDB Logo" style="height: 8em" />
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">LightDB</h4>
+		LightDB is a database management system (DBMS) designed to efficiently ingest, store, and deliver virtual reality (VR) content at scale. LightDB currently targets both live and prerecorded spherical panoramic (a.k.a. 360°) and light field VR videos. It persists content as a multidimensional field that includes both spatiotemporal and angular (i.e., orientation) dimensions. ontent delivered through LightDB offers improved throughput, less bandwidth, and scales to many concurrent connections.
+  </div>
+</div>
+
+<div class="media">
+  <div class="media-left">
+    <a href="#">
       <img src="../../images/projects/visualroad.png" class="card-img" alt="Visual Road Logo" style="height: 8em" />
     </a>
   </div>
   <div class="media-body">
-    <h4 class="media-heading">VisualWorldDB</h4>
-		Video database management systems (VDBMSs)
-		have recently re-emerged as an active area of research and
-		development. To accelerate innovation in this area, we
-		present Visual Road, a benchmark that evaluates the
+    <h4 class="media-heading">Visual Road</h4>
+		To accelerate innovation in video data management system (VDBMS) research, we designed and built Visual Road, a benchmark that evaluates the
 		performance of these systems. Visual Road comes with a
 		<strong>dataset generator</strong> and a <strong>suite of benchmark queries</strong> over cameras positioned
 		within a simulated metropolitan environment. Visual Road's
