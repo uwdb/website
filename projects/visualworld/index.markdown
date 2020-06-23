@@ -127,7 +127,13 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
   <div class="media-body">
     <h4 class="media-heading">Visual Cloud</h4>
-		...
+		Visual Cloud persists virtual reality (VR) content
+		as a multidimensional array that utilizes both dense (e.g., space and
+		time) and sparse (e.g., bit-rate) dimensions. It uses orientation
+		prediction to reduce data transfer by degrading out-of-view
+		portions of the video. Content delivered through Visual Cloud requires
+		up to 60% less bandwidth than existing methods and scales
+		to many concurrent connections.
   </div>
 </div>
 
