@@ -28,6 +28,10 @@ VisualWorld projects explore video data management from a number of perspectives
 		padding-right: 10px;
 	}
 
+	.media-left img {
+		max-width: 10em;
+	}
+
 	.media-body {
 		padding: 20px;
 	}
