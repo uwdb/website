@@ -91,12 +91,22 @@ VisualWorld projects explore video data management from a number of perspectives
 <div class="media">
   <div class="media-left">
     <a href="#">
-      <img src="../../images/projects/tasm.png" class="card-img" alt="VFS Logo" />
+      <img src="../../images/projects/vfs.png" class="card-img" alt="VFS Logo" />
     </a>
   </div>
   <div class="media-body">
     <h4 class="media-heading">VFS</h4>
-		...
+		VFS is a new file system designed to
+		decouple high-level video operations such as machine
+		learning and computer vision from the low-level details
+		required to store and efficiently retrieve video data. Using
+		VFS, users read and write video data as if it were to
+		an ordinary file system, and VFS transparently and
+		automatically arranges the data on disk in an efficient,
+		granular format, caches frequently-retrieved regions in
+		the most useful formats, and eliminates redundancies
+		found in videos captured from multiple cameras with
+		overlapping fields of view.
   </div>
 </div>
 
