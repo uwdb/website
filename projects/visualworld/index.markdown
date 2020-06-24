@@ -213,6 +213,18 @@ VisualWorld projects explore video data management from a number of perspectives
 		</a>
 	</div>
 
+	<div class="flex-item person" title="Maureen Daum">
+		<img src="{{ site.baseurl }}/images/people/maureen.jpg"/>
+		<p>Maureen Daum</p>
+	</div>
+
+	<div class="flex-item person" title="Dong He">
+		<a href="https://alexdhe.wordpress.com/">
+			<img src="images/dong.jpg"/>
+			<p>Dong He</p>
+		</a>
+	</div>
+
 	<div class="flex-item person" title="Amrita Mazumdar">
 		<a href="https://homes.cs.washington.edu/~amrita/">
 			<img src="images/amrita.jpg"/>
