@@ -14,7 +14,7 @@ Our ability to collect and reason about video data at
 scale is revolutionizing how we interact with the world.
 To explore these ideas, we introduce 
 VisualWorld, a collection of video data management projects ongoing in the University of Washington database group.
-VisualWorld projects explore video data management from a number of perspectives, including new approaches to VR and AR (LightDB and Visual Cloud), low-level video data storage especially in the context of machine learning (TASM and VFS), and evaluation of the performance and scalability of video data management systems (Visual Road).
+VisualWorld projects explore video data management from a number of perspectives, including new approaches to VR and AR (<a href="#lightdb">LightDB</a> and <a href="#visualcloud">Visual Cloud</a>), low-level video data storage especially in the context of machine learning (<a href="#tasm">TASM</a> and <a href="#vfs">VFS</a>), and evaluation of the performance and scalability of video data management systems (<a href="#visualroad">Visual Road</a>).
 </blockquote>
 
 <style type="text/css">
@@ -47,6 +47,7 @@ VisualWorld projects explore video data management from a number of perspectives
 	}
 </style>
 
+<a id="visualworlddb" />
 <div class="media">
   <div class="media-left">
     <a href="#">
@@ -68,6 +69,7 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
 </div>
 
+<a id="lightdb" />
 <div class="media">
   <div class="media-left">
     <a href="#">
@@ -80,6 +82,7 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
 </div>
 
+<a id="tasm" />
 <div class="media">
   <div class="media-left">
     <a href="#">
@@ -101,6 +104,7 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
 </div>
 
+<a id="vfs" />
 <div class="media">
   <div class="media-left">
     <a href="#">
@@ -123,6 +127,7 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
 </div>
 
+<a id="visualroad" />
 <div class="media">
   <div class="media-left">
     <a href="#">
@@ -142,6 +147,7 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
 </div>
 
+<a id="visualcloud" />
 <div class="media">
   <div class="media-left">
     <a href="#">
