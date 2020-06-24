@@ -220,7 +220,7 @@ VisualWorld projects explore video data management from a number of perspectives
 
 	<div class="flex-item person" title="Dong He">
 		<a href="https://alexdhe.wordpress.com/">
-			<img src="images/dong.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/dong.jpg"/>
 			<p>Dong He</p>
 		</a>
 	</div>
