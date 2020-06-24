@@ -69,9 +69,7 @@ VisualWorld projects explore video data management from a number of perspectives
 		for applications that operate over this type of video data.
 	</p>
 	<p>
-		<a class="btn btn-primary" href="#" role="button">Details</a>
 		<a class="btn btn-success" href="#" role="button">Paper</a>
-		<a class="btn btn-success" href="#" role="button">Code</a>
 	</p>
   </div>
 </div>
@@ -147,9 +145,7 @@ VisualWorld projects explore video data management from a number of perspectives
 			overlapping fields of view.
 		</p>
 		<p>
-			<a class="btn btn-primary" href="#" role="button">Details</a>
 			<a class="btn btn-success" href="#" role="button">Paper</a>
-			<a class="btn btn-success" href="#" role="button">Code</a>
 		</p>
   </div>
 </div>
@@ -200,7 +196,6 @@ VisualWorld projects explore video data management from a number of perspectives
 			to many concurrent connections.
 		</p>
 		<p>
-			<a class="btn btn-primary" href="#" role="button">Details</a>
 			<a class="btn btn-success" href="#" role="button">Paper</a>
 			<a class="btn btn-success" href="#" role="button">Code</a>
 		</p>
