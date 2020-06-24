@@ -56,16 +56,23 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
   <div class="media-body">
     <h4 class="media-heading">VisualWorldDB</h4>
-	VisualWorldDB is a vision
-	and an initial architecture for a new type of database
-	management system optimized for multi-video applications.
-	VisualWorldDB ingests video data from many perspectives
-	and makes them queryable as a <em>single multidimensional
-	visual object</em>. It incorporates new techniques for optimizing,
-	executing, and storing multi-perspective video data. Our
-	preliminary results suggest that this approach allows for faster
-	queries and lower storage costs, improving the state of the art
-	for applications that operate over this type of video data.
+	<p>
+		VisualWorldDB is a vision
+		and an initial architecture for a new type of database
+		management system optimized for multi-video applications.
+		VisualWorldDB ingests video data from many perspectives
+		and makes them queryable as a <em>single multidimensional
+		visual object</em>. It incorporates new techniques for optimizing,
+		executing, and storing multi-perspective video data. Our
+		preliminary results suggest that this approach allows for faster
+		queries and lower storage costs, improving the state of the art
+		for applications that operate over this type of video data.
+	</p>
+	<p>
+		<a class="btn btn-primary" href="#" role="button">Details</a>
+		<a class="btn btn-success" href="#" role="button">Paper</a>
+		<a class="btn btn-success" href="#" role="button">Code</a>
+	</p>
   </div>
 </div>
 
@@ -98,16 +105,22 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
   <div class="media-body">
     <h4 class="media-heading">Tile-Aware Storage Management (TASM)</h4>
-		The tile-aware storage manager (TASM) utilizes  We present the design of 
-		TASM is a tile-aware storage
-		manager which uses a feature in modern video
-		codecs called ``tiles'' to enable spatial random access into encoded
-		videos.  TASM significantly improves the performance of machine and deep learning queries
-		over videos when the workload is known, and can
-		incrementally adapt the physical layout of videos to improve
-		performance even when the workload is not known. Layouts picked
-		by TASM speed up individual queries by an average of 51% and up
-		to 94% while maintaining good quality.
+		<p>
+			The tile-aware storage manager (TASM) utilizes  We present the design of TASM is a tile-aware storage
+			manager which uses a feature in modern video
+			codecs called ``tiles'' to enable spatial random access into encoded
+			videos.  TASM significantly improves the performance of machine and deep learning queries
+			over videos when the workload is known, and can
+			incrementally adapt the physical layout of videos to improve
+			performance even when the workload is not known. Layouts picked
+			by TASM speed up individual queries by an average of 51% and up
+			to 94% while maintaining good quality.
+		</p>
+		<p>
+			<a class="btn btn-primary" href="#" role="button">Details</a>
+			<a class="btn btn-success" href="#" role="button">Paper</a>
+			<a class="btn btn-success" href="#" role="button">Code</a>
+		</p>
   </div>
 </div>
 
@@ -120,17 +133,24 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
   <div class="media-body">
     <h4 class="media-heading">VFS</h4>
-		VFS is a new file system designed to
-		decouple high-level video operations such as machine
-		learning and computer vision from the low-level details
-		required to store and efficiently retrieve video data. Using
-		VFS, users read and write video data as if it were to
-		an ordinary file system, and VFS transparently and
-		automatically arranges the data on disk in an efficient,
-		granular format, caches frequently-retrieved regions in
-		the most useful formats, and eliminates redundancies
-		found in videos captured from multiple cameras with
-		overlapping fields of view.
+	    <p>
+			VFS is a new file system designed to
+			decouple high-level video operations such as machine
+			learning and computer vision from the low-level details
+			required to store and efficiently retrieve video data. Using
+			VFS, users read and write video data as if it were to
+			an ordinary file system, and VFS transparently and
+			automatically arranges the data on disk in an efficient,
+			granular format, caches frequently-retrieved regions in
+			the most useful formats, and eliminates redundancies
+			found in videos captured from multiple cameras with
+			overlapping fields of view.
+		</p>
+		<p>
+			<a class="btn btn-primary" href="#" role="button">Details</a>
+			<a class="btn btn-success" href="#" role="button">Paper</a>
+			<a class="btn btn-success" href="#" role="button">Code</a>
+		</p>
   </div>
 </div>
 
@@ -143,14 +163,21 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
   <div class="media-body">
     <h4 class="media-heading">Visual Road</h4>
-		To accelerate innovation in video data management system (VDBMS) research, we designed and built Visual Road, a benchmark that evaluates the
-		performance of these systems. Visual Road comes with a
-		<strong>dataset generator</strong> and a <strong>suite of benchmark queries</strong> over cameras positioned
-		within a simulated metropolitan environment. Visual Road's
-		video data is automatically generated with a high degree
-		of realism, and annotated using a modern simulation and
-		visualization engine. This allows for VDBMS performance
-		evaluation while scaling up the size of the input data.
+	    <p>
+			To accelerate innovation in video data management system (VDBMS) research, we designed and built Visual Road, a benchmark that evaluates the
+			performance of these systems. Visual Road comes with a
+			<strong>dataset generator</strong> and a <strong>suite of benchmark queries</strong> over cameras positioned
+			within a simulated metropolitan environment. Visual Road's
+			video data is automatically generated with a high degree
+			of realism, and annotated using a modern simulation and
+			visualization engine. This allows for VDBMS performance
+			evaluation while scaling up the size of the input data.
+		</p>
+		<p>
+			<a class="btn btn-primary" href="#" role="button">Details</a>
+			<a class="btn btn-success" href="#" role="button">Paper</a>
+			<a class="btn btn-success" href="#" role="button">Code</a>
+		</p>
   </div>
 </div>
 
@@ -163,13 +190,20 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
   <div class="media-body">
     <h4 class="media-heading">Visual Cloud</h4>
-		Visual Cloud persists virtual reality (VR) content
-		as a multidimensional array that utilizes both dense (e.g., space and
-		time) and sparse (e.g., bit-rate) dimensions. It uses orientation
-		prediction to reduce data transfer by degrading out-of-view
-		portions of the video. Content delivered through Visual Cloud requires
-		up to 60% less bandwidth than existing methods and scales
-		to many concurrent connections.
+		<p>
+			Visual Cloud persists virtual reality (VR) content
+			as a multidimensional array that utilizes both dense (e.g., space and
+			time) and sparse (e.g., bit-rate) dimensions. It uses orientation
+			prediction to reduce data transfer by degrading out-of-view
+			portions of the video. Content delivered through Visual Cloud requires
+			up to 60% less bandwidth than existing methods and scales
+			to many concurrent connections.
+		</p>
+		<p>
+			<a class="btn btn-primary" href="#" role="button">Details</a>
+			<a class="btn btn-success" href="#" role="button">Paper</a>
+			<a class="btn btn-success" href="#" role="button">Code</a>
+		</p>
   </div>
 </div>
 
