@@ -145,7 +145,7 @@ VisualWorld projects explore video data management from a number of perspectives
 			overlapping fields of view.
 		</p>
 		<p>
-			<button type="button" class="btn btn-lg btn-primary" disabled="disabled">Coming Soon!</button>
+			<button type="button" class="btn btn-primary" disabled="disabled">Coming Soon!</button>
 		</p>
   </div>
 </div>
