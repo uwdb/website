@@ -7,14 +7,14 @@ id: "projects"
 
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
-# The VisualWorld Project
+# The VisualWorld Video Data Management Project
 
 <blockquote>
 Our ability to collect and reason about video data at
 scale is revolutionizing how we interact with the world.
 To explore these ideas, we introduce 
 VisualWorld, a collection of video data management projects ongoing in the University of Washington database group.
-VisualWorld projects explore video data management from a number of perspectives, including new approaches to VR and AR (LightDB), low-level video data storage especially in the context of machine learning (TASM and VFS), and evaluation of the performance and scalability of video data management systems (Visual Road).
+VisualWorld projects explore video data management from a number of perspectives, including new approaches to VR and AR (LightDB and Visual Cloud), low-level video data storage especially in the context of machine learning (TASM and VFS), and evaluation of the performance and scalability of video data management systems (Visual Road).
 </blockquote>
 
 <style type="text/css">
@@ -26,7 +26,10 @@ VisualWorld projects explore video data management from a number of perspectives
 		vertical-align: middle;
 		padding-left: 10px;
 		padding-right: 10px;
-		width: 70em;
+		width: 175px;
+		min-width: 175px;
+		max-width: 175px;
+		overflow: hidden;
 	}
 
 	.media-left img {
