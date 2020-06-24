@@ -69,7 +69,7 @@ VisualWorld projects explore video data management from a number of perspectives
 		for applications that operate over this type of video data.
 	</p>
 	<p>
-		<a class="btn btn-success" href="#" role="button">Paper</a>
+		<a class="btn btn-success" href="//projects/visualworlddb/visualworld-crc.pdf" role="button">Paper</a>
 	</p>
   </div>
 </div>
@@ -87,9 +87,9 @@ VisualWorld projects explore video data management from a number of perspectives
 			LightDB is a database management system (DBMS) designed to efficiently ingest, store, and deliver virtual reality (VR) content at scale. LightDB currently targets both live and prerecorded spherical panoramic (a.k.a. 360°) and light field VR videos. It persists content as a multidimensional field that includes both spatiotemporal and angular (i.e., orientation) dimensions. ontent delivered through LightDB offers improved throughput, less bandwidth, and scales to many concurrent connections.
 		</p>
 		<p>
-			<a class="btn btn-primary" href="#" role="button">Details</a>
-			<a class="btn btn-success" href="#" role="button">Paper</a>
-			<a class="btn btn-success" href="#" role="button">Code</a>
+			<a class="btn btn-primary" href="//projects/lightdb" role="button">Details</a>
+			<a class="btn btn-success" href="//projects/lightdb/p1144-haynes.pdf" role="button">Paper</a>
+			<a class="btn btn-success" href="https://github.com/uwdb/lightdb" role="button">Code</a>
 		</p>
   </div>
 </div>
@@ -145,7 +145,7 @@ VisualWorld projects explore video data management from a number of perspectives
 			overlapping fields of view.
 		</p>
 		<p>
-			<a class="btn btn-success" href="#" role="button">Paper</a>
+			<button type="button" class="btn btn-lg btn-primary" disabled="disabled">Coming Soon!</button>
 		</p>
   </div>
 </div>
@@ -170,9 +170,9 @@ VisualWorld projects explore video data management from a number of perspectives
 			evaluation while scaling up the size of the input data.
 		</p>
 		<p>
-			<a class="btn btn-primary" href="#" role="button">Details</a>
-			<a class="btn btn-success" href="#" role="button">Paper</a>
-			<a class="btn btn-success" href="#" role="button">Code</a>
+			<a class="btn btn-primary" href="//projects/visualroad" role="button">Details</a>
+			<a class="btn btn-success" href="//projects/visualroad/p300-haynes.pdf" role="button">Paper</a>
+			<a class="btn btn-success" href="https://github.com/uwdb/visualroad" role="button">Code</a>
 		</p>
   </div>
 </div>
@@ -196,8 +196,7 @@ VisualWorld projects explore video data management from a number of perspectives
 			to many concurrent connections.
 		</p>
 		<p>
-			<a class="btn btn-success" href="#" role="button">Paper</a>
-			<a class="btn btn-success" href="#" role="button">Code</a>
+			<a class="btn btn-success" href="//projects/lightdb/haynes-sigmod17-demo.pdf" role="button">Paper</a>
 		</p>
   </div>
 </div>
