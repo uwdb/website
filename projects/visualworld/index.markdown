@@ -29,7 +29,7 @@ VisualWorld projects explore video data management from a number of perspectives
 		width: 175px;
 		min-width: 175px;
 		max-width: 175px;
-		overflow: hidden;
+		text-align: center;
 	}
 
 	.media-left img {
