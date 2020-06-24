@@ -78,7 +78,14 @@ VisualWorld projects explore video data management from a number of perspectives
   </div>
   <div class="media-body">
     <h4 class="media-heading">LightDB</h4>
-		LightDB is a database management system (DBMS) designed to efficiently ingest, store, and deliver virtual reality (VR) content at scale. LightDB currently targets both live and prerecorded spherical panoramic (a.k.a. 360°) and light field VR videos. It persists content as a multidimensional field that includes both spatiotemporal and angular (i.e., orientation) dimensions. ontent delivered through LightDB offers improved throughput, less bandwidth, and scales to many concurrent connections.
+		<p>
+			LightDB is a database management system (DBMS) designed to efficiently ingest, store, and deliver virtual reality (VR) content at scale. LightDB currently targets both live and prerecorded spherical panoramic (a.k.a. 360°) and light field VR videos. It persists content as a multidimensional field that includes both spatiotemporal and angular (i.e., orientation) dimensions. ontent delivered through LightDB offers improved throughput, less bandwidth, and scales to many concurrent connections.
+		</p>
+		<p>
+			<a class="btn btn-primary" href="#" role="button">Details</a>
+			<a class="btn btn-success" href="#" role="button">Paper</a>
+			<a class="btn btn-success" href="#" role="button">Code</a>
+		</p>
   </div>
 </div>
 
