@@ -115,9 +115,8 @@ VisualWorld projects explore video data management from a number of perspectives
 			to 94% while maintaining good quality.
 		</p>
 		<p>
-			<a class="btn btn-primary" href="#" role="button">Details</a>
-			<a class="btn btn-success" href="#" role="button">Paper</a>
-			<a class="btn btn-success" href="#" role="button">Code</a>
+			<a class="btn btn-success" href="https://arxiv.org/abs/2006.02958" role="button">Paper</a>
+			<a class="btn btn-success" href="https://github.com/maureendaum/TASM" role="button">Code</a>
 		</p>
   </div>
 </div>
