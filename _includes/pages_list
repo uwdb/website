@@ -23,6 +23,6 @@
 </li>
 
 <li {% if page.id == 'events' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/events/events.html"><i class="fa fa-calendar"></i> Events</a>
+  <a href="{{ site.baseurl }}/events/events.html"><i class="fa fa-calendar"></i>Talks and Events</a>
 </li>
 
