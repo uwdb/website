@@ -17,10 +17,17 @@ Group photos from different years are on the [group page]({{ site.baseurl }}/gro
 {% endfor %}
 </div>
 
-## Affiliate Faculty
+## Affiliate & Adjunct Faculty
 
 <div class="flex-container people image-container">
 {% for person in site.data.affiliates %}
+  {% include person_image image=person.image caption=person.name link=person.website title=person.name %}
+{% endfor %}
+</div>
+
+## Lecturers
+<div class="flex-container people image-container">
+{% for person in site.data.lecturers %}
   {% include person_image image=person.image caption=person.name link=person.website title=person.name %}
 {% endfor %}
 </div>

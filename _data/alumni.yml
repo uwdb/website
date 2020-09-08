@@ -190,3 +190,26 @@
   website: https://homes.cs.washington.edu/~jortiz16/
   image: jennifer.jpg
   at: Google
+
+- name: Babak Salimi
+  nickname: Babak
+  website: https://bsalimi.github.io/
+  image: babak.jpg
+  at: UC San Diego
+
+- name: Batya Kenig
+  nickname: Batya
+  website: https://scholar.google.com/citations?user=nPuXokoAAAAJ&hl=en
+  image: batya.jpg
+  at: Technion
+
+- name: Brandon Haynes
+  nickname: Brandon
+  website: http://homes.cs.washington.edu/~bhaynes/
+  image: brandonH.jpg
+
+- name: Cong Yan
+  nickname: Cong
+  website: http://homes.cs.washington.edu/~congy/
+  image: cong.jpg
+  at: Microsoft Research

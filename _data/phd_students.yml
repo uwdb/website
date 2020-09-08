@@ -5,16 +5,6 @@
   website: http://homes.cs.washington.edu/~maazsaf/
   image: maaz.jpg
 
-- name: Brandon Haynes
-  nickname: Brandon
-  website: http://homes.cs.washington.edu/~bhaynes/
-  image: brandonH.jpg
-
-- name: Ryan Maas
-  nickname: Ryan
-  website: http://homes.cs.washington.edu/~maas/
-  image: ryan.jpg
-
 - name: Shana Hutchison
   nickname: Shana
   website: http://homes.cs.washington.edu/~shutchis/
@@ -24,11 +14,6 @@
   nickname: Walter
   website: https://waltercai.github.io/
   image: cai.jpg
-
-- name: Cong Yan
-  nickname: Cong
-  website: http://homes.cs.washington.edu/~congy/
-  image: cong.jpg
 
 - name: Maureen Daum
   nickname: Maureen
@@ -50,3 +35,7 @@
   website: https://www.linkedin.com/in/parmita-mehta-30797a1
   image: parmita.jpeg
 
+- name: Moe Kayali
+  nickname: Moe
+  website: https://kayali.io/
+  image: moe.jpeg
