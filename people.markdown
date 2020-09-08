@@ -25,7 +25,7 @@ Group photos from different years are on the [group page]({{ site.baseurl }}/gro
 {% endfor %}
 </div>
 
-## Lecturers
+## Teaching Faculty
 <div class="flex-container people image-container">
 {% for person in site.data.lecturers %}
   {% include person_image image=person.image caption=person.name link=person.website title=person.name %}
@@ -40,7 +40,6 @@ Group photos from different years are on the [group page]({{ site.baseurl }}/gro
 </div>
 
 ## PhD Students
-
 <div class="flex-container people image-container">
 {% for person in site.data.phd_students %}
   {% include person_image image=person.image caption=person.name link=person.website title=person.name %}
@@ -55,7 +54,6 @@ Group photos from different years are on the [group page]({{ site.baseurl }}/gro
 </div>
 
 ## Undergraduate Students
-
 <div class="flex-container people image-container">
 {% for person in site.data.undergraduates %}
   {% include person_image image=person.image caption=person.name link=person.website title=person.name %}

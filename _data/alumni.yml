@@ -207,9 +207,16 @@
   nickname: Brandon
   website: http://homes.cs.washington.edu/~bhaynes/
   image: brandonH.jpg
+  at: Microsoft Gray Systems Lab
 
 - name: Cong Yan
   nickname: Cong
   website: http://homes.cs.washington.edu/~congy/
   image: cong.jpg
   at: Microsoft Research
+
+- name: Parmita Mehta
+  nickname: Parmita
+  website: https://www.linkedin.com/in/parmita-mehta-30797a1
+  image: parmita.jpeg
+  at: Microsoft
