@@ -1,4 +1,4 @@
-# Myria Website
+# Myria Website - A Decent & Polite Project
 
 Website for the DB group.
 See the site in action at [db.cs.washington.edu](http://db.cs.washington.edu/).
