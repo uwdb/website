@@ -1,6 +1,7 @@
 # Myria Website
 
 Website for the DB group.
+This Website based on html and some anither language.
 See the site in action at [db.cs.washington.edu](http://db.cs.washington.edu/).
 
 Write your recent news into the news data file [`_data/news.yml`](_data/news.yml).
