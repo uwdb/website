@@ -1,4 +1,4 @@
-# Myria Website
+# UW - The University of Washington's database group
 
 Website for the DB group.
 See the site in action at [db.cs.washington.edu](http://db.cs.washington.edu/).
