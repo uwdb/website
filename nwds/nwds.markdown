@@ -10,52 +10,105 @@ id: "nwds"
 ## Mission Statement
 The goal of NWDS is to bring together researchers and practitioners in the field of databases and data management systems working in the Pacific North-West.
 
-One of our main activities is a talk series with a variety of distinguished speakers from academia and industry. These talks are also part of the **Microsoft Database Lecture Series** (sponsored by Microsoft). This quarter's talks are organized by [Alvin](http://www.cs.washington.edu/homes/akcheung/).
+One of our main activities is a talk series with a variety of distinguished speakers from academia and industry. These talks are also part of the **Microsoft Database Lecture Series** (sponsored by Microsoft).
 
 We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for supporting NWDS.
 
----
-
-#### Fall 2019
+Our past talks can be found on the NWDS [youtube channel](https://www.youtube.com/channel/UCjTWKbxmf6uQ-l5Rp1g68BQ/videos).
 
 ---
 
-<p><a name="Daniel_Ting_2019_11_01"></a>
-<strong>Speaker</strong>: <a href="https://research.tableau.com/user/daniel-ting">Daniel Ting</a></p>
+#### Winter 2021
+
+---
+
+<p><a name="Jialin_Ding_2021_2_24"></a>
+<strong>Speaker</strong>: <a href="https://jialinding.github.io/">Jialin Ding</a></p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, CSE 291.</p>
+Paul G. Allen Center, Zoom  https://washington.zoom.us/j/95978452917.</p>
 
 <p><strong>When</strong>: 
-Friday, November 1st, 2019, 2:30pm - 3:30pm</p>
+Wednesday, February 24th, 2021, 5pm-6pm</p>
 
 <p><strong>Title</strong>:
-    Big data in small space: Statistical techniques for practical and truly optimal data sketching
+    Learned Index Structures for Dynamic and Multi-Dimensional Data
 </p>
 
 <p><strong>Abstract</strong>
-Statistics has long been in the business of taking big data (i.e. the entire world's) and taking a small set of measurements that allow confident answers to data questions. The problem is the same faced by approximate query processing systems and internal database systems that compute summary statistics or data sketches: how to store big data as small sketches while answering all relevant questions. We argue that traditional space-complexity motivated approaches to data sketching can sometimes fall short. "Optimal" procedures can have very bad constants, reported errors far too large to be of use, and sketches very narrowly focused on a single problem.
-</p>
-<p>
-We show how statistical techniques help with algorithm design and analysis.  We show how these can improve and extend sketches for a number of problems including heavy-hitters, subset sum, and distinct counting. This leads to more practical, easier to use, more capable, and more accurate sketches. Importantly, this is typically done with zero assumptions on the distribution of data that are associated with statistical modeling.
-</p>
-<p>
-As an example, we present our work from SIGMOD 2019 which shows how the distinct counting capabilities of HyperLogLog (HLL) sketches can be combined with the counter compression capabilities of CountMin to yield a sketch that can provide the capabilities of billions of individual HLL sketches, analytically yield very precise measures of the accuracy, and be provably correct.
+Recent advancements in learned index structures propose replacing existing index structures, like B-Trees, with learned models. On read-only workloads, learned indexes can outperform state-of-the-art "traditional" indexes in both index size and lookup performance. However, past works on learned indexes perform poorly on workloads over changing or multi-dimensional data.
+
+In this talk, I will introduce some recent work that addresses these limitations of learned indexes. First, I will present ALEX, a fully dynamic learned index structure that simultaneously provides efficient support for point lookups, short range queries, inserts, updates, deletes, and bulk loading. I will then give a brief overview of Flood and Tsunami, learned multi-dimensional indexes that handle OLAP-style workloads that involve scanning and filtering over multi-dimensional tables. I will conclude by describing some directions for future work on learned indexes and how they fit into instance-optimized database systems.
 </p>
 
 <p><strong>Bio</strong>: 
-My interests lie in developing novel statistical methods. In particular, I am interested in data sketching and sampling which lies in the intersection of statistics and databases. These are methods to summarize big data into memory efficient summarizations that can still answer a broad set of questions. I also have strong interests in the analysis and design of experiments and machine learning. My visualization oriented ML research is in manifold learning and non-linear dimensionality reduction where I study the mathematical limit operators implied by existing methods and how to design new operators and, hence, new methods.
-</p>
-<p>
-I received my PhD in Statistics at UC Berkeley under the supervision of Michael Jordan. My PhD work focused on non-parametric Bayesian cluster models and semi-supervised/manifold learning. I also worked on data privacy for my MSc at Carnegie Mellon under Stephen Fienberg. Before Tableau, I was a core data scientist at Facebook primarily working on experimentation.
+I am a CS PhD in the MIT Data Systems Group, where I am advised by Prof. Tim Kraska. My research focuses on applying machine learning to database systems.
+
+I also collaborate with Umar Farooq Minhas and the Database Group at Microsoft Research on learned data structures. Prior to MIT, I was an undergraduate at Stanford University, where I worked on data-intensive systems with Prof. Peter Bailis as part of Stanford DAWN. My CV.
 </p>
 
-Streaming <s>[[video](https://www.youtube.com/watch?v=tQ57UHsj-CI)]</s> Due to unforseen technical difficulties, the talk will not be streamed.
+---
+
+<p><a name="Laurel_Orr_2021_2_10"></a>
+<strong>Speaker</strong>: <a href="https://cs.stanford.edu/people/lorr1/">Laurel Orr</a></p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, Zoom  https://washington.zoom.us/j/95978452917.</p>
+
+<p><strong>When</strong>: 
+Wednesday, February 10th, 2021, 5pm-6pm</p>
+
+<p><strong>Title</strong>:
+    Bootleg: Chasing the Tail with Self-Supervised Named Entity Disambiguation
+</p>
+
+<p><strong>Abstract</strong>
+Named Entity Disambiguation (NED) is the task of mapping textual mentions to entities in a database. A key challenge in NED is generalizing to rarely seen entities, termed tail entities. Traditional NED systems use hand-tuned features to improve tail generalization, but these features make the system challenging to deploy and maintain. In 2018, a subset of the authors built and deployed a self-supervised NED system at a major technology company, which improved performance over its hand-tuned predecessor. Motivated to understand the core reasons for this improvement, we introduce Bootleg, a clean-slate, open-source, self-supervised NED system. In this talk, we'll show how to succeed on the tail by reasoning over structured data. We demonstrate that Bootleg matches or exceeds state-of-the-art performance on three NED benchmarks and that the learned representations from Bootleg demonstrate up to 8% performance lift in a production task. Finally, we observe that embeddings from self-supervised models like Bootleg are increasingly being served to downstream applications, creating an embedding ecosystem. We initiate the study of the data management challenges associated with this ecosystem.
+</p>
+
+<p><strong>Bio</strong>: 
+I am currently a PostDoc at Stanford working with Christopher Re as part of the Hazy Research lab. In August of 2019, I graduated with a PhD from Paul G Allen School for Computer Science and Engineering at the University of Washington in Seattle. I was part of the Database Group and advised by Dan Suciu and Magdalena Balazinska.
+
+For my undergraduate degree, I went to Carleton College in Northfield, MN, where the city's motto is "Cows, Colleges, and Contentment" and graduated in 2013 as a Computer Science and Mathematics double major.
+</p>
+
+---
+
+<p><a name="Rebecca_Taft_2021_2_4"></a>
+<strong>Speaker</strong>: <a href="http://people.csail.mit.edu/rytaft/">Rebecca Taft</a></p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, Zoom.</p>
+
+<p><strong>When</strong>: 
+Wednesday, February 4th, 2021, 5pm-6pm</p>
+
+<p><strong>Title</strong>:
+    CockroachDB's Query Optimizer
+</p>
+
+<p><strong>Abstract</strong>
+We live in an increasingly interconnected world, with many organizations operating across countries or even continents. To serve their global user base, organizations are replacing their legacy DBMSs with cloud-based systems capable of scaling OLTP workloads to millions of users. CockroachDB is a scalable SQL DBMS that was built from the ground up to support these global OLTP workloads while maintaining high availability and strong consistency. Just like its namesake, CockroachDB is resilient to disasters through replication and automatic recovery mechanisms. 
+</p>
+<p>
+In this talk, I'll give a brief introduction to the architecture of CockroachDB followed by a deep dive into the design and implementation of CockroachDB's query optimizer.  CockroachDB has a Cascades-style query optimizer that uses over 200 transformation rules to explore the space of possible query execution plans. In this talk, I'll describe the domain-specific language, Optgen, that we use to define these transformation rules, and demonstrate how the rules work in action. I'll explain how we use statistics to choose the best plan from the search space, and how we automatically collect stats without disrupting production workloads or requiring coordination between nodes. I'll also describe some of the unique challenges we face when optimizing queries for a geo-distributed environment, and how CockroachDB handles them.
+</p>
+
+<p><strong>Bio</strong>: 
+Becca is a Staff Engineer at Cockroach Labs where she is a member of the SQL query optimizer team. Prior to joining Cockroach Labs, she was a graduate student at MIT, where she worked with Professor Michael Stonebraker researching distributed database elasticity and multi-tenancy.  Becca holds a B.S. in Physics from Yale University and an M.S. and Ph.D. in Computer Science from MIT. In her free time, she enjoys rowing on the Chicago River and enjoying the great outdoors.
+</p>
+
+Streaming <s>[[video](https://youtu.be/OGF-kxliyNc)]</s>
 
 ##  Past Talks
 
 Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_talks.html) for abstracts.
+
+#### Fall 2019
+* Daniel Ting, Tableau [[abstract](past_talks.html#Daniel_Ting_2019_11_01)]
 
 #### Spring 2019
 * Graham Cormode, University of Warwick [[abstract](past_talks.html#Graham_Cormode_2019_06_14)][[video](https://www.youtube.com/watch?v=V4dSj_yE36Y)]
