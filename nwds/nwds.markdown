@@ -27,7 +27,7 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, Zoom  https://washington.zoom.us/j/95978452917.</p>
+Paul G. Allen Center</p>
 
 <p><strong>When</strong>: 
 Wednesday, February 24th, 2021, 5pm-6pm</p>
@@ -55,7 +55,7 @@ I also collaborate with Umar Farooq Minhas and the Database Group at Microsoft R
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, Zoom  https://washington.zoom.us/j/95978452917.</p>
+Paul G. Allen Center </p>
 
 <p><strong>When</strong>: 
 Wednesday, February 10th, 2021, 5pm-6pm</p>
@@ -81,7 +81,7 @@ For my undergraduate degree, I went to Carleton College in Northfield, MN, where
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
-Paul G. Allen Center, Zoom.</p>
+Paul G. Allen Center</p>
 
 <p><strong>When</strong>: 
 Wednesday, February 4th, 2021, 5pm-6pm</p>
@@ -101,7 +101,7 @@ In this talk, I'll give a brief introduction to the architecture of CockroachDB 
 Becca is a Staff Engineer at Cockroach Labs where she is a member of the SQL query optimizer team. Prior to joining Cockroach Labs, she was a graduate student at MIT, where she worked with Professor Michael Stonebraker researching distributed database elasticity and multi-tenancy.  Becca holds a B.S. in Physics from Yale University and an M.S. and Ph.D. in Computer Science from MIT. In her free time, she enjoys rowing on the Chicago River and enjoying the great outdoors.
 </p>
 
-Streaming <s>[[video](https://youtu.be/OGF-kxliyNc)]</s>
+[Recorded Talk](https://youtu.be/OGF-kxliyNc)
 
 ##  Past Talks
 
