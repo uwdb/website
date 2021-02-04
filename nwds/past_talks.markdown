@@ -9,6 +9,42 @@ id: "nwds_past_talks"
 
 * * *
 
+<p><a name="Daniel_Ting_2019_11_01"></a>
+<strong>Speaker</strong>: <a href="https://research.tableau.com/user/daniel-ting">Daniel Ting</a></p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291.</p>
+
+<p><strong>When</strong>: 
+Friday, November 1st, 2019, 2:30pm - 3:30pm</p>
+
+<p><strong>Title</strong>:
+    Big data in small space: Statistical techniques for practical and truly optimal data sketching
+</p>
+
+<p><strong>Abstract</strong>
+Statistics has long been in the business of taking big data (i.e. the entire world's) and taking a small set of measurements that allow confident answers to data questions. The problem is the same faced by approximate query processing systems and internal database systems that compute summary statistics or data sketches: how to store big data as small sketches while answering all relevant questions. We argue that traditional space-complexity motivated approaches to data sketching can sometimes fall short. "Optimal" procedures can have very bad constants, reported errors far too large to be of use, and sketches very narrowly focused on a single problem.
+</p>
+<p>
+We show how statistical techniques help with algorithm design and analysis.  We show how these can improve and extend sketches for a number of problems including heavy-hitters, subset sum, and distinct counting. This leads to more practical, easier to use, more capable, and more accurate sketches. Importantly, this is typically done with zero assumptions on the distribution of data that are associated with statistical modeling.
+</p>
+<p>
+As an example, we present our work from SIGMOD 2019 which shows how the distinct counting capabilities of HyperLogLog (HLL) sketches can be combined with the counter compression capabilities of CountMin to yield a sketch that can provide the capabilities of billions of individual HLL sketches, analytically yield very precise measures of the accuracy, and be provably correct.
+</p>
+
+<p><strong>Bio</strong>: 
+My interests lie in developing novel statistical methods. In particular, I am interested in data sketching and sampling which lies in the intersection of statistics and databases. These are methods to summarize big data into memory efficient summarizations that can still answer a broad set of questions. I also have strong interests in the analysis and design of experiments and machine learning. My visualization oriented ML research is in manifold learning and non-linear dimensionality reduction where I study the mathematical limit operators implied by existing methods and how to design new operators and, hence, new methods.
+</p>
+<p>
+I received my PhD in Statistics at UC Berkeley under the supervision of Michael Jordan. My PhD work focused on non-parametric Bayesian cluster models and semi-supervised/manifold learning. I also worked on data privacy for my MSc at Carnegie Mellon under Stephen Fienberg. Before Tableau, I was a core data scientist at Facebook primarily working on experimentation.
+</p>
+
+Streaming <s>[[video](https://www.youtube.com/watch?v=tQ57UHsj-CI)]</s> Due to unforseen technical difficulties, the talk will not be streamed.
+
+
+* * *
+
 <p><a name="Graham_Cormode_2019_06_14"></a>
 <strong>Speaker</strong>: Graham Cormode</p>
 
