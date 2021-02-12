@@ -73,6 +73,7 @@ I am currently a PostDoc at Stanford working with Christopher Re as part of the 
 
 For my undergraduate degree, I went to Carleton College in Northfield, MN, where the city's motto is "Cows, Colleges, and Contentment" and graduated in 2013 as a Computer Science and Mathematics double major.
 </p>
+[Recorded Talk](https://youtu.be/tRsjvooBbA8)
 
 ---
 
