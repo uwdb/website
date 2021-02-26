@@ -104,19 +104,11 @@ VisualWorld projects explore video data management from a number of perspectives
   <div class="media-body">
     <h4 class="media-heading">Tile-Aware Storage Management (TASM)</h4>
 		<p>
-			The tile-aware storage manager (TASM) utilizes  We present the design of TASM is a tile-aware storage
-			manager which uses a feature in modern video
-			codecs called ``tiles'' to enable spatial random access into encoded
-			videos.  TASM significantly improves the performance of machine and deep learning queries
-			over videos when the workload is known, and can
-			incrementally adapt the physical layout of videos to improve
-			performance even when the workload is not known. Layouts picked
-			by TASM speed up individual queries by an average of 51% and up
-			to 94% while maintaining good quality.
+			Modern video data management systems store videos as a single encoded file, which significantly limits possible storage level optimizations. We design, implement, and evaluate TASM, a new tile-based storage manager for video data. TASM uses a feature in modern video codecs called "tiles" that enables spatial random access into encoded videos. TASM physically tunes stored videos by optimizing their tile layouts given the video content and a query workload. Additionally, TASM dynamically tunes that layout in response to changes in the query workload or if the query workload and video contents are incrementally discovered. Finally, TASM also produces efficient initial tile layouts for newly ingested videos. We demonstrate that TASM can speed up subframe selection queries by an average of over 50% and up to 94%. TASM can also improve the throughput of the full scan phase of object detection queries by up to 2X.
 		</p>
 		<p>
 			<a class="btn btn-success" href="https://arxiv.org/abs/2006.02958" role="button">Paper</a>
-			<a class="btn btn-success" href="https://github.com/maureendaum/TASM" role="button">Code</a>
+			<a class="btn btn-success" href="https://github.com/uwdb/TASM" role="button">Code</a>
 		</p>
   </div>
 </div>
