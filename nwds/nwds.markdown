@@ -23,7 +23,7 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 ---
 
 <p><a name="Ahmadi_Surna_2021_3_10"></a>
-<strong>Speaker</strong>: <a href="https://research.google/people/HosseinAhmadi/">Hossein Ahmadi</a> and <a href="https://www.linkedin.com/in/aleksandras-surna-602a3145/>Aleksandras Surna</a></p>
+<strong>Speaker</strong>: <a href="https://research.google/people/HosseinAhmadi/">Hossein Ahmadi</a> and <a href="https://www.linkedin.com/in/aleksandras-surna-602a3145/">Aleksandras Surna</a> </p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
