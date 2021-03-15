@@ -123,7 +123,7 @@ I am currently a PostDoc at Stanford working with Christopher Re as part of the 
 For my undergraduate degree, I went to Carleton College in Northfield, MN, where the city's motto is "Cows, Colleges, and Contentment" and graduated in 2013 as a Computer Science and Mathematics double major.
 </p>
 
-[Recorded Talk](https://youtu.be/tRsjvooBbA8)
+<p>Recorded Talk: https://youtu.be/tRsjvooBbA8 </p>
 
 ---
 
@@ -152,7 +152,7 @@ In this talk, I'll give a brief introduction to the architecture of CockroachDB 
 Becca is a Staff Engineer at Cockroach Labs where she is a member of the SQL query optimizer team. Prior to joining Cockroach Labs, she was a graduate student at MIT, where she worked with Professor Michael Stonebraker researching distributed database elasticity and multi-tenancy.  Becca holds a B.S. in Physics from Yale University and an M.S. and Ph.D. in Computer Science from MIT. In her free time, she enjoys rowing on the Chicago River and enjoying the great outdoors.
 </p>
 
-[Recorded Talk](https://youtu.be/OGF-kxliyNc)
+<p> Recorded Talk: https://youtu.be/OGF-kxliyNc </p>
 
 ---
 
