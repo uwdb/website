@@ -154,6 +154,8 @@ Becca is a Staff Engineer at Cockroach Labs where she is a member of the SQL que
 
 [Recorded Talk](https://youtu.be/OGF-kxliyNc)
 
+---
+
 ##  Past Talks
 
 Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_talks.html) for abstracts.
