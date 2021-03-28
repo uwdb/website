@@ -9,6 +9,141 @@ id: "nwds_past_talks"
 
 * * *
 
+<p><a name="Ahmadi_Surna_2021_3_10"></a>
+<strong>Speaker</strong>: <a href="https://research.google/people/HosseinAhmadi/">Hossein Ahmadi</a> and <a href="https://www.linkedin.com/in/aleksandras-surna-602a3145/">Aleksandras Surna</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center</p>
+
+<p><strong>When</strong>: 
+Wednesday, March 10th, 2021, 5pm-6pm</p>
+
+<p><strong>Title</strong>:
+    Dynamic Query Optimization in Google BigQuery
+</p>
+
+<p><strong>Abstract</strong>
+Google BigQuery is a serverless, scalable, and cost effective cloud data warehouse. In this talk, we give an overview of distributed query execution in BigQuery and present various query optimization techniques used. In particular, we will discuss the dynamic query execution primitives built into BigQuery.</p>
+
+<p><strong>Bio</strong>: 
+Hossein Ahmadi is currently a senior staff engineer at Google and the overall technical lead for Google BigQuery. He joined Google and BigQuery in 2011 and has been one of the architects working on data transfer, distributed query processing, storage, and machine learning infrastructure. He received his PhD from University of Illinois at Urbana Champaign in 2011 where he focused on data processing methods for embedded and IoT systems.
+
+Aleksandras Surna is currently one of the technical leads on the Google BigQuery team focusing on the development of the distributed query processing engine. He has contributed to the design and implementation of the columnar store, query optimizer, query processing runtime, and other components of BigQuery. Before joining Google, Aleksandras worked on the development of the Microsoft SQL Server database engine.
+</p>
+
+* * *
+
+<p><a name="Lin_Ma_2021_3_3"></a>
+    <strong>Speaker</strong>: <a href="https://www.cs.cmu.edu/~malin199/">Lin Ma </a></p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center</p>
+
+<p><strong>When</strong>: 
+Wednesday, March 3rd, 2021, 5pm-6pm</p>
+
+<p><strong>Title</strong>:
+    NoisePage: The Self-Driving Database Management System
+</p>
+
+<p><strong>Abstract</strong>
+Database management systems (DBMSs) are an important part of modern data-driven applications. However, they are notoriously difficult to deploy and administer. There are existing methods that recommend physical design or knob configurations for DBMSs. But most of them require humans to make final decisions and decide when to apply changes. The goal of a self-driving DBMS is to remove the DBMS administration impediments by managing itself autonomously.</p>
+
+<p>In this talk, I present the design of a new self-driving DBMS (NoisePage) that enables such automatic system management. I first discuss a forecasting framework that uses unsupervised clustering and ensemble ML models to efficiently predict the query arrival rates under varying database workload patterns. I then describe NoisePage's modeling framework that constructs and maintains ML models to predict the behavior of self-driving DBMS actions: the framework decomposes the DBMS architecture into fine-grained operating units to estimate the system's behavior under unseen configurations. I then introduce our ongoing work for an action planning framework that makes explainable decisions based on the forecasted workload and the modeled behavior. Lastly, I explain how we integrate all the self-driving components into the system.</p>
+
+<p><strong>Bio</strong>: 
+Lin Ma is a PhD candidate from Carnegie Mellon University Computer Science Department advised by Andy Pavlo. He is interested in database systems and machine learning. His research focus has been on designing the architecture for self-driving databases. Lin was voted the "most congenial PhD student" in the CMU Database Group in 2017, 2018, and 2020.
+</p>
+
+* * *
+
+<p><a name="Jialin_Ding_2021_2_24"></a>
+<strong>Speaker</strong>: <a href="https://jialinding.github.io/">Jialin Ding</a></p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center</p>
+
+<p><strong>When</strong>: 
+Wednesday, February 24th, 2021, 5pm-6pm</p>
+
+<p><strong>Title</strong>:
+    Learned Index Structures for Dynamic and Multi-Dimensional Data
+</p>
+
+<p><strong>Abstract</strong>
+Recent advancements in learned index structures propose replacing existing index structures, like B-Trees, with learned models. On read-only workloads, learned indexes can outperform state-of-the-art "traditional" indexes in both index size and lookup performance. However, past works on learned indexes perform poorly on workloads over changing or multi-dimensional data.
+
+In this talk, I will introduce some recent work that addresses these limitations of learned indexes. First, I will present ALEX, a fully dynamic learned index structure that simultaneously provides efficient support for point lookups, short range queries, inserts, updates, deletes, and bulk loading. I will then give a brief overview of Flood and Tsunami, learned multi-dimensional indexes that handle OLAP-style workloads that involve scanning and filtering over multi-dimensional tables. I will conclude by describing some directions for future work on learned indexes and how they fit into instance-optimized database systems.
+</p>
+
+<p><strong>Bio</strong>: 
+I am a CS PhD in the MIT Data Systems Group, where I am advised by Prof. Tim Kraska. My research focuses on applying machine learning to database systems.
+
+I also collaborate with Umar Farooq Minhas and the Database Group at Microsoft Research on learned data structures. Prior to MIT, I was an undergraduate at Stanford University, where I worked on data-intensive systems with Prof. Peter Bailis as part of Stanford DAWN. My CV.
+</p>
+
+* * *
+
+<p><a name="Laurel_Orr_2021_2_10"></a>
+<strong>Speaker</strong>: <a href="https://cs.stanford.edu/people/lorr1/">Laurel Orr</a></p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center </p>
+
+<p><strong>When</strong>: 
+Wednesday, February 10th, 2021, 5pm-6pm</p>
+
+<p><strong>Title</strong>:
+    Bootleg: Chasing the Tail with Self-Supervised Named Entity Disambiguation
+</p>
+
+<p><strong>Abstract</strong>
+Named Entity Disambiguation (NED) is the task of mapping textual mentions to entities in a database. A key challenge in NED is generalizing to rarely seen entities, termed tail entities. Traditional NED systems use hand-tuned features to improve tail generalization, but these features make the system challenging to deploy and maintain. In 2018, a subset of the authors built and deployed a self-supervised NED system at a major technology company, which improved performance over its hand-tuned predecessor. Motivated to understand the core reasons for this improvement, we introduce Bootleg, a clean-slate, open-source, self-supervised NED system. In this talk, we'll show how to succeed on the tail by reasoning over structured data. We demonstrate that Bootleg matches or exceeds state-of-the-art performance on three NED benchmarks and that the learned representations from Bootleg demonstrate up to 8% performance lift in a production task. Finally, we observe that embeddings from self-supervised models like Bootleg are increasingly being served to downstream applications, creating an embedding ecosystem. We initiate the study of the data management challenges associated with this ecosystem.
+</p>
+
+<p><strong>Bio</strong>: 
+I am currently a PostDoc at Stanford working with Christopher Re as part of the Hazy Research lab. In August of 2019, I graduated with a PhD from Paul G Allen School for Computer Science and Engineering at the University of Washington in Seattle. I was part of the Database Group and advised by Dan Suciu and Magdalena Balazinska.
+
+For my undergraduate degree, I went to Carleton College in Northfield, MN, where the city's motto is "Cows, Colleges, and Contentment" and graduated in 2013 as a Computer Science and Mathematics double major.
+</p>
+
+<p>Recorded Talk: https://youtu.be/tRsjvooBbA8 </p>
+
+* * *
+
+<p><a name="Rebecca_Taft_2021_2_4"></a>
+<strong>Speaker</strong>: <a href="http://people.csail.mit.edu/rytaft/">Rebecca Taft</a></p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center</p>
+
+<p><strong>When</strong>: 
+Wednesday, February 4th, 2021, 5pm-6pm</p>
+
+<p><strong>Title</strong>:
+    CockroachDB's Query Optimizer
+</p>
+
+<p><strong>Abstract</strong>
+We live in an increasingly interconnected world, with many organizations operating across countries or even continents. To serve their global user base, organizations are replacing their legacy DBMSs with cloud-based systems capable of scaling OLTP workloads to millions of users. CockroachDB is a scalable SQL DBMS that was built from the ground up to support these global OLTP workloads while maintaining high availability and strong consistency. Just like its namesake, CockroachDB is resilient to disasters through replication and automatic recovery mechanisms. 
+</p>
+<p>
+In this talk, I'll give a brief introduction to the architecture of CockroachDB followed by a deep dive into the design and implementation of CockroachDB's query optimizer.  CockroachDB has a Cascades-style query optimizer that uses over 200 transformation rules to explore the space of possible query execution plans. In this talk, I'll describe the domain-specific language, Optgen, that we use to define these transformation rules, and demonstrate how the rules work in action. I'll explain how we use statistics to choose the best plan from the search space, and how we automatically collect stats without disrupting production workloads or requiring coordination between nodes. I'll also describe some of the unique challenges we face when optimizing queries for a geo-distributed environment, and how CockroachDB handles them.
+</p>
+
+<p><strong>Bio</strong>: 
+Becca is a Staff Engineer at Cockroach Labs where she is a member of the SQL query optimizer team. Prior to joining Cockroach Labs, she was a graduate student at MIT, where she worked with Professor Michael Stonebraker researching distributed database elasticity and multi-tenancy.  Becca holds a B.S. in Physics from Yale University and an M.S. and Ph.D. in Computer Science from MIT. In her free time, she enjoys rowing on the Chicago River and enjoying the great outdoors.
+</p>
+
+<p> Recorded Talk: https://youtu.be/OGF-kxliyNc </p>
+
+* * *
+
 <p><a name="Daniel_Ting_2019_11_01"></a>
 <strong>Speaker</strong>: <a href="https://research.tableau.com/user/daniel-ting">Daniel Ting</a></p>
 
