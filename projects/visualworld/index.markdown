@@ -69,7 +69,8 @@ VisualWorld projects explore video data management from a number of perspectives
 		for applications that operate over this type of video data.
 	</p>
 	<p>
-		<strong>VisualWorldDB: A DBMS for the Visual World.</strong> Brandon Haynes, Maureen Daum, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung, and Luis Ceze. <strong><i>CIDR</i></strong>, 2020 [<a href="/projects/visualworlddb/visualworld-crc.pdf"><strong>Paper</strong></a>]
+		<strong>VisualWorldDB: A DBMS for the Visual World.</strong> Brandon Haynes, Maureen Daum, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung, and Luis Ceze. <strong><i>CIDR</i></strong>, 2020. <a class="btn btn-primary btn-xs" href="/projects/visualworlddb/visualworld-crc.pdf" role="button">Paper</a>
+		<!-- [<a href="/projects/visualworlddb/visualworld-crc.pdf"><strong>Paper</strong></a>] -->
 	</p>
 	<!-- <p>
 		<a class="btn btn-success" href="/projects/visualworlddb/visualworld-crc.pdf" role="button">Paper</a>
@@ -90,13 +91,16 @@ VisualWorld projects explore video data management from a number of perspectives
 			LightDB is a database management system (DBMS) designed to efficiently ingest, store, and deliver virtual reality (VR) content at scale. LightDB currently targets both live and prerecorded spherical panoramic (a.k.a. 360°) and light field VR videos. It persists content as a multidimensional field that includes both spatiotemporal and angular (i.e., orientation) dimensions. ontent delivered through LightDB offers improved throughput, less bandwidth, and scales to many concurrent connections.
 		</p>
 		<p>
-			<strong>LightDB: A DBMS for Virtual Reality Video.</strong> Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung. <strong><i>PVLDB</i></strong>, 11 (10): 1192-1205, 2018 [<a href="/projects/lightdb/p1144-haynes.pdf"><strong>Paper</strong></a>]
+			<strong>LightDB: A DBMS for Virtual Reality Video.</strong> Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung. <strong><i>PVLDB</i></strong>, 11 (10): 1192-1205, 2018. <a class="btn btn-warning btn-xs" href="/projects/lightdb" role="button">Details</a>
+			<a class="btn btn-primary btn-xs" href="/projects/lightdb/p1144-haynes.pdf" role="button">Paper</a>
+			<a class="btn btn-success btn-xs" href="https://github.com/uwdb/lightdb" role="button">Code</a>
+			<!-- [<a href="/projects/lightdb/p1144-haynes.pdf"><strong>Paper</strong></a>] -->
 		</p>
-		<p>
+		<!-- <p>
 			<a class="btn btn-primary" href="/projects/lightdb" role="button">Details</a>
-			<!-- <a class="btn btn-success" href="/projects/lightdb/p1144-haynes.pdf" role="button">Paper</a> -->
+			<a class="btn btn-success" href="/projects/lightdb/p1144-haynes.pdf" role="button">Paper</a>
 			<a class="btn btn-success" href="https://github.com/uwdb/lightdb" role="button">Code</a>
-		</p>
+		</p> -->
   </div>
 </div>
 
@@ -113,12 +117,13 @@ VisualWorld projects explore video data management from a number of perspectives
 			Modern video data management systems store videos as a single encoded file, which significantly limits possible storage level optimizations. We design, implement, and evaluate TASM, a new tile-based storage manager for video data. TASM uses a feature in modern video codecs called "tiles" that enables spatial random access into encoded videos. TASM physically tunes stored videos by optimizing their tile layouts given the video content and a query workload. Additionally, TASM dynamically tunes that layout in response to changes in the query workload or if the query workload and video contents are incrementally discovered. Finally, TASM also produces efficient initial tile layouts for newly ingested videos. We demonstrate that TASM can speed up subframe selection queries by an average of over 50% and up to 94%. TASM can also improve the throughput of the full scan phase of object detection queries by up to 2X.
 		</p>
 		<p>
-			<strong>TASM: A Tile-Based Storage Manager for Video Analytics.</strong> Maureen Daum, Brandon Haynes, Dong He, Amrita Mazumdar, Magdalena Balazinska. <strong><i>ICDE</i></strong>, 2021 [<a href="tasm.pdf"><strong>Paper</strong></a>]
+			<strong>TASM: A Tile-Based Storage Manager for Video Analytics.</strong> Maureen Daum, Brandon Haynes, Dong He, Amrita Mazumdar, Magdalena Balazinska. <strong><i>ICDE</i></strong>, 2021. <a class="btn btn-primary btn-xs" href="tasm.pdf" role="button">Paper</a> <a class="btn btn-success btn-xs" href="https://github.com/uwdb/TASM" role="button">Code</a>
+			<!-- [<a href="tasm.pdf"><strong>Paper</strong></a>] -->
 		</p>
-		<p>
-			<!-- <a class="btn btn-success" href="tasm.pdf" role="button">Paper</a> -->
+		<!-- <p>
+			<a class="btn btn-success" href="tasm.pdf" role="button">Paper</a>
 			<a class="btn btn-success" href="https://github.com/uwdb/TASM" role="button">Code</a>
-		</p>
+		</p> -->
   </div>
 </div>
 
@@ -145,7 +150,8 @@ VisualWorld projects explore video data management from a number of perspectives
 			overlapping fields of view.
 		</p>
 		<p>
-			<strong>VSS: A Storage System for Video Analytics.</strong> Brandon Haynes, Maureen Daum, Dong He, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung, Luis Ceze. <strong><i>SIGMOD</i></strong>, 2021 [<a href="https://arxiv.org/abs/2103.16604"><strong>Tech Report</strong></a>] 
+			<strong>VSS: A Storage System for Video Analytics.</strong> Brandon Haynes, Maureen Daum, Dong He, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung, Luis Ceze. <strong><i>SIGMOD</i></strong>, 2021. <a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2103.16604" role="button">Tech Report</a>
+			<!-- [<a href="https://arxiv.org/abs/2103.16604"><strong>Tech Report</strong></a>]  -->
 		</p>
 		<!-- <p>
 			<button type="button" class="btn btn-primary" disabled="disabled">Coming Soon!</button>
@@ -173,13 +179,14 @@ VisualWorld projects explore video data management from a number of perspectives
 			evaluation while scaling up the size of the input data.
 		</p>
 		<p>
-			<strong>Visual Road: A Video Data Management Benchmark.</strong> Brandon Haynes, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung. <strong><i>SIGMOD</i></strong>, 2019 [<a href="/projects/visualroad/p300-haynes.pdf"><strong>Paper</strong></a>] 
+			<strong>Visual Road: A Video Data Management Benchmark.</strong> Brandon Haynes, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung. <strong><i>SIGMOD</i></strong>, 2019. <a class="btn btn-warning btn-xs" href="/projects/visualroad" role="button">Details</a> <a class="btn btn-primary btn-xs" href="/projects/visualroad/p300-haynes.pdf" role="button">Paper</a> <a class="btn btn-success btn-xs" href="https://github.com/uwdb/visualroad" role="button">Code</a>
+			<!-- [<a href="/projects/visualroad/p300-haynes.pdf"><strong>Paper</strong></a>]  -->
 		</p>
-		<p>
+		<!-- <p>
 			<a class="btn btn-primary" href="/projects/visualroad" role="button">Details</a>
-			<!-- <a class="btn btn-success" href="/projects/visualroad/p300-haynes.pdf" role="button">Paper</a> -->
+			<a class="btn btn-success" href="/projects/visualroad/p300-haynes.pdf" role="button">Paper</a>
 			<a class="btn btn-success" href="https://github.com/uwdb/visualroad" role="button">Code</a>
-		</p>
+		</p> -->
   </div>
 </div>
 
@@ -202,7 +209,8 @@ VisualWorld projects explore video data management from a number of perspectives
 			to many concurrent connections.
 		</p>
 		<p>
-			<strong>VisualCloud Demonstration: A DBMS for Virtual Reality.</strong> Brandon Haynes, Artem Minyaylov, Magdalena Balazinska, Luis Ceze, Alvin Cheung. <strong><i>SIGMOD</i></strong>, 2017. <strong>Best Demonstration Honorable Mention.</strong> [<a href="/projects/visualroad/p300-haynes.pdf"><strong>Paper</strong></a>] 
+			<strong>VisualCloud Demonstration: A DBMS for Virtual Reality.</strong> Brandon Haynes, Artem Minyaylov, Magdalena Balazinska, Luis Ceze, Alvin Cheung. <strong><i>SIGMOD</i></strong>, 2017. <strong>Best Demonstration Honorable Mention.</strong> <a class="btn btn-primary btn-xs" href="/projects/lightdb/haynes-sigmod17-demo.pdf" role="button">Paper</a>
+			<!-- [<a href="/projects/visualroad/p300-haynes.pdf"><strong>Paper</strong></a>]  -->
 		</p>
 		<!-- <p>
 			<a class="btn btn-success" href="/projects/lightdb/haynes-sigmod17-demo.pdf" role="button">Paper</a>
