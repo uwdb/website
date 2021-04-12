@@ -150,7 +150,7 @@ VisualWorld projects explore video data management from a number of perspectives
 			overlapping fields of view.
 		</p>
 		<p>
-			<strong>VSS: A Storage System for Video Analytics.</strong> Brandon Haynes, Maureen Daum, Dong He, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung, Luis Ceze. <strong><i>SIGMOD</i></strong>, 2021. <a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2103.16604" role="button">Tech Report</a>
+			<strong>VSS: A Storage System for Video Analytics.</strong> Brandon Haynes, Maureen Daum, Dong He, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung, Luis Ceze. <strong><i>SIGMOD</i></strong>, 2021. <a class="btn btn-primary btn-xs" href="vss.pdf" role="button">Paper</a> <a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2103.16604" role="button">Tech Report</a>
 			<!-- [<a href="https://arxiv.org/abs/2103.16604"><strong>Tech Report</strong></a>]  -->
 		</p>
 		<!-- <p>
