@@ -152,6 +152,12 @@ img.logo {
   margin-top: 2em;
 }
 
+.current-projects::after {
+  content: "";
+  flex-basis: 460px;
+  margin-bottom: 10px;
+}
+
 .current-projects .project {
   flex-basis: 200px;
 
