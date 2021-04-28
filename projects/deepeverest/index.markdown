@@ -56,7 +56,7 @@ We design, implement, and evaluate DeepEverest, a system for the efficient execu
 </p>
 
 <p>
-The fundamental building blocks of DNN interpretation are neurons and groups of neurons. To understand what individual neurons and groups of neurons learn and detect, researchers often ask <i>interpretation by example</i> queries. These queries help with understanding the functionality of neurons and neuron groups by tying that functionality to the input examples in the dataset. DeepEverest focuses on accelerating two representative <i>interpretation by example</i> queries: "find the top-k inputs that produce the highest activation values for an individual neuron or group of neurons", and "for any input, find the k-nearest neighbors in the dataset using the activation values of a group of neurons based on the proximity in the latent space learned by the DNN".
+The fundamental building blocks of DNN interpretation are neurons and groups of neurons. To understand what individual neurons and groups of neurons learn and detect, researchers often ask <i>interpretation by example</i> queries. These queries help with understanding the functionality of neurons and neuron groups by tying that functionality to the input examples in the dataset. DeepEverest focuses on accelerating two representative <i>interpretation by example</i> queries: "find the top-k inputs that produce the highest activation values for an individual neuron or group of neurons", and "for any input, find the k-nearest neighbors in the dataset using the activation values of a group of neurons based on the proximity in the latent space defined by the group of neurons".
 </p>
 
 ## Related Publications
