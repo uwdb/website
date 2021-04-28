@@ -43,16 +43,12 @@ id: "projects"
   <img src="../../images/projects/deepeverest.png" alt="Logo" style="width: 26rem" />
   <h1 class="title">DeepEverest</h1>
   <p>A System for Efficient DNN Interpretation</p>
-  <p>
-  	<a class="btn btn-primary btn label-primary" href="https://arxiv.org/abs/2104.02234" role="button" style="width: 110px;"><span style="position: relative; top:10px; font-size: 120%">Preprint</span><br/><small>&nbsp;</small></a>
-  	<a class="btn btn-success btn label-success" href="https://github.com/uwdb/deepeverest" role="button" style="width: 110px"><span style="position: relative; top:10px; font-size: 120%">Code&nbsp;</span><br/><small>&nbsp;</small></a>
-  </p>
 </div>
 
-# About DeepEverest
+## About DeepEverest
 
 <p>
-DNN interpretation is important for researchers and data scientists. While many new approaches are being developed, they often do not scale with the size of the datasets and models. The problem that we address in this paper is the efficient execution of a common class of DNN interpretation queries.
+DNN interpretation is important for researchers and data scientists. While many approaches are being developed, they often do not scale with the size of the datasets and models. The problem that we address in this paper is the efficient execution of a common class of DNN interpretation queries.
 </p>
 
 <p>
@@ -63,14 +59,21 @@ We design, implement, and evaluate DeepEverest, a system for the efficient execu
 The fundamental building blocks of DNN interpretation are neurons and groups of neurons. To understand what individual neurons and groups of neurons learn and detect, researchers often ask <i>interpretation by example</i> queries. These queries help with understanding the functionality of neurons and neuron groups by tying that functionality to the input examples in the dataset. DeepEverest focuses on accelerating two representative <i>interpretation by example</i> queries: "find the top-k inputs that produce the highest activation values for an individual neuron or group of neurons", and "for any input, find the k-nearest neighbors in the dataset using the activation values of a group of neurons based on the proximity in the latent space learned by the DNN".
 </p>
 
-### Questions?
+## Related Publications
+<p>
+	<strong>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation.</strong> Dong He, Maureen Daum, Magdalena Balazinska. <strong><i>CoRR</i></strong> abs/2104.02234 (2021) 
+	<a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2104.02234" role="button">Technical Report</a>
+	<a class="btn btn-success btn-xs" href="https://github.com/uwdb/deepeverest" role="button">Code</a>
+</p>
+
+## Questions?
 
 Contact [Dong He](mailto:donghe@cs.washington.edu).
 
 
-<div id="people"></div>
-# People
+## People
 
+<div id="people"></div>
 <div class="flex-container people image-container">
 	<div class="flex-item person" title="Dong He">
 		<a href="https://dongheuw.github.io">
@@ -92,11 +95,6 @@ Contact [Dong He](mailto:donghe@cs.washington.edu).
 	</div>
 </div>
 
-
-<!-- # Related Publications
-
-* Dong He, Maureen Daum, Magdalena Balazinska
-
-## Acknowledgments -->
+<!-- ## Acknowledgments -->
 
 &nbsp;
