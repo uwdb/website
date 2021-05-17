@@ -22,6 +22,32 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 
 ---
 
+<p><a name="Tim_Kraska_2021_5_24"></a>
+<strong>Speaker</strong>: <a href="https://people.csail.mit.edu/kraska/">Tim Kraska</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center</p>
+
+<p><strong>When</strong>: 
+Monday, May 24th, 2021, 8am - 9am</p>
+
+<p><strong>Title</strong>:
+   Towards Instance-Optimized Data Systems
+</p>
+
+<p><strong>Abstract</strong>
+Recently, there has been a lot of excitement around ML-enhanced (or learned) algorithm and data structures. For example, there has been work on applying machine learning to improve query optimization, indexing, storage layouts, scheduling, log-structured merge trees, sorting, compression, sketches, among many other things. Arguably, the motivation behind these techniques are similar: machine learning is used to model the data and/or workload in order to derive a more efficient algorithm or data structure. Ultimately, what these techniques will allow us to build are “instance-optimized” systems; systems that self-adjust to a given workload and data distribution to provide unprecedented performance and avoid the need for tuning by an administrator.
+In this talk, I will provide an overview of the opportunities and limitations of learned index structures, storage layouts, and query optimization techniques we have been developing in my group, and how we are integrating these techniques to build a first instance-optimized database system. 
+</p>
+    
+<p><strong>Bio</strong>: 
+Tim Kraska is an Associate Professor of Electrical Engineering and Computer Science in MIT's Computer Science and Artificial Intelligence Laboratory, co-director of the Data System and AI Lab at MIT (DSAIL@CSAIL), and co-founder of Einblick Analytics. Currently, his research focuses on building systems for machine learning, and using machine learning for systems. Before joining MIT, Tim was an Assistant Professor at Brown, spent time at Google Brain, and was a PostDoc in the AMPLab at UC Berkeley after he got his PhD from ETH Zurich. Tim is a 2017 Alfred P. Sloan Research Fellow in computer science and received several awards including the VLDB Early Career Research Contribution Award,  the VMware Systems Research Award, the university-wide Early Career Research Achievement Award at Brown University, an NSF CAREER Award, as well as several best paper and demo awards at VLDB and ICDE.
+</p>
+
+
+---
+
 <p><a name="Aaron_Elmore_2021_4_12"></a>
 <strong>Speaker</strong>: <a href="http://people.cs.uchicago.edu/~aelmore/">Aaron Elmore</a> </p>
 
