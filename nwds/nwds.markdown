@@ -30,7 +30,7 @@ Allen School of Computer Science and Engineering.<br>
 Paul G. Allen Center</p>
 
 <p><strong>When</strong>: 
-Monday, May 24th, 2021, 8am - 9am</p>
+Monday, May 24th, 2021, 9am - 10am</p>
 
 <p><strong>Title</strong>:
    Towards Instance-Optimized Data Systems
