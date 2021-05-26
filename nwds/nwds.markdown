@@ -45,6 +45,7 @@ In this talk, I will provide an overview of the opportunities and limitations of
 Tim Kraska is an Associate Professor of Electrical Engineering and Computer Science in MIT's Computer Science and Artificial Intelligence Laboratory, co-director of the Data System and AI Lab at MIT (DSAIL@CSAIL), and co-founder of Einblick Analytics. Currently, his research focuses on building systems for machine learning, and using machine learning for systems. Before joining MIT, Tim was an Assistant Professor at Brown, spent time at Google Brain, and was a PostDoc in the AMPLab at UC Berkeley after he got his PhD from ETH Zurich. Tim is a 2017 Alfred P. Sloan Research Fellow in computer science and received several awards including the VLDB Early Career Research Contribution Award,  the VMware Systems Research Award, the university-wide Early Career Research Achievement Award at Brown University, an NSF CAREER Award, as well as several best paper and demo awards at VLDB and ICDE.
 </p>
 
+<a href="https://youtu.be/6JFssqEV_Xo">Recording</a>
 
 ---
 
