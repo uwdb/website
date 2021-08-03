@@ -87,6 +87,11 @@ Contact [Dong He](mailto:donghe@cs.washington.edu).
 		<p>Maureen Daum</p>
 	</div>
 
+	<div class="flex-item person" title="Walter Cai">
+		<img src="{{ site.baseurl }}/images/people/cai.jpg"/>
+		<p>Walter Cai</p>
+	</div>
+
 	<div class="flex-item person" title="Magdalena Balazinska">
 		<a href="https://www.cs.washington.edu/people/faculty/magda">
 			<img src="{{ site.baseurl }}/images/people/magda.jpg"/>
