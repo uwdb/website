@@ -100,6 +100,7 @@ Contact [Dong He](mailto:donghe@cs.washington.edu).
 	</div>
 </div>
 
-<!-- ## Acknowledgments -->
+## Acknowledgments
+This work was supported in part by NSF grants [OAC-1739419](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1739419) and [OAC-1934292](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934292).
 
 &nbsp;
