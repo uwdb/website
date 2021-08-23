@@ -52,7 +52,7 @@ DNN interpretation is important for researchers and data scientists. While many 
 </p>
 
 <p>
-We design, implement, and evaluate DeepEverest, a system for the efficient execution of <i>interpretation by example</i> queries over the activation values of a deep neural network. DeepEverest consists of an efficient indexing technique and a query execution algorithm with various optimizations. Experiments with our prototype implementation show that DeepEverest, using less than 20% of the storage of full materialization, significantly accelerates individual queries by up to 62x and consistently outperforms other methods on multi-query workloads that simulate DNN interpretation processes.
+We design, implement, and evaluate DeepEverest, a system for the efficient execution of <i>interpretation by example</i> queries over the activation values of a deep neural network. DeepEverest consists of an efficient indexing technique and a query execution algorithm with various optimizations. Experiments with our prototype implementation show that DeepEverest, using less than 20% of the storage of full materialization, significantly accelerates individual queries by up to 63x and consistently outperforms other methods on multi-query workloads that simulate DNN interpretation processes.
 </p>
 
 <p>
@@ -61,7 +61,8 @@ The fundamental building blocks of DNN interpretation are neurons and groups of 
 
 ## Related Publications
 <p>
-	<strong>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation.</strong> Dong He, Maureen Daum, Magdalena Balazinska. <strong><i>CoRR</i></strong> abs/2104.02234 (2021) 
+	<strong>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation.</strong> Dong He, Maureen Daum, Walter Cai, Magdalena Balazinska. <strong><i>CoRR</i></strong> abs/2104.02234 (2021) 
+	<a class="btn btn-primary btn-xs" href="https://db.cs.washington.edu/projects/deepeverest/" role="button">VLDB 2022 Paper (coming soon)</a>
 	<a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2104.02234" role="button">Technical Report</a>
 	<a class="btn btn-success btn-xs" href="https://github.com/uwdb/deepeverest" role="button">Code</a>
 </p>
