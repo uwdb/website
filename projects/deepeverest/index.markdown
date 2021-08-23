@@ -67,10 +67,6 @@ The fundamental building blocks of DNN interpretation are neurons and groups of 
 	<a class="btn btn-success btn-xs" href="https://github.com/uwdb/deepeverest" role="button">Code</a>
 </p>
 
-## Questions?
-
-Contact [Dong He](mailto:donghe@cs.washington.edu).
-
 
 ## People
 
@@ -84,13 +80,17 @@ Contact [Dong He](mailto:donghe@cs.washington.edu).
 	</div>
 
     <div class="flex-item person" title="Maureen Daum">
-		<img src="{{ site.baseurl }}/images/people/maureen.jpg"/>
-		<p>Maureen Daum</p>
+		<a href="https://db.cs.washington.edu/people.html">
+			<img src="{{ site.baseurl }}/images/people/maureen.jpg"/>
+			<p>Maureen Daum</p>
+		</a>
 	</div>
 
 	<div class="flex-item person" title="Walter Cai">
-		<img src="{{ site.baseurl }}/images/people/cai.jpg"/>
-		<p>Walter Cai</p>
+		<a href="https://waltercai.github.io">
+			<img src="{{ site.baseurl }}/images/people/cai.jpg"/>
+			<p>Walter Cai</p>
+		</a>
 	</div>
 
 	<div class="flex-item person" title="Magdalena Balazinska">
@@ -100,6 +100,12 @@ Contact [Dong He](mailto:donghe@cs.washington.edu).
 		</a>
 	</div>
 </div>
+
+
+## Questions?
+
+Contact [Dong He](mailto:donghe@cs.washington.edu).
+
 
 ## Acknowledgments
 This work was supported in part by NSF grants [OAC-1739419](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1739419) and [OAC-1934292](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934292).
