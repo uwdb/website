@@ -104,7 +104,7 @@ The fundamental building blocks of DNN interpretation are neurons and groups of 
 
 ## Questions?
 
-Contact [Dong He](mailto:donghe@cs.washington.edu).
+Please contact Dong He.
 
 
 ## Acknowledgments
