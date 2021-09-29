@@ -17,14 +17,14 @@
 
 - name: Maureen Daum
   nickname: Maureen
-  website: http://db.cs.washington.edu/people.html
+  website: https://homes.cs.washington.edu/~mdaum/
   image: maureen.jpg
 
 - name: Dong He
   nickname: Dong
   website: https://dongheuw.github.io/
   image: dong.jpg
-  
+
 - name: Remy Wang
   nickname: Remy
   website: https://homes.cs.washington.edu/~remywang/
