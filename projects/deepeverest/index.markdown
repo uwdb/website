@@ -56,13 +56,15 @@ We design, implement, and evaluate DeepEverest, a system for the efficient execu
 </p>
 
 <p>
-The fundamental building blocks of DNN interpretation are neurons and groups of neurons. To understand what individual neurons and groups of neurons learn and detect, researchers often ask <i>interpretation by example</i> queries. These queries help with understanding the functionality of neurons and neuron groups by tying that functionality to the input examples in the dataset. DeepEverest focuses on accelerating two representative <i>interpretation by example</i> queries: "find the top-k inputs that produce the highest activation values for an individual neuron or a group of neurons", and "for any input, find the k-nearest neighbors in the dataset using the activation values of a group of neurons based on the proximity in the latent space defined by the group of neurons".
+DeepEverest focuses on accelerating two representative <i>interpretation by example</i> queries: "find the top-k inputs that produce the highest activation values for an individual neuron or a group of neurons", and "for any input, find the k-nearest neighbors in the dataset using the activation values of a group of neurons based on the proximity in the latent space defined by the group of neurons". These queries help with understanding the functionality of neurons and neuron groups by tying that functionality to the input examples in the dataset. 
 </p>
+
+<!-- The fundamental building blocks of DNN interpretation are neurons and groups of neurons. To understand what individual neurons and groups of neurons learn and detect, researchers often ask <i>interpretation by example</i> queries.  -->
 
 ## Related Publications
 <p>
-	<strong>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation.</strong> Dong He, Maureen Daum, Walter Cai, Magdalena Balazinska. <strong><i>CoRR</i></strong> abs/2104.02234 (2021) 
-	<a class="btn btn-primary btn-xs" href="https://db.cs.washington.edu/projects/deepeverest/" role="button">VLDB 2022 Paper (coming soon)</a>
+	<strong>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation.</strong> Dong He, Maureen Daum, Walter Cai, Magdalena Balazinska. <strong><i>PVLDB</i></strong>, 15(1): 98 - 111, 2022. doi:10.14778/3485450.3485460
+	<a class="btn btn-primary btn-xs" href="p322-he.pdf" role="button">Paper</a>
 	<a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2104.02234" role="button">Technical Report</a>
 	<a class="btn btn-success btn-xs" href="https://github.com/uwdb/deepeverest" role="button">Code</a>
 </p>
