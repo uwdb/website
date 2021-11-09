@@ -82,7 +82,7 @@ DeepEverest focuses on accelerating two representative <i>interpretation by exam
 	</div>
 
     <div class="flex-item person" title="Maureen Daum">
-		<a href="https://db.cs.washington.edu/people.html">
+		<a href="https://homes.cs.washington.edu/~mdaum/">
 			<img src="{{ site.baseurl }}/images/people/maureen.jpg"/>
 			<p>Maureen Daum</p>
 		</a>
