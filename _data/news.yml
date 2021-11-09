@@ -10,6 +10,10 @@
   description: >
     '[DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation](https://db.cs.washington.edu/projects/deepeverest/p322-he.pdf)' has been accepted at VLDB 2022. Congrats [Dong He](https://dongheuw.github.io/), [Maureen Daum](https://homes.cs.washington.edu/~mdaum/), [Walter Cai](https://waltercai.github.io/), Magdalena Balazinska!
 
+- date: 2021-02-04
+  description: >
+    [On the Tractability of SHAP explanations](https://arxiv.org/pdf/2009.08634.pdf) has been accepted to AAAI 2021, winning a Distinguished Paper award! Congrats to the authors: [Guy Van den Broeck](https://web.cs.ucla.edu/~guyvdb/) (UCLA), [Anton Lykov](https://antonlykov.com), [Maximilian Schleich](https://mjschleich.github.io/), and [Dan Suciu](https://homes.cs.washington.edu/~suciu/).
+
 - date: 2019-05-19
   description: >
     'Visual Road: A Video Data Management Benchmark' has been accepted at SIGMOD 2019. Congrats [Brandon Haynes](https://brandonhaynes.github.io/), [Amrita Mazumdar](https://homes.cs.washington.edu/~amrita), Magdalena Balazinska, Luis Ceze, Alvin Cheung!
