@@ -14,6 +14,10 @@
   description: >
     '[VSS: A Storage System for Video Analytics](https://db.cs.washington.edu/projects/visualworld/vss.pdf)' has been accepted to SIGMOD 2021. Congrats [Brandon Haynes](https://www.microsoft.com/en-us/research/people/brhaynes/), [Maureen Daum](https://homes.cs.washington.edu/~mdaum/), [Dong He](https://dongheuw.github.io/), [Amrita Mazumdar](https://homes.cs.washington.edu/~amrita), Magdalena Balazinska, Alvin Cheung, Luis Ceze!
 
+- date: 2021-03-15
+  description: >
+    '[GeCo: Quality Counterfactual Explanations in Real Time](https://arxiv.org/abs/2101.01292)' has been accepted at VLDB 2021. Congrats [Maximilian Schleich](https://mjschleich.github.io/), Zixuan Geng, [Yihong Zhang](https://effect.systems), and [Dan Suciu](https://homes.cs.washington.edu/~suciu/)!
+
 - date: 2021-02-12
   description: >
     '[TASM: A Tile-Based Storage Manager for Video Analytics](https://db.cs.washington.edu/projects/visualworld/tasm.pdf)' has been accepted to ICDE 2021. Congrats [Maureen Daum](https://homes.cs.washington.edu/~mdaum/), [Brandon Haynes](https://www.microsoft.com/en-us/research/people/brhaynes/), [Dong He](https://dongheuw.github.io/), [Amrita Mazumdar](https://homes.cs.washington.edu/~amrita), Magdalena Balazinska!
