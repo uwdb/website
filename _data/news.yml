@@ -4,11 +4,19 @@
 
 - date: 2021-10-10
   description: >
-    '[WRENCH: A Comprehensive Benchmark for Weak Supervision](https://openreview.net/forum?id=Q9SKS5k8io)' has been accepted at NeurIPS 2021 dataset & benchmark track. Congrats [Jieyu Zhang](https://jieyuz2.github.io/) and  Alex Ratner!
+    '[WRENCH: A Comprehensive Benchmark for Weak Supervision](https://openreview.net/forum?id=Q9SKS5k8io)' has been accepted at NeurIPS 2021 Dataset & Benchmark Track. Congrats [Jieyu Zhang](https://jieyuz2.github.io/) and Alex Ratner!
 
 - date: 2021-08-15
   description: >
     '[DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation](https://db.cs.washington.edu/projects/deepeverest/p322-he.pdf)' has been accepted at VLDB 2022. Congrats [Dong He](https://dongheuw.github.io/), [Maureen Daum](https://homes.cs.washington.edu/~mdaum/), [Walter Cai](https://waltercai.github.io/), Magdalena Balazinska!
+
+- date: 2021-03-24
+  description: >
+    '[VSS: A Storage System for Video Analytics](https://db.cs.washington.edu/projects/visualworld/vss.pdf)' has been accepted to SIGMOD 2021. Congrats [Brandon Haynes](https://www.microsoft.com/en-us/research/people/brhaynes/), [Maureen Daum](https://homes.cs.washington.edu/~mdaum/), [Dong He](https://dongheuw.github.io/), [Amrita Mazumdar](https://homes.cs.washington.edu/~amrita), Magdalena Balazinska, Alvin Cheung, Luis Ceze!
+
+- date: 2021-02-12
+  description: >
+    '[TASM: A Tile-Based Storage Manager for Video Analytics](https://db.cs.washington.edu/projects/visualworld/tasm.pdf)' has been accepted to ICDE 2021. Congrats [Maureen Daum](https://homes.cs.washington.edu/~mdaum/), [Brandon Haynes](https://www.microsoft.com/en-us/research/people/brhaynes/), [Dong He](https://dongheuw.github.io/), [Amrita Mazumdar](https://homes.cs.washington.edu/~amrita), Magdalena Balazinska!
 
 - date: 2021-02-04
   description: >
