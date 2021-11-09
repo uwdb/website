@@ -17,7 +17,7 @@ rank: 0
 <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
 
 <p class="lead">
-The University of Washington's database group aims at broadening the focus of database and data management techniques beyond their traditional scope.  We do both theoretical and systems work in areas such as probabilistic databases, stream processing, sensor-based monitoring, databases and the web, XML, data management for ubiquitous computing, data integration, and data mining.
+The University of Washington's database group aims at broadening the focus of database and data management techniques beyond their traditional scope.  We do both theoretical and systems work in areas such as probabilistic databases, stream processing, sensor-based monitoring, databases and the web, XML, image/video data management, data management for machine learning, ubiquitous computing, data integration, and data mining.
 </p>
 
 <p class="lead">
