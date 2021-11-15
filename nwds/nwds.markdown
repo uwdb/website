@@ -16,6 +16,36 @@ We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for 
 
 Our past talks can be found on the NWDS [youtube channel](https://www.youtube.com/channel/UCjTWKbxmf6uQ-l5Rp1g68BQ/videos).
 
+
+---
+
+#### Fall 2021
+
+---
+
+<p><a name="Anna_Fariha_2021_11_21"></a>
+<strong>Speaker</strong>: <a href="https://afariha.github.io/">Anna Fariha</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center</p>
+
+<p><strong>When</strong>: 
+Monday, November 11th, 2021, 2:30pm-3:30pm</p>
+
+<p><strong>Title</strong>:
+   Blame the data, not the system: how data constraints can help in trustworthy machine learning and explain causes of data-system malfunction.
+</p>
+
+<p><strong>Abstract</strong>
+The core of modern data-driven systems comprises models learned from large datasets, and they are usually optimized to target particular data and workloads. While these data-driven systems have seen wide adoption and success, their reliability and proper function hinge on the data's continued conformance to the systems initial settings and assumptions. My research focuses on designing mechanisms to assess the trustworthiness of a system's inferences and explain causes of system malfunction due to data nonconformance. The key idea here is that since data is central to data-driven systems, it can guide us to determine whether predictions made by an ML model can be trusted, and to expose the cause of a system's unexpected behavior. In this talk, I will talk about mechanisms and explanation frameworks to facilitate trusting and understanding outcomes involving data and data systems.
+</p>
+    
+<p><strong>Bio</strong>: 
+I am a Researcher at Microsoft. I obtained my Ph.D. from the University of Massachusetts, Amherst under the supervision of Alexandra Meliou. My primary area of research revolves around data management; but, the application areas of my research have been interdisciplinary, spanning from program synthesis and software engineering to machine learning, natural language processing, and human-computer interaction. I am interested in designing mechanisms for enhancing system usability, by developing intelligent tools towards boosting end-user productivity, and developing mechanisms for explaining system behavior ranging from traditional systems to opaque, data-driven systems.
+</p>
+
+
 ---
 
 #### Spring 2021
