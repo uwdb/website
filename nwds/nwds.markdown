@@ -23,7 +23,7 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 
 ---
 
-<p><a name="Anna_Fariha_2021_11_21"></a>
+<p><a name="Anna_Fariha_2021_22_21"></a>
 <strong>Speaker</strong>: <a href="https://afariha.github.io/">Anna Fariha</a> </p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
@@ -31,7 +31,7 @@ Allen School of Computer Science and Engineering.<br>
 Paul G. Allen Center</p>
 
 <p><strong>When</strong>: 
-Monday, November 11th, 2021, 2:30pm-3:30pm</p>
+Monday, November 22th, 2021, 2:30pm-3:30pm</p>
 
 <p><strong>Title</strong>:
    Blame the data, not the system: how data constraints can help in trustworthy machine learning and explain causes of data-system malfunction.
