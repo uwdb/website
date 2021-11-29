@@ -45,6 +45,7 @@ The core of modern data-driven systems comprises models learned from large datas
 I am a Researcher at Microsoft. I obtained my Ph.D. from the University of Massachusetts, Amherst under the supervision of Alexandra Meliou. My primary area of research revolves around data management; but, the application areas of my research have been interdisciplinary, spanning from program synthesis and software engineering to machine learning, natural language processing, and human-computer interaction. I am interested in designing mechanisms for enhancing system usability, by developing intelligent tools towards boosting end-user productivity, and developing mechanisms for explaining system behavior ranging from traditional systems to opaque, data-driven systems.
 </p>
 
+<a href="https://youtu.be/ksguJdInfRY">Recording</a>
 
 ---
 
