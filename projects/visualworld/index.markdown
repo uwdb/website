@@ -12,7 +12,7 @@ id: "projects"
 <blockquote>
 Our ability to collect and reason about video data at
 scale is revolutionizing how we interact with the world.
-To explore these ideas, we introduce 
+To explore these ideas, we introduce
 VisualWorld, a collection of video data management projects ongoing in the University of Washington database group.
 VisualWorld projects explore video data management from a number of perspectives, including new approaches to VR and AR (<a href="#lightdb">LightDB</a> and <a href="#visualcloud">Visual Cloud</a>), low-level video data storage especially in the context of machine learning (<a href="#tasm">TASM</a> and <a href="#vss">VSS</a>), and evaluation of the performance and scalability of video data management systems (<a href="#visualroad">Visual Road</a>).
 </blockquote>
@@ -46,6 +46,27 @@ VisualWorld projects explore video data management from a number of perspectives
 		line-height: 1.2;
 	}
 </style>
+
+<a id="vocal" />
+<div class="media">
+  <div class="media-left">
+    <a href="#">
+      <img src="../../images/projects/vocal.png" class="card-img" alt="VOCAL Logo" />
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">VOCAL</h4>
+	<p>
+		Current video database management systems (VDBMSs) fail to support the growing number of video datasets in diverse domains because these systems assume clean data and rely on pretrained models to detect known objects or actions. Existing systems also lack good support for compositional queries that seek events consisting of multiple objects with complex spatial and temporal relationships.  In this paper, we propose VOCAL, a vision of a VDBMS that supports efficient data cleaning, exploration and organization, and compositional queries, even when no pretrained model exists to extract semantic content.  These techniques utilize optimizations to minimize the manual effort required of users.
+	</p>
+	<p>
+		<strong>VOCAL: Video Organization and Interactive Compositional AnaLytics (Vision Paper).</strong> Maureen Daum<sup>*</sup>, Enhao Zhang<sup>*</sup>, Dong He, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing. <strong><i>CIDR</i></strong>, 2022. <a class="btn btn-primary btn-xs" href="vocal-crc.pdf" role="button">Paper</a>
+	</p>
+	<p>
+	<sup>*</sup>Both authors contributed equally to the paper
+	</p>
+  </div>
+</div>
 
 <a id="visualworlddb" />
 <div class="media">
@@ -88,7 +109,7 @@ VisualWorld projects explore video data management from a number of perspectives
   <div class="media-body">
     <h4 class="media-heading">LightDB</h4>
 		<p>
-			LightDB is a database management system (DBMS) designed to efficiently ingest, store, and deliver virtual reality (VR) content at scale. LightDB currently targets both live and prerecorded spherical panoramic (a.k.a. 360°) and light field VR videos. It persists content as a multidimensional field that includes both spatiotemporal and angular (i.e., orientation) dimensions. ontent delivered through LightDB offers improved throughput, less bandwidth, and scales to many concurrent connections.
+			LightDB is a database management system (DBMS) designed to efficiently ingest, store, and deliver virtual reality (VR) content at scale. LightDB currently targets both live and prerecorded spherical panoramic (a.k.a. 360°) and light field VR videos. It persists content as a multidimensional field that includes both spatiotemporal and angular (i.e., orientation) dimensions. Content delivered through LightDB offers improved throughput, less bandwidth, and scales to many concurrent connections.
 		</p>
 		<p>
 			<strong>LightDB: A DBMS for Virtual Reality Video.</strong> Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung. <strong><i>PVLDB</i></strong>, 11 (10): 1192-1205, 2018. <a class="btn btn-warning btn-xs" href="/projects/lightdb" role="button">Details</a>
@@ -243,6 +264,13 @@ VisualWorld projects explore video data management from a number of perspectives
 		</a>
 	</div>
 
+	<div class="flex-item person" title="Enhao Zhang">
+		<a href="https://zhang-eh.github.io">
+			<img src="{{ site.baseurl }}/images/people/enhao.jpeg"/>
+			<p>Enhao Zhang</p>
+		</a>
+	</div>
+
 	<div class="flex-item person" title="Amrita Mazumdar">
 		<a href="https://homes.cs.washington.edu/~amrita/">
 			<img src="images/amrita.jpg"/>
@@ -270,6 +298,13 @@ VisualWorld projects explore video data management from a number of perspectives
 			<p>Alvin Cheung</p>
 		</a>
 	</div>
+
+	<div class="flex-item person" title="Ranjay Krishna">
+		<a href="http://ranjaykrishna.com/index.html">
+			<img src="{{ site.baseurl }}/images/people/ranjay.jpg"/>
+			<p>Ranjay Krishna</p>
+		</a>
+	</div>
 </div>
 
 <!-- # Related Publications
@@ -282,22 +317,22 @@ VisualWorld projects explore video data management from a number of perspectives
 
 ## Acknowledgments
 
-This work is supported by the NSF through grants 
-[CCF-1703051](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1703051), 
-[IIS-1546083](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1546083), 
-[CCF-1518703](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1518703), and 
-[CNS-1563788](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1563788); 
-DARPA award [FA8750-16-2-0032](https://www.darpa.mil); 
-DOE award [DE-SC0016260](https://science.energy.gov/grants); 
-a [Google Faculty Research Award](https://docs.google.com/document/d/1IfCmWZ-ClmvmB4gzlApR4htAhYBjKliPGQxLpu6KmaU/edit); 
-an award from the [University of Washington Reality Lab](https://realitylab.uw.edu); 
-gifts from the [Intel Science and Technology Center for Big Data](http://istc-bigdata.org), 
-[Intel Corporation](https://www.intel.com), 
-[Adobe](http://www.adobe.com), 
+This work is supported by the NSF through grants
+[CCF-1703051](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1703051),
+[IIS-1546083](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1546083),
+[CCF-1518703](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1518703), and
+[CNS-1563788](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1563788);
+DARPA award [FA8750-16-2-0032](https://www.darpa.mil);
+DOE award [DE-SC0016260](https://science.energy.gov/grants);
+a [Google Faculty Research Award](https://docs.google.com/document/d/1IfCmWZ-ClmvmB4gzlApR4htAhYBjKliPGQxLpu6KmaU/edit);
+an award from the [University of Washington Reality Lab](https://realitylab.uw.edu);
+gifts from the [Intel Science and Technology Center for Big Data](http://istc-bigdata.org),
+[Intel Corporation](https://www.intel.com),
+[Adobe](http://www.adobe.com),
 [Amazon](https://www.amazon.com),
-[Facebook](https://facebook.com), 
-[Huawei](https://www.huawei.com), and 
-[Google](https://google.com); and by 
+[Facebook](https://facebook.com),
+[Huawei](https://www.huawei.com), and
+[Google](https://google.com); and by
 CRISP, one of six centers in JUMP, a Semiconductor Research Corporation (SRC) program sponsored by DARPA.
 
 &nbsp;

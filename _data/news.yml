@@ -1,6 +1,7 @@
 - date: 2021-10-22
   description: >
-    'Interactive Video Data Cleaning and Exploration (Vision Paper)' has been accepted at CIDR 2022. Congrats [Maureen Daum](https://homes.cs.washington.edu/~mdaum/), [Enhao Zhang](https://zhang-eh.github.io/), [Dong He](https://dongheuw.github.io/), Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing!
+    '[VOCAL: Video Organization and Interactive Compositional AnaLytics (Vision Paper)](https://db.cs.washington.edu/projects/visualworld/vocal-crc.pdf)' has been accepted at CIDR 2022. Congrats [Maureen Daum<sup>*</sup>](https://homes.cs.washington.edu/~mdaum/), [Enhao Zhang<sup>*</sup>](https://zhang-eh.github.io/), [Dong He](https://dongheuw.github.io/), Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing!
+    <sup>*</sup>Both authors contributed equally to the paper.
 
 - date: 2021-10-10
   description: >
@@ -37,7 +38,7 @@
 - date: 2018-04-12
   description: >
     [Laurel Orr](https://homes.cs.washington.edu/~ljorr1/) received a honorable mention for the [NCWIT Collegiate Award](https://www.aspirations.org/). Congrats Laurel!
-  
+
 - date: 2018-04-18
   description: |
     Two of [Jennifer Ortiz](https://homes.cs.washington.edu/~jortiz16/)'s papers got accepted!
@@ -46,10 +47,10 @@
 
 - date: 2018-03-05
   description: |
-    Four papers from UWDB got accepted into SIGMOD 2018!   
-    - 'HypDB: Detect, Explain And Resolve Bias in OLAP', [Babak Salimi](https://dblp.uni-trier.de/pers/hd/s/Salimi:Babak) and [Dan Suciu](https://homes.cs.washington.edu/~suciu/)  
-    - 'Automatically Leveraging MapReduce Frameworks for Data-Intensive Applications', [Maaz Ahmad](https://homes.cs.washington.edu/~maazsaf/) and [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/)  
-    - 'Synthesizing Type-Detection Logic for Rich Semantic Data Types Using Open-source Code', [Cong Yan](https://homes.cs.washington.edu/~congy/)  
+    Four papers from UWDB got accepted into SIGMOD 2018!
+    - 'HypDB: Detect, Explain And Resolve Bias in OLAP', [Babak Salimi](https://dblp.uni-trier.de/pers/hd/s/Salimi:Babak) and [Dan Suciu](https://homes.cs.washington.edu/~suciu/)
+    - 'Automatically Leveraging MapReduce Frameworks for Data-Intensive Applications', [Maaz Ahmad](https://homes.cs.washington.edu/~maazsaf/) and [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/)
+    - 'Synthesizing Type-Detection Logic for Rich Semantic Data Types Using Open-source Code', [Cong Yan](https://homes.cs.washington.edu/~congy/)
     - 'FASTER: A Concurrent Key-Value Store with In-Place Updates', [Guna Prasaad](http://gunaprsd.org)
 
 - date: 2017-07-19
@@ -66,9 +67,9 @@
 
 - date: 2017-05-18
   description: |
-    Several SIGMOD 2017 Demonstation Awards!  
-    [Shumo Chu](http://shumochu.com/), [Daniel Li](https://www.linkedin.com/in/daniel-li-49729a77/), and [Chenglong Wang](http://chenglongwang.org/) won the Best Demonstration Award for [Demonstration of the Cosette Automated SQL Prover](http://cosette.cs.washington.edu/);  
-    [Maaz Ahmad](https://homes.cs.washington.edu/~maazsaf/) earned a Demonstration Award Honorable Mention for [Optimizing Data-Intensive Applications Automatically By Leveraging Parallel Data Processing Frameworks](http://casper.uwplse.org/);  
+    Several SIGMOD 2017 Demonstation Awards!
+    [Shumo Chu](http://shumochu.com/), [Daniel Li](https://www.linkedin.com/in/daniel-li-49729a77/), and [Chenglong Wang](http://chenglongwang.org/) won the Best Demonstration Award for [Demonstration of the Cosette Automated SQL Prover](http://cosette.cs.washington.edu/);
+    [Maaz Ahmad](https://homes.cs.washington.edu/~maazsaf/) earned a Demonstration Award Honorable Mention for [Optimizing Data-Intensive Applications Automatically By Leveraging Parallel Data Processing Frameworks](http://casper.uwplse.org/);
     Brandon Haynes and [Artem Minyaylov](https://www.linkedin.com/in/artem-minyaylov-44536998/) earned a Demonstration Award Honorable Mention for [VisualCloud Demonstration: A DBMS for Virtual Reality](http://db.cs.washington.edu/projects/lightdb/).
 
 - date: 2017-05-17
@@ -77,7 +78,7 @@
 
 - date: 2017-05-16
   description: >
-    [Parmita Mehta](https://www.linkedin.com/in/parmita-mehta-30797a1/), [Tomer Kaftan](https://www.linkedin.com/in/tomerkaftan/), and many co-authors had their paper [Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads](https://arxiv.org/abs/1612.02485) accepted into VLDB. 
+    [Parmita Mehta](https://www.linkedin.com/in/parmita-mehta-30797a1/), [Tomer Kaftan](https://www.linkedin.com/in/tomerkaftan/), and many co-authors had their paper [Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads](https://arxiv.org/abs/1612.02485) accepted into VLDB.
 
 - date: 2017-04-21
   description: >
