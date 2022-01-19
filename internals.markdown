@@ -9,6 +9,9 @@ id: "internals"
 
 This page contains resources for current faculty and students.
 
+## Hyak resources
+[Cheatsheet](https://docs.google.com/document/d/1LbhW7NXhKNjr9ByOtkvMGrlZnPWevME4kGRgR7rxwC0/edit?usp=sharing) with useful hyak commands/scripts.
+
 ## Lab Days
 
 We're hosting lab days every two weeks.
