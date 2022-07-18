@@ -9,6 +9,9 @@ id: "internals"
 
 This page contains resources for current faculty and students.
 
+## Desk Assignments
+The following contains a list of desk assignments within the database lab. [Desk Assignments](https://docs.google.com/spreadsheets/d/1CY0Zm46Fe2ZRavzEh8q5_WCJ-KyD6iof5PaWs9uTBjQ/edit?usp=sharing)
+
 ## Hyak resources
 [Cheatsheet](https://docs.google.com/document/d/1LbhW7NXhKNjr9ByOtkvMGrlZnPWevME4kGRgR7rxwC0/edit?usp=sharing) with useful hyak commands/scripts.
 
