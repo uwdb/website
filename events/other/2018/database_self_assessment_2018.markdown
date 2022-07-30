@@ -9,6 +9,8 @@ id: "database_self_assessment_2018"
 
 [http://seattle-dbresearch-assessment.cs.washington.edu](http://seattle-dbresearch-assessment.cs.washington.edu)
 
+The peer reviewed version of the Seattle Report on Database Research appeared in the [August 2022 issue of the CACM](https://cacm.acm.org/magazines/2022/8/262905-the-seattle-report-on-database-research/fulltext).  Unfortunately, the pandemic delayed the publication of the final report. The feedback we received from anonymous reviewers & other database colleagues greatly helped us improve the article over the draft version in the December 2019 issue of SIGMOD Record.
+
 ### **[Full Report](Seattle_DBResearch_Report-Full.pdf)**
 
 ### [Supplemental Information](https://db.cs.washington.edu/events/other/2018/database_self_assessment_2018_supplemental.html)
