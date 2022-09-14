@@ -1,6 +1,10 @@
+- date: 2022-09-06
+  description: >
+    '[Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem](https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf)' received the VLDB 2022 Best Demo Award. Congrats to the authors: Yuki Asada<sup>*</sup>, Victor Fu<sup>*</sup>, Apurva Gandhi<sup>*</sup>, Advitya Gemawat<sup>*</sup>, Lihao Zhang<sup>*</sup>, [Dong He](https://dongheuw.github.io/), Vivek Gupta, Ehi Nosakhare, Dalitso Banda, Rathijit Sen, and Matteo Interlandi!
+
 - date: 2022-06-30
   description: >
-    '[Query Processing on Tensor Computation Runtimes](https://arxiv.org/abs/2203.01877)' has been accepted at VLDB 2022. Congrats to the authors: [Dong He](https://dongheuw.github.io/), Supun Nakandala, Dalitso Banda, Rathijit Sen, Karla Saur, Kwanghyun Park, Carlo Curino, Jesús Camacho-Rodríguez, Konstantinos Karanasos, and Matteo Interlandi!
+    '[Query Processing on Tensor Computation Runtimes](https://www.vldb.org/pvldb/vol15/p2811-he.pdf)' has been accepted at VLDB 2022. Congrats to the authors: [Dong He](https://dongheuw.github.io/), Supun Nakandala, Dalitso Banda, Rathijit Sen, Karla Saur, Kwanghyun Park, Carlo Curino, Jesús Camacho-Rodríguez, Konstantinos Karanasos, and Matteo Interlandi!
 
 - date: 2022-03-24
   description: >
