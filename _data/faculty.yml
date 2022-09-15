@@ -4,12 +4,6 @@
   image: magda.jpg
   dblp: ':author:Magdalena_Balazinska:'
   
-- name: Alex Ratner
-  nickname: Alex
-  website: https://ajratner.github.io/
-  image: alex.jpg
-  dblp: ':author:Alexander_Ratner:'
-
 - name: Dan Suciu
   nickname: Dan
   website: http://www.cs.washington.edu/homes/suciu/
