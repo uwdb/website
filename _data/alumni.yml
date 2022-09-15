@@ -1,3 +1,18 @@
+- name: Maaz Ahmad
+  nickname: Maaz
+  website: http://homes.cs.washington.edu/~maazsaf/
+  image: maaz.jpg
+
+- name: Shana Hutchison
+  nickname: Shana
+  website: http://homes.cs.washington.edu/~shutchis/
+  image: hutchison.jpg
+
+- name: Walter Cai
+  nickname: Walter
+  website: https://waltercai.github.io/
+  image: cai.jpg
+
 - name: Maximilian Schleich
   nickname: Max
   website: https://mjschleich.github.io/
