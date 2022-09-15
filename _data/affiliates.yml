@@ -15,3 +15,9 @@
   website: http://www.cs.washington.edu/homes/billhowe/
   image: bill.jpg
   dblp: ':author:Bill_Howe:'
+
+- name: Alex Ratner
+  nickname: Alex
+  website: https://ajratner.github.io/
+  image: alex.jpg
+  dblp: ':author:Alexander_Ratner:'
