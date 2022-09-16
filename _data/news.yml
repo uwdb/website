@@ -1,6 +1,14 @@
+- date: 2022-09-15
+  description: >
+    '[Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879)' has been accepted at NeurIPS 2022. Congrats [Jieyu Zhang](https://jieyuz2.github.io/), Cheng-Yu Hsieh, and Alex Ratner!
+
 - date: 2022-09-06
   description: >
     '[Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem](https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf)' received the VLDB 2022 Best Demo Award. Congrats to the authors: Yuki Asada<sup>*</sup>, Victor Fu<sup>*</sup>, Apurva Gandhi<sup>*</sup>, Advitya Gemawat<sup>*</sup>, Lihao Zhang<sup>*</sup>, [Dong He](https://dongheuw.github.io/), Vivek Gupta, Ehi Nosakhare, Dalitso Banda, Rathijit Sen, and Matteo Interlandi!
+
+- date: 2022-08-16
+  description: >
+    '[Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382)' has been accepted at VLDB 2023. Congrats Cheng-Yu Hsieh, [Jieyu Zhang](https://jieyuz2.github.io/), and Alex Ratner!
 
 - date: 2022-06-30
   description: >
@@ -9,6 +17,10 @@
 - date: 2022-03-24
   description: >
     '[Convergence of Datalog over (Pre-) Semirings](https://arxiv.org/abs/2105.14435)' received a PODS 2022 best paper award. Congrats to the authors: Mahmoud Abo Khamis, [Hung Q. Ngo](http://hung-q-ngo.github.io), [Reinhard Pichler](https://www.dbai.tuwien.ac.at/staff/pichler/), [Dan Suciu](https://homes.cs.washington.edu/~suciu/), and [Remy Wang](https://remy.wang)!
+
+- date: 2022-01-20
+  description: >
+    '[Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)' has been accepted at ICLR 2022. Congrats [Jieyu Zhang](https://jieyuz2.github.io/) and Alex Ratner!
 
 - date: 2021-10-22
   description: >

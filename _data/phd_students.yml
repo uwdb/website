@@ -1,20 +1,5 @@
 # use image: placeholder.jpg for those w/o pics
 
-- name: Maaz Ahmad
-  nickname: Maaz
-  website: http://homes.cs.washington.edu/~maazsaf/
-  image: maaz.jpg
-
-- name: Shana Hutchison
-  nickname: Shana
-  website: http://homes.cs.washington.edu/~shutchis/
-  image: hutchison.jpg
-
-- name: Walter Cai
-  nickname: Walter
-  website: https://waltercai.github.io/
-  image: cai.jpg
-
 - name: Maureen Daum
   nickname: Maureen
   website: https://homes.cs.washington.edu/~mdaum/
