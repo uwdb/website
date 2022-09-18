@@ -10,6 +10,14 @@
   description: >
     '[Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382)' has been accepted at VLDB 2023. Congrats Cheng-Yu Hsieh, [Jieyu Zhang](https://jieyuz2.github.io/), and Alex Ratner!
 
+- date: 2022-04-11
+  description: >
+    [Dan Suciu](https://homes.cs.washington.edu/~suciu/) receives the [2022 SIGMOD Edgar F. Codd Innovations Award](https://sigmod.org/dan-suciu-2022-sigmod-edgar-f-codd-innovations-award/) for lasting contributions to the foundations of novel data management trends.
+
+- date: 2022-04-8
+  description: >
+    [Leilani Battle](https://homes.cs.washington.edu/~leibatt/) is awarded the 2022 [IEEE TCDE Rising Star Award](http://tab.computer.org/tcde/tcdeawardsrecipients.html) for contributions to interactive data-intensive systems for exploratory data analysis.
+
 - date: 2022-06-30
   description: >
     '[Query Processing on Tensor Computation Runtimes](https://www.vldb.org/pvldb/vol15/p2811-he.pdf)' has been accepted at VLDB 2022. Congrats to the authors: [Dong He](https://dongheuw.github.io/), Supun Nakandala, Dalitso Banda, Rathijit Sen, Karla Saur, Kwanghyun Park, Carlo Curino, Jesús Camacho-Rodríguez, Konstantinos Karanasos, and Matteo Interlandi!
