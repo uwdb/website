@@ -62,13 +62,13 @@
 
 - name: Prasang Upadhyaya
   nickname: Prasang
-  website: http://homes.cs.washington.edu/~prasang/
+  website: https://scholar.google.com/citations?user=qk5zJ3MAAAAJ&
   image: prasang.jpg
   at: Twitter
 
 - name: Kristi Morton
   nickname: Kristi
-  website: https://homes.cs.washington.edu/~kmorton/
+  website: https://sites.google.com/a/cs.washington.edu/kmorton/
   image: kristi.png
 
 - name: Paris Koutris
@@ -110,7 +110,7 @@
 
 - name: Emad Soroush
   nickname: Emad
-  website: http://www.cs.washington.edu/homes/soroush/
+  website: https://scholar.google.com/citations?user=jWdEzfgAAAAJ
   image: emad.jpg
 
 - name: Andrew Whitaker
@@ -207,7 +207,7 @@
 
 - name: Jennifer Ortiz
   nickname: Jennifer
-  website: https://homes.cs.washington.edu/~jortiz16/
+  website: https://scholar.google.com/citations?user=rod6p_4AAAAJ
   image: jennifer.jpg
   at: Google
 
@@ -231,7 +231,7 @@
 
 - name: Cong Yan
   nickname: Cong
-  website: http://homes.cs.washington.edu/~congy/
+  website: https://congyan.org/
   image: cong.jpg
   at: Microsoft Research
 
