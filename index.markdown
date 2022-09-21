@@ -90,7 +90,7 @@ The University of Washington's database group aims at broadening the focus of da
     </a>
 
     <a href="https://www.google.com/">
-    <img src="{{ site.baseurl }}/images/google_logo.png" class="img-thumbnail">
+    <img src="{{ site.baseurl }}/images/google_logo.png" class="img-thumbnail" style="min-height:75px; height:75px;">
     </a>
 
     <a href="https://www.meta.com/">
