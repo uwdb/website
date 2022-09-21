@@ -90,11 +90,11 @@ The University of Washington's database group aims at broadening the focus of da
     </a>
 
     <a href="https://www.google.com/">
-    <img src="{{ site.baseurl }}/images/google_logo.png" class="img-thumbnail" style="min-height:75px; height:75px;">
+    <img src="{{ site.baseurl }}/images/google_logo.png" class="img-thumbnail">
     </a>
 
     <a href="https://www.meta.com/">
-    <img src="{{ site.baseurl }}/images/meta.png" class="img-thumbnail" style="min-height:70px; height:70px;">
+    <img src="{{ site.baseurl }}/images/meta.png" class="img-thumbnail">
     </a>
 
     <a href="https://www.yahoo.com/">
