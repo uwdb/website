@@ -94,10 +94,10 @@ The University of Washington's database group aims at broadening the focus of da
     </a>
 
     <a href="https://www.meta.com/">
-    <img src="{{ site.baseurl }}/images/meta.png" class="img-thumbnail" style="min-height:53px; height:53px;">
+    <img src="{{ site.baseurl }}/images/meta.png" class="img-thumbnail" style="min-height:51px; height:51px;">
     </a>
 
     <a href="https://www.yahoo.com/">
-    <img src="{{ site.baseurl }}/images/yahoo_logo.png" class="img-thumbnail" style="min-height:53px; height:53px;">
+    <img src="{{ site.baseurl }}/images/yahoo_logo.png" class="img-thumbnail" style="min-height:51px; height:51px;">
     </a>
 </div>
