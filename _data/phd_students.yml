@@ -1,5 +1,10 @@
 # use image: placeholder.jpg for those w/o pics
 
+- name: Remy Wang
+  nickname: Remy
+  website: https://homes.cs.washington.edu/~remywang/
+  image: remy.jpg
+
 - name: Maureen Daum
   nickname: Maureen
   website: https://homes.cs.washington.edu/~mdaum/
@@ -9,11 +14,6 @@
   nickname: Dong
   website: https://dongheuw.github.io/
   image: dong.jpg
-
-- name: Remy Wang
-  nickname: Remy
-  website: https://homes.cs.washington.edu/~remywang/
-  image: remy.jpg
 
 - name: Moe Kayali
   nickname: Moe
@@ -39,3 +39,7 @@
   nickname: Kyle
   website: https://scholar.google.com/citations?user=fivkRRgAAAAJ&hl=en
   image: kyle.jpg
+
+- name: Yihong Zhang
+  website: https://yihongz.me
+  image: yihong.jpg

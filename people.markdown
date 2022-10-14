@@ -32,12 +32,12 @@ Group photos from different years are on the [group page]({{ site.baseurl }}/gro
 {% endfor %}
 </div>
 
-## Postdocs
+<!-- ## Postdocs
 <div class="flex-container people image-container">
 {% for person in site.data.postdocs %}
   {% include person_image image=person.image caption=person.name link=person.website title=person.name %}
 {% endfor %}
-</div>
+</div> -->
 
 ## PhD Students
 <div class="flex-container people image-container">
@@ -46,19 +46,19 @@ Group photos from different years are on the [group page]({{ site.baseurl }}/gro
 {% endfor %}
 </div>
 
-## Master Students
+<!-- ## Master Students
 <div class="flex-container people image-container">
 {% for person in site.data.master_students %}
   {% include person_image image=person.image caption=person.name link=person.website title=person.name %}
 {% endfor %}
-</div>
+</div> -->
 
-## Undergraduate Students
+<!-- ## Undergraduate Students
 <div class="flex-container people image-container">
 {% for person in site.data.undergraduates %}
   {% include person_image image=person.image caption=person.name link=person.website title=person.name %}
 {% endfor %}
-</div>
+</div> -->
 
 ## Alumni
 
