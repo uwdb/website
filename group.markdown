@@ -9,6 +9,10 @@ id: "people"
 
 To see the current members of the group, go to the [people page]({{ site.baseurl }}/people.html).
 
+## 2022
+
+<img src="{{ site.baseurl }}/images/group/2022.jpg" class="grouppic">
+
 ## 2018
 
 At the 4th of July party.
