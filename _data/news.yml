@@ -1,3 +1,11 @@
+- date: 2022-11-15
+  description: >
+    'Optimizing Tensor Programs on Flexible Storage' by Maximilian Schleich, Amir Shaikhha, and Dan Suciu to appear at SIGMOD 2023.
+
+- date: 2022-11-15
+  description: >
+    **Two** additional papers by the group to appear at VLDB 2023: 'Quasi-stable Coloring for Graph Compression' by Moe Kayali and Dan Suciu; 'Computing Rule-Based Explanations by Leveraging Counterfactuals' by Zixuan Geng, Maximilian Schleich, Dan Suciu.
+
 - date: 2022-09-15
   description: >
     '[Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879)' has been accepted at NeurIPS 2022. Congrats [Jieyu Zhang](https://jieyuz2.github.io/), Cheng-Yu Hsieh, and Alex Ratner!
