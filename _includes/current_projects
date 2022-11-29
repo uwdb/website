@@ -1,6 +1,6 @@
 <div class="current-projects flex-container image-container">
 
-{% include project name="QuasiStableColors.jl" caption="Graph compression for performant approximations" image="q-stable-logo.png" link="https://mkyl.github.io/QuasiStableColors.jl/stable/" %}
+{% include project name="Quasi-stable Coloring" caption="Graph compression for performant approximations" image="q-stable-logo.png" link="https://mkyl.github.io/QuasiStableColors.jl/stable/" %}
 
 {% include project name="VisualWorld" caption="A video data management project" image="visualworlddb.png" link="https://db.cs.washington.edu/projects/visualworld" %}
 
