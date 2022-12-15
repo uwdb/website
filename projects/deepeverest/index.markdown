@@ -52,7 +52,7 @@ DNN interpretation is important for researchers and data scientists. While many 
 </p>
 
 <p>
-DeepEverest focuses on accelerating two representative <i>interpretation by example</i> queries: "find the top-k inputs that produce the highest activation values for an individual neuron or a group of neurons", and "for any input, find the k-nearest neighbors in the dataset using the activation values of a group of neurons based on the proximity in the latent space defined by the group of neurons". These queries help with understanding the functionality of neurons and neuron groups by tying that functionality to the input examples in the dataset. 
+DeepEverest focuses on accelerating <i>interpretation by example</i> queries that return inputs (e.g., images) in the dataset that have certain neuron activation patterns, e.g., "given a group of neurons, find the top-k inputs that produce the highest activation values for this group of neurons", and "for any input and any group of neurons, use the activations of the neurons to identify the nearest neighbors based on the proximity in the space learned by the neurons". These queries help with understanding the functionality of neurons and neuron groups by tying that functionality to the input examples in the dataset. 
 </p>
 
 <p>
