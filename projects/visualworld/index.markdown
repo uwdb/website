@@ -318,10 +318,12 @@ VisualWorld projects explore video data management from a number of perspectives
 ## Acknowledgments
 
 This work is supported by the NSF through grants
+[IIS-2211133](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211133),
 [CCF-1703051](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1703051),
 [IIS-1546083](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1546083),
 [CCF-1518703](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1518703), and
 [CNS-1563788](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1563788);
+a grant from CISCO;
 DARPA award [FA8750-16-2-0032](https://www.darpa.mil);
 DOE award [DE-SC0016260](https://science.energy.gov/grants);
 a [Google Faculty Research Award](https://docs.google.com/document/d/1IfCmWZ-ClmvmB4gzlApR4htAhYBjKliPGQxLpu6KmaU/edit);
