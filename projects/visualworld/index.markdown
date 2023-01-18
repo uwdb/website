@@ -63,6 +63,9 @@ VisualWorld projects explore video data management from a number of perspectives
 		<strong>VOCAL: Video Organization and Interactive Compositional AnaLytics (Vision Paper).</strong> Maureen Daum<sup>*</sup>, Enhao Zhang<sup>*</sup>, Dong He, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing. <strong><i>CIDR</i></strong>, 2022. <a class="btn btn-primary btn-xs" href="vocal-crc.pdf" role="button">Paper</a>
 	</p>
 	<p>
+		<strong>EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions.</strong> Enhao Zhang, Maureen Daum, Dong He, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna. <a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2301.00929" role="button">Tech Report</a>
+	</p>
+	<p>
 	<sup>*</sup>Both authors contributed equally to the paper
 	</p>
   </div>
