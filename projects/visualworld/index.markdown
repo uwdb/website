@@ -64,6 +64,7 @@ VisualWorld projects explore video data management from a number of perspectives
 	</p>
 	<p>
 		<strong>EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions.</strong> Enhao Zhang, Maureen Daum, Dong He, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna. <a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2301.00929" role="button">Tech Report</a>
+		<a class="btn btn-success btn-xs" href="https://github.com/uwdb/EQUI-VOCAL" role="button">Code</a>
 	</p>
 	<p>
 	<sup>*</sup>Both authors contributed equally to the paper
