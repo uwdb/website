@@ -10,12 +10,39 @@ id: "nwds"
 ## Mission Statement
 The goal of NWDS is to bring together researchers and practitioners in the field of databases and data management systems working in the Pacific North-West.
 
-One of our main activities is a talk series with a variety of distinguished speakers from academia and industry. These talks are also part of the **Microsoft Database Lecture Series** (sponsored by Microsoft).
+One of our main activities is a talk series with a variety of distinguished speakers from academia and industry.
 
 We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for supporting NWDS.
 
 Our past talks can be found on the NWDS [youtube channel](https://www.youtube.com/channel/UCjTWKbxmf6uQ-l5Rp1g68BQ/videos).
 
+---
+
+#### Winter 2023
+
+---
+
+<p><a name="Sudeepa_Roy_2023_01_30"></a>
+<strong>Speaker</strong>: <a href="https://users.cs.duke.edu/~sudeepa/">Sudeepa Roy</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center</p>
+
+<p><strong>When</strong>:
+Monday, January 30th, 2023, 1:30pm-2:30pm</p>
+
+<p><strong>Title</strong>:
+   Toward Interpretable and Actionable Data Analysis with Query Debugging and Causal Inference
+</p>
+
+<p><strong>Abstract</strong>
+In today’s data-driven world, users in different fields routinely collect, study, and make decisions supported by data. This motivates development of new techniques to help users from various backgrounds and levels of expertise process data, extract useful information and insights from data, and subsequently make sound decisions. In this talk, I will describe some of our work toward interpretable and actionable data analysis focusing on two steps of the data analysis pipeline. First, I will discuss generating explanations to help new programmers and students debug wrong queries and write correct relational queries. Then, I will talk about our research on connecting data management research with causal inference research to enable causal analysis and hypothetical reasoning for large complex data, and conclude with future research directions.
+</p>
+
+<p><strong>Bio</strong>:
+Sudeepa Roy is an Associate Professor in Computer Science at Duke University. She works broadly in data management, with a focus on the foundational aspects of big data analysis, which includes causality and explanations for big data, data repair, query optimization, probabilistic databases, and database theory. Before joining Duke in 2015,  she did a postdoc at the University of Washington, and obtained her Ph.D. from the University of Pennsylvania. She is a recipient of the VLDB Early Career Research Contributions Award, an NSF CAREER Award, and a Google Ph.D. fellowship in structured data. She is a co-director of the <a href="https://almost-matching-exactly.github.io/">Almost Matching Exactly (AME) lab for interpretable causal inference</a> at Duke.
+</p>
 
 ---
 
@@ -30,7 +57,7 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 Allen School of Computer Science and Engineering.<br>
 Paul G. Allen Center</p>
 
-<p><strong>When</strong>: 
+<p><strong>When</strong>:
 Monday, November 22th, 2021, 2:30pm-3:30pm</p>
 
 <p><strong>Title</strong>:
@@ -40,8 +67,8 @@ Monday, November 22th, 2021, 2:30pm-3:30pm</p>
 <p><strong>Abstract</strong>
 The core of modern data-driven systems comprises models learned from large datasets, and they are usually optimized to target particular data and workloads. While these data-driven systems have seen wide adoption and success, their reliability and proper function hinge on the data's continued conformance to the systems initial settings and assumptions. My research focuses on designing mechanisms to assess the trustworthiness of a system's inferences and explain causes of system malfunction due to data nonconformance. The key idea here is that since data is central to data-driven systems, it can guide us to determine whether predictions made by an ML model can be trusted, and to expose the cause of a system's unexpected behavior. In this talk, I will talk about mechanisms and explanation frameworks to facilitate trusting and understanding outcomes involving data and data systems.
 </p>
-    
-<p><strong>Bio</strong>: 
+
+<p><strong>Bio</strong>:
 I am a Researcher at Microsoft. I obtained my Ph.D. from the University of Massachusetts, Amherst under the supervision of Alexandra Meliou. My primary area of research revolves around data management; but, the application areas of my research have been interdisciplinary, spanning from program synthesis and software engineering to machine learning, natural language processing, and human-computer interaction. I am interested in designing mechanisms for enhancing system usability, by developing intelligent tools towards boosting end-user productivity, and developing mechanisms for explaining system behavior ranging from traditional systems to opaque, data-driven systems.
 </p>
 
@@ -60,7 +87,7 @@ I am a Researcher at Microsoft. I obtained my Ph.D. from the University of Massa
 Allen School of Computer Science and Engineering.<br>
 Paul G. Allen Center</p>
 
-<p><strong>When</strong>: 
+<p><strong>When</strong>:
 Monday, May 24th, 2021, 9am - 10am</p>
 
 <p><strong>Title</strong>:
@@ -69,10 +96,10 @@ Monday, May 24th, 2021, 9am - 10am</p>
 
 <p><strong>Abstract</strong>
 Recently, there has been a lot of excitement around ML-enhanced (or learned) algorithm and data structures. For example, there has been work on applying machine learning to improve query optimization, indexing, storage layouts, scheduling, log-structured merge trees, sorting, compression, sketches, among many other things. Arguably, the motivation behind these techniques are similar: machine learning is used to model the data and/or workload in order to derive a more efficient algorithm or data structure. Ultimately, what these techniques will allow us to build are “instance-optimized” systems; systems that self-adjust to a given workload and data distribution to provide unprecedented performance and avoid the need for tuning by an administrator.
-In this talk, I will provide an overview of the opportunities and limitations of learned index structures, storage layouts, and query optimization techniques we have been developing in my group, and how we are integrating these techniques to build a first instance-optimized database system. 
+In this talk, I will provide an overview of the opportunities and limitations of learned index structures, storage layouts, and query optimization techniques we have been developing in my group, and how we are integrating these techniques to build a first instance-optimized database system.
 </p>
-    
-<p><strong>Bio</strong>: 
+
+<p><strong>Bio</strong>:
 Tim Kraska is an Associate Professor of Electrical Engineering and Computer Science in MIT's Computer Science and Artificial Intelligence Laboratory, co-director of the Data System and AI Lab at MIT (DSAIL@CSAIL), and co-founder of Einblick Analytics. Currently, his research focuses on building systems for machine learning, and using machine learning for systems. Before joining MIT, Tim was an Assistant Professor at Brown, spent time at Google Brain, and was a PostDoc in the AMPLab at UC Berkeley after he got his PhD from ETH Zurich. Tim is a 2017 Alfred P. Sloan Research Fellow in computer science and received several awards including the VLDB Early Career Research Contribution Award,  the VMware Systems Research Award, the university-wide Early Career Research Achievement Award at Brown University, an NSF CAREER Award, as well as several best paper and demo awards at VLDB and ICDE.
 </p>
 
@@ -87,7 +114,7 @@ Tim Kraska is an Associate Professor of Electrical Engineering and Computer Scie
 Allen School of Computer Science and Engineering.<br>
 Paul G. Allen Center</p>
 
-<p><strong>When</strong>: 
+<p><strong>When</strong>:
 Monday, April 12th, 2021, 11am-12:15pm</p>
 
 <p><strong>Title</strong>:
@@ -97,8 +124,8 @@ Monday, April 12th, 2021, 11am-12:15pm</p>
 <p><strong>Abstract</strong>
 The coming end of Moore’s law requires that data systems be more judicious with computation and resources as the growth in data outpaces the availability of computational resources. Current database systems are eager and aggressively consume resources to immediately and quickly complete the task at hand. Intelligently deferring a task to a later point in time can increase result reuse, reduce work that might later be invalidated, or avoid unnecessary work altogether. In this talk I will introduce CrocodileDB, a resource-efficient database system that automatically optimizes deferment based on user-specification and workload prediction. CrocodileDB integrates new ways of specifying timing information, new query execution policies, new task schedulers, and new data loading schemes. In particular, this talk will highlight two new query execution paradigms, Intermittent Query Processing and Incremental-Aware Query Execution.
 </p>
-    
-<p><strong>Bio</strong>: 
+
+<p><strong>Bio</strong>:
 Aaron J. Elmore is an Assistant Professor in the Department of Computer Science, and the College of the University of Chicago. Aaron was previously a Postdoctoral Associate at MIT. Aaron's thesis on Elasticity Primitives for Database-as-a-Service was completed at the University of California, Santa Barbara. His recent research interests focus on building data systems that address the growing data deluge. He is currently an associate editor for SIGMOD record, and has served as co-chair for SIGMOD demonstration track, the inaugural SIGMOD student research competition, and VLDB proceeding editor.
 </p>
 
@@ -136,7 +163,7 @@ Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_t
 #### Fall 2018
 * Daniel Harrison, Cockroach Labs [[abstract](past_talks.html#Daniel_Harrison_10_12_18)] [[video](https://youtu.be/H6w_Ihth-m4)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Daniel_Harrison_10_12_18.pdf)]
 * [Spyros Blanas](https://web.cse.ohio-state.edu/~blanas.2/), Ohio State University [[abstract](past_talks.html#Spyros_Blanas_10_19_18)]
-* [Arun Kumar](http://cseweb.ucsd.edu/~arunkk/), University of California, San Diego [[abstract](past_talks.html#Arun_Kumar_11_2_18)] [[video](https://www.youtube.com/watch?v=VChn-bNAOi0)] 
+* [Arun Kumar](http://cseweb.ucsd.edu/~arunkk/), University of California, San Diego [[abstract](past_talks.html#Arun_Kumar_11_2_18)] [[video](https://www.youtube.com/watch?v=VChn-bNAOi0)]
 
 
 #### Summer 2018
@@ -152,7 +179,7 @@ Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_t
 
 * [Oliver Kennedy](https://odin.cse.buffalo.edu/people/oliver_kennedy.html), University at Buffalo [[abstract](past_talks.html#Oliver_Kennedy_12_11_17)] [[video](https://youtu.be/QuBt1Kc9F0k)]]
 * Neal Fachan [[abstract](past_talks.html#Neal_Fachan_12_08_17)], Qumulo
-* [Gerome Miklau](http://people.cs.umass.edu/~miklau/), University of Massachusetts Amherst [[abstract](past_talks.html#Gerome_Miklau_11_17_17)] [[video](https://youtu.be/vfN3M1qRk1g)] 
+* [Gerome Miklau](http://people.cs.umass.edu/~miklau/), University of Massachusetts Amherst [[abstract](past_talks.html#Gerome_Miklau_11_17_17)] [[video](https://youtu.be/vfN3M1qRk1g)]
 
 #### Spring 2017
 
@@ -175,8 +202,8 @@ Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_t
 *   [David Chu](http://www.bawakayi.com/davidchu), Microsoft Research [[abstract](past_talks.html#david_chu_05_27_16)]
 *   [Craig Chambers](http://research.google.com/pubs/author4707.html), Google [[abstract](past_talks.html#craig_chambers_05_18_16)]
 *   [Daisy Zhe Wang](http://dsr.cise.ufl.edu/daisyw/), UFL [[abstract](past_talks.html#daisy_wang_05_16_16)]
-*   Angel Viña, CEO, Denodo Technologies [[abstract](past_talks.html#angel_vina_05_06_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJSm02YUdMeGZYODg/view?usp=sharing_eid&ts=573a2953)]    
-*   [Xin Luna Dong](http://lunadong.com/), Google 
+*   Angel Viña, CEO, Denodo Technologies [[abstract](past_talks.html#angel_vina_05_06_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJSm02YUdMeGZYODg/view?usp=sharing_eid&ts=573a2953)]
+*   [Xin Luna Dong](http://lunadong.com/), Google
     [[abstract](past_talks.html#xin_dong_03_31_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0B801X-XPoh5IXzdmUk1BVUlFTlE/view?usp=sharing)]
 
 #### Winter 2016
