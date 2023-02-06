@@ -1,3 +1,7 @@
+- date: 2023-01-27
+  description: >
+    '[Free Join: Unifying Worst-Case Optimal and Traditional Joins](https://arxiv.org/abs/2301.10841)' by Remy Wang, Max Willsey, and Dan Suciu to appear at SIGMOD 2023.
+
 - date: 2022-11-25
   description: >
     '[Degree Sequence Bounds for Cardinality Estimation](https://arxiv.org/abs/2201.04166)' by Kyle Deeds, Dan Suciu, Magda Balazinska, and Walter Cai to appear at ICDT 2023; '[SafeBound: A Practical System for Generating Cardinality Bounds](https://arxiv.org/abs/2211.09864)' by Kyle Deeds, Dan Suciu, and Magda Balazinska to appear at SIGMOD 2023.
