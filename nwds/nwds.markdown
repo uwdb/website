@@ -22,6 +22,32 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 
 ---
 
+<p><a name="Emre_Kiciman_2023_02_06"></a>
+<strong>Speaker</strong>: <a href="https://kiciman.org/">Emre Kiciman</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Monday, February 6th, 2023, 1:30pm-2:30pm</p>
+
+<p><strong>Title</strong>:
+   Modeling the Data-Generating Process is Necessary for Out-of-Distribution Generalization
+</p>
+
+<p><strong>Abstract</strong>
+At Microsoft Research, we are working to broaden the usage of causal AI, especially for decision-making applications, through both fundamental research and practical tooling.  In this talk, I'll briefly introduce the PyWhy open-source tools and ecosystem and the fundamental research challenges we are prioritizing based on our experiences with causal AI: better elicitation of the domain knowledge and causal assumptions necessary for a valid causal analysis; the need for better validation and trustworthiness of causal analyses; and the extension of causal analysis methods to support analysis over high-dimensional, unstructured data, such as images and text.
+
+I'll spend the bulk of the talk deep-diving into our recent research towards the latter <a href="https://arxiv.org/abs/2206.07837">topic</a>, connecting causal graphs and the statistical independences they encode with the loss functions and constraints imposed by invariant representation learning approaches for domain generalization. Based on the causal relationships between spurious attributes and the classification label, we obtain realizations of the canonical causal graph that characterize common distribution shifts and show that each shift entails different independence constraints over observed variables. This work explains why no single current method performs consistently across all kinds of distribution shifts, and leads to a new algorithm, Causally Adaptive Constraint Minimization (CACM), that adaptively identifies and applies the correct independence constraint for regularization.  Extensive experiments show that adaptive dataset-dependent constraints lead to the highest accuracy on unseen domains, demonstrating the criticality of modeling the causal relationships inherent in the data-generating process.
+</p>
+
+<p><strong>Bio</strong>:
+See <a href="https://kiciman.org/about/">here</a>.
+</p>
+
+---
+
 <p><a name="Sudeepa_Roy_2023_01_30"></a>
 <strong>Speaker</strong>: <a href="https://users.cs.duke.edu/~sudeepa/">Sudeepa Roy</a> </p>
 
