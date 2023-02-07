@@ -36,7 +36,7 @@ Monday, February 6th, 2023, 1:30pm-2:30pm</p>
    Modeling the Data-Generating Process is Necessary for Out-of-Distribution Generalization
 </p>
 
-<p><strong>Abstract</strong>
+<p><strong>Abstract</strong>:
 At Microsoft Research, we are working to broaden the usage of causal AI, especially for decision-making applications, through both fundamental research and practical tooling.  In this talk, I'll briefly introduce the PyWhy open-source tools and ecosystem and the fundamental research challenges we are prioritizing based on our experiences with causal AI: better elicitation of the domain knowledge and causal assumptions necessary for a valid causal analysis; the need for better validation and trustworthiness of causal analyses; and the extension of causal analysis methods to support analysis over high-dimensional, unstructured data, such as images and text.
 
 I'll spend the bulk of the talk deep-diving into our recent research towards the latter <a href="https://arxiv.org/abs/2206.07837">topic</a>, connecting causal graphs and the statistical independences they encode with the loss functions and constraints imposed by invariant representation learning approaches for domain generalization. Based on the causal relationships between spurious attributes and the classification label, we obtain realizations of the canonical causal graph that characterize common distribution shifts and show that each shift entails different independence constraints over observed variables. This work explains why no single current method performs consistently across all kinds of distribution shifts, and leads to a new algorithm, Causally Adaptive Constraint Minimization (CACM), that adaptively identifies and applies the correct independence constraint for regularization.  Extensive experiments show that adaptive dataset-dependent constraints lead to the highest accuracy on unseen domains, demonstrating the criticality of modeling the causal relationships inherent in the data-generating process.
@@ -45,6 +45,8 @@ I'll spend the bulk of the talk deep-diving into our recent research towards the
 <p><strong>Bio</strong>:
 See <a href="https://kiciman.org/about/">here</a>.
 </p>
+
+<a href="https://youtu.be/v27iTSkYugU">Recording</a>
 
 ---
 
@@ -62,7 +64,7 @@ Monday, January 30th, 2023, 1:30pm-2:30pm</p>
    Toward Interpretable and Actionable Data Analysis with Query Debugging and Causal Inference
 </p>
 
-<p><strong>Abstract</strong>
+<p><strong>Abstract</strong>:
 In today’s data-driven world, users in different fields routinely collect, study, and make decisions supported by data. This motivates development of new techniques to help users from various backgrounds and levels of expertise process data, extract useful information and insights from data, and subsequently make sound decisions. In this talk, I will describe some of our work toward interpretable and actionable data analysis focusing on two steps of the data analysis pipeline. First, I will discuss generating explanations to help new programmers and students debug wrong queries and write correct relational queries. Then, I will talk about our research on connecting data management research with causal inference research to enable causal analysis and hypothetical reasoning for large complex data, and conclude with future research directions.
 </p>
 
@@ -90,7 +92,7 @@ Monday, November 22th, 2021, 2:30pm-3:30pm</p>
    Blame the data, not the system: how data constraints can help in trustworthy machine learning and explain causes of data-system malfunction.
 </p>
 
-<p><strong>Abstract</strong>
+<p><strong>Abstract</strong>:
 The core of modern data-driven systems comprises models learned from large datasets, and they are usually optimized to target particular data and workloads. While these data-driven systems have seen wide adoption and success, their reliability and proper function hinge on the data's continued conformance to the systems initial settings and assumptions. My research focuses on designing mechanisms to assess the trustworthiness of a system's inferences and explain causes of system malfunction due to data nonconformance. The key idea here is that since data is central to data-driven systems, it can guide us to determine whether predictions made by an ML model can be trusted, and to expose the cause of a system's unexpected behavior. In this talk, I will talk about mechanisms and explanation frameworks to facilitate trusting and understanding outcomes involving data and data systems.
 </p>
 
@@ -120,7 +122,7 @@ Monday, May 24th, 2021, 9am - 10am</p>
    Towards Instance-Optimized Data Systems
 </p>
 
-<p><strong>Abstract</strong>
+<p><strong>Abstract</strong>:
 Recently, there has been a lot of excitement around ML-enhanced (or learned) algorithm and data structures. For example, there has been work on applying machine learning to improve query optimization, indexing, storage layouts, scheduling, log-structured merge trees, sorting, compression, sketches, among many other things. Arguably, the motivation behind these techniques are similar: machine learning is used to model the data and/or workload in order to derive a more efficient algorithm or data structure. Ultimately, what these techniques will allow us to build are “instance-optimized” systems; systems that self-adjust to a given workload and data distribution to provide unprecedented performance and avoid the need for tuning by an administrator.
 In this talk, I will provide an overview of the opportunities and limitations of learned index structures, storage layouts, and query optimization techniques we have been developing in my group, and how we are integrating these techniques to build a first instance-optimized database system.
 </p>
@@ -147,7 +149,7 @@ Monday, April 12th, 2021, 11am-12:15pm</p>
     CrocodileDB: Resource Efficient Database Execution
 </p>
 
-<p><strong>Abstract</strong>
+<p><strong>Abstract</strong>:
 The coming end of Moore’s law requires that data systems be more judicious with computation and resources as the growth in data outpaces the availability of computational resources. Current database systems are eager and aggressively consume resources to immediately and quickly complete the task at hand. Intelligently deferring a task to a later point in time can increase result reuse, reduce work that might later be invalidated, or avoid unnecessary work altogether. In this talk I will introduce CrocodileDB, a resource-efficient database system that automatically optimizes deferment based on user-specification and workload prediction. CrocodileDB integrates new ways of specifying timing information, new query execution policies, new task schedulers, and new data loading schemes. In particular, this talk will highlight two new query execution paradigms, Intermittent Query Processing and Incremental-Aware Query Execution.
 </p>
 
