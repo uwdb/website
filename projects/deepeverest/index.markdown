@@ -65,11 +65,11 @@ We design, implement, and evaluate DeepEverest, a system for the efficient execu
 <p>
 	<strong>DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation.</strong> Dong He, Maureen Daum, Walter Cai, Magdalena Balazinska. <strong><i>PVLDB</i></strong>, 15(1): 98 - 111, 2021. doi:10.14778/3485450.3485460
 	<a class="btn btn-primary btn-xs" href="p322-he.pdf" role="button">Paper</a>
-	<a class="btn btn-primary btn-xs" href="http://vldb.org/pvldb/vol15/p98-he.pdf" role="button">Paper (PVLDB source)</a>
 	<a class="btn btn-warning btn-xs" href="https://doi.org/10.14778/3485450.3485460" role="button">DOI</a>
 	<a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2104.02234" role="button">Extended Technical Report</a>
 	<a class="btn btn-success btn-xs" href="https://github.com/uwdb/deepeverest" role="button">Code</a>
 	<a class="btn btn-primary btn-xs label-danger" href="https://youtu.be/YAANPB32zX0" role="button">Talk</a>
+	<a class="btn btn-primary btn-xs" href="deepeverest-preprint.pdf" role="button">Preprint</a>
 </p>
 
 ```
