@@ -22,6 +22,30 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 
 ---
 
+<p><a name="Alvitta_Ottley_2023_02_13"></a>
+<strong>Speaker</strong>: <a href="http://visualdata.wustl.edu/">Alvitta Ottley</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Monday, February 13th, 2023, 1:30pm-2:30pm</p>
+
+<p><strong>Title</strong>:
+    Improving Human-Machine Partnership Through Observational Learning
+</p>
+
+<p><strong>Abstract</strong>:
+There is a fast-growing interest in analyzing user interaction to create adaptive systems that can assist or collaborate on data analysis. However, the first step for an intelligent visualization response is understanding the user. Dr. Ottley’s work uses an observational learning framework, akin to humans learning concepts like language and behavior naturally through observations, often with no explicit feedback. The goal is to enable computers to infer user attributes and strategies by observing their interactions with a system. In this talk, Dr. Ottley summarizes her lab's work on user modeling for data visualization and gives a snapshot of the current research achievements and what is possible in the near and distant future. Then, she presents techniques for capturing and predicting user behavior, focusing on inferring attention, personality, biases, and knowledge by analyzing log data. Finally, Dr. Ottley highlights the significant roadblocks and future directions for visualization research.
+</p>
+
+<p><strong>Bio</strong>:
+Dr. Alvitta Ottley is an Assistant Professor in Computer Science & Engineering Department at Washington University in St. Louis, Missouri, USA. She also holds a courtesy appointment in the Psychological and Brain Sciences Department. Her research uses interdisciplinary approaches to solve problems such as how best to display information for effective decision-making and how to design human-in-the-loop visual analytics interfaces that are more attuned to the way people think. Dr. Ottley received an NSF CRII Award in 2018 for using visualization to support medical decision-making, the NSF Career Award for creating context-aware visual analytics systems, and the 2022 EuroVis Early Career Award. In addition, her work has appeared in leading conferences and journals such as CHI, VIS, and TVCG, achieving the best paper and honorable mention awards.
+</p>
+
+---
+
 <p><a name="Emre_Kiciman_2023_02_06"></a>
 <strong>Speaker</strong>: <a href="https://kiciman.org/">Emre Kiciman</a> </p>
 
