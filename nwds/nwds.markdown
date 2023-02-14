@@ -44,6 +44,8 @@ There is a fast-growing interest in analyzing user interaction to create adaptiv
 Dr. Alvitta Ottley is an Assistant Professor in Computer Science & Engineering Department at Washington University in St. Louis, Missouri, USA. She also holds a courtesy appointment in the Psychological and Brain Sciences Department. Her research uses interdisciplinary approaches to solve problems such as how best to display information for effective decision-making and how to design human-in-the-loop visual analytics interfaces that are more attuned to the way people think. Dr. Ottley received an NSF CRII Award in 2018 for using visualization to support medical decision-making, the NSF Career Award for creating context-aware visual analytics systems, and the 2022 EuroVis Early Career Award. In addition, her work has appeared in leading conferences and journals such as CHI, VIS, and TVCG, achieving the best paper and honorable mention awards.
 </p>
 
+<a href="https://youtu.be/rU-s28o7JjM">Recording</a>
+
 ---
 
 <p><a name="Emre_Kiciman_2023_02_06"></a>
