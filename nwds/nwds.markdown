@@ -22,6 +22,28 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 
 ---
 
+<p><a name="Sean_Taylor_2023_02_27"></a>
+<strong>Speaker</strong>: <a href="https://seanjtaylor.com/">Sean J. Taylor</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Monday, February 27th, 2023, 1:30pm-2:30pm</p>
+
+<p><strong>Title</strong>:
+    When Do We Need Casual Inference in Data Science?
+</p>
+
+<p><strong>Abstract</strong>:
+The most common applications of causal inference to business decision-making are in two main areas: product experiments which inform launch decisions and algorithmic policies based on machine learning models. These applications focus on the special case where interventions are relatively cheap. However, practical analytics tasks encountered by many data scientists and analysts (where interventions are usually not possible) are currently underserved by causal inference. I review the tasks we tend to encounter in practice, discuss how the causal inference lens can change the results, and speculate about the barriers to adoption of these ideas in organizations.
+</p>
+
+<a href="https://youtu.be/uMyauCkTfHw">Recording</a>
+
+---
+
 <p><a name="Alvitta_Ottley_2023_02_13"></a>
 <strong>Speaker</strong>: <a href="http://visualdata.wustl.edu/">Alvitta Ottley</a> </p>
 
