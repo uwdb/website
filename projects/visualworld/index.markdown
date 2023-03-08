@@ -47,7 +47,7 @@ VisualWorld projects explore video data management from a number of perspectives
 	}
 </style>
 
-<a id="equi-vocal" />
+<a id="vocalexplore" />
 <div class="media">
   <div class="media-left">
     <a href="#">
