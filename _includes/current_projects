@@ -4,7 +4,7 @@
 
 {% include project name="VisualWorld" caption="A video data management project" image="visualworlddb.png" link="https://db.cs.washington.edu/projects/visualworld" %}
 
-{% include project name="DeepEverest" caption="A System for Efficient DNN Interpretation" image="deepeverest-with-text.png" link="https://db.cs.washington.edu/projects/deepeverest" %}
+{% include project name="DeepEverest" caption="A System for Efficient DNN Interpretation" image="deepeverest-icon.png" link="https://db.cs.washington.edu/projects/deepeverest" %}
 
 {% include project name="Themis" caption="An open world database system for automatic data debiasing" image="themis.png" link="http://db.cs.washington.edu/projects/themis" %}
 
