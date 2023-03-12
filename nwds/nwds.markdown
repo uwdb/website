@@ -22,6 +22,78 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 
 ---
 
+<p><a name="Juliana_Freire_2023_03_06"></a>
+<strong>Speaker</strong>: <a href="https://vgc.engineering.nyu.edu/~juliana/">Juliana Freire</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Monday, March 6th, 2023, 1:30pm-2:30pm</p>
+
+<p><strong>Title</strong>:
+    Dataset Search for Data Discovery, Augmentation, and Explanation
+</p>
+
+<p><strong>Abstract</strong>:
+Recent years have seen an explosion in our ability to collect and catalog immense amounts of data about our environment, society, and populace. Moreover, with the push towards transparency and open data, scientists, governments, and organizations are increasingly making structured data available on the Web and in various repositories and data lakes. Combined with advances in analytics and machine learning, the availability of such data should in theory allow us to make progress on many of our most important scientific and societal questions. However, this opportunity is often missed due to a central technical barrier: it is currently nearly impossible for domain experts to weed through the vast amount of available information to discover datasets that are needed for their specific application. While search engines have addressed the discovery problem for Web documents, there are many new challenges involved in supporting the discovery of structured data---from crawling the Web in search of datasets, to the need for dataset-oriented queries and new strategies to rank and display results. I will discuss these challenges and  present our recent work in this area. In particular, I will introduce a new class of data-relationship queries that, given a dataset,  identifies related datasets; I will describe a collection of methods that efficiently support different kinds of relationships that can be used for data explanation and augmentation; and I will demonstrate Auctus, an open-source dataset search engine that we have developed at the NYU VIDA Center.
+</p>
+
+<p><strong>Bio</strong>:
+Juliana Freire is a Professor of Computer Science and Data Science at New York University.  She was the elected chair of the ACM Special Interest Group on Management of Data (SIGMOD), served as a council member of the Computing Research Association’s Computing Community Consortium (CCC), and was the NYU lead investigator for the Moore-Sloan Data Science Environment. She develops methods and systems that enable a wide range of users to obtain trustworthy insights from data. This spans topics in large-scale data analysis and integration, visualization, machine learning, provenance management, and web information discovery, and different application areas, including urban analytics, predictive modeling, and computational reproducibility. Freire has co-authored over 200 technical papers (including 11 award-winning publications), several open-source systems, and is an inventor of 12 U.S. patents. She is an ACM Fellow, a AAAS Fellow,  and a recipient of an NSF CAREER, two IBM Faculty awards, and a Google Faculty Research award.  She received the ACM SIGMOD Contributions Award in 2020. Her research has been funded by the National Science Foundation, DARPA, Department of Energy, National Institutes of Health, Sloan Foundation, Gordon and Betty Moore Foundation, W. M. Keck Foundation, Google, Amazon, AT&T Research, Microsoft Research, Yahoo! and IBM. She received a B.S. degree in computer science from the Federal University of Ceara (Brazil), and M.Sc. and Ph.D. degrees in computer science from the State University of New York at Stony Brook.
+</p>
+
+---
+
+<p><a name="Sean_Taylor_2023_02_27"></a>
+<strong>Speaker</strong>: <a href="https://seanjtaylor.com/">Sean J. Taylor</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Monday, February 27th, 2023, 1:30pm-2:30pm</p>
+
+<p><strong>Title</strong>:
+    When Do We Need Casual Inference in Data Science?
+</p>
+
+<p><strong>Abstract</strong>:
+The most common applications of causal inference to business decision-making are in two main areas: product experiments which inform launch decisions and algorithmic policies based on machine learning models. These applications focus on the special case where interventions are relatively cheap. However, practical analytics tasks encountered by many data scientists and analysts (where interventions are usually not possible) are currently underserved by causal inference. I review the tasks we tend to encounter in practice, discuss how the causal inference lens can change the results, and speculate about the barriers to adoption of these ideas in organizations.
+</p>
+
+<a href="https://youtu.be/uMyauCkTfHw">Recording</a>
+
+---
+
+<p><a name="Alvitta_Ottley_2023_02_13"></a>
+<strong>Speaker</strong>: <a href="http://visualdata.wustl.edu/">Alvitta Ottley</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Monday, February 13th, 2023, 1:30pm-2:30pm</p>
+
+<p><strong>Title</strong>:
+    Improving Human-Machine Partnership Through Observational Learning
+</p>
+
+<p><strong>Abstract</strong>:
+There is a fast-growing interest in analyzing user interaction to create adaptive systems that can assist or collaborate on data analysis. However, the first step for an intelligent visualization response is understanding the user. Dr. Ottley’s work uses an observational learning framework, akin to humans learning concepts like language and behavior naturally through observations, often with no explicit feedback. The goal is to enable computers to infer user attributes and strategies by observing their interactions with a system. In this talk, Dr. Ottley summarizes her lab's work on user modeling for data visualization and gives a snapshot of the current research achievements and what is possible in the near and distant future. Then, she presents techniques for capturing and predicting user behavior, focusing on inferring attention, personality, biases, and knowledge by analyzing log data. Finally, Dr. Ottley highlights the significant roadblocks and future directions for visualization research.
+</p>
+
+<p><strong>Bio</strong>:
+Dr. Alvitta Ottley is an Assistant Professor in Computer Science & Engineering Department at Washington University in St. Louis, Missouri, USA. She also holds a courtesy appointment in the Psychological and Brain Sciences Department. Her research uses interdisciplinary approaches to solve problems such as how best to display information for effective decision-making and how to design human-in-the-loop visual analytics interfaces that are more attuned to the way people think. Dr. Ottley received an NSF CRII Award in 2018 for using visualization to support medical decision-making, the NSF Career Award for creating context-aware visual analytics systems, and the 2022 EuroVis Early Career Award. In addition, her work has appeared in leading conferences and journals such as CHI, VIS, and TVCG, achieving the best paper and honorable mention awards.
+</p>
+
+<a href="https://youtu.be/rU-s28o7JjM">Recording</a>
+
+---
+
 <p><a name="Emre_Kiciman_2023_02_06"></a>
 <strong>Speaker</strong>: <a href="https://kiciman.org/">Emre Kiciman</a> </p>
 

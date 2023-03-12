@@ -47,6 +47,44 @@ VisualWorld projects explore video data management from a number of perspectives
 	}
 </style>
 
+<a id="vocalexplore" />
+<div class="media">
+  <div class="media-left">
+    <a href="#">
+      <img src="../../images/projects/vocalexplore.png" class="card-img" alt="VOCALExplore Logo" />
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">VOCALExplore</h4>
+	<p>
+		We introduce VOCALExplore, a system designed to support users in building domain-specific models over video datasets. VOCALExplore supports interactive labeling sessions and trains models using user-supplied labels. VOCALExplore maximizes model quality by automatically deciding how to select samples based on observed skew in the collected labels. It also selects the optimal video representations to use when training models by casting feature selection as a rising bandit problem. Finally, VOCALExplore implements optimizations to achieve low latency without sacrificing model performance. We demonstrate that VOCALExplore achieves close to the best possible model quality given candidate acquisition functions and feature extractors, and it does so with low visible latency (~1 second per iteration) and no expensive preprocessing.
+	</p>
+	<p>
+		<strong>VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building.</strong> Maureen Daum, Enhao Zhang, Dong He, Stephen Mussmann, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2303.04068" role="button">Paper</a>
+		<a class="btn btn-success btn-xs" href="https://github.com/uwdb/vocalexplore" role="button">Code</a>
+	</p>
+  </div>
+</div>
+
+<a id="equi-vocal" />
+<div class="media">
+  <div class="media-left">
+    <a href="#">
+      <img src="../../images/projects/equi-vocal.png" class="card-img" alt="EQUI-VOCAL Logo" />
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">EQUI-VOCAL</h4>
+	<p>
+		EQUI-VOCAL is a new system that automatically synthesizes queries over videos from limited user interactions. The user only provides a handful of positive and negative examples of what they are looking for. EQUI-VOCAL utilizes these initial examples and additional ones collected through active learning to efficiently synthesize complex user queries. Our approach enables users to find events without database expertise, with limited labeling effort, and without declarative specifications or sketches. Core to EQUI-VOCAL's design is the use of spatio-temporal scene graphs in its data model and query language and a novel query synthesis approach that works on large and noisy video data. Our system outperforms two baseline systems---in terms of F1 score, synthesis time, and robustness to noise---and can flexibly synthesize complex queries that the baselines do not support.
+	</p>
+	<p>
+		<strong>EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions.</strong> Enhao Zhang, Maureen Daum, Dong He, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna. <a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2301.00929" role="button">Tech Report</a>
+		<a class="btn btn-success btn-xs" href="https://github.com/uwdb/EQUI-VOCAL" role="button">Code</a>
+	</p>
+  </div>
+</div>
+
 <a id="vocal" />
 <div class="media">
   <div class="media-left">
@@ -61,10 +99,6 @@ VisualWorld projects explore video data management from a number of perspectives
 	</p>
 	<p>
 		<strong>VOCAL: Video Organization and Interactive Compositional AnaLytics (Vision Paper).</strong> Maureen Daum<sup>*</sup>, Enhao Zhang<sup>*</sup>, Dong He, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing. <strong><i>CIDR</i></strong>, 2022. <a class="btn btn-primary btn-xs" href="vocal-crc.pdf" role="button">Paper</a>
-	</p>
-	<p>
-		<strong>EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions.</strong> Enhao Zhang, Maureen Daum, Dong He, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna. <a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2301.00929" role="button">Tech Report</a>
-		<a class="btn btn-success btn-xs" href="https://github.com/uwdb/EQUI-VOCAL" role="button">Code</a>
 	</p>
 	<p>
 	<sup>*</sup>Both authors contributed equally to the paper
