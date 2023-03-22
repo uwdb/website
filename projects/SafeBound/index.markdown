@@ -29,4 +29,4 @@ Contact [Kyle Deeds](mailto:kdeeds@cs.washington.edu)
 #### Acknowledgments
 
 This work is supported in part by National Science Foundation grants (NSF IIS 1907997 and
-NSF-BSF 2109922) and the UW Amazon Innovation Hub.
+NSF-BSF 2109922) and a gift from Amazon through the UW Amazon Science Hub.
