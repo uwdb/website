@@ -60,7 +60,12 @@ VisualWorld projects explore video data management from a number of perspectives
 		We introduce VOCALExplore, a system designed to support users in building domain-specific models over video datasets. VOCALExplore supports interactive labeling sessions and trains models using user-supplied labels. VOCALExplore maximizes model quality by automatically deciding how to select samples based on observed skew in the collected labels. It also selects the optimal video representations to use when training models by casting feature selection as a rising bandit problem. Finally, VOCALExplore implements optimizations to achieve low latency without sacrificing model performance. We demonstrate that VOCALExplore achieves close to the best possible model quality given candidate acquisition functions and feature extractors, and it does so with low visible latency (~1 second per iteration) and no expensive preprocessing.
 	</p>
 	<p>
-		<strong>VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building.</strong> Maureen Daum, Enhao Zhang, Dong He, Stephen Mussmann, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2303.04068" role="button">Paper</a>
+		<video alt="Demo video of VOCALExplore" poster="../../images/projects/vocalexplore_demo_poster.png" controls style="width:75%">
+			<source src="../../videos/vocalexplore_demo.mp4" type="video/mp4">
+		</video>
+	</p>
+	<p>
+		<strong>VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building [Technical Report].</strong> Maureen Daum, Enhao Zhang, Dong He, Stephen Mussmann, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2303.04068" role="button">Technical Report</a>
 		<a class="btn btn-success btn-xs" href="https://github.com/uwdb/vocalexplore" role="button">Code</a>
 	</p>
   </div>
