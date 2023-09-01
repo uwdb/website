@@ -1,10 +1,5 @@
 # use image: placeholder.jpg for those w/o pics
 
-- name: Remy Wang
-  nickname: Remy
-  website: https://homes.cs.washington.edu/~remywang/
-  image: remy.jpg
-
 - name: Maureen Daum
   nickname: Maureen
   website: https://homes.cs.washington.edu/~mdaum/
