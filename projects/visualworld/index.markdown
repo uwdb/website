@@ -65,7 +65,8 @@ VisualWorld projects explore video data management from a number of perspectives
 		</video>
 	</p>
 	<p>
-		<strong>VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building [Technical Report].</strong> Maureen Daum, Enhao Zhang, Dong He, Stephen Mussmann, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2303.04068" role="button">Technical Report</a>
+		<strong>VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building.</strong> Maureen Daum, Enhao Zhang, Dong He, Stephen Mussmann, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <strong><i>PVLDB</i></strong>, 16 (13): 4188-4201, 2023. <a class="btn btn-primary btn-xs" href="https://www.vldb.org/pvldb/vol16/p4188-daum.pdf" role="button">Paper</a>
+		<a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2303.04068" role="button">Technical Report</a>
 		<a class="btn btn-success btn-xs" href="https://github.com/uwdb/vocalexplore" role="button">Code</a>
 	</p>
   </div>
@@ -82,6 +83,11 @@ VisualWorld projects explore video data management from a number of perspectives
     <h4 class="media-heading">EQUI-VOCAL</h4>
 	<p>
 		EQUI-VOCAL is a new system that automatically synthesizes queries over videos from limited user interactions. The user only provides a handful of positive and negative examples of what they are looking for. EQUI-VOCAL utilizes these initial examples and additional ones collected through active learning to efficiently synthesize complex user queries. Our approach enables users to find events without database expertise, with limited labeling effort, and without declarative specifications or sketches. Core to EQUI-VOCAL's design is the use of spatio-temporal scene graphs in its data model and query language and a novel query synthesis approach that works on large and noisy video data. Our system outperforms two baseline systems---in terms of F1 score, synthesis time, and robustness to noise---and can flexibly synthesize complex queries that the baselines do not support.
+	</p>
+	<p>
+		<video alt="Demo video of EQUI-VOCAL" controls style="width:75%">
+			<source src="../../videos/equi-vocal_demo.mp4" type="video/mp4">
+		</video>
 	</p>
 	<p>
 		<strong>EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions.</strong> Enhao Zhang, Maureen Daum, Dong He, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <strong><i>PVLDB</i></strong>, 16 (11): 2714–2727, 2023. <a class="btn btn-primary btn-xs" href="https://dl.acm.org/doi/abs/10.14778/3611479.3611482" role="button">Paper</a>
