@@ -1,3 +1,15 @@
+- date: 2023-11-21
+  description: >
+    'Optimizing Dataflow Systems for Scalable Interactive Visualization' by Junran Yang, Hyekang Kevin Joo, Sai Yerramreddy, Dominik Moritz, and Leilani Battle to appear at SIGMOD 2024.
+
+- date: 2023-08-18
+  description: >
+    '[VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building](https://www.vldb.org/pvldb/vol16/p4188-daum.pdf)' by Maureen Daum, Enhao Zhang, Dong He, Stephen Mussmann, Brandon Haynes, Ranjay Krishna, and Magdalena Balazinska to appear at VLDB 2024.
+    
+- date: 2023-06-16
+  description: >
+    '[EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions](https://dl.acm.org/doi/abs/10.14778/3611479.3611482)' by Enhao Zhang, Maureen Daum, Dong He, Brandon Haynes, Ranjay Krishna, and Magdalena Balazinska has been accepted at VLDB 2023.
+    
 - date: 2023-01-27
   description: >
     '[Free Join: Unifying Worst-Case Optimal and Traditional Joins](https://arxiv.org/abs/2301.10841)' by Remy Wang, Max Willsey, and Dan Suciu to appear at SIGMOD 2023.
