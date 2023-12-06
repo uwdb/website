@@ -1,6 +1,6 @@
 <div class="current-projects flex-container image-container">
 
-{% include project name="SafeBound" caption="A practical system for generating cardinality bounds" image="SafeBoundLogo.png" link="https://db.cs.washington.edu/projects/SafeBound" %}
+{% include project name="Principled Cardinality Estimation" caption="Applying theoretical insights to cardinality estimation" image="SafeBoundLogo.png" link="https://db.cs.washington.edu/projects/CardinalityEstimation" %}
 
 {% include project name="Quasi-stable Coloring" caption="Graph compression for performant approximations" image="q-stable-logo.png" link="https://mkyl.github.io/QuasiStableColors.jl/stable/" %}
 
@@ -11,8 +11,6 @@
 {% include project name="Themis" caption="An open world database system for automatic data debiasing" image="themis.png" link="http://db.cs.washington.edu/projects/themis" %}
 
 {% include project name="Visual Road" caption="A video data management benchmark" image="visualroad.png" link="http://db.cs.washington.edu/projects/visualroad" %}
-
-{% include project name="Pessimistic Query Optimization" caption="Tighter bounds for intermediate join cardinalities" image="pqo.png" link="http://db.cs.washington.edu/projects/pqo" %}
 
 {% include project name="Image Analytics" caption="Large scale image analytics on scientific data" image="imageAnal.png" link="http://db.cs.washington.edu/projects/imageAnalytics" %}
 
