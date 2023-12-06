@@ -1,6 +1,6 @@
 <div class="current-projects flex-container image-container">
 
-{% include project name="Principled Cardinality Estimation" caption="Applying theoretical insights to cardinality estimation" image="SafeBoundLogo.png" link="https://db.cs.washington.edu/projects/PrincipledCardinalityEstimation" %}
+{% include project name="Principled Cardinality Estimation" caption="Applying theoretical insights to cardinality estimation" image="SafeBoundLogo.png" link="https://db.cs.washington.edu/projects/cardinalityestimation" %}
 
 {% include project name="Quasi-stable Coloring" caption="Graph compression for performant approximations" image="q-stable-logo.png" link="https://mkyl.github.io/QuasiStableColors.jl/stable/" %}
 
