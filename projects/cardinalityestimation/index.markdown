@@ -24,8 +24,6 @@ This work is currently in progress, but we hope to share results soon!
   <p>A Practical System for Generating Cardinality Bounds</p>
   <p>
   	<a class="btn btn-primary btn-lg label-primary" href="https://drops.dagstuhl.de/opus/volltexte/2023/17741/pdf/lipics-vol255-icdt2023-complete.pdf#page=143" role="button" style="width: 220px;"><span style="position: relative; top:10px">Read the Theory Paper</span><br/><small>&nbsp;</small></a>
-  </p>
-  <p>
   	<a class="btn btn-primary btn-lg label-primary" href="https://dl.acm.org/doi/pdf/10.1145/3588907" role="button" style="width: 220px;"><span style="position: relative; top:10px">Read the Systems Paper</span><br/><small>&nbsp;</small></a>
   </p>
 </div>
