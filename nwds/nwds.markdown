@@ -18,6 +18,36 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 
 ---
 
+#### Winter 2024
+
+---
+
+<p><a name="Faisal_Nawab_2024_02_02"></a>
+<strong>Speaker</strong>: <a href="https://www.nawab.me">Faisal Nawab</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, February 2nd, 2024, 2:30pm-3:30pm</p>
+
+<p><strong>Title</strong>:
+    Enabling Emerging Edge and IoT Applications with Edge-Cloud Data Management
+</p>
+
+<p><strong>Abstract</strong>:
+The potential of Edge and IoT applications encompasses realms like smart cities, mobility solutions, and immersive technologies. Yet, the actualization of these promising applications stumbles upon a fundamental impediment: the prevailing cloud data management technologies are often hosted on remote data centers. This architectural choice introduces daunting challenges, including substantial wide-area latency, burdensome connectivity and communication bandwidth demands, and regulatory constraints related to personal and sensitive data.
+
+This talk presents our research in introducing edge-cloud data management that provides a framework for managing data across edge nodes to overcome the limits of cloud-only data management. We encounter various challenges to achieving this vision such as managing the sheer amount of edge nodes, their sporadic availability, and device constraints in terms of compute, storage, and trust. To navigate these multifaceted challenges, our work redesigns distributed data management technologies to adapt to the edge environment. This includes introducing design concepts in the domains of hierarchical and asymmetric edge-cloud data management, decentralized edge coordination techniques, and edge-friendly mechanisms to maintain security and trust. The talk includes a demonstration of 'AnyLog'–an edge-cloud data management solution that integrates our research findings.
+</p>
+
+<p><strong>Bio</strong>:
+Faisal Nawab is an assistant professor in the computer science department at the University of California, Irvine. He is the director of EdgeLab, which is dedicated to building edge-cloud data management solutions for emerging edge and IoT applications. Faisal's research is influenced by practical industry problems through his involvement with the startup 'AnyLog' where he acts as the lead architect of designing an edge-cloud database. Faisal has received recognition for his work, winning the "Next-Generation Data Infrastructure" award from Facebook, being named the runner-up for the IEEE TEMS Blockchain Early-Career Award, and being awarded several NSF grants, and industry funding from Meta and Roblox.
+</p>
+
+---
+
 #### Winter 2023
 
 ---
