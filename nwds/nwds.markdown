@@ -48,6 +48,30 @@ Faisal Nawab is an assistant professor in the computer science department at the
 
 ---
 
+<p><a name="Pat_Helland_2024_01_26"></a>
+<strong>Speaker</strong>: <a href="">Pat Helland</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, January 26th, 2024, 2:30pm-3:30pm</p>
+
+<p><strong>Title</strong>:
+    I'm SO Glad I'm Uncoordinated!
+</p>
+
+<p><strong>Abstract</strong>:
+In my 44 years building software, technology trends have dramatically changed what's difficult and what's hard. In 1978, CPU, storage, and memory were precious and expensive but coordinating across work was effectively free. Running on a single server, networking was infinitely expensive as we had none. Now, there's an abundance of computation, memory, storage, and network with even more on the way! The only challenge is coordination. Year after year, the cost of coordinating gets larger in terms of instruction opportunities lost while waiting. The first half of the talk explains these changes and their impact on our systems. In response, there are many approaches to avoiding or minimizing the pain of coordination. We taxonomize these solutions and discuss how our systems are evolving and likely to evolve as the world changes around us. I am, indeed, a person who's uncoordinated and very likely to drop and/or break stuff. I've adapted to that in my personal life and spend a great deal of my professional life looking for ways our systems can avoid the need to coordinate.
+</p>
+
+<p><strong>Bio</strong>:
+Pat Helland has been building distributed systems, database systems, high-performance messaging systems, and multiprocessors since 1978, shortly after dropping out of UC Irvine without a bachelor's degree. That hasn't stopped him from having a passion for academics and publication. From 1982 to 1990, Pat was the chief architect for TMF (Transaction Monitoring Facility), the transaction logging and recovery systems for NonStop SQL, a message-based fault-tolerant system providing high-availability solutions for business critical solutions. In 1991, he moved to HaL Computers where he was chief architect for the Mercury Interconnect Architecture, a cache-coherent non-uniform memory architecture multiprocessor. In 1994, Pat moved to Microsoft to help the company develop a business providing enterprise software solutions. He was chief architect for MTS (Microsoft Transaction Server) and DTC (Distributed Transaction Coordinator). Starting in 2000, Pat began the SQL Service Broker project, a high-performance transactional exactly-once in-order message processing and app execution engine built deeply into Microsoft SQL Server 2005. From 2005-2007, he worked at Amazon on scalable enterprise solutions, scale-out user facing services, integrating product catalog feeds from millions of sellers, and highly-available eventually consistent storage. From 2007 to 2011, Pat was back at Microsoft working on a number of projects including Structured Streams in Cosmos. Structured streams kept metadata within the "big data" streams that were typically 10s of terabytes in size. This metadata allowed affinitized placement within the cluster as well as efficient joins across multiple streams. On launch, this doubled the work performed within the 250PB store. Pat also did the initial design for Baja, the distributed transaction support for a distributed event-processing engine implemented as an LSM atop structured streams providing transactional updates targeting the ingestion of "the entire web in one table" with changes visible in seconds. Starting in 2012, Pat has worked at Salesforce on database technology running within cloud environments. His current interests include latency bounding of online enterprise-grade transaction systems in the face of jitter, the management of metastability in complex environments, and zero-downtime upgrades to databases and stateful applications. In his spare time, Pat regularly writes for ACM Queue, Communications of the ACM, and various conferences. He has been deeply involved in the organization of the HPTS (High Performance Transactions Systems - www.hpts.ws) workshop since 1985. His blog is at pathelland.substack.com and he parsimoniously tweets with the handle @pathelland.
+</p>
+
+---
+
 #### Winter 2023
 
 ---
