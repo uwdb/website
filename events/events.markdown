@@ -18,6 +18,7 @@ Some videos of the research talks given by members of our group are available on
 - [2021](https://sites.google.com/view/nwds2021/home)
 - [2022](https://research.facebook.com/2022-northwest-database-society-annual-meeting/)
 - [2023](https://www.microsoft.com/en-us/research/event/northwest-database-society-nwds-annual-meeting-2023/)
+- [2024](https://sites.google.com/view/nwds-2024/home)
 
 ## UWDB Affiliates Annual Workshop
 - [2017]({{ site.baseurl }}/events/workshop/2017/db_usability.html)
