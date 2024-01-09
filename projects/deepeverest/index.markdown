@@ -56,7 +56,7 @@ DeepEverest focuses on accelerating <i>interpretation by example</i> queries tha
 </p>
 
 <p>
-We design, implement, and evaluate DeepEverest, a system for the efficient execution of <i>interpretation by example</i> queries over the activation values of a deep neural network. DeepEverest consists of an efficient indexing technique and a query execution algorithm with various optimizations. Experiments with our prototype implementation show that DeepEverest, using less than 20% of the storage of full materialization, significantly accelerates individual queries by up to 63x and consistently outperforms other methods on multi-query workloads that simulate DNN interpretation processes.
+DeepEverest is a system for the efficient execution of <i>interpretation by example</i> queries. DeepEverest consists of an efficient indexing technique and a query execution algorithm with various optimizations. Experiments with our prototype implementation show that DeepEverest, using less than 20% of the storage of full materialization, significantly accelerates individual queries by up to 63x and consistently outperforms other methods on multi-query workloads that simulate DNN interpretation processes.
 </p>
 
 <!-- The fundamental building blocks of DNN interpretation are neurons and groups of neurons. To understand what individual neurons and groups of neurons learn and detect, researchers often ask <i>interpretation by example</i> queries.  -->
