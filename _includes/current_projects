@@ -4,7 +4,7 @@
 
 {% include project name="Quasi-stable Coloring" caption="Graph compression for performant approximations" image="q-stable-logo.png" link="https://mkyl.github.io/QuasiStableColors.jl/stable/" %}
 
-{% include project name="NeuralArtifactDB" caption="Data Management for Model Explanation and Exploration" image="neural_artifact_db.png" link="https://db.cs.washington.edu/projects/neuralartifactdb" %}
+{% include project name="Neural Artifact DB" caption="Data Management for Model Explanation and Exploration" image="neural_artifact_db.png" link="https://db.cs.washington.edu/projects/neuralartifactdb" %}
 
 {% include project name="VisualWorld" caption="A video data management project" image="visualworlddb.png" link="https://db.cs.washington.edu/projects/visualworld" %}
 
