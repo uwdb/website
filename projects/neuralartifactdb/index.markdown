@@ -40,7 +40,7 @@ id: "projects"
 </style>
 
 <div class="jumbotron" style="background-image: none; background-color: inherit; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
-  <img src="../../images/projects/neural_artifact_db.png" alt="Logo" style="width: 28em" />
+  <img src="../../images/projects/neural_artifact_db.png" alt="Logo" style="width: 26em" />
   <h1 class="title">NeuralArtifactDB</h1>
   <p>Data Management for Model Explanation and Exploration</p>
 </div>
