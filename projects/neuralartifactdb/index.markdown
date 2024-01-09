@@ -132,7 +132,7 @@ image masks while guaranteeing the correctness of query results. MaskSearch leve
 	<div class="flex-item person" title="Jieyu Zhang">
 		<a href="https://jieyuz2.github.io/">
 			<img src="{{ site.baseurl }}/images/people/jieyu.jpeg"/>
-			<p>Maureen Daum</p>
+			<p>Jieyu Zhang</p>
 		</a>
 	</div>
 
@@ -146,7 +146,7 @@ image masks while guaranteeing the correctness of query results. MaskSearch leve
 	<div class="flex-item person" title="Alex Ratner">
 		<a href="https://ajratner.github.io/">
 			<img src="{{ site.baseurl }}/images/people/alex.jpg"/>
-			<p>Walter Cai</p>
+			<p>Alex Ratner</p>
 		</a>
 	</div>
 
