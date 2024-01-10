@@ -73,7 +73,7 @@ Pat Helland has been building distributed systems, database systems, high-perfor
 ---
 
 <p><a name="Jin_Wang_2024_01_19"></a>
-<strong>Speaker</strong>: <a href="">Jin Wang</a> </p>
+<strong>Speaker</strong>: <a href="https://www.jinwang18.net/">Jin Wang</a> </p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
