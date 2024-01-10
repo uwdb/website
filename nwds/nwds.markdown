@@ -49,7 +49,7 @@ Faisal Nawab is an assistant professor in the computer science department at the
 ---
 
 <p><a name="Pat_Helland_2024_01_26"></a>
-<strong>Speaker</strong>: <a href="">Pat Helland</a> </p>
+<strong>Speaker</strong>: <a href="pathelland.substack.com">Pat Helland</a> </p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
@@ -68,6 +68,30 @@ In my 44 years building software, technology trends have dramatically changed wh
 
 <p><strong>Bio</strong>:
 Pat Helland has been building distributed systems, database systems, high-performance messaging systems, and multiprocessors since 1978, shortly after dropping out of UC Irvine without a bachelor's degree. That hasn't stopped him from having a passion for academics and publication. From 1982 to 1990, Pat was the chief architect for TMF (Transaction Monitoring Facility), the transaction logging and recovery systems for NonStop SQL, a message-based fault-tolerant system providing high-availability solutions for business critical solutions. In 1991, he moved to HaL Computers where he was chief architect for the Mercury Interconnect Architecture, a cache-coherent non-uniform memory architecture multiprocessor. In 1994, Pat moved to Microsoft to help the company develop a business providing enterprise software solutions. He was chief architect for MTS (Microsoft Transaction Server) and DTC (Distributed Transaction Coordinator). Starting in 2000, Pat began the SQL Service Broker project, a high-performance transactional exactly-once in-order message processing and app execution engine built deeply into Microsoft SQL Server 2005. From 2005-2007, he worked at Amazon on scalable enterprise solutions, scale-out user facing services, integrating product catalog feeds from millions of sellers, and highly-available eventually consistent storage. From 2007 to 2011, Pat was back at Microsoft working on a number of projects including Structured Streams in Cosmos. Structured streams kept metadata within the "big data" streams that were typically 10s of terabytes in size. This metadata allowed affinitized placement within the cluster as well as efficient joins across multiple streams. On launch, this doubled the work performed within the 250PB store. Pat also did the initial design for Baja, the distributed transaction support for a distributed event-processing engine implemented as an LSM atop structured streams providing transactional updates targeting the ingestion of "the entire web in one table" with changes visible in seconds. Starting in 2012, Pat has worked at Salesforce on database technology running within cloud environments. His current interests include latency bounding of online enterprise-grade transaction systems in the face of jitter, the management of metastability in complex environments, and zero-downtime upgrades to databases and stateful applications. In his spare time, Pat regularly writes for ACM Queue, Communications of the ACM, and various conferences. He has been deeply involved in the organization of the HPTS (High Performance Transactions Systems - www.hpts.ws) workshop since 1985. His blog is at pathelland.substack.com and he parsimoniously tweets with the handle @pathelland.
+</p>
+
+---
+
+<p><a name="Jin_Wang_2024_01_19"></a>
+<strong>Speaker</strong>: <a href="">Jin Wang</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, January 19th, 2024, 2:30pm-3:30pm</p>
+
+<p><strong>Title</strong>:
+    Towards End-to-end Data Pipeline for Effective Data Science
+</p>
+
+<p><strong>Abstract</strong>:
+Nowadays data-driven approaches have become a mainstream research methodology in multiple communities. To support effective and scalable data science applications on the ever growing datasets, researchers from both academic and industrial fields have made great efforts in building end-to-end data pipelines. In this talk, I will present my efforts in improving two essential components of an end-to-end data pipeline: data preparation and data processing. First, I will present a unified self-supervised learning paradigm that can improve the performance of a variety of data preparation tasks, such as dataset discovery, table annotation and entity matching. Next, I will introduce my work in optimizing parallel recursive queries to support analytical workloads in data processing. Finally, I will conclude with the vision for future work of data pipelines.
+</p>
+
+<p><strong>Bio</strong>:
+Jin Wang is a research scientist and research lead from Megagon Labs. Before that he obtained his PhD degree of Computer Science from University of California, Los Angeles in July 2020. His research interests lie in the board area of data management and data science. In particular, his research focuses on Database systems, Datalog, Data Integration and Table Representation Learning. His work appears in leading conferences and journals of data management such as SIGMOD, VLDB, ICDE and VLDB Journal.
 </p>
 
 ---
