@@ -22,6 +22,34 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 
 ---
 
+<p><a name="Kurt_Stockinger_2024_03_01"></a>
+<strong>Speaker</strong>: <a href="https://www.zhaw.ch/en/about-us/person/stog">Kurt Stockinger</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, March 1st, 2024, 2:30pm-3:30pm</p>
+
+<p><strong>Title</strong>:
+    Querying Databases in Natural Language
+</p>
+
+<p><strong>Abstract</strong>:
+Being able to query relational databases in natural language can be considered as one the holy grails in database research. Especially with the rise of large language models we seem to be even closer to reaching this goal. However, are we there yet? When we look at the performance of the best systems using academic benchmarks, we might believe that we have arrived. However, when we evaluate how these systems perform in real-world applications, we realize that we still have a long way to the summit.
+
+
+
+In this talk we provide insights into the fascinating world of applying natural language processing and machine learning techniques to tackle this fundamental database problem. First, we explain how pretrained language models can be used to translate natural language questions into SQL. Afterward, we show how we can automatically generate training datasets when working with new databases where little to no training data is available. Finally, we address the limits of current systems when dealing with real-word applications and sketch research directions of how to tackle these challenges.
+</p>
+
+<p><strong>Bio</strong>:
+Kurt Stockinger is currently a Visiting Scholar at University of Washington. In his parallel life across the Atlantic, he is a Professor of Computer Science, Director of Studies in Data Science and Head of the Intelligent Information Systems Group. He is also an external lecturer at University of Zurich. Kurt Stockingers’ research focuses on Data Science with emphasis on Big Data, Natural Language Query Processing, Query Optimization and Quantum Computing. Essentially, his research interests are at the intersection of databases, natural language processing and machine learning. Previously Kurt Stockinger worked at Credit Suisse in Zurich, Switzerland, at Lawrence Berkeley National Laboratory in Berkeley, California, at California Institute of Technology, California as well as at CERN in Geneva, Switzerland. He holds a Ph.D. in computer science from CERN / University of Vienna.
+</p>
+
+---
+
 <p><a name="Faisal_Nawab_2024_02_02"></a>
 <strong>Speaker</strong>: <a href="https://www.nawab.me">Faisal Nawab</a> </p>
 
