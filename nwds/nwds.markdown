@@ -18,6 +18,34 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 
 ---
 
+#### Spring 2024
+
+---
+
+<p><a name="Jun_Yang_2024_04_11"></a>
+<strong>Speaker</strong>: <a href="https://users.cs.duke.edu/~junyang/">Jun Yang</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Thursday, April 11th, 2024, 3:30pm-4:30pm</p>
+
+<p><strong>Title</strong>:
+    What Teaching Databases Taught me about Researching Databases
+</p>
+
+<p><strong>Abstract</strong>:
+Declarative querying and automatic optimization are the cornerstones of the success and longevity of database systems, yet these concepts often pose challenges for novice learners accustomed to different coding paradigms. The transition is further hampered by the lack of query debugging tools (be it for correctness or performance) compared to the plethora available for programming languages. The talk samples several systems that we build at Duke University to help students learn and debug database queries. These systems have not only helped scale up teaching and improve learning, but also inspired research on interesting and fundamental questions concerning databases. Furthermore, with the rise of generative AI, we argue that there is a heightened need for skills in scrutinizing and debugging AI-generated queries, and we outline several ongoing and future work directions aimed at addressing this emerging challenge.
+</p>
+
+<p><strong>Bio</strong>:
+Jun Yang is currently the Bishop-MacDermott Family Professor of Computer Science at Duke University. He joined Duke after receiving his Ph.D. from Stanford in 2001 and chaired the Department of Computer Science at Duke during 2020-2023. He has broad research interests in databases and data-intensive systems. He is a Trustee of the VLDB Endowment and served as the general co-chair of SIGMOD 2017 and the co-Editor-in-Chief of PVLDB during 2022-2023. He is a recipient of the CAREER Award, IBM Faculty Award, HP Labs Innovation Research Award, and Google Faculty Research Award. He has striven to connect research to his other passions, such as journalism, where he has worked on computational fact-checking since its nascent days, and education, where he has built a number of software tools for learning databases. He received the David and Janet Vaughan Brooks Teaching Award at Duke.
+</p>
+
+---
+
 #### Winter 2024
 
 ---
