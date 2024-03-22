@@ -55,7 +55,7 @@ Allen School of Computer Science and Engineering.<br>
 Paul G. Allen Center, CSE 291</p>
 
 <p><strong>When</strong>:
-Friday, March 5st, 2024, 2:30pm-3:30pm</p>
+Friday, March 29, 2024, 2:30pm-3:30pm</p>
 
 <p><strong>Title</strong>:
 QirK: Question Answering via Intermediate Representation on Knowledge Graphs  
