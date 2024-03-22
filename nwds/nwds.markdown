@@ -46,6 +46,31 @@ Jun Yang is currently the Bishop-MacDermott Family Professor of Computer Science
 
 ---
 
+<p><a name="Luca_Scheerer_2024_03_05"></a>
+<strong>Speaker</strong>: Luca Scheerer
+</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, March 5st, 2024, 2:30pm-3:30pm</p>
+
+<p><strong>Title</strong>:
+QirK: Question Answering via Intermediate Representation on Knowledge Graphs  
+</p>
+
+<p><strong>Abstract</strong>:
+QirK seeks to bridge the gap between the capabilities of Large Language Models (LLMs) and the structured interpretability of database systems, addressing the complexity of querying Knowledge Graphs. QirK enables users to interact with Knowledge Graphs by posing questions in natural language. This is achieved by mapping the input query to an intermediate representation (IR) via LLMs, then repairing it into a valid relational database query through semantic search on vector embeddings. By leveraging this IR, QirK can answer structurally complex questions that are still beyond the reach of emerging Large Language Models (LLMs) while ensuring complete and accurate results. This is a joint work by Luca Scheerer (ETH Zurich), Anton Lykov (UW), Moe Kayali (UW), Ilias Fountalis (RelationalAI), Nikolaos Vasiloglou (RelationalAI), Dan Olteanu (UZH), and Dan Suciu (UW).
+</p>
+
+<p><strong>Bio</strong>:
+Luca Scheerer is a second year Computer Science MSc student at ETH Zurich specializing in data systems and the intersection of systems and machine learning. He has interned at Google working on their internal knowledge graph and at the market maker Citadel Securities.
+</p>
+
+---
+
 #### Winter 2024
 
 ---
