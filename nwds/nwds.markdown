@@ -10,11 +10,11 @@ id: "nwds"
 ## Mission Statement
 The goal of NWDS is to bring together researchers and practitioners in the field of databases and data management systems working in the Pacific North-West.
 
-One of our main activities is a talk series with a variety of distinguished speakers from academia and industry.
+One of our main activities is a an annual meeting. See here the [list of past meetings](https://db.cs.washington.edu/events/events.html).
 
-We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for supporting NWDS.
+The other main activity is a talk series with a variety of distinguished speakers from academia and industry. The details are below. Our past talks can be found on the NWDS [youtube channel](https://www.youtube.com/channel/UCjTWKbxmf6uQ-l5Rp1g68BQ/videos). Please note that not all talks are recorded.
 
-Our past talks can be found on the NWDS [youtube channel](https://www.youtube.com/channel/UCjTWKbxmf6uQ-l5Rp1g68BQ/videos).
+Instructions to sign up for the NWDS mailing list are at the bottom of this page.
 
 ---
 
