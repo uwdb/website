@@ -30,7 +30,7 @@ Allen School of Computer Science and Engineering.<br>
 Paul G. Allen Center, CSE 291</p>
 
 <p><strong>When</strong>:
-Thursday, November 21st, 2024, 10am-11am</p>
+Thursday, November 21st, 2024, 11am-12pm</p>
 
 <p><strong>Title</strong>:
     The New Memory Wall and how it changes database system design
