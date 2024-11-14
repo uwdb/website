@@ -18,6 +18,34 @@ Instructions to sign up for the NWDS mailing list are at the bottom of this page
 
 ---
 
+#### Fall 2024
+
+---
+
+<p><a name="Anastasia_Ailamaki_2024_11_21 "></a>
+<strong>Speaker</strong>: <a href="https://people.epfl.ch/anastasia.ailamaki/?lang=en">Anastasia Ailamaki</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Thursday, November 21st, 2024, 10am-11am</p>
+
+<p><strong>Title</strong>:
+    The New Memory Wall and how it changes database system design
+</p>
+
+<p><strong>Abstract</strong>:
+To bridge the ever-growing memory-processor speed gap (aka the "memory wall"), computer architects introduce new levels of caching that trade capacity for speed, and database designers develop cache-aware query processing algorithms since the late 1990s. Nowadays distributed query processing on the cloud is the norm; memory resources grow increasingly heterogeneous and disaggregated, mitigating the benefit of cache-aware query processing techniques. Recently, in contrast with traditional CPU-centric architectures, "memory-centric" systems that use memory pooling attract interest but also raise significant challenges as data move in unpredictable ways along a multi-dimensional memory hierarchy. Therefore, data movement emerges as a key performance bottleneck as it incurs a major cost in distributed query processing. In this talk, I will discuss the new memory wall and the challenges and opportunities it brings to database system design.
+</p>
+
+<p><strong>Bio</strong>:
+Anastasia Ailamaki is a Professor of Computer and Communication Sciences at the École Polytechnique Fédérale de Lausanne (EPFL), a visiting researcher at Google, and the co-founder and Chair of the Board of Directors of RAW Labs SA, a Swiss company developing systems to analyze heterogeneous big data from multiple sources efficiently. She earned a Ph.D. in Computer Science from the University of Wisconsin-Madison in 2000. She has received the 2019 ACM SIGMOD Edgar F. Codd Innovations Award and the 2020 VLDB Women in Database Research Award. She is also the recipient of an ERC Consolidator Award (2013), the Finmeccanica endowed chair from the Computer Science Department at Carnegie Mellon (2007), a European Young Investigator Award from the European Science Foundation (2007), an Alfred P. Sloan Research Fellowship (2005), an NSF CAREER award (2002), twelve best-paper awards and three Test-of-Time prizes at international scientific conferences. She has received the 2018 Nemitsas Prize in Computer Science by the President of Cyprus and the 2021 ARGO Innovation Award by the President of the Hellenic Republic. She is an ACM fellow, an IEEE fellow, a member of the Academia Europaea, and an elected member of the Swiss, the Belgian, the Greek, and the Cypriot National Research Councils.
+</p>
+
+---
+
 #### Spring 2024
 
 ---
