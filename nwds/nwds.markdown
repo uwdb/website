@@ -30,7 +30,7 @@ Allen School of Computer Science and Engineering.<br>
 Paul G. Allen Center, CSE 291</p>
 
 <p><strong>When</strong>:
-Friday, December 10th, 2025, 2:30pm-3:20pm</p>
+Friday, January 10th, 2025, 2:30pm-3:20pm</p>
 
 <p><strong>Title</strong>:
     Factorized Databases
