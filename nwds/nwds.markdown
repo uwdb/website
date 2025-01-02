@@ -18,6 +18,37 @@ Instructions to sign up for the NWDS mailing list are at the bottom of this page
 
 ---
 
+#### Winter 2025
+
+---
+
+<p><a name="Dan_Olteanu_2025_01_10 "></a>
+<strong>Speaker</strong>: <a href="https://www.ifi.uzh.ch/en/dast/people/Olteanu.html">Dan Olteanu</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, December 10th, 2025, 2:30pm-3:20pm</p>
+
+<p><strong>Title</strong>:
+    Factorized Databases
+</p>
+
+<p><strong>Abstract</strong>:
+In this talk I will explain the foundations of factorized databases and overview some of their applications.
+Factorized databases are compressed yet lossless representations of relational data that allow for efficient processing in the compressed domain. They are relational algebra expressions built using the union operator, the Cartesian product operator and data values. By exploiting the distributivity of product over union, they avoid the redundancy in the tabular representation of relational data. Factorized representations of query results can be computed directly from the input database and in time proportional to their sizes and the input database size.
+Since their introduction about a decade ago, there has been great progress on the theory, systems and applications of factorized databases to: relational query processing, provenance management, probabilistic databases, incremental view maintenance,  graph databases, and in-database machine learning.
+</p>
+
+<p><strong>Bio</strong>:
+Dan Olteanu is a professor at the University of Zurich, where he leads the Data Systems and Theory group (<a href="https://www.ifi.uzh.ch/en/dast.html">https://www.ifi.uzh.ch/en/dast.html</a>), and a computer scientist at RelationalAI (<a href="https://relational.ai">https://relational.ai</a>).  He currently works on incremental view maintenance, cardinality estimation, in-database machine learning and linear algebra, adaptive query processing, and fact attribution in query answering.
+</p>
+
+
+---
+
 #### Fall 2024
 
 ---
