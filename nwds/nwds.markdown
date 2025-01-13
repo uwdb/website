@@ -46,6 +46,7 @@ Since their introduction about a decade ago, there has been great progress on th
 Dan Olteanu is a professor at the University of Zurich, where he leads the Data Systems and Theory group (<a href="https://www.ifi.uzh.ch/en/dast.html">https://www.ifi.uzh.ch/en/dast.html</a>), and a computer scientist at RelationalAI (<a href="https://relational.ai">https://relational.ai</a>).  He currently works on incremental view maintenance, cardinality estimation, in-database machine learning and linear algebra, adaptive query processing, and fact attribution in query answering.
 </p>
 
+<a href="https://www.youtube.com/watch?v=GaORwqKh1mk">Recording</a>
 
 ---
 
