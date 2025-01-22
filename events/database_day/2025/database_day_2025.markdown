@@ -77,7 +77,7 @@ Details will be added shortly
 
 **12:15 pm&emsp;** Lunch with posters
 
-**&nbsp;&nbsp;1:30 pm&emsp;** Invited Talk 2 (30 min + questions): [Scalable OLTP in the Cloud: What's the BIG DEAL?](), Pat Helland (Salesforce)
+**&nbsp;&nbsp;1:30 pm&emsp;** Invited Talk 2 (30 min + questions): [Scalable OLTP in the Cloud: What's the BIG DEAL?](), Pat Helland
 
 **&nbsp;&nbsp;2:15 pm&emsp;** Short Talks (4 talks @ 15 min each): Session 2 - DB+LLMs
 
