@@ -33,9 +33,21 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 ### **Invited Talk 1: "The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution," Stephanie Wang (UW CSE)**
 
-Details will be added shortly
+> While ML model training and inference are both GPU-intensive, CPU-based data processing is often the bottleneck. Distributed data processing systems based on the batch or stream processing models excel at CPU-based computation but either under-utilize the heterogeneous resources common in ML pipelines or impose high overheads on failure and reconfiguration. In this talk, I'll introduce the streaming batch model, a hybrid of the two models that enables efficient and fault-tolerant heterogeneous execution. The key idea is to execute one partition at a time to allow lineage-based recovery with dynamic resource allocation. This enables memory-efficient pipelining across heterogeneous resources, similar to stream processing, but also offers the elasticity and fault tolerance properties of batch processing. I'll present Ray Data, an implementation of the streaming batch model that improves throughput on heterogeneous batch inference pipelines by 3–8 compared to traditional batch and stream processing systems. When training Stable Diffusion, Ray Data matches the throughput of single-node ML data loaders while additionally leveraging distributed heterogeneous clusters to further improve training throughput by 31%.
 
-### **Invited Talk 2: "Scalable OLTP in the Cloud: What's the BIG DEAL?," Pat Helland**
+<div class="flex-container people image-container">
+    <div class="flex-item person">
+        <a href='https://stephanie-wang.github.io/'>
+            <img src="pictures/Stephanie.jpg"/>
+            <p>Stephanie Wang</p>
+        </a>
+    </div>
+    <div class="flex-item" style="width: 80%;padding-left: 10px">
+    Stephanie is an assistant professor at University of Washington, a creator of the open-source project Ray, and a founding engineer at Anyscale. Previously, she completed her PhD at UC Berkeley. Her research is in distributed systems, cloud computing, and systems for machine learning and data. Previous projects include Exoshuffle, which broke the Cloudsort record for cost-efficient distributed sort, and Ray Core, the distributed compute engine that was used to train GPT-4.
+    </div>
+</div>
+
+### **Invited Talk 2: "Scalable OLTP in the Cloud: What's the BIG DEAL?," Pat Helland (Salesforce)**
 
 > The pursuit of scalable OLTP systems has been the holy grail of my career. Because OLTP systems are typically split into applications and databases, the isolation semantics provided by the DB and used by the app have a major impact on the scalability of the OLTP system as a whole. The isolation semantics are a BIG DEAL!
 >
@@ -62,14 +74,14 @@ Details will be added shortly
 
 **&nbsp;&nbsp;8:30 am&emsp;** COFFEE/TEA with Fruits/Pastries
 
-**&nbsp;&nbsp;9:00 am&emsp;** Invited Talk 1 (30 min + questions): [The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution](), Stephanie Wang (UW CSE)
+**&nbsp;&nbsp;9:00 am&emsp;** Invited Talk 1 (30 min + questions): "The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution," Stephanie Wang (UW CSE)
 
-**9:45 am&emsp;** Short Talks (4 talks @ 15 min each): Session 1 - Vector Databases
+**&nbsp;&nbsp;9:45 am&emsp;** Short Talks (4 talks @ 15 min each): Session 1 - Vector Databases
 
-* [Vector Search for Retrieval](), Bailu Ding (Microsoft Research)
-* [Intelligent index selection for Vector Databases](), Artur Borycki (Teradata)
-* [Supporting Vector Search in Relational Databases for Advanced RAGs](), Jianguo Wang (Purdue University)
-* [Scalable Indexing and Text/Vector Search Infrastructure in BigQuery](), Omid Fatemieh (Google)
+* "Vector Search for Retrieval," Bailu Ding (Microsoft Research)
+* "Intelligent index selection for Vector Databases," Artur Borycki (Teradata)
+* "Supporting Vector Search in Relational Databases for Advanced RAGs," Jianguo Wang (Purdue University)
+* "Scalable Indexing and Text/Vector Search Infrastructure in BigQuery," Omid Fatemieh (Google)
 
 **10:45 am&emsp;** BREAK
 
@@ -77,28 +89,39 @@ Details will be added shortly
 
 **12:15 pm&emsp;** Lunch with posters
 
-**&nbsp;&nbsp;1:30 pm&emsp;** Invited Talk 2 (30 min + questions): [Scalable OLTP in the Cloud: What's the BIG DEAL?](), Pat Helland
+**&nbsp;&nbsp;1:30 pm&emsp;** Invited Talk 2 (30 min + questions): "Scalable OLTP in the Cloud: What's the BIG DEAL?," Pat Helland (Salesforce)
 
 **&nbsp;&nbsp;2:15 pm&emsp;** Short Talks (4 talks @ 15 min each): Session 2 - DB+LLMs
 
-* [Post-train LLMs for higher factuality](), Luna Dong (Meta)
-* [Vortex: Combined Storage and Runtime for RAG LLM systems](), Ken Birman (Cornell University)
-* [Multi-Agent Query Processing](), Arash Termehchy (Oregon State University)
-* [GenAI in BigQuery ML: What's New and Exciting?](), Xi Cheng (Google)
+* "Post-train LLMs for higher factuality," Luna Dong (Meta)
+* "Vortex: Combined Storage and Runtime for RAG LLM systems," Ken Birman (Cornell University)
+* "Multi-Agent Query Processing," Arash Termehchy (Oregon State University)
+* "GenAI in BigQuery ML: What's New and Exciting?," Xi Cheng (Google)
 
 **&nbsp;&nbsp;3:15 pm&emsp;** BREAK
 
 **&nbsp;&nbsp;3:45 pm&emsp;** Short Talks (3 talks @ 15 min each): Session 3 - Potpourri
 
-* [Innovations in AWS Analytics](), Sudipto Das (AWS)
-* [DDS: DPU-optimized Disaggregated Storage](), Phil Bernstein (Microsoft Research)
-* [Test Database Generation for Text-to-SQL Evaluation and Beyond](), Zhengjie Miao (Simon Fraser University)
+* "Innovations in AWS Analytics," Sudipto Das (AWS)
+* "DDS: DPU-optimized Disaggregated Storage," Phil Bernstein (Microsoft Research)
+* "Test Database Generation for Text-to-SQL Evaluation and Beyond," Zhengjie Miao (Simon Fraser University)
 
 **&nbsp;&nbsp;4:30 pm&emsp;** EVENT ENDS
 
 ### **Accommodations**:
 
-Details will be added shortly
+The following are suggested hotels near the University of Washington.
+Please contact them for further information.
+
+[Silver Cloud](https://www.silvercloud.com/university/)
+
+[Marriott Residence Inn](https://www.marriott.com/en-us/hotels/seaud-residence-inn-seattle-university-district/overview/)
+
+[University Inn](https://www.staypineapple.com/university-inn-seattle-wa)
+
+[Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa)
+
+[Graduate Seattle](https://www.graduatehotels.com/seattle/) (formerly the Hotel Deca)
 
 ### **Contact Information**:
 
