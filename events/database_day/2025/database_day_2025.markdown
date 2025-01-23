@@ -11,7 +11,7 @@ id: "database_day_2025"
 
 [Bill & Melinda Gates Center For Computer Science & Engineering](https://www.washington.edu/maps/#!/cse2)
 
-Zillow Conference Center
+Zillow Conference Center (on the top floor of the building)
 
 University of Washington
 
@@ -19,7 +19,7 @@ University of Washington
 
 Seattle, WA 98195
 
-[Parking information](https://facilities.uw.edu/transportation/park)
+[Parking information](https://facilities.uw.edu/transportation/park): We recommend using self-parking in [Padelford (lots N-20 and N-21)](https://transportation.uw.edu/park/visitor/self-serve). Please plan 20-min to park and walk to the building. Most of the time, there is no one at the gate, so proceed directly to self-parking.
 
 Wifi will be available to participants.
 
