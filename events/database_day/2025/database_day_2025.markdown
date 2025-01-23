@@ -5,13 +5,13 @@ group: "navigation"
 id: "database_day_2025"
 ---
 
-# NWDS Annual Meeting 2025
+# Northwest Database Society (NWDS) Annual Meeting 2025
 
 ### **Where**:
 
 [Bill & Melinda Gates Center For Computer Science & Engineering](https://www.washington.edu/maps/#!/cse2)
 
-Zillow Conference Center
+Zillow Conference Center (on the top floor of the building)
 
 University of Washington
 
@@ -19,19 +19,19 @@ University of Washington
 
 Seattle, WA 98195
 
-[Parking information](https://facilities.uw.edu/transportation/park)
+[Parking information](https://facilities.uw.edu/transportation/park): We recommend using self-parking in [Padelford (lots N-20 and N-21)](https://transportation.uw.edu/park/visitor/self-serve). Please plan 20-min to park and walk to the building. Most of the time, there is no one at the gate, so proceed directly to self-parking.
 
 Wifi will be available to participants.
 
 ### **When**:
 
-Friday, February 7th, 8:00am - 4:30pm.
+Friday, February 7th, 8:30am - 4:30pm.
 
 ### **Description**:
 
 The Northwest Database Society Annual Meeting brings together researchers and practitioners from the greater Pacific Northwest for a day of technical talks and networking on the broad topic of data management systems.
 
-### **Invited Talk 1: "The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution," Stephanie Wang (UW CSE)**
+### **Invited Talk 1: "The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution," Stephanie Wang (UW Allen School)**
 
 > While ML model training and inference are both GPU-intensive, CPU-based data processing is often the bottleneck. Distributed data processing systems based on the batch or stream processing models excel at CPU-based computation but either under-utilize the heterogeneous resources common in ML pipelines or impose high overheads on failure and reconfiguration. In this talk, I'll introduce the streaming batch model, a hybrid of the two models that enables efficient and fault-tolerant heterogeneous execution. The key idea is to execute one partition at a time to allow lineage-based recovery with dynamic resource allocation. This enables memory-efficient pipelining across heterogeneous resources, similar to stream processing, but also offers the elasticity and fault tolerance properties of batch processing. I'll present Ray Data, an implementation of the streaming batch model that improves throughput on heterogeneous batch inference pipelines by 3–8 compared to traditional batch and stream processing systems. When training Stable Diffusion, Ray Data matches the throughput of single-node ML data loaders while additionally leveraging distributed heterogeneous clusters to further improve training throughput by 31%.
 
@@ -47,7 +47,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
     </div>
 </div>
 
-### **Invited Talk 2: "Scalable OLTP in the Cloud: What's the BIG DEAL?," Pat Helland (Salesforce)**
+### **Invited Talk 2: "Scalable OLTP in the Cloud: What's the BIG DEAL?" Pat Helland (Salesforce)**
 
 > The pursuit of scalable OLTP systems has been the holy grail of my career. Because OLTP systems are typically split into applications and databases, the isolation semantics provided by the DB and used by the app have a major impact on the scalability of the OLTP system as a whole. The isolation semantics are a BIG DEAL!
 >
@@ -70,13 +70,14 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
     Pat Helland has been building distributed systems and databases since 1978 at companies including Tandem, Microsoft, and Amazon.  He is constantly curious about emerging trends in technology and their implications on systems.  He loves writing papers that challenge prevailing beliefs.  Pat has been working on database technology at Salesforce since 2012.
     </div>
 </div>
+
 ### **Agenda**:
 
-**&nbsp;&nbsp;8:30 am&emsp;** COFFEE/TEA with Fruits/Pastries
+**&nbsp;&nbsp;8:30 am&emsp;** Coffee/tea
 
-**&nbsp;&nbsp;9:00 am&emsp;** Invited Talk 1 (30 min + questions): "The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution," Stephanie Wang (UW CSE)
+**&nbsp;&nbsp;9:00 am&emsp;** Invited Talk 1: "The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution," Stephanie Wang (Allen School)
 
-**&nbsp;&nbsp;9:45 am&emsp;** Short Talks (4 talks @ 15 min each): Session 1 - Vector Databases
+**&nbsp;&nbsp;9:45 am&emsp;** Session 1 - Vector Databases
 
 * "Vector Search for Retrieval," Bailu Ding (Microsoft Research)
 * "Intelligent index selection for Vector Databases," Artur Borycki (Teradata)
@@ -89,9 +90,9 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **12:15 pm&emsp;** Lunch with posters
 
-**&nbsp;&nbsp;1:30 pm&emsp;** Invited Talk 2 (30 min + questions): "Scalable OLTP in the Cloud: What's the BIG DEAL?," Pat Helland (Salesforce)
+**&nbsp;&nbsp;1:30 pm&emsp;** Invited Talk 2: "Scalable OLTP in the Cloud: What's the BIG DEAL?" Pat Helland (Salesforce)
 
-**&nbsp;&nbsp;2:15 pm&emsp;** Short Talks (4 talks @ 15 min each): Session 2 - DB+LLMs
+**&nbsp;&nbsp;2:15 pm&emsp;** Session 2 - DB+LLMs
 
 * "Post-train LLMs for higher factuality," Luna Dong (Meta)
 * "Vortex: Combined Storage and Runtime for RAG LLM systems," Ken Birman (Cornell University)
@@ -100,7 +101,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **&nbsp;&nbsp;3:15 pm&emsp;** BREAK
 
-**&nbsp;&nbsp;3:45 pm&emsp;** Short Talks (3 talks @ 15 min each): Session 3 - Potpourri
+**&nbsp;&nbsp;3:45 pm&emsp;** Session 3 - Potpourri
 
 * "Innovations in AWS Analytics," Sudipto Das (AWS)
 * "DDS: DPU-optimized Disaggregated Storage," Phil Bernstein (Microsoft Research)
@@ -133,7 +134,7 @@ Please contact them for further information.
 
 ### **Sponsors**:
 
-We thank our partners for supporting this event.
+We thank the UWDB industry affiliate partners for supporting this event.
 
 * Amazon
 * Google
