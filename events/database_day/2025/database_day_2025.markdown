@@ -31,7 +31,7 @@ Friday, February 7th, 8:30am - 4:30pm.
 
 The Northwest Database Society Annual Meeting brings together researchers and practitioners from the greater Pacific Northwest for a day of technical talks and networking on the broad topic of data management systems.
 
-### **Invited Talk 1: "The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution," Stephanie Wang (UW CSE)**
+### **Invited Talk 1: "The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution," Stephanie Wang (UW Allen School)**
 
 Details will be added shortly
 
