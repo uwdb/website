@@ -5,7 +5,7 @@ group: "navigation"
 id: "database_day_2025"
 ---
 
-# NWDS Annual Meeting 2025
+# Northwest Database Society (NWDS) Annual Meeting 2025
 
 ### **Where**:
 
