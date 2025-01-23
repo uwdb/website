@@ -25,7 +25,7 @@ Wifi will be available to participants.
 
 ### **When**:
 
-Friday, February 7th, 8:00am - 4:30pm.
+Friday, February 7th, 8:30am - 4:30pm.
 
 ### **Description**:
 
