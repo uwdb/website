@@ -58,6 +58,7 @@ Details will be added shortly
     Pat Helland has been building distributed systems and databases since 1978 at companies including Tandem, Microsoft, and Amazon.  He is constantly curious about emerging trends in technology and their implications on systems.  He loves writing papers that challenge prevailing beliefs.  Pat has been working on database technology at Salesforce since 2012.
     </div>
 </div>
+
 ### **Agenda**:
 
 **&nbsp;&nbsp;8:30 am&emsp;** COFFEE/TEA with Fruits/Pastries
