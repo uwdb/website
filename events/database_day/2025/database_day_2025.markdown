@@ -61,11 +61,11 @@ Details will be added shortly
 
 ### **Agenda**:
 
-**&nbsp;&nbsp;8:30 am&emsp;** COFFEE/TEA with Fruits/Pastries
+**&nbsp;&nbsp;8:30 am&emsp;** Coffee/tea
 
-**&nbsp;&nbsp;9:00 am&emsp;** Invited Talk 1 (30 min + questions): [The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution](), Stephanie Wang (UW CSE)
+**&nbsp;&nbsp;9:00 am&emsp;** Invited Talk 1: [The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution](), Stephanie Wang (Allen School)
 
-**9:45 am&emsp;** Short Talks (4 talks @ 15 min each): Session 1 - Vector Databases
+**9:45 am&emsp;** Session 1 - Vector Databases
 
 * [Vector Search for Retrieval](), Bailu Ding (Microsoft Research)
 * [Intelligent index selection for Vector Databases](), Artur Borycki (Teradata)
@@ -78,9 +78,9 @@ Details will be added shortly
 
 **12:15 pm&emsp;** Lunch with posters
 
-**&nbsp;&nbsp;1:30 pm&emsp;** Invited Talk 2 (30 min + questions): [Scalable OLTP in the Cloud: What's the BIG DEAL?](), Pat Helland
+**&nbsp;&nbsp;1:30 pm&emsp;** Invited Talk 2: [Scalable OLTP in the Cloud: What's the BIG DEAL?](), Pat Helland
 
-**&nbsp;&nbsp;2:15 pm&emsp;** Short Talks (4 talks @ 15 min each): Session 2 - DB+LLMs
+**&nbsp;&nbsp;2:15 pm&emsp;** Session 2 - DB+LLMs
 
 * [Post-train LLMs for higher factuality](), Luna Dong (Meta)
 * [Vortex: Combined Storage and Runtime for RAG LLM systems](), Ken Birman (Cornell University)
@@ -89,7 +89,7 @@ Details will be added shortly
 
 **&nbsp;&nbsp;3:15 pm&emsp;** BREAK
 
-**&nbsp;&nbsp;3:45 pm&emsp;** Short Talks (3 talks @ 15 min each): Session 3 - Potpourri
+**&nbsp;&nbsp;3:45 pm&emsp;** Session 3 - Potpourri
 
 * [Innovations in AWS Analytics](), Sudipto Das (AWS)
 * [DDS: DPU-optimized Disaggregated Storage](), Phil Bernstein (Microsoft Research)
@@ -111,7 +111,7 @@ Details will be added shortly
 
 ### **Sponsors**:
 
-We thank our partners for supporting this event.
+We thank the UWDB industry affiliate partners for supporting this event.
 
 * Amazon
 * Google
