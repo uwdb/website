@@ -47,7 +47,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
     </div>
 </div>
 
-### **Invited Talk 2: "Scalable OLTP in the Cloud: What's the BIG DEAL?" Pat Helland (Salesforce)**
+### **Invited Talk 2: "Scalable OLTP in the Cloud: What's the BIG DEAL?," Pat Helland (Salesforce)**
 
 > The pursuit of scalable OLTP systems has been the holy grail of my career. Because OLTP systems are typically split into applications and databases, the isolation semantics provided by the DB and used by the app have a major impact on the scalability of the OLTP system as a whole. The isolation semantics are a BIG DEAL!
 >
@@ -75,7 +75,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **&nbsp;&nbsp;8:30 am&emsp;** Coffee/tea
 
-**&nbsp;&nbsp;9:00 am&emsp;** Invited Talk 1: "The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution," Stephanie Wang (Allen School)
+**&nbsp;&nbsp;9:00 am&emsp;** Invited Talk 1: "The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution," Stephanie Wang (UW Allen School)
 
 **&nbsp;&nbsp;9:45 am&emsp;** Session 1 - Vector Databases
 
@@ -90,7 +90,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **12:15 pm&emsp;** Lunch with posters
 
-**&nbsp;&nbsp;1:30 pm&emsp;** Invited Talk 2: "Scalable OLTP in the Cloud: What's the BIG DEAL?" Pat Helland (Salesforce)
+**&nbsp;&nbsp;1:30 pm&emsp;** Invited Talk 2: "Scalable OLTP in the Cloud: What's the BIG DEAL?," Pat Helland (Salesforce)
 
 **&nbsp;&nbsp;2:15 pm&emsp;** Session 2 - DB+LLMs
 
