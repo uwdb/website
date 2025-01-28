@@ -88,6 +88,11 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **11:15 am&emsp;** Panel - Graph Data Management (Chaired by Leilani Battle)
 
+Panelists:
+* Luna Dong (Meta Reality Labs)
+* Andrew Lumsdaine (RelationalAI/PNNL/UW)
+* Ameya Patil (University of Washington)
+
 **12:15 pm&emsp;** Lunch with posters
 
 **&nbsp;&nbsp;1:30 pm&emsp;** Invited Talk 2: "Scalable OLTP in the Cloud: What's the BIG DEAL?," Pat Helland (Salesforce)
