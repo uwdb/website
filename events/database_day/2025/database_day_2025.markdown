@@ -89,9 +89,11 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 **11:15 am&emsp;** Panel - Graph Data Management (Chaired by Leilani Battle)
 
 Panelists:
-* Luna Dong (Meta Reality Labs)
-* Andrew Lumsdaine (RelationalAI/PNNL/UW)
 * Ameya Patil (University of Washington)
+* Andrew Lumsdaine (RelationalAI/PNNL/UW)
+* Luna Dong (Meta Reality Labs)
+* Raja Ravipati (Microsoft)
+* Umit Catalyurek (AWS & Georgia Tech)
 
 **12:15 pm&emsp;** Lunch with posters
 
