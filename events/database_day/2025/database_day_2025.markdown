@@ -103,7 +103,7 @@ Panelists:
 
 * "Post-train LLMs for higher factuality," Luna Dong (Meta)
 * "Vortex: Combined Storage and Runtime for RAG LLM systems," Ken Birman (Cornell University)
-* "Multi-Agent Query Processing," Arash Termehchy (Oregon State University)
+* "Learning on Dirty Data, Inference on Dirty Models," Arash Termehchy (Oregon State University)
 * "GenAI in BigQuery ML: What's New and Exciting?," Xi Cheng (Google)
 
 **&nbsp;&nbsp;3:15 pm&emsp;** BREAK
