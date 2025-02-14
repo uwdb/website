@@ -1,3 +1,7 @@
+- date: 2025-02-14
+  description: > 
+  ['Mind the Data Gap: Bridging Large Language Models (LLMs) to Enterprise Data Integration'](https://vldb.org/cidrdb/papers/2025/p34-kayali.pdf) by Moe Kayali (University of Washington), Fabian Wenz (TUM), Nesime Tatbul (Intel Labs and MIT), Cagatay Demiralp (MIT CSAIL) has been accepted at CIDR 2025.
+
 - date: 2025-02-12
   description: |
     Four papers from UWDB got accepted into SIGMOD 2025!
