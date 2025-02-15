@@ -11,8 +11,10 @@
     - ['An Adaptive Benchmark for Modeling User Exploration of Large Datasets'](https://arxiv.org/abs/2203.15748), [ACM DL](https://dl.acm.org/doi/10.1145/3709658) by Joanna Purich, Anthony Wise and Leilani Battle
 
 - date: 2024-12-10
-  description: >
-    "Partition Constraints for Conjunctive Query Bounds and Worst-Case Optimal Joins" by Kyle Deeds and Timo Camillo Merkle to appear in ICDT 2025.
+  description: |
+    Two papers from UWDB got accepted in ICDT 2025!
+    - "Partition Constraints for Conjunctive Query Bounds and Worst-Case Optimal Joins" by Kyle Deeds and Timo Camillo Merkle
+    - [Semantic foundations of equality saturation](https://arxiv.org/abs/2501.02413) by Dan Suciu, Remy Wang and Yihong Zhang
 
 - date: 2024-11-27
   description: >
