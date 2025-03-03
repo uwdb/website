@@ -24,7 +24,7 @@ Instructions to sign up for the NWDS mailing list are at the bottom of this page
 
 
 <p><a name="Bailu_Ding_2025_04_11 "></a>
-<strong>Speaker</strong>: <a href="hhttps://www.microsoft.com/en-us/research/people/badin/">Bailu Ding</a> </p>
+<strong>Speaker</strong>: <a href="https://www.microsoft.com/en-us/research/people/badin/">Bailu Ding</a> </p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
