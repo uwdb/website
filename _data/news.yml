@@ -1,3 +1,7 @@
+- date: 2025-03-03
+  description: > 
+    Kyle Deeds and Timo Camillo Merkle received the Best Paper award at ICDT 2025 for their paper [Worst-Case Optimal Joins Meet Partition Constraints](https://arxiv.org/abs/2501.04190)!
+
 - date: 2025-02-14
   description: > 
     ['Mind the Data Gap: Bridging Large Language Models (LLMs) to Enterprise Data Integration'](https://vldb.org/cidrdb/papers/2025/p34-kayali.pdf) by Moe Kayali (University of Washington), Fabian Wenz (TUM), Nesime Tatbul (Intel Labs and MIT), Cagatay Demiralp (MIT CSAIL) has been accepted at CIDR 2025.
@@ -13,7 +17,7 @@
 - date: 2024-12-10
   description: |
     Two papers from UWDB got accepted in ICDT 2025!
-    - "Partition Constraints for Conjunctive Query Bounds and Worst-Case Optimal Joins" by Kyle Deeds and Timo Camillo Merkle
+    - [Worst-Case Optimal Joins Meet Partition Constraints](https://arxiv.org/abs/2501.04190) by Kyle Deeds and Timo Camillo Merkle
     - [Semantic foundations of equality saturation](https://arxiv.org/abs/2501.02413) by Dan Suciu, Remy Wang and Yihong Zhang
 
 - date: 2024-11-27
