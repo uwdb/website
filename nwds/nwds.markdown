@@ -18,6 +18,35 @@ Instructions to sign up for the NWDS mailing list are at the bottom of this page
 
 ---
 
+#### Spring 2025
+
+---
+
+
+<p><a name="Bailu_Ding_2025_04_11 "></a>
+<strong>Speaker</strong>: <a href="hhttps://www.microsoft.com/en-us/research/people/badin/">Bailu Ding</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, April 11th, 2025, 2:30pm-3:20pm</p>
+
+<p><strong>Title</strong>:
+    Overview of Volcano and Cascades Query Optimizer
+</p>
+
+<p><strong>Abstract</strong>:
+TBD
+</p>
+
+<p><strong>Bio</strong>:
+Bailu Ding is a Principal Researcher at Data Systems group in Microsoft Research. She has been working on query processing and query optimization. Her recent work includes leveraging machine learning for database systems and increasing the efficiency of AI applications with vector search. She co-authored the book Extensible Query Optimizers in Practice published by Foundations and Trends® in Databases.
+</p>
+
+---
+
 #### Winter 2025
 
 ---
