@@ -22,6 +22,29 @@ Instructions to sign up for the NWDS mailing list are at the bottom of this page
 
 ---
 
+<p><a name="Jianguo_Wang_2025_05_02 "></a>
+<strong>Speaker</strong>: <a href="https://www.cs.purdue.edu/homes/csjgwang/">Jianguo Wang</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, May 2nd, 2025, 2:30pm-3:20pm</p>
+
+<p><strong>Title</strong>:
+    Database Systems for LLMs: Vector Databases and Beyond
+</p>
+
+<p><strong>Abstract</strong>:
+Vector databases have recently emerged as a hot topic due to the widespread interest in LLMs, where vector databases provide the relevant context that enables LLMs to generate more accurate responses. Current vector databases can be broadly categorized into two types: specialized and integrated. Specialized vector databases are explicitly designed for managing vector data, while integrated vector databases support vector search within an existing database system. While specialized vector databases are interesting, there is a significant customer base interested in integrated vector databases for various reasons, such as reluctance to move data out, the desire to link vector embeddings with their source data, and the need for advanced vector search capabilities. However, integrated vector databases face challenges in performance and interoperability. In this talk, I will share our recent experience in building integrated vector databases within two important classes of databases: Relational Databases and Graph Databases. I will show how we address the performance and interoperability challenges, resulting in much more powerful database systems that support advanced RAGs. Next, I will present other challenges in vector databases along with our ongoing work. Finally, I will discuss the broader role of database systems in the era of LLMs and explore how to build future databases that extend beyond vector databases to better support LLMs.
+</p>
+
+<p><strong>Bio</strong>:
+Jianguo Wang is an Assistant Professor of Computer Science at Purdue University. He obtained his Ph.D. from the University of California, San Diego. He has worked or interned at Zilliz, Amazon AWS, Microsoft Research, Oracle, and Samsung on various database systems. His current research interests include database systems for the cloud and LLMs, especially Disaggregated Databases and Vector Databases. He regularly publishes and serves as a program committee member at premier database conferences such as SIGMOD, VLDB, and ICDE. He also served as a panel moderator for the VLDB'24 panel on vector databases. His research has won multiple awards, including the ACM SIGMOD Research Highlight Award, the NSF CAREER Award, and the IEEE TCDE Rising Star Award.
+</p>
+
+---
 
 <p><a name="Bailu_Ding_2025_04_11 "></a>
 <strong>Speaker</strong>: <a href="https://www.microsoft.com/en-us/research/people/badin/">Bailu Ding</a> </p>
