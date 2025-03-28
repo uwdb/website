@@ -61,11 +61,11 @@ Friday, April 11th, 2025, 2:30pm-3:20pm</p>
 </p>
 
 <p><strong>Abstract</strong>:
-TBD
+The performance of a query crucially depends on the ability of the query optimizer to choose a good execution plan from a large space of alternatives. With the discovery of algebraic transformation rules, extensibility is a key requirement for query optimizers. This talk will give an overview of extensible query optimizers, focusing on the Volcano/Cascades frameworks that are used by several relational database systems in the industry.
 </p>
 
 <p><strong>Bio</strong>:
-Bailu Ding is a Principal Researcher at Data Systems group in Microsoft Research. She has been working on query processing and query optimization. Her recent work includes leveraging machine learning for database systems and increasing the efficiency of AI applications with vector search. She co-authored the book Extensible Query Optimizers in Practice published by Foundations and Trends® in Databases.
+Bailu Ding is a Principal Researcher at Data Systems group in Microsoft Research. She has been working on query processing and query optimization. Her recent work includes leveraging machine learning for database systems and increasing the efficiency of AI applications with vector search. She co-authored the book Extensible Query Optimizers in Practice published by Foundations and Trends® in Databases (<a href="https://www.nowpublishers.com/article/Details/DBS-077">https://www.nowpublishers.com/article/Details/DBS-077</a>).
 </p>
 
 ---
