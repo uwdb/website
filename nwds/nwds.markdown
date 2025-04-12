@@ -68,6 +68,8 @@ The performance of a query crucially depends on the ability of the query optimiz
 Bailu Ding is a Principal Researcher at Data Systems group in Microsoft Research. She has been working on query processing and query optimization. Her recent work includes leveraging machine learning for database systems and increasing the efficiency of AI applications with vector search. She co-authored the book Extensible Query Optimizers in Practice published by Foundations and Trends® in Databases (<a href="https://www.nowpublishers.com/article/Details/DBS-077">https://www.nowpublishers.com/article/Details/DBS-077</a>).
 </p>
 
+<a href="https://www.youtube.com/watch?v=YOIQbm6eH-U">Recording</a>
+
 ---
 
 #### Winter 2025
