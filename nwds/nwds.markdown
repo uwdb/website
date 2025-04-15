@@ -10,11 +10,125 @@ id: "nwds"
 ## Mission Statement
 The goal of NWDS is to bring together researchers and practitioners in the field of databases and data management systems working in the Pacific North-West.
 
-One of our main activities is a talk series with a variety of distinguished speakers from academia and industry.
+One of our main activities is a an annual meeting. See here the [list of past meetings](https://db.cs.washington.edu/events/events.html).
 
-We thank our [UWDB affiliates](http://db.cs.washington.edu/affiliates.html) for supporting NWDS.
+The other main activity is a talk series with a variety of distinguished speakers from academia and industry. The details are below. Our past talks can be found on the NWDS [youtube channel](https://www.youtube.com/channel/UCjTWKbxmf6uQ-l5Rp1g68BQ/videos). Please note that not all talks are recorded.
 
-Our past talks can be found on the NWDS [youtube channel](https://www.youtube.com/channel/UCjTWKbxmf6uQ-l5Rp1g68BQ/videos).
+Instructions to sign up for the NWDS mailing list are at the bottom of this page.
+
+---
+
+#### Spring 2025
+
+---
+
+<p><a name="Jianguo_Wang_2025_05_02 "></a>
+<strong>Speaker</strong>: <a href="https://www.cs.purdue.edu/homes/csjgwang/">Jianguo Wang</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, May 2nd, 2025, 2:30pm-3:20pm</p>
+
+<p><strong>Title</strong>:
+    Database Systems for LLMs: Vector Databases and Beyond
+</p>
+
+<p><strong>Abstract</strong>:
+Vector databases have recently emerged as a hot topic due to the widespread interest in LLMs, where vector databases provide the relevant context that enables LLMs to generate more accurate responses. Current vector databases can be broadly categorized into two types: specialized and integrated. Specialized vector databases are explicitly designed for managing vector data, while integrated vector databases support vector search within an existing database system. While specialized vector databases are interesting, there is a significant customer base interested in integrated vector databases for various reasons, such as reluctance to move data out, the desire to link vector embeddings with their source data, and the need for advanced vector search capabilities. However, integrated vector databases face challenges in performance and interoperability. In this talk, I will share our recent experience in building integrated vector databases within two important classes of databases: Relational Databases and Graph Databases. I will show how we address the performance and interoperability challenges, resulting in much more powerful database systems that support advanced RAGs. Next, I will present other challenges in vector databases along with our ongoing work. Finally, I will discuss the broader role of database systems in the era of LLMs and explore how to build future databases that extend beyond vector databases to better support LLMs.
+</p>
+
+<p><strong>Bio</strong>:
+Jianguo Wang is an Assistant Professor of Computer Science at Purdue University. He obtained his Ph.D. from the University of California, San Diego. He has worked or interned at Zilliz, Amazon AWS, Microsoft Research, Oracle, and Samsung on various database systems. His current research interests include database systems for the cloud and LLMs, especially Disaggregated Databases and Vector Databases. He regularly publishes and serves as a program committee member at premier database conferences such as SIGMOD, VLDB, and ICDE. He also served as a panel moderator for the VLDB'24 panel on vector databases. His research has won multiple awards, including the ACM SIGMOD Research Highlight Award, the NSF CAREER Award, and the IEEE TCDE Rising Star Award.
+</p>
+
+---
+
+<p><a name="Bailu_Ding_2025_04_11 "></a>
+<strong>Speaker</strong>: <a href="https://www.microsoft.com/en-us/research/people/badin/">Bailu Ding</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, April 11th, 2025, 2:30pm-3:20pm</p>
+
+<p><strong>Title</strong>:
+    Overview of Volcano and Cascades Query Optimizer
+</p>
+
+<p><strong>Abstract</strong>:
+The performance of a query crucially depends on the ability of the query optimizer to choose a good execution plan from a large space of alternatives. With the discovery of algebraic transformation rules, extensibility is a key requirement for query optimizers. This talk will give an overview of extensible query optimizers, focusing on the Volcano/Cascades frameworks that are used by several relational database systems in the industry.
+</p>
+
+<p><strong>Bio</strong>:
+Bailu Ding is a Principal Researcher at Data Systems group in Microsoft Research. She has been working on query processing and query optimization. Her recent work includes leveraging machine learning for database systems and increasing the efficiency of AI applications with vector search. She co-authored the book Extensible Query Optimizers in Practice published by Foundations and Trends® in Databases (<a href="https://www.nowpublishers.com/article/Details/DBS-077">https://www.nowpublishers.com/article/Details/DBS-077</a>).
+</p>
+
+<a href="https://www.youtube.com/watch?v=YOIQbm6eH-U">Recording</a>
+
+---
+
+#### Winter 2025
+
+---
+
+<p><a name="Dan_Olteanu_2025_01_10 "></a>
+<strong>Speaker</strong>: <a href="https://www.ifi.uzh.ch/en/dast/people/Olteanu.html">Dan Olteanu</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, January 10th, 2025, 2:30pm-3:20pm</p>
+
+<p><strong>Title</strong>:
+    Factorized Databases
+</p>
+
+<p><strong>Abstract</strong>:
+In this talk I will explain the foundations of factorized databases and overview some of their applications.
+Factorized databases are compressed yet lossless representations of relational data that allow for efficient processing in the compressed domain. They are relational algebra expressions built using the union operator, the Cartesian product operator and data values. By exploiting the distributivity of product over union, they avoid the redundancy in the tabular representation of relational data. Factorized representations of query results can be computed directly from the input database and in time proportional to their sizes and the input database size.
+Since their introduction about a decade ago, there has been great progress on the theory, systems and applications of factorized databases to: relational query processing, provenance management, probabilistic databases, incremental view maintenance,  graph databases, and in-database machine learning.
+</p>
+
+<p><strong>Bio</strong>:
+Dan Olteanu is a professor at the University of Zurich, where he leads the Data Systems and Theory group (<a href="https://www.ifi.uzh.ch/en/dast.html">https://www.ifi.uzh.ch/en/dast.html</a>), and a computer scientist at RelationalAI (<a href="https://relational.ai">https://relational.ai</a>).  He currently works on incremental view maintenance, cardinality estimation, in-database machine learning and linear algebra, adaptive query processing, and fact attribution in query answering.
+</p>
+
+<a href="https://www.youtube.com/watch?v=GaORwqKh1mk">Recording</a>
+
+---
+
+#### Fall 2024
+
+---
+
+<p><a name="Anastasia_Ailamaki_2024_11_21 "></a>
+<strong>Speaker</strong>: <a href="https://people.epfl.ch/anastasia.ailamaki/?lang=en">Anastasia Ailamaki</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Thursday, November 21st, 2024, 11am-12pm</p>
+
+<p><strong>Title</strong>:
+    The New Memory Wall and how it changes database system design
+</p>
+
+<p><strong>Abstract</strong>:
+To bridge the ever-growing memory-processor speed gap (aka the "memory wall"), computer architects introduce new levels of caching that trade capacity for speed, and database designers develop cache-aware query processing algorithms since the late 1990s. Nowadays distributed query processing on the cloud is the norm; memory resources grow increasingly heterogeneous and disaggregated, mitigating the benefit of cache-aware query processing techniques. Recently, in contrast with traditional CPU-centric architectures, "memory-centric" systems that use memory pooling attract interest but also raise significant challenges as data move in unpredictable ways along a multi-dimensional memory hierarchy. Therefore, data movement emerges as a key performance bottleneck as it incurs a major cost in distributed query processing. In this talk, I will discuss the new memory wall and the challenges and opportunities it brings to database system design.
+</p>
+
+<p><strong>Bio</strong>:
+Anastasia Ailamaki is a Professor of Computer and Communication Sciences at the École Polytechnique Fédérale de Lausanne (EPFL), a visiting researcher at Google, and the co-founder and Chair of the Board of Directors of RAW Labs SA, a Swiss company developing systems to analyze heterogeneous big data from multiple sources efficiently. She earned a Ph.D. in Computer Science from the University of Wisconsin-Madison in 2000. She has received the 2019 ACM SIGMOD Edgar F. Codd Innovations Award and the 2020 VLDB Women in Database Research Award. She is also the recipient of an ERC Consolidator Award (2013), the Finmeccanica endowed chair from the Computer Science Department at Carnegie Mellon (2007), a European Young Investigator Award from the European Science Foundation (2007), an Alfred P. Sloan Research Fellowship (2005), an NSF CAREER award (2002), twelve best-paper awards and three Test-of-Time prizes at international scientific conferences. She has received the 2018 Nemitsas Prize in Computer Science by the President of Cyprus and the 2021 ARGO Innovation Award by the President of the Hellenic Republic. She is an ACM fellow, an IEEE fellow, a member of the Academia Europaea, and an elected member of the Swiss, the Belgian, the Greek, and the Cypriot National Research Councils.
+</p>
 
 ---
 

@@ -1,0 +1,39 @@
+<div class="row" style="margin-bottom: 15px;">
+    <div class="col-md-3 col-lg-2">
+        <img
+            src="https://s3-us-west-2.amazonaws.com/www-cse-public/images/portraits/magda_sm.jpg"
+            style="width: 159px"
+            alt="Photo of Magdalena Balazinska">
+    </div>
+
+    <div class="col-md-9 col-lg-10">
+        <h1 style="margin-top: 0px;">Magdalena Balazinska</h1>
+        <ul class="less-compact list-style-none" style="padding-left: 0px;">
+            <li>CSE 584</li>
+            <li>206-616-1069</li>
+            <li>magda <span>'@'</span> cs.washington.edu</li>
+            <li>
+                <a href="https://www.cs.washington.edu/research/data_management">Data Science, Data Management &amp;
+                    Visualization</a>
+            </li>
+            <li>
+                Areas of interest: Databases, cloud computing, big-data analytics, scientific data management,
+                machine learning and data management, image and video analytics, data management for VR/AR
+            </li>
+        </ul>
+    </div>
+</div>
+
+<ul class="nav nav-tabs">
+    {% for subpage in site.data.magda.page_list %}
+
+    <li class="nav-item">
+        <a
+            class="nav-link {% if page.url == subpage.url %} active {% endif %}"
+            {% if page.url == subpage.url %} aria-current="page" {% endif %}
+            href="{{ subpage.url }}">
+            {{ subpage.title }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>

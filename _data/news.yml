@@ -1,3 +1,29 @@
+- date: 2025-03-03
+  description: > 
+    Kyle Deeds and Timo Camillo Merkle received the Best Paper award at ICDT 2025 for their paper [Worst-Case Optimal Joins Meet Partition Constraints](https://arxiv.org/abs/2501.04190)!
+
+- date: 2025-02-14
+  description: > 
+    ['Mind the Data Gap: Bridging Large Language Models (LLMs) to Enterprise Data Integration'](https://vldb.org/cidrdb/papers/2025/p34-kayali.pdf) by Moe Kayali (University of Washington), Fabian Wenz (TUM), Nesime Tatbul (Intel Labs and MIT), Cagatay Demiralp (MIT CSAIL) has been accepted at CIDR 2025.
+
+- date: 2025-02-12
+  description: |
+    Four papers from UWDB got accepted into SIGMOD 2025!
+    - ['Galley: Modern Query Optimization for Sparse Tensor Programming'](https://arxiv.org/abs/2408.14706) by Kyle Deeds, Willow Ahrens, Magda Balazinska and Dan Suciu
+    - ['Self-Enhancing Video Data Management System for Compositional Events with Large Language Models'](https://arxiv.org/abs/2408.02243) by Enhao Zhang, Nicole Sullivan, Brandon Haynes, Ranjay Krishna, and Magdalena Balazinska
+    - ['HoneyComb: A Parallel Worst-Case Optimal Join on Multicores'](https://arxiv.org/abs/2502.06715) by Jiacheng Wu and Dan Suciu
+    - ['An Adaptive Benchmark for Modeling User Exploration of Large Datasets'](https://arxiv.org/abs/2203.15748), [ACM DL](https://dl.acm.org/doi/10.1145/3709658) by Joanna Purich, Anthony Wise and Leilani Battle
+
+- date: 2024-12-10
+  description: |
+    Two papers from UWDB got accepted in ICDT 2025!
+    - [Worst-Case Optimal Joins Meet Partition Constraints](https://arxiv.org/abs/2501.04190) by Kyle Deeds and Timo Camillo Merkle
+    - [Semantic foundations of equality saturation](https://arxiv.org/abs/2501.02413) by Dan Suciu, Remy Wang and Yihong Zhang
+
+- date: 2024-11-27
+  description: >
+    [Magda](https://www.cs.washington.edu/people/faculty/magda/) just received the Test-of-Time award at CIDR for her wonderful work on [Borealis](https://www.cidrdb.org/cidr2005/papers/P23.pdf) data stream processing system. 
+
 - date: 2024-05-27
   description: >
     '[Demonstration of MaskSearch: Efficiently Querying Image Masks for Machine Learning Workflows](https://arxiv.org/pdf/2404.06563)' by Lindsey Linxi Wei, Chung Yik Edward Yeung, Hongjian Yu, Jingchuan Zhou, Dong He, Magdalena Balazinska has been accepted at VLDB 2024.
