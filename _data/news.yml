@@ -1,3 +1,7 @@
+- date: 2025-03-26
+  description: > 
+    '[MaskSearch: Querying Image Masks at Scale](https://dongheuw.github.io/files/masksearch-icde2025.pdf)' by [Dong He](https://dongheuw.github.io/), Jieyu Zhang, Maureen Daum, Alexander Ratner, and Magdalena Balazinska has been accepted at ICDE 2025.
+
 - date: 2025-03-03
   description: > 
     Kyle Deeds and Timo Camillo Merkle received the Best Paper award at ICDT 2025 for their paper [Worst-Case Optimal Joins Meet Partition Constraints](https://arxiv.org/abs/2501.04190)!
