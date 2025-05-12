@@ -44,6 +44,8 @@ Vector databases have recently emerged as a hot topic due to the widespread inte
 Jianguo Wang is an Assistant Professor of Computer Science at Purdue University. He obtained his Ph.D. from the University of California, San Diego. He has worked or interned at Zilliz, Amazon AWS, Microsoft Research, Oracle, and Samsung on various database systems. His current research interests include database systems for the cloud and LLMs, especially Disaggregated Databases and Vector Databases. He regularly publishes and serves as a program committee member at premier database conferences such as SIGMOD, VLDB, and ICDE. He also served as a panel moderator for the VLDB'24 panel on vector databases. His research has won multiple awards, including the ACM SIGMOD Research Highlight Award, the NSF CAREER Award, and the IEEE TCDE Rising Star Award.
 </p>
 
+<a href="https://www.youtube.com/watch?v=oMXm2_QoGGg">Recording</a>
+
 ---
 
 <p><a name="Bailu_Ding_2025_04_11 "></a>
