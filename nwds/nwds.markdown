@@ -20,6 +20,34 @@ Instructions to sign up for the NWDS mailing list are at the bottom of this page
 
 #### Spring 2025
 
+
+---
+
+<p><a name="Richard_Wesley_2025_05_16 "></a>
+<strong>Speaker</strong>: <a href="https://www.linkedin.com/in/riwesley">Richard Wesley</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, May 2nd, 2025, 2:30pm-3:20pm</p>
+
+<p><strong>Title</strong>:
+    Working at DuckDB
+</p>
+
+<p><strong>Abstract</strong>:
+DuckDB is a relatively new embedded analytic database. Although it was developed at a research institution (CWI), it is now out in the wild as an open source project with commercial support through DuckDB Labs BV. In this talk, one of the core team will explain what it is, why it is, and how interactions between the user base and the research community have influenced his work on the ordered data subsystems.
+</p>
+
+<p><strong>Bio</strong>:
+Richard is an IBM brat who started programming in the mid-1970s. After a brief flirtation with pure math, he moved to Seattle in 1989, where he worked in the software industry, specializing in digital signal processing. In 2004, he joined visualization pioneer Tableau, where he worked on connectivity, query compilation, and performance, including being the lead developer for the Tableau Data Engine. He tried to retire in 2019 but spent so much time hacking on DuckDB that Hannes tracked him down and invited him to join the DuckDB Labs team, where he focuses on temporal data processing.
+</p>
+
+<a href="https://www.youtube.com/watch?v=TNZm-uQPRg8">Recording</a>
+
+
 ---
 
 <p><a name="Jianguo_Wang_2025_05_02 "></a>
