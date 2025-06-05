@@ -9,11 +9,17 @@ The UW database group has done several projects over the years which attempt to 
 
 ## Quasi-Stable Cardinality Estimation
 
-### Project Motivation
-This work attempts to apply state of the art graph summarization methods related to weisfeiler-lehman graph refinement to the problem of cardinality estimation for subgraph matching workloads. At a high level, our approach first converts the data graph into a smaller, weighted "colored graph", then it performs subgraph matching on the colored graph and uses these matches to estimate the number of matches in the overall data graph.
+<div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
+  <img src="../../images/projects/COLOR-intro.pdf" alt="Logo" style="width: 40rem" />
+  <p>Quasi-Stable Cardinality Estimation</p>
+  <p>
+  	<a class="btn btn-primary btn-lg label-primary" href="https://www.vldb.org/pvldb/vol18/p130-deeds.pdf" role="button" style="width: 220px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
+  	<a class="btn btn-primary btn-lg label-primary" href="https://github.com/uwdb/color" role="button" style="width: 220px;"><span style="position: relative; top:10px">Explore the Code</span><br/><small>&nbsp;</small></a>
+  </p>
+</div>
 
-### Work in Progress
-This work is currently in progress, but we hope to share results soon!
+### Project Motivation
+Graph workloads pose a particularly challenging problem for query optimizers. They typically feature large queries made up of entirely many-to-many joins with complex correlations. This puts significant stress on traditional cardinality estimation methods which generally see catastrophic errors when estimating the size of queries with only a handful of joins. To overcome this, we propose COLOR, a frame- work for subgraph cardinality estimation which applies insights from graph compression theory to produce a compact summary that captures the global topology of the data graph. Further, we identify several key optimizations that enable tractable estimation over this summary even for large query graphs. We then evaluate several designs within this framework and find that they improve accuracy by up to 103� over all competing methods while maintaining fast inference, a small memory footprint, efficient construction, and graceful degradation under updates.
 
 ## SafeBound
 
