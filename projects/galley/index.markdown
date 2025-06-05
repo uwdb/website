@@ -23,3 +23,4 @@ Sparse tensor programming is an emerging paradigm that attempts to generalize th
 
 
 #### Acknowledgments
+This work was supported by NSF SHF 2312195 and NSF IIS 2314527.
