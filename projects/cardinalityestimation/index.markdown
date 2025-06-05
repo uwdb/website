@@ -10,7 +10,7 @@ The UW database group has done several projects over the years which attempt to 
 ## Quasi-Stable Cardinality Estimation
 
 <div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
-  <img src="../../images/projects/COLOR-intro.pdf" alt="Logo" style="width: 40rem" />
+  <img src="../../images/projects/COLOR-intro.png" alt="Logo" style="width: 40rem" />
   <p>Quasi-Stable Cardinality Estimation</p>
   <p>
   	<a class="btn btn-primary btn-lg label-primary" href="https://www.vldb.org/pvldb/vol18/p130-deeds.pdf" role="button" style="width: 220px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
