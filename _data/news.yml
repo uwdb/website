@@ -1,13 +1,17 @@
+- date: 2025-05-08
+  description: >
+    '[Bootstrapping Compositional Video Query Synthesis with Natural Language and Previous Queries from Users](https://db.cs.washington.edu/projects/visualworld/poly-vocal.pdf)' by Manasi Ganti, Enhao Zhang, and Magdalena Balazinska has been accepted at the HILDA workshop, SIGMOD 2025.
+
 - date: 2025-03-26
-  description: > 
+  description: >
     '[MaskSearch: Querying Image Masks at Scale](https://dongheuw.github.io/files/masksearch-icde2025.pdf)' by [Dong He](https://dongheuw.github.io/), Jieyu Zhang, Maureen Daum, Alexander Ratner, and Magdalena Balazinska has been accepted at ICDE 2025.
 
 - date: 2025-03-03
-  description: > 
+  description: >
     Kyle Deeds and Timo Camillo Merkle received the Best Paper award at ICDT 2025 for their paper [Worst-Case Optimal Joins Meet Partition Constraints](https://arxiv.org/abs/2501.04190)!
 
 - date: 2025-02-14
-  description: > 
+  description: >
     ['Mind the Data Gap: Bridging Large Language Models (LLMs) to Enterprise Data Integration'](https://vldb.org/cidrdb/papers/2025/p34-kayali.pdf) by Moe Kayali (University of Washington), Fabian Wenz (TUM), Nesime Tatbul (Intel Labs and MIT), Cagatay Demiralp (MIT CSAIL) has been accepted at CIDR 2025.
 
 - date: 2025-02-12
@@ -26,7 +30,7 @@
 
 - date: 2024-11-27
   description: >
-    [Magda](https://www.cs.washington.edu/people/faculty/magda/) just received the Test-of-Time award at CIDR for her wonderful work on [Borealis](https://www.cidrdb.org/cidr2005/papers/P23.pdf) data stream processing system. 
+    [Magda](https://www.cs.washington.edu/people/faculty/magda/) just received the Test-of-Time award at CIDR for her wonderful work on [Borealis](https://www.cidrdb.org/cidr2005/papers/P23.pdf) data stream processing system.
 
 - date: 2024-05-27
   description: >
@@ -51,11 +55,11 @@
 - date: 2023-08-18
   description: >
     '[VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building](https://www.vldb.org/pvldb/vol16/p4188-daum.pdf)' by Maureen Daum, Enhao Zhang, Dong He, Stephen Mussmann, Brandon Haynes, Ranjay Krishna, and Magdalena Balazinska to appear at VLDB 2024.
-    
+
 - date: 2023-06-16
   description: >
     '[EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions](https://dl.acm.org/doi/abs/10.14778/3611479.3611482)' by Enhao Zhang, Maureen Daum, Dong He, Brandon Haynes, Ranjay Krishna, and Magdalena Balazinska has been accepted at VLDB 2023.
-    
+
 - date: 2023-01-27
   description: >
     '[Free Join: Unifying Worst-Case Optimal and Traditional Joins](https://arxiv.org/abs/2301.10841)' by Remy Wang, Max Willsey, and Dan Suciu to appear at SIGMOD 2023.

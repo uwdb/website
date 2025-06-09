@@ -79,7 +79,7 @@ VisualWorld projects explore video data management from a number of perspectives
 		With the emerging ubiquity of video data across diverse applications, the accessibility of video analytics is essential. To address this goal, some state-of-the-art systems synthesize declarative queries over video databases using example video fragments provided by the user. However, finding examples of what a user is looking for can still be tedious. This work presents POLY-VOCAL, a new system that eases this burden. POLY-VOCAL uses multiple forms of user input to bootstrap the synthesis of a new query, including textual descriptions of the user's search and previously synthesized queries. Our empirical evaluation demonstrates that POLY-VOCAL significantly improves accuracy and accelerates query convergence compared with query synthesis from only user-labeled examples, while lowering the effort required from users.
 	</p>
 	<p>
-		<strong>Bootstrapping Compositional Video Query Synthesis with Natural Language and Previous Queries from Users.</strong> Manasi Ganti, Enhao Zhang, Magdalena Balazinska. <strong><i>HILDA</i></strong>, 2025. <a class="btn btn-primary btn-xs" href="poly-vocal.pdf" role="button">Paper</a>
+		<strong>Bootstrapping Compositional Video Query Synthesis with Natural Language and Previous Queries from Users.</strong> Manasi Ganti, Enhao Zhang, Magdalena Balazinska. <strong><i>HILDA @ SIGMOD</i></strong>, 2025. <a class="btn btn-primary btn-xs" href="poly-vocal.pdf" role="button">Paper</a>
 	</p>
   </div>
 </div>
