@@ -12,8 +12,6 @@ permalink: /people/magda/students
 
 * Kyle Deeds
 
-* Dong He
-
 * Nicole Sullivan
 
 * Guorui Xiao
@@ -23,9 +21,11 @@ permalink: /people/magda/students
 
 ## Former PhD Students, First Employment, and Thesis
 
+* __Dong He,__ 2024, Meta<br>Thesis on [XXX](http://homes.cs.washington.edu/~magda/theses/he_thesis_2024.pdf)
+
 * __Maureen Daum,__ 2023, Numbers Station<br>Thesis on [Data Storage and Exploration in a Video Data Management System](http://homes.cs.washington.edu/~magda/theses/daum_thesis_2023.pdf)
 
-* __Walter Cai__, 2021, Snowflake<br>Thesis on Novel Data Summaries for Join Query Optimization
+* __Walter Cai__, 2021, Snowflake<br>Thesis on [Novel Data Summaries for Join Query Optimization](http://homes.cs.washington.edu/~magda/theses/cai_thesis_2021.pdf)
 
 * __Parmita Mehta__, 2020, Microsoft<br> Thesis on [Large Scale Analytics on Scientific Image Data](http://homes.cs.washington.edu/~magda/theses/mehta_thesis_2020.pdf)
 
