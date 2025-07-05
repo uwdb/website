@@ -1,3 +1,7 @@
+- date: 2025-07-01
+  description: >
+    'CENTS: A Flexible and Cost-Effective Framework for LLM-Based Table Understanding' by Guorui Xiao, Dong He, Jin Wang, and Magdalena Balazinska has been accepted at VLDB 2025.
+
 - date: 2025-05-08
   description: >
     '[Bootstrapping Compositional Video Query Synthesis with Natural Language and Previous Queries from Users](https://db.cs.washington.edu/projects/visualworld/poly-vocal.pdf)' by Manasi Ganti, Enhao Zhang, and Magdalena Balazinska has been accepted at the HILDA workshop, SIGMOD 2025.
