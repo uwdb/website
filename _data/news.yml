@@ -2,6 +2,10 @@
   description: >
     'CENTS: A Flexible and Cost-Effective Framework for LLM-Based Table Understanding' by Guorui Xiao, Dong He, Jin Wang, and Magdalena Balazinska has been accepted at VLDB 2025.
 
+- date: 2025-06-25
+  description: >
+    '[LpBound: Pessimistic Cardinality Estimation using ℓp-Norms of Degree Sequences](https://arxiv.org/abs/2502.05912)' by Haozhe Zhang, Christoph Mayer, Mahmoud Abo Khamis, Dan Olteanu, Dan Suciu received the SIGMOD'2025 Best Paper Award.
+
 - date: 2025-05-08
   description: >
     '[Bootstrapping Compositional Video Query Synthesis with Natural Language and Previous Queries from Users](https://db.cs.washington.edu/projects/visualworld/poly-vocal.pdf)' by Manasi Ganti, Enhao Zhang, and Magdalena Balazinska has been accepted at the HILDA workshop, SIGMOD 2025.
