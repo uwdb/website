@@ -77,7 +77,7 @@ VisualWorld projects explore video data management from a number of perspectives
 <div class="media">
   <div class="media-left">
     <a href="#">
-      <!-- <img src="" class="card-img" alt="POLY-VOCAL Logo" /> -->
+      <img src="../../images/projects/poly-vocal.png" class="card-img" alt="POLY-VOCAL Logo" />
     </a>
   </div>
   <div class="media-body">
