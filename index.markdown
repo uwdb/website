@@ -16,10 +16,8 @@ rank: 0
 
 <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
 
-<p class="lead">
-<b>Innovating the Future of Data Management at the University of Washington</b></p>
-
-<p>The University of Washington’s database group is at the forefront of pioneering research that transcends traditional boundaries of data management. Our multidisciplinary team explores cutting-edge areas including multimodal database systems, the intersection of generative AI and data management, dynamic query evaluation and optimization,  immersive, scalable data visualization, and user-centered research. We are passionate about transforming how data is stored, accessed, and understood—driving innovation that empowers scientists, industries, and society to harness the full potential of data in the AI era.
+## Innovating the Future of Data Management at the University of Washington
+<p class="lead">The University of Washington’s database group is at the forefront of pioneering research that transcends traditional boundaries of data management. Our multidisciplinary team explores cutting-edge areas including multimodal database systems, the intersection of generative AI and data management, dynamic query evaluation and optimization,  immersive, scalable data visualization, and user-centered research. We are passionate about transforming how data is stored, accessed, and understood—driving innovation that empowers scientists, industries, and society to harness the full potential of data in the AI era.
 </p>
 
 <p class="lead">
