@@ -18,8 +18,38 @@ Instructions to sign up for the NWDS mailing list are at the bottom of this page
 
 ---
 
-#### Spring 2025
+#### Fall 2025
 
+---
+
+<p><a name="Mahmoud_Abo_Khamis_2025_10_17"></a>
+<strong>Speaker</strong>: <a href="https://www.linkedin.com/in/mahmoud-abo-khamis">Mahmoud Abo Khamis</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, October 17th, 2025, 2:30pm-3:20pm</p>
+
+<p><strong>Title</strong>:
+    Query Evaluation: From Static to Dynamic
+</p>
+
+<p><strong>Abstract</strong>:
+In recent years, database theory has witnessed multiple advancements in lowering the complexity of evaluating conjunctive (and aggregate) queries. These advancements were mostly driven by three kinds of techniques: Worst-case optimal join algorithms, tree decompositions, and data partitioning, all of which have been shown to be unifiable under the umbrella of information theory, which increasingly appears to be the right language to describe the theory of query evaluation.
+
+Nevertheless, the above advancements remain largely restricted to the static setting, where the database is fixed. This is in contrast to query evaluation in the dynamic setting, where we are receiving a stream of updates into the input database, and our target is to produce a stream of updates to the query output, while minimizing the (amortized) update time. In the dynamic setting, our knowledge seems to be a lot more sparse, where most existing results are restricted to isolated queries, and a general understanding of the complexity of the problem remains elusive. In this talk, we investigate ways to leverage recent advancements in the static setting to improve our understanding of the dynamic setting. We show how to transfer some upper and lower bounds between the two settings, and highlight some open questions.
+</p>
+
+<p><strong>Bio</strong>:
+Mahmoud Abo Khamis is a Senior Computer Scientist at RelationalAI, where he has worked since 2017. He received his Ph.D. in Computer Science and Engineering from the State University of New York at Buffalo in 2016. Prior to joining RelationalAI, he was a Senior Database Engineer at Infor from 2015 to 2017. His research interests include database systems and theory, in-database machine learning, query optimization and evaluation, information theory, and beyond worst-case analysis. His work has been recognized with the ACM PODS 2025 Test-of-Time Award, best paper awards at ACM SIGMOD 2025 and ACM PODS 2022 and 2016, three ACM SIGMOD Research Highlight Awards, and the 2016 Best CSE Dissertation Award from SUNY Buffalo. His work has also received multiple invitations to the Journal of the ACM, ACM STOC, and ACM TODS. He serves on the program committees of ACM PODS and ICDT, and is a reviewer for the VLDB Journal and ACM TODS, among others.
+</p>
+
+
+---
+
+#### Spring 2025
 
 ---
 
