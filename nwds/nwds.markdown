@@ -46,6 +46,7 @@ Nevertheless, the above advancements remain largely restricted to the static set
 Mahmoud Abo Khamis is a Senior Computer Scientist at RelationalAI, where he has worked since 2017. He received his Ph.D. in Computer Science and Engineering from the State University of New York at Buffalo in 2016. Prior to joining RelationalAI, he was a Senior Database Engineer at Infor from 2015 to 2017. His research interests include database systems and theory, in-database machine learning, query optimization and evaluation, information theory, and beyond worst-case analysis. His work has been recognized with the ACM PODS 2025 Test-of-Time Award, best paper awards at ACM SIGMOD 2025 and ACM PODS 2022 and 2016, three ACM SIGMOD Research Highlight Awards, and the 2016 Best CSE Dissertation Award from SUNY Buffalo. His work has also received multiple invitations to the Journal of the ACM, ACM STOC, and ACM TODS. He serves on the program committees of ACM PODS and ICDT, and is a reviewer for the VLDB Journal and ACM TODS, among others.
 </p>
 
+<a href="https://www.youtube.com/watch?v=453JuoYFoYQ">Recording</a>
 
 ---
 
