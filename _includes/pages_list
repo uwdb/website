@@ -1,28 +1,30 @@
-<li {% if page.id == 'people' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/people.html"><i class="fa fa-id-card-o"></i> People</a>
+<li {% if page.id=='people' %}class="active" {% endif %}>
+  <a href="{{ site.baseurl }}/people.html"><i class="fa fa-id-card-o" aria-hidden="true"></i> <span>People</span></a>
 </li>
 
-<li {% if page.id == 'projects' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/projects.html"><i class="fa fa-graduation-cap"></i> Projects</a>
+<li {% if page.id=='projects' %}class="active" {% endif %}>
+  <a href="{{ site.baseurl }}/projects.html"><i class="fa fa-graduation-cap" aria-hidden="true"></i>
+    <span>Projects</span></a>
 </li>
 
-<li {% if page.id == 'courses' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/courses.html"><i class="fa fa-book"></i> Courses</a>
+<li {% if page.id=='courses' %}class="active" {% endif %}>
+  <a href="{{ site.baseurl }}/courses.html"><i class="fa fa-book" aria-hidden="true"></i> <span>Courses</span></a>
 </li>
 
-<li {% if page.id == 'nwds' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/nwds/nwds.html"><i class="fa fa-compass"></i> NWDS</a>
+<li {% if page.id=='nwds' %}class="active" {% endif %}>
+  <a href="{{ site.baseurl }}/nwds/nwds.html"><i class="fa fa-compass" aria-hidden="true"></i> <span>NWDS</span></a>
 </li>
 
-<li {% if page.id == 'affiliates' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/affiliates.html"><i class="fa fa-group"></i> Affiliates</a>
+<li {% if page.id=='affiliates' %}class="active" {% endif %}>
+  <a href="{{ site.baseurl }}/affiliates.html"><i class="fa fa-group" aria-hidden="true"></i>
+    <span>Affiliates</span></a>
 </li>
 
-<li {% if page.id == 'news' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/news.html"><i class="fa fa-newspaper-o"></i> News</a>
+<li {% if page.id=='news' %}class="active" {% endif %}>
+  <a href="{{ site.baseurl }}/news.html"><i class="fa fa-newspaper-o" aria-hidden="true"></i> <span>News</span></a>
 </li>
 
-<li {% if page.id == 'events' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/events/events.html"><i class="fa fa-calendar"></i> Talks and Events</a>
+<li {% if page.id=='events' %}class="active" {% endif %}>
+  <a href="{{ site.baseurl }}/events/events.html"><i class="fa fa-calendar" aria-hidden="true"></i> <span>Talks and
+      Events</span></a>
 </li>
-
