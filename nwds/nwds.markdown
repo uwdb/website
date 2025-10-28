@@ -486,7 +486,7 @@ I'll spend the bulk of the talk deep-diving into our recent research towards the
 </p>
 
 <p><strong>Bio</strong>:
-See <a href="https://kiciman.org/about/">here</a>.
+<a href="https://kiciman.org/about/">View Emre Kiciman's bio</a>.
 </p>
 
 <a href="https://youtu.be/v27iTSkYugU">Recording</a>
@@ -757,7 +757,7 @@ ___
 [Sign up for the nwds mailing list](http://mailman.cs.washington.edu/mailman/listinfo/nwds). We
 use this list primarily to send announcements for upcoming events. After you register, you can send mail to that list at nwds at cs.washington.edu.
 
-To become a member, please contact [Magda](http://www.cs.washington.edu/homes/magda/) or [Dan](http://www.cs.washington.edu/homes/suciu/).
+To become a member, please contact [Dan](http://www.cs.washington.edu/homes/suciu/) or [Magda](http://www.cs.washington.edu/homes/magda/).
 
 ___
 
