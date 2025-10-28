@@ -18,7 +18,7 @@ Instructions to sign up for the NWDS mailing list are at the bottom of this page
 
 ---
 
-#### Fall 2025
+### Fall 2025
 
 ---
 
@@ -50,7 +50,7 @@ Mahmoud Abo Khamis is a Senior Computer Scientist at RelationalAI, where he has 
 
 ---
 
-#### Spring 2025
+### Spring 2025
 
 ---
 
@@ -133,7 +133,7 @@ Bailu Ding is a Principal Researcher at Data Systems group in Microsoft Research
 
 ---
 
-#### Winter 2025
+### Winter 2025
 
 ---
 
@@ -165,7 +165,7 @@ Dan Olteanu is a professor at the University of Zurich, where he leads the Data 
 
 ---
 
-#### Fall 2024
+### Fall 2024
 
 ---
 
@@ -193,7 +193,7 @@ Anastasia Ailamaki is a Professor of Computer and Communication Sciences at the 
 
 ---
 
-#### Spring 2024
+### Spring 2024
 
 ---
 
@@ -250,7 +250,7 @@ Jun Yang is currently the Bishop-MacDermott Family Professor of Computer Science
 
 ---
 
-<p><a href="https://www.youtube.com/watch?v=4hhO4pNi7UQ" name="Luca_Scheerer_2024_03_05"></a>
+<p><a name="Luca_Scheerer_2024_03_05"></a>
 <strong>Speaker</strong>: <a href="https://www.jlscheerer.me/">Luca Scheerer</a>
 </p>
 
@@ -277,7 +277,7 @@ Luca Scheerer is a second year Computer Science MSc student at ETH Zurich specia
 
 ---
 
-#### Winter 2024
+### Winter 2024
 
 ---
 
@@ -387,7 +387,7 @@ Jin Wang is a research scientist and research lead from Megagon Labs. Before tha
 
 ---
 
-#### Winter 2023
+### Winter 2023
 
 ---
 
@@ -517,7 +517,7 @@ Sudeepa Roy is an Associate Professor in Computer Science at Duke University. Sh
 
 ---
 
-#### Fall 2021
+### Fall 2021
 
 ---
 
@@ -547,7 +547,7 @@ I am a Researcher at Microsoft. I obtained my Ph.D. from the University of Massa
 
 ---
 
-#### Spring 2021
+### Spring 2021
 
 ---
 
@@ -604,9 +604,9 @@ Aaron J. Elmore is an Assistant Professor in the Department of Computer Science,
 
 ## Past Talks
 
-Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_talks.html) for abstracts.
+Listed in reverse chronological order. [View abstracts for past talks]({{site.baseurl}}/nwds/past_talks.html).
 
-#### Winter 2021
+### Winter 2021
 * Hossein Ahmadi and Aleksandras Surna, Google [[abstract](past_talks.html#Ahmadi_Surna_2021_3_10)]
 * Lin Ma, Carnegie Melon University [[abstract](past_talks.html#Lin_Ma_2021_3_3)]
 * Jialin Ding, MIT [[abstract](past_talks.html#Jialin_Ding_2021_2_24)]
@@ -614,10 +614,10 @@ Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_t
 * Rebecca Taft, CockroachDB [[abstract](past_talks.html#Rebecca_Taft_2021_2_4)]
 
 
-#### Fall 2019
+### Fall 2019
 * Daniel Ting, Tableau [[abstract](past_talks.html#Daniel_Ting_2019_11_01)]
 
-#### Spring 2019
+### Spring 2019
 * Graham Cormode, University of Warwick [[abstract](past_talks.html#Graham_Cormode_2019_06_14)][[video](https://www.youtube.com/watch?v=V4dSj_yE36Y)]
 * <a href="https://www.user.tu-berlin.de/sebastian.bress/">Sebastian Breß</a>, TU Berlin [[abstract](past_talks.html#Volker_Markl_4_5_19)]
 * <a href="http://www.user.tu-berlin.de/powibol/">Jonas Traub</a>, TU Berlin [[abstract](past_talks.html#Volker_Markl_4_5_19)]
@@ -625,50 +625,50 @@ Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_t
 * <a href="http://www.user.tu-berlin.de/mkiefer/">Martin Kiefer</a>, TU Berlin [[abstract](past_talks.html#Volker_Markl_4_5_19)]
 * <a href="https://nivdayan.github.io/">Niv Dayan</a>, Harvard University [[abstract](past_talks.html#Niv_Dayan_4_26_19)]
 
-#### Winter 2019
+### Winter 2019
 * <a href="https://www.microsoft.com/en-us/research/people/karam/">Karthik Ramachandra</a>, Microsoft Research India [[abstract](past_talks.html#Karthik_Ramachandra_3_8_19)][[video](https://www.youtube.com/watch?v=Xyvpcf2RtO4)]
 * <a href="http://web.eecs.umich.edu/~michjc/">Michael Cafarella</a>, University of Michigan [[abstract](past_talks.html#Michael_Cafarella_2_1_19)][[video](https://www.youtube.com/watch?v=xb718hbdqmE)]
 * <a href="http://pages.cs.wisc.edu/~paris/">Paris Koutris</a>, University of Wisconsin-Madison [[abstract](past_talks.html#Paris_Koutris_1_25_19)][[video](https://www.youtube.com/watch?v=R52w13RecCk)]
 * <a href="http://azza.azurewebsites.net/">Azza Abouzied</a>, New York University, Abu Dhabi [[abstract](past_talks.html#Azza Abouzied_1_9_19)][[video](https://www.youtube.com/watch?v=KfYTWnfu4io)]
 
-#### Fall 2018
+### Fall 2018
 * Daniel Harrison, Cockroach Labs [[abstract](past_talks.html#Daniel_Harrison_10_12_18)] [[video](https://youtu.be/H6w_Ihth-m4)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Daniel_Harrison_10_12_18.pdf)]
 * [Spyros Blanas](https://web.cse.ohio-state.edu/~blanas.2/), Ohio State University [[abstract](past_talks.html#Spyros_Blanas_10_19_18)]
 * [Arun Kumar](http://cseweb.ucsd.edu/~arunkk/), University of California, San Diego [[abstract](past_talks.html#Arun_Kumar_11_2_18)] [[video](https://www.youtube.com/watch?v=VChn-bNAOi0)]
 
 
-#### Summer 2018
+### Summer 2018
 
 * [Holger Pirk](https://www.doc.ic.ac.uk/~hlgr/), Imperial College London [[abstract](past_talks.html#Holger_Pirk_8_3_18)] [[video](https://youtu.be/sOBRGl2n_9s)]
 * [Stratos Idreos](https://stratos.seas.harvard.edu/), Harvard University [[abstract](past_talks.html#Stratos_Idreos_8_3_18)] [[video](https://youtu.be/jttQrUIX64k)]
 
-#### Winter 2018
+### Winter 2018
 
 * [NWDS Annual Meeting](http://db.cs.washington.edu/events/database_day/2018/database_day_2018.html)
 
-#### Fall 2017
+### Fall 2017
 
 * [Oliver Kennedy](https://odin.cse.buffalo.edu/people/oliver_kennedy.html), University at Buffalo [[abstract](past_talks.html#Oliver_Kennedy_12_11_17)] [[video](https://youtu.be/QuBt1Kc9F0k)]]
 * Neal Fachan [[abstract](past_talks.html#Neal_Fachan_12_08_17)], Qumulo
 * [Gerome Miklau](http://people.cs.umass.edu/~miklau/), University of Massachusetts Amherst [[abstract](past_talks.html#Gerome_Miklau_11_17_17)] [[video](https://youtu.be/vfN3M1qRk1g)]
 
-#### Spring 2017
+### Spring 2017
 
 * [Frank McSherry](https://github.com/frankmcsherry) [[abstract](past_talks.html#Frank_McSherry_5_26_17)] [[video](https://youtu.be/v483UydXszY)]
 
-#### Winter 2017
+### Winter 2017
 
 * [Gang Luo](http://pages.cs.wisc.edu/~gangluo/), University of Washington [[abstract](past_talks.html#Gang_Luo_1_27_17)] [[video](https://youtu.be/t-KwQkhoEME)]
 * [Tim Kraska](http://cs.brown.edu/~kraskat), Brown University [[abstract](past_talks.html#Tim_Kraska_1_17_17)]
 
-#### Fall 2016
+### Fall 2016
 
 *   [Dharma Shukla](http://www.dharmashukla.com), Microsoft [[abstract](past_talks.html#Dharma_Shukla_11_18_16)]
     [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJcnV0U1dRWG9wc2s/view?usp=sharing_eixpa_nl&ts=5835f5b0)]
 *   [Olga Papaemmanouil](http://www.cs.brandeis.edu/~olga/home.html), Brandeis University [[abstract](past_talks.html#Olga_Papaemmanouil_11_4_16)] [[video](https://www.youtube.com/watch?v=oH60uVu6bPE)][[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Olga_Papaemmanouil_11_4_16.pdf)]
 *   [Immanuel Trummer](http://www.itrummer.org), Cornell University [[abstract](past_talks.html#Immanuel_Trummer_10_14_16)] [[video](https://www.youtube.com/watch?v=Dm1_r5tUMu0)][[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Immanuel_Trummer_10_14_16.pdf)]
 
-#### Spring 2016
+### Spring 2016
 
 *   [David Chu](http://www.bawakayi.com/davidchu), Microsoft Research [[abstract](past_talks.html#david_chu_05_27_16)]
 *   [Craig Chambers](http://research.google.com/pubs/author4707.html), Google [[abstract](past_talks.html#craig_chambers_05_18_16)]
@@ -677,18 +677,18 @@ Listed in reverse chronological order. Click [here]({{site.baseurl}}/nwds/past_t
 *   [Xin Luna Dong](http://lunadong.com/), Google
     [[abstract](past_talks.html#xin_dong_03_31_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0B801X-XPoh5IXzdmUk1BVUlFTlE/view?usp=sharing)]
 
-#### Winter 2016
+### Winter 2016
 *   [Fatma Özcan](http://researcher.ibm.com/researcher/view.php?person=us-fozcan), IBM Almaden Research Center [[abstract](past_talks.html#fatma_ozcan_03_4_16)]
 *   Sudipta Sengupta, Microsoft Research [[abstract](past_talks.html#sudipta_sengupta_01_29_16)] [[video](https://www.youtube.com/watch?v=Pr-b9stpAV4&feature=youtu.be)]
 
-#### Fall 2015
+### Fall 2015
 *   Yannis Papakonstantinou, UCSD [[abstract](past_talks.html#yannis_papakonstantinou_12_11_15)] [[video](https://www.youtube.com/watch?v=SXsEAa4xxxI)]
 *   Sailesh Krishnamurthy, Amazon [[abstract](past_talks.html#sailesh_krishnamurthy_11_13_15)] [[video](https://www.youtube.com/watch?v=uW3-WGc0wPo)]
 *   Mehul Shah, Amazon [[abstract](past_talks.html#mehul_shah_10_23_15)]
 *   Daniel von Dincklage, Google [[abstract](past_talks.html#daniel_von_dincklage_10_09_15)] [[video](https://www.youtube.com/watch?v=SP9zS43FRzQ)]
 *   Jennie Duggan, Northwestern University [[abstract](past_talks.html#jennie_duggan_10_02_15)] [[selected slides](http://nwds.cs.washington.edu/files/nwds/pdf/nwds-2015-10-02-Duggan-virtual-experiments.pdf)]
 
-#### Earlier talks
+### Earlier talks
 *   Atri Rudra, University of Buffalo [[abstract](past_talks.html#atri_rudra_06_29_15)]
 *   Anant Bhardwaj, MIT [[abstract](past_talks.html#anant_bhardwaj_01_19_15)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/anantb-datahub-talk.pdf)]
 *   Barzan Mozafari, University of Michigan [[abstract](past_talks.html#barzan_mozafari_11_22_13)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/UW-Google-published.pdf)]
@@ -754,7 +754,7 @@ ___
 
 ## Mailing List
 
-Please sign up for the nwds mailing list [here](http://mailman.cs.washington.edu/mailman/listinfo/nwds). We
+[Sign up for the nwds mailing list](http://mailman.cs.washington.edu/mailman/listinfo/nwds). We
 use this list primarily to send announcements for upcoming events. After you register, you can send mail to that list at nwds at cs.washington.edu.
 
 To become a member, please contact [Magda](http://www.cs.washington.edu/homes/magda/) or [Dan](http://www.cs.washington.edu/homes/suciu/).
