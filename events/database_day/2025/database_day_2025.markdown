@@ -38,7 +38,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 <div class="flex-container people image-container">
     <div class="flex-item person">
         <a href='https://stephanie-wang.github.io/'>
-            <img src="pictures/Stephanie.jpg"/>
+            <img src="pictures/Stephanie.jpg" alt="Stephanie Wang"/>
             <p>Stephanie Wang</p>
         </a>
     </div>
@@ -62,7 +62,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 <div class="flex-container people image-container">
     <div class="flex-item person">
         <a href=''>
-            <img src="pictures/Pat-Cariacture.jpg"/>
+            <img src="pictures/Pat-Cariacture.jpg" alt="Pat Helland"/>
             <p>Pat Helland</p>
         </a>
     </div>

@@ -46,7 +46,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 <div class="flex-container people image-container">
     <div class="flex-item person">
         <a href='https://homes.cs.washington.edu/~jheer/'>
-            <img src="pictures/heer-square.jpg"/>
+            <img src="pictures/heer-square.jpg" alt="Jeff Heer"/>
             <p>Jeff Heer</p>
         </a>
     </div>
