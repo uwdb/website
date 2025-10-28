@@ -1,6 +1,6 @@
-<div class="flex-item person" title="{{ include.title }}">
+<div class="flex-item person">
   <a href="{{ include.link }}">
-    <img src="{{ site.baseurl }}/images/people/{{ include.image }}" alt="{{ include.caption }}" />
+    <img src="{{ site.baseurl }}/images/people/{{ include.image }}" alt="" />
     <p>{{ include.caption }}</p>
   </a>
 </div>
