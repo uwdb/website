@@ -24,21 +24,21 @@ EntropyDB is the result of our goal to develop a probabilistic approach to gener
 <div class="flex-container people image-container">
     <div class="flex-item person" title="Laurel Orr">
         <a href="https://homes.cs.washington.edu/~ljorr1">
-            <img src="{{ site.baseurl }}/images/people/laurel.jpg"/>
+            <img src="{{ site.baseurl }}/images/people/laurel.jpg" alt="Laurel Orr"/>
             <p>Laurel Orr</p>
         </a>
     </div>
 
     <div class="flex-item person" title="Magdalena Balazinska">
         <a href="https://www.cs.washington.edu/people/faculty/magda">
-            <img src="{{ site.baseurl }}/images/people/magda.jpg"/>
+            <img src="{{ site.baseurl }}/images/people/magda.jpg" alt="Magdalena Balazinska"/>
             <p>Magdalena Balazinska</p>
         </a>
     </div>
 
     <div class="flex-item person" title="Dan Suciu">
         <a href="https://www.cs.washington.edu/people/faculty/suciu">
-            <img src="{{ site.baseurl }}/images/people/dan.jpg"/>
+            <img src="{{ site.baseurl }}/images/people/dan.jpg" alt="Dan Suciu"/>
             <p>Dan Suciu</p>
         </a>
     </div>

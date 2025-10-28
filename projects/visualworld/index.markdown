@@ -346,61 +346,61 @@ VisualWorld projects explore video data management from a number of perspectives
 <div class="flex-container people image-container">
 	<div class="flex-item person" title="Brandon Haynes">
 		<a href="https://homes.cs.washington.edu/~bhaynes">
-			<img src="{{ site.baseurl }}/images/people/brandonH.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/brandonH.jpg" alt="Brandon Haynes"/>
 			<p>Brandon Haynes</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Maureen Daum">
-		<img src="{{ site.baseurl }}/images/people/maureen.jpg"/>
+		<img src="{{ site.baseurl }}/images/people/maureen.jpg" alt="Maureen Daum"/>
 		<p>Maureen Daum</p>
 	</div>
 
 	<div class="flex-item person" title="Dong He">
 		<a href="https://dongheuw.github.io/">
-			<img src="{{ site.baseurl }}/images/people/dong.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/dong.jpg" alt="Dong He"/>
 			<p>Dong He</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Enhao Zhang">
 		<a href="https://zhang-eh.github.io">
-			<img src="{{ site.baseurl }}/images/people/enhao.jpeg"/>
+			<img src="{{ site.baseurl }}/images/people/enhao.jpeg" alt="Enhao Zhang"/>
 			<p>Enhao Zhang</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Amrita Mazumdar">
 		<a href="https://homes.cs.washington.edu/~amrita/">
-			<img src="images/amrita.jpg"/>
+			<img src="images/amrita.jpg" alt="Amrita Mazumdar"/>
 			<p>Amrita Mazumdar</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Magdalena Balazinska">
 		<a href="https://www.cs.washington.edu/people/faculty/magda">
-			<img src="{{ site.baseurl }}/images/people/magda.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/magda.jpg" alt="Magdalena Balazinska"/>
 			<p>Magdalena Balazinska</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Luis Ceze">
 		<a href="https://www.cs.washington.edu/people/faculty/luisceze">
-			<img src="images/luis.jpg"/>
+			<img src="images/luis.jpg" alt="Luis Ceze"/>
 			<p>Luis Ceze</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Alvin Cheung">
 		<a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/akcheung.html">
-			<img src="{{ site.baseurl }}/images/people/alvin.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/alvin.jpg" alt="Alvin Cheung"/>
 			<p>Alvin Cheung</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Ranjay Krishna">
 		<a href="http://ranjaykrishna.com/index.html">
-			<img src="{{ site.baseurl }}/images/people/ranjay.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/ranjay.jpg" alt="Ranjay Krishna"/>
 			<p>Ranjay Krishna</p>
 		</a>
 	</div>
