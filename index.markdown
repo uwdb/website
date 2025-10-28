@@ -23,7 +23,7 @@ rank: 0
 <p class="lead">
 <a href="https://twitter.com/uw_db" class="twitter-follow-button" data-size="large" data-show-count="false" data-show-screen-name="false">Follow @uw_db</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a href="https://medium.com/@uwdb"><img class="icon" src="https://cdn-images-1.medium.com/max/800/1*F6SrJR7_s95r6oCF3ugMZw.png" alt="follow uwdb on medium" title="follow uwdb on medium" height="24"/></a>
+<a href="https://medium.com/@uwdb" aria-label="Follow UW Database Group on Medium"><img class="icon" src="https://cdn-images-1.medium.com/max/800/1*F6SrJR7_s95r6oCF3ugMZw.png" alt="Medium logo" title="follow uwdb on medium" height="24"/></a>
 
 <a class="github-button" href="https://github.com/uwdb" 
   aria-label="Follow @uwdb on GitHub"></a>  
@@ -35,12 +35,13 @@ rank: 0
 <!-- see also news.markdown -->
 <style>
 #RecentNews li>p {display: inline;}
+#RecentNews .news-date {font-weight: bold;}
 </style>
 <ul id="RecentNews">
 {% assign news = (site.data.news | sort: 'date') | reverse %}
 {% for n in news limit:8 %}
   <li>
-   <span><b>{{ n.date | date: "%B %-d, %Y" }}</b></span>: {{ n.description | markdownify }}
+   <span class="news-date">{{ n.date | date: "%B %-d, %Y" }}</span>: {{ n.description | markdownify }}
   </li>
 {% endfor %}
   <li>
@@ -58,46 +59,46 @@ rank: 0
 
 <div height="50" class="flex-container logos images-container">
     <a href="http://escience.washington.edu">
-    <img src="{{ site.baseurl }}/images/eScience_logo.png" class="img-thumbnail" style="min-height:70px; height:70px;">
+    <img src="{{ site.baseurl }}/images/eScience_logo.png" alt="eScience Institute" class="img-thumbnail" style="min-height:70px; height:70px;">
     </a>
 
     <a href="http://www.nsf.gov/">
-    <img src="{{ site.baseurl }}/images/nsf_logo.png" class="img-thumbnail" style="min-height:70px; height:70px;">
+    <img src="{{ site.baseurl }}/images/nsf_logo.png" alt="National Science Foundation" class="img-thumbnail" style="min-height:70px; height:70px;">
     </a>
 
     <a href="http://www.pnnl.gov/">
-    <img src="{{ site.baseurl }}/images/pnnl_logo.png" class="img-thumbnail" style="min-height:70px; height:70px;">
+    <img src="{{ site.baseurl }}/images/pnnl_logo.png" alt="Pacific Northwest National Laboratory" class="img-thumbnail" style="min-height:70px; height:70px;">
     </a>
 
     <a href="http://istc-bigdata.org/">
-    <img src="{{ site.baseurl }}/images/istc_logo.png" class="img-thumbnail" style="min-height:70px; height:70px;">
+    <img src="{{ site.baseurl }}/images/istc_logo.png" alt="Intel Science and Technology Center for Big Data" class="img-thumbnail" style="min-height:70px; height:70px;">
     </a>
 
     <a href="http://www.emc.com/">
-    <img src="{{ site.baseurl }}/images/emc_logo.png" class="img-thumbnail">
+    <img src="{{ site.baseurl }}/images/emc_logo.png" alt="EMC Corporation" class="img-thumbnail">
     </a>
 
     <a href="http://research.microsoft.com/">
-    <img src="{{ site.baseurl }}/images/msr_logo.png" class="img-thumbnail">
+    <img src="{{ site.baseurl }}/images/msr_logo.png" alt="Microsoft Research" class="img-thumbnail">
     </a>
 
     <a href="http://www.amazon.com/">
-    <img src="{{ site.baseurl }}/images/amazon_logo.png" class="img-thumbnail">
+    <img src="{{ site.baseurl }}/images/amazon_logo.png" alt="Amazon" class="img-thumbnail">
     </a>
 
     <a href="http://www.noaa.gov/">
-    <img src="{{ site.baseurl }}/images/noaa_logo.png" class="img-thumbnail">
+    <img src="{{ site.baseurl }}/images/noaa_logo.png" alt="National Oceanic and Atmospheric Administration" class="img-thumbnail">
     </a>
 
     <a href="https://www.google.com/">
-    <img src="{{ site.baseurl }}/images/google_logo.png" class="img-thumbnail" style="min-height:60px; height:60px;">
+    <img src="{{ site.baseurl }}/images/google_logo.png" alt="Google" class="img-thumbnail" style="min-height:60px; height:60px;">
     </a>
 
     <a href="https://www.meta.com/">
-    <img src="{{ site.baseurl }}/images/meta.png" class="img-thumbnail" style="min-height:51px; height:51px;">
+    <img src="{{ site.baseurl }}/images/meta.png" alt="Meta" class="img-thumbnail" style="min-height:51px; height:51px;">
     </a>
 
     <a href="https://www.yahoo.com/">
-    <img src="{{ site.baseurl }}/images/yahoo_logo.png" class="img-thumbnail" style="min-height:51px; height:51px;">
+    <img src="{{ site.baseurl }}/images/yahoo_logo.png" alt="Yahoo" class="img-thumbnail" style="min-height:51px; height:51px;">
     </a>
 </div>
