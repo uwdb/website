@@ -1,5 +1,33 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700);
 
+/* Accessibility Utilities */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #000;
+  color: #fff;
+  padding: 8px;
+  text-decoration: none;
+  z-index: 100;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
 html {
   position: relative;
   min-height: 99%;
@@ -21,7 +49,7 @@ p {
   line-height: 1.5em;
 }
 
-h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 700;
@@ -106,7 +134,10 @@ img.logo {
   font-weight: bold;
   color: white;
   position: relative;
-  text-shadow: 1px 1px 2px black;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9),
+    2px 2px 4px rgba(0, 0, 0, 0.8),
+    0px 0px 8px rgba(0, 0, 0, 0.7);
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.4) 50%, transparent 100%);
 
   padding-bottom: 4px;
   bottom: 140px;
@@ -136,8 +167,8 @@ img.logo {
 }
 
 .img-thumbnail {
-  min-height:55px;
-  height:55px;
+  min-height: 55px;
+  height: 55px;
   margin-left: 15px;
   margin-top: 15px;
   border: 0 none;
@@ -202,28 +233,32 @@ img.logo {
 }
 
 table {
-    border:#ccc 1px solid;
-    border-radius:3px;
+  border: #ccc 1px solid;
+  border-radius: 3px;
 }
+
 table th {
-    padding:10px 10px 10px 10px;
-    border-top:1px solid #fafafa;
-    border-bottom:1px solid #e0e0e0;
+  padding: 10px 10px 10px 10px;
+  border-top: 1px solid #fafafa;
+  border-bottom: 1px solid #e0e0e0;
 }
+
 table tr {
-    padding-left:10px;
+  padding-left: 10px;
 }
+
 table td {
-    padding:10px;
-    border-top: 1px solid #ffffff;
-    border-bottom:1px solid #e0e0e0;
-    border-left: 1px solid #e0e0e0;
+  padding: 10px;
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+  border-left: 1px solid #e0e0e0;
 }
 
 /* Events */
 .event-images {
   justify-content: flex-start;
 }
+
 .event-image {
   margin: 10px;
 }
@@ -247,11 +282,60 @@ table td {
 }
 
 ul.list-style-none li {
-    list-style: none;
+  list-style: none;
 }
 
 ul.nav-tabs .nav-link.active {
   color: #495057;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
+}
+
+/* PDF Link Indicators */
+a[href$=".pdf"]::after,
+a[href*=".pdf?"]::after,
+a[href*=".pdf#"]::after {
+  content: " (PDF)";
+  font-size: 0.85em;
+  font-weight: normal;
+}
+
+/* Don't add PDF indicator to buttons */
+.btn[href$=".pdf"]::after,
+.btn[href*=".pdf?"]::after,
+.btn[href*=".pdf#"]::after {
+  content: "";
+}
+
+/* Navigation Contrast Fixes */
+.navbar-default .navbar-nav>li>a {
+  color: #333;
+  /* Darker color for better contrast */
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+  color: #000;
+  /* Even darker on hover */
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+  color: #000;
+  /* Dark text for active state */
+  background-color: #e7e7e7;
+  /* Slightly darker background for active */
+}
+
+/* Footer Contrast Fixes */
+#footer a {
+  color: #004c99;
+  /* Darker blue for better contrast on gray background */
+}
+
+#footer a:hover,
+#footer a:focus {
+  color: #003366;
+  /* Even darker on hover */
 }
