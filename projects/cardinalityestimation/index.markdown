@@ -9,9 +9,9 @@ The UW database group has done several projects over the years which attempt to 
 
 ## Quasi-Stable Cardinality Estimation
 
-<div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
-  <img src="../../images/projects/COLOR-intro.png" alt="Logo" style="width: 40rem" />
-  <p>Quasi-Stable Cardinality Estimation</p>
+<div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em; color: #222; text-shadow: none;">
+  <img src="../../images/projects/COLOR-intro.png" alt="Lifted Counting Example" style="width: 40rem" />
+  <p class="lead">Overview of the Quasi-Stable Cardinality Estimation project.</p>
   <p>
   	<a class="btn btn-primary btn-lg label-primary" href="https://www.vldb.org/pvldb/vol18/p130-deeds.pdf" role="button" style="width: 220px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
   	<a class="btn btn-primary btn-lg label-primary" href="https://github.com/uwdb/color" role="button" style="width: 220px;"><span style="position: relative; top:10px">Explore the Code</span><br/><small>&nbsp;</small></a>
@@ -23,11 +23,9 @@ Graph workloads pose a particularly challenging problem for query optimizers. Th
 
 ## SafeBound
 
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-
-<div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
-  <img src="../../images/projects/SafeBoundLogo.png" alt="Logo" style="width: 40rem" />
-  <p>A Practical System for Generating Cardinality Bounds</p>
+<div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em; color: #222; text-shadow: none;">
+  <img src="../../images/projects/SafeBoundLogo.png" alt="Safebound Logo" style="width: 40rem" />
+  <p class="lead">A practical system for generating provable cardinality bounds.</p>
   <p>
   	<a class="btn btn-primary btn-lg label-primary" href="https://drops.dagstuhl.de/opus/volltexte/2023/17741/pdf/lipics-vol255-icdt2023-complete.pdf#page=143" role="button" style="width: 220px;"><span style="position: relative; top:10px">Read the Theory Paper</span><br/><small>&nbsp;</small></a>
   	<a class="btn btn-primary btn-lg label-primary" href="https://dl.acm.org/doi/pdf/10.1145/3588907" role="button" style="width: 220px;"><span style="position: relative; top:10px">Read the Systems Paper</span><br/><small>&nbsp;</small></a>
@@ -39,7 +37,7 @@ Recent work has reemphasized the importance of cardinality estimates for query o
 
 #### Github
 
-Our code for this project can be found [here](https://github.com/kylebd99/SafeBound)
+Our code for this project is on [GitHub](https://github.com/kylebd99/SafeBound)
 
 #### Questions?
 
@@ -52,9 +50,9 @@ NSF-BSF 2109922) and a gift from Amazon through the UW Amazon Science Hub.
 
 ## Pessimistic Query Optimization
 
-<div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
+<div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em; color: #222; text-shadow: none;">
   <img src="../../images/projects/pqo.png" alt="hypergraph" style="width: 40rem" />
-  <p>Tighter bounds for intermediate join cardinalities</p>
+  <p class="lead">Tighter bounds for intermediate join cardinalities.</p>
   <p>
     <a class="btn btn-primary btn-lg label-primary" href="https://github.com/waltercai/pessimistic-qo-opensource" role="button" style="width: 180px;"><span style="position: relative; top:10px">Get the Code</span><br/><small>&nbsp;</small></a>
     <a class="btn btn-primary btn-lg label-primary" href="https://waltercai.github.io/assets/pessimistic-query-optimization.pdf" role="button" style="width: 180px;"><span style="position: relative; top:10px">Read the Paper</span><br/><small>&nbsp;</small></a>
