@@ -30,7 +30,7 @@ Allen School of Computer Science and Engineering.<br>
 Paul G. Allen Center, CSE 291</p>
 
 <p><strong>When</strong>:
-Friday, November 8th, 2025, 2:30pm-3:20pm</p>
+Friday, November 7th, 2025, 2:30pm-3:20pm</p>
 
 <p><strong>Title</strong>:
     Modernizing the Yannakakis Algorithm
