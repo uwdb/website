@@ -47,6 +47,6 @@ _Talk titles and presenters will be announced shortly._
 
 #### 2:30 pm - 3:00 pm: BREAK
 
-#### 3:00 pm - 5:00 pm: Session 3: Human AI Interaction (session chair: Leilani Battle)
+#### 3:00 pm - 4:30 pm: Session 3: Human AI Interaction (session chair: Leilani Battle)
 
 _Talk titles and presenters will be announced shortly._
