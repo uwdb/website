@@ -44,6 +44,8 @@ Yannakakis’ algorithm has long been the gold standard theory of relational joi
 Hangdong is a Senior Researcher at Microsoft Gray Systems Lab, working on industry-scale database optimizations. He received his Ph.D. this May at the University of Wisconsin–Madison, advised by Paris Koutris. Hangdong’s doctoral work is on novel join algorithms of strong theoretical foundations, and how these insights translate into practice; from 2023 to 2025, he received multiple PODS Distinguished/Best Paper award recognitions. At Microsoft, Hangdong focuses on turning principled ideas into production impact across Azure data services. A central theme of his current work is narrowing the gap between theory and practice—designing optimizations that not only come with efficiency guarantees but also integrate robustly into high-performance databases at cloud scale.
 </p>
 
+<a href="https://www.youtube.com/watch?v=o4lEumyGnFw">Recording</a>
+
 ---
 
 <p><a name="Mahmoud_Abo_Khamis_2025_10_17"></a>
