@@ -22,6 +22,32 @@ Instructions to sign up for the NWDS mailing list are at the bottom of this page
 
 ---
 
+<p><a name="Hangdong_Zhao_2025_18_08"></a>
+<strong>Speaker</strong>: <a href="https://dblp.org/pid/307/7991.html">Hangdong Zhao</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, November 7th, 2025, 2:30pm-3:20pm</p>
+
+<p><strong>Title</strong>:
+    Modernizing the Yannakakis Algorithm
+</p>
+
+<p><strong>Abstract</strong>:
+Yannakakis’ algorithm has long been the gold standard theory of relational join algorithms since the 1980s. In this talk, we revisit its core ideas and dive into its recent revival. We present two complementary advances: (1) prefiltering techniques that make Yannakakis practically easy to integrate and performant in modern (and even production!) database engines, and (2) output-sensitive Yannakakis—a first theoretical improvement over decades—that provides us new lens for understanding and advancing join algorithms at large.
+</p>
+
+<p><strong>Bio</strong>:
+Hangdong is a Senior Researcher at Microsoft Gray Systems Lab, working on industry-scale database optimizations. He received his Ph.D. this May at the University of Wisconsin–Madison, advised by Paris Koutris. Hangdong’s doctoral work is on novel join algorithms of strong theoretical foundations, and how these insights translate into practice; from 2023 to 2025, he received multiple PODS Distinguished/Best Paper award recognitions. At Microsoft, Hangdong focuses on turning principled ideas into production impact across Azure data services. A central theme of his current work is narrowing the gap between theory and practice—designing optimizations that not only come with efficiency guarantees but also integrate robustly into high-performance databases at cloud scale.
+</p>
+
+<a href="https://www.youtube.com/watch?v=o4lEumyGnFw">Recording</a>
+
+---
+
 <p><a name="Mahmoud_Abo_Khamis_2025_10_17"></a>
 <strong>Speaker</strong>: <a href="https://www.linkedin.com/in/mahmoud-abo-khamis">Mahmoud Abo Khamis</a> </p>
 
