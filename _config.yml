@@ -5,3 +5,7 @@ url: https://db.cs.washington.edu
 baseurl: ""
 plugins:
   - jekyll-redirect-from
+
+# Exclude archived content from being built/served
+exclude:
+  - projects/archive
