@@ -11,12 +11,6 @@ id: "projects"
 
 {% include current_projects %}
 
-## Recently Completed Projects
-
-* [CQMS](http://cqms.cs.washington.edu/CQMS.html) Collaborative Query Management System
-* [Nuage]({{ site.baseurl }}/projects/nuage/) Data-intensive scalable computing
-* [QueryViz](http://queryviz.com) Visualizing SQL queries
-
 ## Past Projects
 
 * [XML and semi-structured data]({{ site.baseurl }}/projects/xml.html): Querying, transforming, sharing, and modeling irregular data in the XML format
