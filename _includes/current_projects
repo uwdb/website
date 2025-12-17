@@ -1,54 +1,23 @@
 <div class="current-projects flex-container image-container">
 
-{% include project name="Sparse Tensor Optimization" caption="Modern Query Optimization for Sparse Tensor Programming" image="galley.png" link="https://db.cs.washington.edu/projects/galley" %}
+  {% include project name="Sparse Tensor Optimization" caption="Modern Query Optimization for Sparse Tensor Programming"
+  image="galley.png" link="https://db.cs.washington.edu/projects/galley" %}
 
-{% include project name="Principled Cardinality Estimation" caption="Applying theoretical insights to cardinality estimation" image="SafeBoundLogo.png" link="https://db.cs.washington.edu/projects/cardinalityestimation" %}
+  {% include project name="Principled Cardinality Estimation" caption="Applying theoretical insights to cardinality
+  estimation" image="SafeBoundLogo.png" link="https://db.cs.washington.edu/projects/cardinalityestimation" %}
 
-{% include project name="Quasi-stable Coloring" caption="Graph compression for performant approximations" image="q-stable-logo.png" link="https://mkyl.github.io/QuasiStableColors.jl/stable/" %}
+  {% include project name="Quasi-stable Coloring" caption="Graph compression for performant approximations"
+  image="q-stable-logo.png" link="https://mkyl.github.io/QuasiStableColors.jl/stable/" %}
 
-{% include project name="Neural Artifact Data Management" caption="Data Management for Model Explanation and Exploration" image="neural_artifact_db.png" link="https://db.cs.washington.edu/projects/neuralartifactdb" %}
+  {% include project name="Neural Artifact Data Management" caption="Data Management for Model Explanation and
+  Exploration" image="neural_artifact_db.png" link="https://db.cs.washington.edu/projects/neuralartifactdb" %}
 
-{% include project name="VisualWorld" caption="A video data management project" image="visualworlddb.png" link="https://db.cs.washington.edu/projects/visualworld" %}
+  {% include project name="VisualWorld" caption="A video data management project" image="visualworlddb.png"
+  link="https://db.cs.washington.edu/projects/visualworld" %}
 
-{% include project name="DeepEverest" caption="A System for Efficient DNN Interpretation" image="deepeverest-icon.png" link="https://db.cs.washington.edu/projects/deepeverest" %}
+  {% include project name="DeepEverest" caption="A System for Efficient DNN Interpretation" image="deepeverest-icon.png"
+  link="https://db.cs.washington.edu/projects/deepeverest" %}
 
-{% include project name="Themis" caption="An open world database system for automatic data debiasing" image="themis.png" link="http://db.cs.washington.edu/projects/themis" %}
-
-{% include project name="Visual Road" caption="A video data management benchmark" image="visualroad.png" link="http://db.cs.washington.edu/projects/visualroad" %}
-
-{% include project name="Image Analytics" caption="Large scale image analytics on scientific data" image="imageAnal.png" link="http://db.cs.washington.edu/projects/imageAnalytics" %}
-
-{% include project name="DeepQuery" caption="Query Optimization with Deep Reinforcement Learning" image="deepQuery.png" link="http://db.cs.washington.edu/projects/deepQuery" %}
-
-{% include project name="LightDB" caption="A DBMS for Virtual Reality" image="lightdb.png" link="http://db.cs.washington.edu/projects/lightdb" %}
-
-{% include project name="Cuttlefish" caption="A Lightweight Primitive for Adaptive Query Processing" image="cuttlefish.png" link="http://db.cs.washington.edu/projects/cuttlefish" %}
-
-{% include project name="EntropyDB" caption="EntropyDB for Data Exploration" image="entropydb.png" link="http://db.cs.washington.edu/projects/entropydb" %}
-
-{% include project name="Myria" caption="Big Data as a Service" image="myria.png" link="http://myria.cs.washington.edu" %}
-
-{% include project name="SqlShare" caption="Database-as-a-Service for High-Variety Data" image="sqlshare.png" link="https://uwescience.github.io/sqlshare/" %}
-
-{% include project name="QURO" caption="Query reordering in OLTP transactions" image="quro.jpg" link="http://db.cs.washington.edu/projects/quro" %}
-
-{% include project name="PipeGen" caption="Data Pipe Generation for Hybrid Analytics" image="pipegen.png" link="http://db.cs.washington.edu/projects/pipegen" %}
-
-{% include project name="Cosette" caption="An Automated SQL Solver" image="dopcert_logo.png" link="http://cosette.cs.washington.edu" %}
-
-{% include project name="ZaliQL" caption="A Declarative Framework for Drawing Causal Inference from Big Data" image="causality.jpg" link="https://zaliql-e0848.firebaseapp.com/home" %}
-
-{% include project name="HypDB" caption="Detect, Explain And Resolve Bias in OLAP" image="hypdb.jpg" link="http://db.cs.washington.edu/projects/hypdb/" %}
-
-{% include project name="LARA" caption="A Key-Value Algebra underlying Arrays and Relations" image="lara-logo.png" link="https://arxiv.org/abs/1703.07342" %}
-
-{% include project name="UW Branch of SciDB" caption="Parallel distributed array database engine" image="scidb.png" link="http://scidb.cs.washington.edu/" %}
-
-{% include project name="Data Eco$y$tem" caption="Data management and pricing in the cloud" image="data-ecosystem.png" link="http://cloud-data-pricing.cs.washington.edu/" %}
-
-{% capture astrodburl %}{{ site.baseurl }}/projects/astrodb.html{% endcapture %}
-{% include project name="AstroDB" caption="An inter-disciplinary collaboration for new methods and tools for Big Data Astronomy" image="astrodb.png" link=astrodburl %}
-
-{% include project name="Probabilistic Databases" caption="Large scale probabilistic inference using database technology" image="probabilistic-databases.png" link="http://homes.cs.washington.edu/~suciu/project-querycompilation.html" %}
+  <!-- Older projects archived in _includes/archive/current_projects -->
 
 </div>
