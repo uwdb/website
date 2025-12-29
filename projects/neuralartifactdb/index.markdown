@@ -5,8 +5,6 @@ group: "navigation"
 id: "projects"
 ---
 
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-
 <style type="text/css">
 	@font-face {
 	    font-family: "AdventPro";
@@ -39,7 +37,7 @@ id: "projects"
 	}
 </style>
 
-<div class="jumbotron" style="background-image: none; background-color: inherit; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em">
+<div class="jumbotron" style="background-image: none; background-color: inherit; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em; color: #333;">
   <img src="../../images/projects/neural_artifact_db.png" alt="Logo" style="width: 26em" />
   <h1 class="title">NeuralArtifactDB</h1>
   <p>Data Management for Model Explanation and Exploration</p>
