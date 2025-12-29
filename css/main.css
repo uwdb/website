@@ -100,6 +100,20 @@ img.logo {
   padding-bottom: 40px;
 }
 
+/*
+ * Accessible in-body links
+ * - Darker blue improves contrast against default body text
+ * Scope to .content so nav/footer/jumbotron/project tiles can keep their own styling.
+ */
+.content a {
+  color: #004c99;
+}
+
+.content a:hover,
+.content a:focus {
+  color: #003366;
+}
+
 .container .credit {
   margin: 20px 0;
 }
