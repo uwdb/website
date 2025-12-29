@@ -104,13 +104,14 @@ img.logo {
  * Accessible in-body links
  * - Darker blue improves contrast against default body text
  * Scope to .content so nav/footer/jumbotron/project tiles can keep their own styling.
+ * Exclude .btn so Bootstrap buttons keep their original colors.
  */
-.content a {
+.content a:not(.btn) {
   color: #004c99;
 }
 
-.content a:hover,
-.content a:focus {
+.content a:not(.btn):hover,
+.content a:not(.btn):focus {
   color: #003366;
 }
 
