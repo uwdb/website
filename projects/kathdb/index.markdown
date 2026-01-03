@@ -67,6 +67,7 @@ Unlike black-box LLM-based systems, KathDB keeps users in the loop through inter
 	Guorui Xiao, Enhao Zhang, Nicole Sullivan, Will Hansen, Magdalena Balazinska.
 	<strong><i>CIDR</i></strong>, 2026.
 	<a class="btn btn-info btn-xs" href="https://www.arxiv.org/abs/2512.11067" role="button">arXiv</a>
+	<a class="btn btn-primary btn-xs" href="p55-cidr.pdf" role="button">Preprint</a>
 </p>
 
 
@@ -83,21 +84,21 @@ Unlike black-box LLM-based systems, KathDB keeps users in the loop through inter
 
 	<div class="flex-item person" title="Enhao Zhang">
 		<a href="https://zhang-eh.github.io/">
-			<img src="{{ site.baseurl }}/images/people/enhao.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/enhao.jpeg"/>
 			<p>Enhao Zhang</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Nicole Sullivan">
 		<a href="https://nicolesullivan.xyz/">
-			<img src="{{ site.baseurl }}/images/people/nicole.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/female_unknown.png"/>
 			<p>Nicole Sullivan</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Will Hansen">
 		<a href="#">
-			<img src="{{ site.baseurl }}/images/people/male_unknown.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/male_unknown.png"/>
 			<p>Will Hansen</p>
 		</a>
 	</div>
