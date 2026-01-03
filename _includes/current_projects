@@ -18,6 +18,9 @@
   {% include project name="DeepEverest" caption="A System for Efficient DNN Interpretation" image="deepeverest-icon.png"
   link="https://db.cs.washington.edu/projects/deepeverest" %}
 
+  {% include project name="KathDB" caption="A Multimodal DBMS powered by LLMs" image="kathdb-icon.png"
+  link="https://db.cs.washington.edu/projects/kathdb" %}
+
   <!-- Older projects archived in _includes/archive/current_projects -->
 
 </div>
