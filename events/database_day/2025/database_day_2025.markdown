@@ -154,7 +154,7 @@ We thank the UWDB industry affiliate partners for supporting this event.
 
 ### **Previous Meetings**:
 
-This is the tenth meeting of the series. Previous meetings were held at:
+This is the eighth meeting of the series. Previous meetings were held at:
 
 * [2024 Google](https://sites.google.com/view/nwds-2024/home)
 * [2023 Microsoft Research](https://www.microsoft.com/en-us/research/event/northwest-database-society-nwds-annual-meeting-2023/)
@@ -163,5 +163,3 @@ This is the tenth meeting of the series. Previous meetings were held at:
 * [2020 Amazon/Google (Virtual)](https://sites.google.com/view/pnw-db-society-event/home)
 * [2019 Microsoft Research](https://www.microsoft.com/en-us/research/event/northwest-database-society-nwds-annual-meeting-2019)
 * [2018 University of Washington](/events/database_day/2018/database_day_2018.html)
-* [2016 University of Washington](/events/database_day/2016/database_day_2016.html)
-* [2015 University of Washington](/events/database_day/2015/database_day_2015.html)
