@@ -10,19 +10,19 @@ Some videos of the research talks given by members of our group are available on
 # Events
 
 ## Northwest Database Society Annual Meeting
-- [2018]({{ site.baseurl }}/events/database_day/2018/database_day_2018.html)
-- [2019](https://www.microsoft.com/en-us/research/event/northwest-database-society-nwds-annual-meeting-2019)
-- [2020](https://sites.google.com/view/pnw-db-society-event/home)
-- [2021](https://sites.google.com/view/nwds2021/home)
-- [2022](https://research.facebook.com/2022-northwest-database-society-annual-meeting/)
-- [2023](https://www.microsoft.com/en-us/research/event/northwest-database-society-nwds-annual-meeting-2023/)
-- [2024](https://sites.google.com/view/nwds-2024/home)
 - [2025]({{ site.baseurl }}/events/database_day/2025/database_day_2025.html)
+- [2024](https://sites.google.com/view/nwds-2024/home)
+- [2023](https://www.microsoft.com/en-us/research/event/northwest-database-society-nwds-annual-meeting-2023/)
+- [2022](https://research.facebook.com/2022-northwest-database-society-annual-meeting/)
+- [2021](https://sites.google.com/view/nwds2021/home)
+- [2020](https://sites.google.com/view/pnw-db-society-event/home)
+- [2019](https://www.microsoft.com/en-us/research/event/northwest-database-society-nwds-annual-meeting-2019)
+- [2018]({{ site.baseurl }}/events/database_day/2018/database_day_2018.html)
 
 ## UWDB Affiliates Annual Workshop
-- [2018]({{ site.baseurl }}/events/workshop/2018/machine_learning.html)
-- [2019]({{ site.baseurl }}/events/workshop/2019/data_science.html)
 - [2025]({{ site.baseurl }}/events/workshop/2025/affiliates-workshop2025.html)
+- [2019]({{ site.baseurl }}/events/workshop/2019/data_science.html)
+- [2018]({{ site.baseurl }}/events/workshop/2018/machine_learning.html)
 
 ## Other
 - [The Database Research Self-Assessment 2018]({{ site.baseurl }}/events/other/2018/database_self_assessment_2018.html)
