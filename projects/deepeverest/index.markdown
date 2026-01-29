@@ -90,28 +90,28 @@ DeepEverest is a system for the efficient execution of <i>interpretation by exam
 <div class="flex-container people image-container">
 	<div class="flex-item person" title="Dong He">
 		<a href="https://dongheuw.github.io">
-			<img src="{{ site.baseurl }}/images/people/dong.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/dong.jpg" alt=""/>
 			<p>Dong He</p>
 		</a>
 	</div>
 
     <div class="flex-item person" title="Maureen Daum">
 		<a href="https://homes.cs.washington.edu/~mdaum/">
-			<img src="{{ site.baseurl }}/images/people/maureen.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/maureen.jpg" alt=""/>
 			<p>Maureen Daum</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Walter Cai">
 		<a href="https://waltercai.github.io">
-			<img src="{{ site.baseurl }}/images/people/cai.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/cai.jpg" alt=""/>
 			<p>Walter Cai</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Magdalena Balazinska">
 		<a href="https://www.cs.washington.edu/people/faculty/magda">
-			<img src="{{ site.baseurl }}/images/people/magda.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/magda.jpg" alt=""/>
 			<p>Magdalena Balazinska</p>
 		</a>
 	</div>
