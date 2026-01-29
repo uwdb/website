@@ -9,3 +9,6 @@ plugins:
 # Exclude archived content from being built/served
 exclude:
   - projects/archive
+  - events/database_day/archive
+  - events/workshop/archive
+  - newsletters/archive
