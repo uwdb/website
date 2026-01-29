@@ -115,42 +115,42 @@ image masks while guaranteeing the correctness of query results. MaskSearch leve
 <div class="flex-container people image-container">
 	<div class="flex-item person" title="Dong He">
 		<a href="https://dongheuw.github.io">
-			<img src="{{ site.baseurl }}/images/people/dong.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/dong.jpg" alt=""/>
 			<p>Dong He</p>
 		</a>
 	</div>
 
     <div class="flex-item person" title="Maureen Daum">
 		<a href="https://homes.cs.washington.edu/~mdaum/">
-			<img src="{{ site.baseurl }}/images/people/maureen.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/maureen.jpg" alt=""/>
 			<p>Maureen Daum</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Jieyu Zhang">
 		<a href="https://jieyuz2.github.io/">
-			<img src="{{ site.baseurl }}/images/people/jieyu.jpeg"/>
+			<img src="{{ site.baseurl }}/images/people/jieyu.jpeg" alt=""/>
 			<p>Jieyu Zhang</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Walter Cai">
 		<a href="https://waltercai.github.io">
-			<img src="{{ site.baseurl }}/images/people/cai.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/cai.jpg" alt=""/>
 			<p>Walter Cai</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Alex Ratner">
 		<a href="https://ajratner.github.io/">
-			<img src="{{ site.baseurl }}/images/people/alex.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/alex.jpg" alt=""/>
 			<p>Alex Ratner</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Magdalena Balazinska">
 		<a href="https://www.cs.washington.edu/people/faculty/magda">
-			<img src="{{ site.baseurl }}/images/people/magda.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/magda.jpg" alt=""/>
 			<p>Magdalena Balazinska</p>
 		</a>
 	</div>
