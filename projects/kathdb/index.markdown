@@ -77,35 +77,35 @@ Unlike black-box LLM-based systems, KathDB keeps users in the loop through inter
 <div class="flex-container people image-container">
 	<div class="flex-item person" title="Guorui Xiao">
 		<a href="https://xertxiao.github.io/">
-			<img src="{{ site.baseurl }}/images/people/guorui.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/guorui.jpg" alt=""/>
 			<p>Guorui Xiao</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Enhao Zhang">
 		<a href="https://zhang-eh.github.io/">
-			<img src="{{ site.baseurl }}/images/people/enhao.jpeg"/>
+			<img src="{{ site.baseurl }}/images/people/enhao.jpeg" alt=""/>
 			<p>Enhao Zhang</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Nicole Sullivan">
 		<a href="https://nicolesullivan.xyz/">
-			<img src="{{ site.baseurl }}/images/people/female_unknown.png"/>
+			<img src="{{ site.baseurl }}/images/people/female_unknown.png" alt=""/>
 			<p>Nicole Sullivan</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Will Hansen">
 		<a href="#">
-			<img src="{{ site.baseurl }}/images/people/male_unknown.png"/>
+			<img src="{{ site.baseurl }}/images/people/male_unknown.png" alt=""/>
 			<p>Will Hansen</p>
 		</a>
 	</div>
 
 	<div class="flex-item person" title="Magdalena Balazinska">
 		<a href="https://www.cs.washington.edu/people/faculty/magda">
-			<img src="{{ site.baseurl }}/images/people/magda.jpg"/>
+			<img src="{{ site.baseurl }}/images/people/magda.jpg" alt=""/>
 			<p>Magdalena Balazinska</p>
 		</a>
 	</div>
