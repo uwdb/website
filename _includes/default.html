@@ -11,7 +11,8 @@
   <link rel="stylesheet" href="{{ site.baseurl}}/css/syntax.css">
 
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ site.baseurl}}/css/main.css">
 
@@ -35,29 +36,25 @@
   <a href="#main-content" class="skip-link">Skip to main content</a>
 
   <!-- Fixed navbar -->
-  <nav class="navbar navbar-default navbar-static-top" role="navigation" aria-label="Main navigation">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="{{ site.baseurl}}/">
-          <img src="{{ site.baseurl}}/images/uwdb-logo.svg" alt="University of Washington Database Group Logo"
-            class="logo"></img>
-        </a>
-        <a class="navbar-brand" href="https://www.cs.washington.edu">
-          <img src="{{ site.baseurl}}/images/allen-school-logo.svg"
-            alt="Paul G. Allen School of Computer Science and Engineering Logo" class="logo"></img>
-        </a>
-      </div>
-      <div class="navbar-collapse collapse">
-        <ul class="nav navbar-nav">
+  <nav class="navbar navbar-expand-md navbar-light bg-light" aria-label="Main navigation">
+    <div class="container flex-wrap">
+      <a class="navbar-brand" href="{{ site.baseurl}}/">
+        <img src="{{ site.baseurl}}/images/uwdb-logo.svg" alt="University of Washington Database Group Logo"
+          class="logo">
+      </a>
+      <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <a class="navbar-brand me-auto" href="https://www.cs.washington.edu">
+        <img src="{{ site.baseurl}}/images/allen-school-logo.svg"
+          alt="Paul G. Allen School of Computer Science and Engineering Logo" class="logo">
+      </a>
+      <div class="collapse navbar-collapse mt-2" id="navbarNav">
+        <ul class="navbar-nav gap-3">
           {% include pages_list %}
         </ul>
-      </div><!--/.nav-collapse -->
+      </div>
     </div>
   </nav>
 
@@ -70,17 +67,21 @@
       <p class="text-muted credit">
         <a href="http://www.washington.edu/">University of Washington</a> Database Group, <abbr
           title="last build date {{site.time | date: '%B %d %Y'}}">{{ site.time | date: '%Y'}}</abbr>
-        <a href="https://github.com/uwdb/website/blob/gh-pages/{{page.path}}" class="pull-right">Edit this page</a>
+        <a href="https://github.com/uwdb/website/blob/gh-pages/{{page.path}}" class="float-end">Edit this page</a>
         <a href="{{ site.baseurl }}/internals.html"><i class="fa fa-cog"></i> Internals</a>
       </p>
     </div>
   </footer>
-  <script src="https://code.jquery.com/jquery-2.1.0.min.js"></script>
-  <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+    crossorigin="anonymous"></script>
   <script type="text/javascript">
-    $(function () {
-      $('[data-toggle="tooltip"]').tooltip();
-    })
+    document.addEventListener('DOMContentLoaded', function () {
+      var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+      tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl);
+      });
+    });
   </script>
 </body>
 

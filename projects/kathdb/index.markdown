@@ -66,8 +66,8 @@ Unlike black-box LLM-based systems, KathDB keeps users in the loop through inter
 	<strong>KathDB: Explainable Multimodal Database Management System with Human-AI Collaboration.</strong>
 	Guorui Xiao, Enhao Zhang, Nicole Sullivan, Will Hansen, Magdalena Balazinska.
 	<strong><i>CIDR</i></strong>, 2026.
-	<a class="btn btn-info btn-xs" href="https://www.arxiv.org/abs/2512.11067" role="button">arXiv</a>
-	<a class="btn btn-primary btn-xs" href="p55-cidr.pdf" role="button">Preprint</a>
+	<a class="btn btn-info btn-sm" href="https://www.arxiv.org/abs/2512.11067" role="button">arXiv</a>
+	<a class="btn btn-primary btn-sm" href="p55-cidr.pdf" role="button">Preprint</a>
 </p>
 
 

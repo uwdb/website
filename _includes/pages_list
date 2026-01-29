@@ -1,30 +1,30 @@
-<li {% if page.id=='people' %}class="active" {% endif %}>
-  <a href="{{ site.baseurl }}/people.html"><i class="fa fa-id-card-o" aria-hidden="true"></i> <span>People</span></a>
+<li class="nav-item">
+  <a class="nav-link{% if page.id=='people' %} active{% endif %}" href="{{ site.baseurl }}/people.html"><i class="fa fa-id-card-o" aria-hidden="true"></i> <span>People</span></a>
 </li>
 
-<li {% if page.id=='projects' %}class="active" {% endif %}>
-  <a href="{{ site.baseurl }}/projects.html"><i class="fa fa-graduation-cap" aria-hidden="true"></i>
+<li class="nav-item">
+  <a class="nav-link{% if page.id=='projects' %} active{% endif %}" href="{{ site.baseurl }}/projects.html"><i class="fa fa-graduation-cap" aria-hidden="true"></i>
     <span>Projects</span></a>
 </li>
 
-<li {% if page.id=='courses' %}class="active" {% endif %}>
-  <a href="{{ site.baseurl }}/courses.html"><i class="fa fa-book" aria-hidden="true"></i> <span>Courses</span></a>
+<li class="nav-item">
+  <a class="nav-link{% if page.id=='courses' %} active{% endif %}" href="{{ site.baseurl }}/courses.html"><i class="fa fa-book" aria-hidden="true"></i> <span>Courses</span></a>
 </li>
 
-<li {% if page.id=='nwds' %}class="active" {% endif %}>
-  <a href="{{ site.baseurl }}/nwds/nwds.html"><i class="fa fa-compass" aria-hidden="true"></i> <span>NWDS</span></a>
+<li class="nav-item">
+  <a class="nav-link{% if page.id=='nwds' %} active{% endif %}" href="{{ site.baseurl }}/nwds/nwds.html"><i class="fa fa-compass" aria-hidden="true"></i> <span>NWDS</span></a>
 </li>
 
-<li {% if page.id=='affiliates' %}class="active" {% endif %}>
-  <a href="{{ site.baseurl }}/affiliates.html"><i class="fa fa-group" aria-hidden="true"></i>
+<li class="nav-item">
+  <a class="nav-link{% if page.id=='affiliates' %} active{% endif %}" href="{{ site.baseurl }}/affiliates.html"><i class="fa fa-group" aria-hidden="true"></i>
     <span>Affiliates</span></a>
 </li>
 
-<li {% if page.id=='news' %}class="active" {% endif %}>
-  <a href="{{ site.baseurl }}/news.html"><i class="fa fa-newspaper-o" aria-hidden="true"></i> <span>News</span></a>
+<li class="nav-item">
+  <a class="nav-link{% if page.id=='news' %} active{% endif %}" href="{{ site.baseurl }}/news.html"><i class="fa fa-newspaper-o" aria-hidden="true"></i> <span>News</span></a>
 </li>
 
-<li {% if page.id=='events' %}class="active" {% endif %}>
-  <a href="{{ site.baseurl }}/events/events.html"><i class="fa fa-calendar" aria-hidden="true"></i> <span>Talks and
+<li class="nav-item">
+  <a class="nav-link{% if page.id=='events' %} active{% endif %}" href="{{ site.baseurl }}/events/events.html"><i class="fa fa-calendar" aria-hidden="true"></i> <span>Talks and
       Events</span></a>
 </li>

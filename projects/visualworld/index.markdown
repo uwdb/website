@@ -65,10 +65,10 @@ VisualWorld projects explore video data management from a number of perspectives
 		</video>
 	</p>
 	<p>
-		<strong>Self-Enhancing Video Data Management System for Compositional Events with Large Language Models.</strong> Enhao Zhang, Nicole Sullivan, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <strong><i>SIGMOD</i></strong>, 2025. <a class="btn btn-primary btn-xs" href="https://dl.acm.org/doi/10.1145/3725352" role="button">Paper</a>
-		<a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2408.02243" role="button">Technical Report</a>
-		<a class="btn btn-success btn-xs" href="https://github.com/uwdb/vocal-udf" role="button">Code</a>
-		<a class="btn btn-warning btn-xs" href="https://youtu.be/YhLfEacPe1Q" role="button">Video</a>
+		<strong>Self-Enhancing Video Data Management System for Compositional Events with Large Language Models.</strong> Enhao Zhang, Nicole Sullivan, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <strong><i>SIGMOD</i></strong>, 2025. <a class="btn btn-primary btn-sm" href="https://dl.acm.org/doi/10.1145/3725352" role="button">Paper</a>
+		<a class="btn btn-info btn-sm" href="https://arxiv.org/abs/2408.02243" role="button">Technical Report</a>
+		<a class="btn btn-success btn-sm" href="https://github.com/uwdb/vocal-udf" role="button">Code</a>
+		<a class="btn btn-warning btn-sm" href="https://youtu.be/YhLfEacPe1Q" role="button">Video</a>
 	</p>
   </div>
 </div>
@@ -86,7 +86,7 @@ VisualWorld projects explore video data management from a number of perspectives
 		With the emerging ubiquity of video data across diverse applications, the accessibility of video analytics is essential. To address this goal, some state-of-the-art systems synthesize declarative queries over video databases using example video fragments provided by the user. However, finding examples of what a user is looking for can still be tedious. This work presents POLY-VOCAL, a new system that eases this burden. POLY-VOCAL uses multiple forms of user input to bootstrap the synthesis of a new query, including textual descriptions of the user's search and previously synthesized queries. Our empirical evaluation demonstrates that POLY-VOCAL significantly improves accuracy and accelerates query convergence compared with query synthesis from only user-labeled examples, while lowering the effort required from users.
 	</p>
 	<p>
-		<strong>Bootstrapping Compositional Video Query Synthesis with Natural Language and Previous Queries from Users.</strong> Manasi Ganti, Enhao Zhang, Magdalena Balazinska. <strong><i>HILDA @ SIGMOD</i></strong>, 2025. <a class="btn btn-primary btn-xs" href="poly-vocal.pdf" role="button">Paper</a>
+		<strong>Bootstrapping Compositional Video Query Synthesis with Natural Language and Previous Queries from Users.</strong> Manasi Ganti, Enhao Zhang, Magdalena Balazinska. <strong><i>HILDA @ SIGMOD</i></strong>, 2025. <a class="btn btn-primary btn-sm" href="poly-vocal.pdf" role="button">Paper</a>
 	</p>
   </div>
 </div>
@@ -109,9 +109,9 @@ VisualWorld projects explore video data management from a number of perspectives
 		</video>
 	</p>
 	<p>
-		<strong>VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building.</strong> Maureen Daum, Enhao Zhang, Dong He, Stephen Mussmann, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <strong><i>PVLDB</i></strong>, 16 (13): 4188-4201, 2023. <a class="btn btn-primary btn-xs" href="https://www.vldb.org/pvldb/vol16/p4188-daum.pdf" role="button">Paper</a>
-		<a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2303.04068" role="button">Technical Report</a>
-		<a class="btn btn-success btn-xs" href="https://github.com/uwdb/vocalexplore" role="button">Code</a>
+		<strong>VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building.</strong> Maureen Daum, Enhao Zhang, Dong He, Stephen Mussmann, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <strong><i>PVLDB</i></strong>, 16 (13): 4188-4201, 2023. <a class="btn btn-primary btn-sm" href="https://www.vldb.org/pvldb/vol16/p4188-daum.pdf" role="button">Paper</a>
+		<a class="btn btn-info btn-sm" href="https://arxiv.org/abs/2303.04068" role="button">Technical Report</a>
+		<a class="btn btn-success btn-sm" href="https://github.com/uwdb/vocalexplore" role="button">Code</a>
 	</p>
   </div>
 </div>
@@ -134,14 +134,14 @@ VisualWorld projects explore video data management from a number of perspectives
 		</video>
 	</p>
 	<p>
-		<strong>EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions.</strong> Enhao Zhang, Maureen Daum, Dong He, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <strong><i>PVLDB</i></strong>, 16 (11): 2714–2727, 2023. <a class="btn btn-primary btn-xs" href="https://dl.acm.org/doi/abs/10.14778/3611479.3611482" role="button">Paper</a>
-		<a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2301.00929" role="button">Tech Report</a>
-		<a class="btn btn-success btn-xs" href="https://github.com/uwdb/EQUI-VOCAL" role="button">Code</a>
-		<a class="btn btn-warning btn-xs" href="https://youtu.be/TM8yJ30ae_0?si=sDVVd17LG3GOggNk" role="button">Video</a>
+		<strong>EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions.</strong> Enhao Zhang, Maureen Daum, Dong He, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <strong><i>PVLDB</i></strong>, 16 (11): 2714–2727, 2023. <a class="btn btn-primary btn-sm" href="https://dl.acm.org/doi/abs/10.14778/3611479.3611482" role="button">Paper</a>
+		<a class="btn btn-info btn-sm" href="https://arxiv.org/abs/2301.00929" role="button">Tech Report</a>
+		<a class="btn btn-success btn-sm" href="https://github.com/uwdb/EQUI-VOCAL" role="button">Code</a>
+		<a class="btn btn-warning btn-sm" href="https://youtu.be/TM8yJ30ae_0?si=sDVVd17LG3GOggNk" role="button">Video</a>
 	</p>
 	<p>
-		<strong>EQUI-VOCAL Demonstration: Synthesizing Video Queries from User Interactions.</strong> Enhao Zhang, Maureen Daum, Dong He, Manasi Ganti, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <strong><i>PVLDB</i></strong>, 16 (12): 3978–3981, 2023. <a class="btn btn-primary btn-xs" href="https://dl.acm.org/doi/10.14778/3611540.3611600" role="button">Paper</a>
-		<a class="btn btn-success btn-xs" href="https://github.com/uwdb/equi-vocal-demo" role="button">Code</a>
+		<strong>EQUI-VOCAL Demonstration: Synthesizing Video Queries from User Interactions.</strong> Enhao Zhang, Maureen Daum, Dong He, Manasi Ganti, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska. <strong><i>PVLDB</i></strong>, 16 (12): 3978–3981, 2023. <a class="btn btn-primary btn-sm" href="https://dl.acm.org/doi/10.14778/3611540.3611600" role="button">Paper</a>
+		<a class="btn btn-success btn-sm" href="https://github.com/uwdb/equi-vocal-demo" role="button">Code</a>
 	</p>
   </div>
 </div>
@@ -159,7 +159,7 @@ VisualWorld projects explore video data management from a number of perspectives
 		Current video database management systems (VDBMSs) fail to support the growing number of video datasets in diverse domains because these systems assume clean data and rely on pretrained models to detect known objects or actions. Existing systems also lack good support for compositional queries that seek events consisting of multiple objects with complex spatial and temporal relationships.  In this paper, we propose VOCAL, a vision of a VDBMS that supports efficient data cleaning, exploration and organization, and compositional queries, even when no pretrained model exists to extract semantic content.  These techniques utilize optimizations to minimize the manual effort required of users.
 	</p>
 	<p>
-		<strong>VOCAL: Video Organization and Interactive Compositional AnaLytics (Vision Paper).</strong> Maureen Daum<sup>*</sup>, Enhao Zhang<sup>*</sup>, Dong He, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing. <strong><i>CIDR</i></strong>, 2022. <a class="btn btn-primary btn-xs" href="vocal-crc.pdf" role="button">Paper</a>
+		<strong>VOCAL: Video Organization and Interactive Compositional AnaLytics (Vision Paper).</strong> Maureen Daum<sup>*</sup>, Enhao Zhang<sup>*</sup>, Dong He, Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing. <strong><i>CIDR</i></strong>, 2022. <a class="btn btn-primary btn-sm" href="vocal-crc.pdf" role="button">Paper</a>
 	</p>
 	<p>
 	<sup>*</sup>Both authors contributed equally to the paper
@@ -189,7 +189,7 @@ VisualWorld projects explore video data management from a number of perspectives
 		for applications that operate over this type of video data.
 	</p>
 	<p>
-		<strong>VisualWorldDB: A DBMS for the Visual World.</strong> Brandon Haynes, Maureen Daum, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung, and Luis Ceze. <strong><i>CIDR</i></strong>, 2020. <a class="btn btn-primary btn-xs" href="/projects/visualworlddb/visualworld-crc.pdf" role="button">Paper</a>
+		<strong>VisualWorldDB: A DBMS for the Visual World.</strong> Brandon Haynes, Maureen Daum, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung, and Luis Ceze. <strong><i>CIDR</i></strong>, 2020. <a class="btn btn-primary btn-sm" href="/projects/visualworlddb/visualworld-crc.pdf" role="button">Paper</a>
 		<!-- [<a href="/projects/visualworlddb/visualworld-crc.pdf"><strong>Paper</strong></a>] -->
 	</p>
 	<!-- <p>
@@ -211,9 +211,9 @@ VisualWorld projects explore video data management from a number of perspectives
 			LightDB is a database management system (DBMS) designed to efficiently ingest, store, and deliver virtual reality (VR) content at scale. LightDB currently targets both live and prerecorded spherical panoramic (a.k.a. 360°) and light field VR videos. It persists content as a multidimensional field that includes both spatiotemporal and angular (i.e., orientation) dimensions. Content delivered through LightDB offers improved throughput, less bandwidth, and scales to many concurrent connections.
 		</p>
 		<p>
-			<strong>LightDB: A DBMS for Virtual Reality Video.</strong> Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung. <strong><i>PVLDB</i></strong>, 11 (10): 1192-1205, 2018. <a class="btn btn-warning btn-xs" href="/projects/lightdb" role="button">Details</a>
-			<a class="btn btn-primary btn-xs" href="/projects/lightdb/p1144-haynes.pdf" role="button">Paper</a>
-			<a class="btn btn-success btn-xs" href="https://github.com/uwdb/lightdb" role="button">Code</a>
+			<strong>LightDB: A DBMS for Virtual Reality Video.</strong> Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung. <strong><i>PVLDB</i></strong>, 11 (10): 1192-1205, 2018. <a class="btn btn-warning btn-sm" href="/projects/lightdb" role="button">Details</a>
+			<a class="btn btn-primary btn-sm" href="/projects/lightdb/p1144-haynes.pdf" role="button">Paper</a>
+			<a class="btn btn-success btn-sm" href="https://github.com/uwdb/lightdb" role="button">Code</a>
 			<!-- [<a href="/projects/lightdb/p1144-haynes.pdf"><strong>Paper</strong></a>] -->
 		</p>
 		<!-- <p>
@@ -237,7 +237,7 @@ VisualWorld projects explore video data management from a number of perspectives
 			Modern video data management systems store videos as a single encoded file, which significantly limits possible storage level optimizations. We design, implement, and evaluate TASM, a new tile-based storage manager for video data. TASM uses a feature in modern video codecs called "tiles" that enables spatial random access into encoded videos. TASM physically tunes stored videos by optimizing their tile layouts given the video content and a query workload. Additionally, TASM dynamically tunes that layout in response to changes in the query workload or if the query workload and video contents are incrementally discovered. Finally, TASM also produces efficient initial tile layouts for newly ingested videos. We demonstrate that TASM can speed up subframe selection queries by an average of over 50% and up to 94%. TASM can also improve the throughput of the full scan phase of object detection queries by up to 2X.
 		</p>
 		<p>
-			<strong>TASM: A Tile-Based Storage Manager for Video Analytics.</strong> Maureen Daum, Brandon Haynes, Dong He, Amrita Mazumdar, Magdalena Balazinska. <strong><i>ICDE</i></strong>, 2021. <a class="btn btn-primary btn-xs" href="tasm.pdf" role="button">Paper</a> <a class="btn btn-success btn-xs" href="https://github.com/uwdb/TASM" role="button">Code</a>
+			<strong>TASM: A Tile-Based Storage Manager for Video Analytics.</strong> Maureen Daum, Brandon Haynes, Dong He, Amrita Mazumdar, Magdalena Balazinska. <strong><i>ICDE</i></strong>, 2021. <a class="btn btn-primary btn-sm" href="tasm.pdf" role="button">Paper</a> <a class="btn btn-success btn-sm" href="https://github.com/uwdb/TASM" role="button">Code</a>
 			<!-- [<a href="tasm.pdf"><strong>Paper</strong></a>] -->
 		</p>
 		<!-- <p>
@@ -270,8 +270,8 @@ VisualWorld projects explore video data management from a number of perspectives
 			overlapping fields of view.
 		</p>
 		<p>
-			<strong>VSS: A Storage System for Video Analytics.</strong> Brandon Haynes, Maureen Daum, Dong He, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung, Luis Ceze. <strong><i>SIGMOD</i></strong>, 2021. <a class="btn btn-primary btn-xs" href="vss.pdf" role="button">Paper</a> <a class="btn btn-info btn-xs" href="https://arxiv.org/abs/2103.16604" role="button">Tech Report</a>
-			<a class="btn btn-success btn-xs" href="https://github.com/uwdb/vss" role="button">Code</a>
+			<strong>VSS: A Storage System for Video Analytics.</strong> Brandon Haynes, Maureen Daum, Dong He, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung, Luis Ceze. <strong><i>SIGMOD</i></strong>, 2021. <a class="btn btn-primary btn-sm" href="vss.pdf" role="button">Paper</a> <a class="btn btn-info btn-sm" href="https://arxiv.org/abs/2103.16604" role="button">Tech Report</a>
+			<a class="btn btn-success btn-sm" href="https://github.com/uwdb/vss" role="button">Code</a>
 			<!-- [<a href="https://arxiv.org/abs/2103.16604"><strong>Tech Report</strong></a>]  -->
 		</p>
 		<!-- <p>
@@ -300,7 +300,7 @@ VisualWorld projects explore video data management from a number of perspectives
 			evaluation while scaling up the size of the input data.
 		</p>
 		<p>
-			<strong>Visual Road: A Video Data Management Benchmark.</strong> Brandon Haynes, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung. <strong><i>SIGMOD</i></strong>, 2019. <a class="btn btn-warning btn-xs" href="/projects/visualroad" role="button">Details</a> <a class="btn btn-primary btn-xs" href="/projects/visualroad/p300-haynes.pdf" role="button">Paper</a> <a class="btn btn-success btn-xs" href="https://github.com/uwdb/visualroad" role="button">Code</a>
+			<strong>Visual Road: A Video Data Management Benchmark.</strong> Brandon Haynes, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung. <strong><i>SIGMOD</i></strong>, 2019. <a class="btn btn-warning btn-sm" href="/projects/visualroad" role="button">Details</a> <a class="btn btn-primary btn-sm" href="/projects/visualroad/p300-haynes.pdf" role="button">Paper</a> <a class="btn btn-success btn-sm" href="https://github.com/uwdb/visualroad" role="button">Code</a>
 			<!-- [<a href="/projects/visualroad/p300-haynes.pdf"><strong>Paper</strong></a>]  -->
 		</p>
 		<!-- <p>
@@ -330,7 +330,7 @@ VisualWorld projects explore video data management from a number of perspectives
 			to many concurrent connections.
 		</p>
 		<p>
-			<strong>VisualCloud Demonstration: A DBMS for Virtual Reality.</strong> Brandon Haynes, Artem Minyaylov, Magdalena Balazinska, Luis Ceze, Alvin Cheung. <strong><i>SIGMOD</i></strong>, 2017. <strong>Best Demonstration Honorable Mention.</strong> <a class="btn btn-primary btn-xs" href="/projects/lightdb/haynes-sigmod17-demo.pdf" role="button">Paper</a>
+			<strong>VisualCloud Demonstration: A DBMS for Virtual Reality.</strong> Brandon Haynes, Artem Minyaylov, Magdalena Balazinska, Luis Ceze, Alvin Cheung. <strong><i>SIGMOD</i></strong>, 2017. <strong>Best Demonstration Honorable Mention.</strong> <a class="btn btn-primary btn-sm" href="/projects/lightdb/haynes-sigmod17-demo.pdf" role="button">Paper</a>
 			<!-- [<a href="/projects/visualroad/p300-haynes.pdf"><strong>Paper</strong></a>]  -->
 		</p>
 		<!-- <p>
