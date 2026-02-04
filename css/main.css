@@ -396,11 +396,6 @@ pre code {
 }
 
 #footer .text-muted {
-  color: #5a5a5a;
-  /* Darker gray for better contrast on light background */
-}
-
-#footer .text-muted abbr {
-  color: #5a5a5a;
-  /* Match the footer text color */
+  color: #525252 !important;
+  /* Darker gray for WCAG AAA 7:1 contrast on #f5f5f5 background */
 }
