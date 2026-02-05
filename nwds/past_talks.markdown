@@ -10,7 +10,7 @@ id: "nwds_past_talks"
 * * *
 
 <p><a name="Ahmadi_Surna_2021_3_10"></a>
-<strong>Speaker</strong>: <a href="https://research.google/people/HosseinAhmadi/">Hossein Ahmadi</a> and <a href="https://www.linkedin.com/in/aleksandras-surna-602a3145/">Aleksandras Surna</a> </p>
+<strong>Speaker</strong>: Hossein Ahmadi and <a href="https://www.linkedin.com/in/aleksandras-surna-602a3145/">Aleksandras Surna</a> </p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
@@ -854,7 +854,7 @@ Immanuel Trummer is assistant professor for computer science at Cornell Universi
 * * *
 
 <p><a name="david_chu_05_27_16"></a>
-<strong>Speaker</strong>: <a href="http://www.bawakayi.com/davidchu/">David Chu</a>, Microsoft Research</p>
+<strong>Speaker</strong>: David Chu, Microsoft Research</p>
 
 <p><strong>Title</strong>:
 Immersive Virtual Reality on Mobile Devices via Compute Offload and Caching
@@ -886,7 +886,7 @@ David Chu is a researcher at Microsoft Research. His research interests are in m
 * * *
 
 <p><a name="craig_chambers_05_18_16"></a>
-<strong>Speaker</strong>: <a href="http://research.google.com/pubs/author4707.html">Craig Chambers</a>, Google</p>
+<strong>Speaker</strong>: Craig Chambers, Google</p>
 
 <p><strong>Title</strong>: Flume/Dataflow: Easy, Efficient Parallel Data Processing </p>
 
@@ -961,7 +961,7 @@ We then present two key efforts at Google on collecting tail knowledge. The firs
 * * * 
 
 <p><a name="fatma_ozcan_03_4_16"></a>
-<strong>Speaker</strong>: <a href="http://researcher.ibm.com/researcher/view.php?person=us-fozcan">Dr. Fatma Özcan</a>, IBM Almaden Research Center</p>
+<strong>Speaker</strong>: Dr. Fatma Özcan, IBM Almaden Research Center</p>
 
 <p><strong>Title</strong>: SQL Processing in Cognitive and Large-Scale Analytical Platforms</p>
 
@@ -1650,7 +1650,7 @@ Allen Center, Database Lab (CSE-405).
 
 **Abstract**:  
  Timely and cost-effective analytics over "big data" is now a key ingredient for success in businesses and scientific disciplines. The Hadoop platform---consisting of an extensible MapReduce execution engine, pluggable distributed storage engines, and a range of procedural to declarative interfaces to express analysis tasks---is an emerging choice for big data analytics. Hadoop's performance out of the box can be poor, causing suboptimal use of resources, time, and money (e.g., in pay-as-you-go clouds). Unfortunately, practitioners of big data analytics such as business analysts, computational scientists, and researchers often lack the expertise to tune the Hadoop platform for good performance.  
-I will introduce Starfish, a self-tuning system for big data analytics. Starfish builds on Hadoop, while adapting to system workloads and user needs to provide good performance automatically; without any need for users to understand and manipulate the many tuning knobs in the Hadoop platform. While Starfish's design is guided by work on self-tuning database systems, I will discuss how new analysis practices (dubbed the MADDER principles) over big data pose new challenges; leading us to different design choices in Starfish. Starfish is under active development and is available[here]( http://www.cs.duke.edu/starfish).
+I will introduce Starfish, a self-tuning system for big data analytics. Starfish builds on Hadoop, while adapting to system workloads and user needs to provide good performance automatically; without any need for users to understand and manipulate the many tuning knobs in the Hadoop platform. While Starfish's design is guided by work on self-tuning database systems, I will discuss how new analysis practices (dubbed the MADDER principles) over big data pose new challenges; leading us to different design choices in Starfish.
 
 **Bio**:  
 Shivnath Babu is an Assistant Professor of Computer Science at Duke University. He got his Ph.D. from Stanford University in 2005\. He has received a U.S. National Science Foundation CAREER Award and three IBM Faculty Awards. His research interests are in ease-of-use and manageability of data-intensive computing systems, automated problem diagnosis and cluster sizing for systems running on cloud platforms, and automated detection and recovery from corruption of data caused by hardware faults, software bugs, or human mistakes.
