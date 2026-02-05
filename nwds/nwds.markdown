@@ -18,6 +18,54 @@ Instructions to sign up for the NWDS mailing list are at the bottom of this page
 
 ---
 
+### Winter 2026
+
+---
+
+<p><a name="Zachary_Tatlock_2026"></a>
+<strong>Keynote Speaker</strong>: <a href="https://www.cs.washington.edu/people/faculty/zachary-tatlock/">Zachary Tatlock</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, March 13th, 2026, 9:00am-7:00pm</p>
+
+<p><strong>Title</strong>:
+    Relational Equality Saturation: E-graphs Meet Query Engines
+</p>
+
+<p><strong>Abstract</strong>:
+Equality saturation (EqSat) has emerged as a practical way to do rule-based optimization and reasoning in compilers, theorem provers, and even query optimizers. Instead of relying on delicate rewrite scheduling heuristics, EqSat approximates applying "all rewrites in every order" by using e-graphs to represent a large equivalence class of expressions compactly, then performs cost-based extraction to pick the best version.
+</p>
+
+<p>
+This talk will explore how treating EqSat as a data management problem has made this technique a hot topic in the PL world and beyond. A central bottleneck in EqSat is "e-matching": finding all substitutions that make a rewrite pattern match some term in the current e-graph. We show that e-matching is naturally equivalent to evaluating conjunctive queries over a relational encoding of the e-graph. This perspective enables (i) asymptotically better matching via database join algorithms (including worst-case–optimal joins), (ii) principled data-complexity guarantees, and (iii) new "multi-pattern" and merge-only rule forms that are awkward in traditional e-graph engines.
+</p>
+
+<p>
+Building on this connection, we developed egglog, which treats EqSat as "Datalog + congruence." Congruence becomes a functional-dependency invariant; saturation becomes fixpoint evaluation; and analyses/guards become functions with user-defined merges. This unifies rewriting, analysis, and incremental maintenance under one rule engine, while leveraging classic Datalog ideas such as semi-naive evaluation.
+</p>
+
+<p>
+We will survey some of the many projects using EqSat to achieve state-of-the-art results in compilers, hardware design, computation fabrication, and more. Finally we'll close with some current challenges and next steps for DB-inspired EqSat engines going forward.
+</p>
+
+<p><strong>Bio</strong>:
+Professor Zachary Tatlock's research interests include compilers, term rewriting, numerics, formal verification, and computational fabrication. Outside of the lab, he helps organize the running club, attempts small knitting projects, and practices cooking vegan food. He can juggle and solve Rubik's cubes, but not at the same time.
+</p>
+
+<p>
+Tatlock spent six sunny years at UC San Diego working on his Ph.D. with his incredible advisor Sorin Lerner. Throughout grad school, Sorin set a stellar example of how remarkable doing research can be when you put students first, an example Tatlock strives to emulate. He also learned many invaluable lessons from the great Ranjit Jhala, especially when it comes to writing and presentation: less is more!
+</p>
+
+<p>
+He graduated from Purdue University in Spring 2007 with degrees in Computer Science and Mathematics. As an undergraduate, he was fortunate to work with Suresh Jagannathan on the SML compiler MLton. For their Honors Project, advised by Antony Hosking, Tatlock and his good friend Bill Harris designed and implemented a domain specific language to control a giant neon sculpture over the web. He also ran the lab component of Purdue's introductory Java programming course for three years.
+</p>
+
+---
+
 ### Fall 2025
 
 ---
