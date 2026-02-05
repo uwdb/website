@@ -10,6 +10,7 @@ Some videos of the research talks given by members of our group are available on
 # Events
 
 ## Northwest Database Society Annual Meeting
+- [NWDS 2026]({{ site.baseurl }}/events/database_day/2026/database_day_2026.html)
 - [NWDS 2025]({{ site.baseurl }}/events/database_day/2025/database_day_2025.html)
 - [NWDS 2024](https://sites.google.com/view/nwds-2024/home)
 - [NWDS 2023](https://www.microsoft.com/en-us/research/event/northwest-database-society-nwds-annual-meeting-2023/)
