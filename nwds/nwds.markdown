@@ -690,7 +690,6 @@ Listed in reverse chronological order. [View abstracts for past talks]({{site.ba
 ### Fall 2016
 
 *   [Dharma Shukla](http://www.dharmashukla.com), Microsoft [[abstract](past_talks.html#Dharma_Shukla_11_18_16)]
-    [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJcnV0U1dRWG9wc2s/view?usp=sharing_eixpa_nl&ts=5835f5b0)]
 *   [Olga Papaemmanouil](http://www.cs.brandeis.edu/~olga/home.html), Brandeis University [[abstract](past_talks.html#Olga_Papaemmanouil_11_4_16)] [[video](https://www.youtube.com/watch?v=oH60uVu6bPE)][[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Olga_Papaemmanouil_11_4_16.pdf)]
 *   [Immanuel Trummer](http://www.itrummer.org), Cornell University [[abstract](past_talks.html#Immanuel_Trummer_10_14_16)] [[video](https://www.youtube.com/watch?v=Dm1_r5tUMu0)][[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Immanuel_Trummer_10_14_16.pdf)]
 
@@ -699,9 +698,9 @@ Listed in reverse chronological order. [View abstracts for past talks]({{site.ba
 *   David Chu, Microsoft Research [[abstract](past_talks.html#david_chu_05_27_16)]
 *   Craig Chambers, Google [[abstract](past_talks.html#craig_chambers_05_18_16)]
 *   [Daisy Zhe Wang](http://dsr.cise.ufl.edu/daisyw/), UFL [[abstract](past_talks.html#daisy_wang_05_16_16)]
-*   Angel Viña, CEO, Denodo Technologies [[abstract](past_talks.html#angel_vina_05_06_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJSm02YUdMeGZYODg/view?usp=sharing_eid&ts=573a2953)]
+*   Angel Viña, CEO, Denodo Technologies [[abstract](past_talks.html#angel_vina_05_06_16)]
 *   [Xin Luna Dong](http://lunadong.com/), Google
-    [[abstract](past_talks.html#xin_dong_03_31_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0B801X-XPoh5IXzdmUk1BVUlFTlE/view?usp=sharing)]
+    [[abstract](past_talks.html#xin_dong_03_31_16)]
 
 ### Winter 2016
 *   Fatma Özcan, IBM Almaden Research Center [[abstract](past_talks.html#fatma_ozcan_03_4_16)]
