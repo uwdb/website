@@ -364,7 +364,7 @@ Faisal Nawab is an assistant professor in the computer science department at the
 ---
 
 <p><a name="Pat_Helland_2024_01_26"></a>
-<strong>Speaker</strong>: <a href="pathelland.substack.com">Pat Helland</a> </p>
+<strong>Speaker</strong>: Pat Helland</p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
 Allen School of Computer Science and Engineering.<br>
@@ -645,9 +645,9 @@ Listed in reverse chronological order. [View abstracts for past talks]({{site.ba
 
 ### Spring 2019
 * Graham Cormode, University of Warwick [[abstract](past_talks.html#Graham_Cormode_2019_06_14)][[video](https://www.youtube.com/watch?v=V4dSj_yE36Y)]
-* <a href="https://www.user.tu-berlin.de/sebastian.bress/">Sebastian Breß</a>, TU Berlin [[abstract](past_talks.html#Volker_Markl_4_5_19)]
+* Sebastian Breß, Berlin [[abstract](past_talks.html#Volker_Markl_4_5_19)]
 * <a href="http://www.user.tu-berlin.de/powibol/">Jonas Traub</a>, TU Berlin [[abstract](past_talks.html#Volker_Markl_4_5_19)]
-* <a href="http://www.user.tu-berlin.de/akunft/">Andreas Kunft</a>, TU Berlin [[abstract](past_talks.html#Volker_Markl_4_5_19)]
+* Andreas Kunft, TU Berlin [[abstract](past_talks.html#Volker_Markl_4_5_19)]
 * <a href="http://www.user.tu-berlin.de/mkiefer/">Martin Kiefer</a>, TU Berlin [[abstract](past_talks.html#Volker_Markl_4_5_19)]
 * <a href="https://nivdayan.github.io/">Niv Dayan</a>, Harvard University [[abstract](past_talks.html#Niv_Dayan_4_26_19)]
 
@@ -674,7 +674,7 @@ Listed in reverse chronological order. [View abstracts for past talks]({{site.ba
 
 ### Fall 2017
 
-* [Oliver Kennedy](https://odin.cse.buffalo.edu/people/oliver_kennedy.html), University at Buffalo [[abstract](past_talks.html#Oliver_Kennedy_12_11_17)] [[video](https://youtu.be/QuBt1Kc9F0k)]]
+* [Oliver Kennedy](https://odin.cse.buffalo.edu/people/oliver_kennedy.html), University at Buffalo [[abstract](past_talks.html#Oliver_Kennedy_12_11_17)] [[video](https://youtu.be/QuBt1Kc9F0k)]
 * Neal Fachan [[abstract](past_talks.html#Neal_Fachan_12_08_17)], Qumulo
 * [Gerome Miklau](http://people.cs.umass.edu/~miklau/), University of Massachusetts Amherst [[abstract](past_talks.html#Gerome_Miklau_11_17_17)] [[video](https://youtu.be/vfN3M1qRk1g)]
 
@@ -696,15 +696,15 @@ Listed in reverse chronological order. [View abstracts for past talks]({{site.ba
 
 ### Spring 2016
 
-*   [David Chu](http://www.bawakayi.com/davidchu), Microsoft Research [[abstract](past_talks.html#david_chu_05_27_16)]
-*   [Craig Chambers](http://research.google.com/pubs/author4707.html), Google [[abstract](past_talks.html#craig_chambers_05_18_16)]
+*   David Chu, Microsoft Research [[abstract](past_talks.html#david_chu_05_27_16)]
+*   Craig Chambers, Google [[abstract](past_talks.html#craig_chambers_05_18_16)]
 *   [Daisy Zhe Wang](http://dsr.cise.ufl.edu/daisyw/), UFL [[abstract](past_talks.html#daisy_wang_05_16_16)]
 *   Angel Viña, CEO, Denodo Technologies [[abstract](past_talks.html#angel_vina_05_06_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0Bw5T4EGrE-IJSm02YUdMeGZYODg/view?usp=sharing_eid&ts=573a2953)]
 *   [Xin Luna Dong](http://lunadong.com/), Google
     [[abstract](past_talks.html#xin_dong_03_31_16)] [[video (internal)](https://drive.google.com/a/cs.washington.edu/file/d/0B801X-XPoh5IXzdmUk1BVUlFTlE/view?usp=sharing)]
 
 ### Winter 2016
-*   [Fatma Özcan](http://researcher.ibm.com/researcher/view.php?person=us-fozcan), IBM Almaden Research Center [[abstract](past_talks.html#fatma_ozcan_03_4_16)]
+*   Fatma Özcan, IBM Almaden Research Center [[abstract](past_talks.html#fatma_ozcan_03_4_16)]
 *   Sudipta Sengupta, Microsoft Research [[abstract](past_talks.html#sudipta_sengupta_01_29_16)] [[video](https://www.youtube.com/watch?v=Pr-b9stpAV4&feature=youtu.be)]
 
 ### Fall 2015
@@ -724,9 +724,9 @@ Listed in reverse chronological order. [View abstracts for past talks]({{site.ba
 *   Tim Kraska, Brown University [[abstract](past_talks.html#tim_kraska_10_25_13)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/2013-MLbase-UW.pdf)]
 *   Donald Kossmann, ETH Zurich [[abstract](past_talks.html#kossmann_08_02_13)]
 *   Hiroaki Shiokawa, NTT [[abstract](past_talks.html#shiokawa_07_19_13)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Shiokawa.pdf)]
-*   Molham Aref and Todd Veldhuizen, LogicBlox [[abstract](past_talks.html#logicblox_1_2_2013)] [[slides](not_available_yet)]
-*   Darrick S Sogabe and Doug Brown, Teradata [[abstract](past_talks.html#teradata_22_2_2013)] [[slides](not_available_yet)]
-*   Volker Markl and his students, TU-Berlin [[abstract](past_talks.html#Stratosphere_2_10_12)] [[slides](not_available_yet)]
+*   Molham Aref and Todd Veldhuizen, LogicBlox [[abstract](past_talks.html#logicblox_1_2_2013)]
+*   Darrick S Sogabe and Doug Brown, Teradata [[abstract](past_talks.html#teradata_22_2_2013)]
+*   Volker Markl and his students, TU-Berlin [[abstract](past_talks.html#Stratosphere_2_10_12)]
 *   Ricardo Baeza-Yates, Yahoo! Research [[abstract](past_talks.html#ricardo_baeza-yates_14_5_12)] [[video](https://tegr.it/y/or1b)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/Distributed-WR.pdf)]
 *   Christopher Re, University of Wisconsin [[abstract](past_talks.html#chris_re_13_4_12)]
 *   Chris Lintott, University of Oxford [[abstract](past_talks.html#chris_lintott_16_4_12)] [[video](https://tegr.it/y/or1f)] [[slides](http://nwds.cs.washington.edu/files/nwds/pdf/chris_lintott.ppt)]
@@ -790,4 +790,4 @@ ___
 ## History
 
 The North-West Database Society was founded on January 1st 2006 by [Dan Suciu](http://www.cs.washington.edu/homes/suciu/) and
-[Magdalena Balazinska](http://www.cs.washington.edu/homes/magda/). It is inspired by the [New-England Database Society](http://www.cse.uconn.edu/neds/).
+[Magdalena Balazinska](http://www.cs.washington.edu/homes/magda/). It is inspired by the [New-England Database Society](https://cs.brown.edu/sites/neds/).
