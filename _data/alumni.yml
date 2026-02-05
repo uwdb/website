@@ -12,7 +12,6 @@
 
 - name: Maureen Daum
   nickname: Maureen
-  website: https://homes.cs.washington.edu/~mdaum/
   image: maureen.jpg
   at: Numbers Station
 
@@ -24,12 +23,10 @@
 
 - name: Maaz Ahmad
   nickname: Maaz
-  website: http://homes.cs.washington.edu/~maazsaf/
   image: maaz.jpg
 
 - name: Shana Hutchison
   nickname: Shana
-  website: http://homes.cs.washington.edu/~shutchis/
   image: hutchison.jpg
 
 - name: Walter Cai
@@ -80,17 +77,14 @@
 
 - name: Daniel Li	
   nickname: Daniel	
-  website: http://homes.cs.washington.edu/~dyli/	
   image: placeholder.jpg	
 
 - name: Shengliang Xu	
   nickname: Shengliang	
-  website: http://homes.cs.washington.edu/~slxu/	
   image: shengliang.jpg	
   
 - name: Seung-Hee Bae
   nickname: Seung-Hee
-  website: http://homes.cs.washington.edu/~shbae/
   image: seunghee.jpg  
 
 - name: Prasang Upadhyaya
@@ -106,17 +100,14 @@
 
 - name: Paris Koutris
   nickname: Paris
-  website: http://homes.cs.washington.edu/~pkoutris/
   image: paris.jpg
 
 - name: Jeremy Hyrkas
   nickname: Jeremy
-  website: http://homes.cs.washington.edu/~hyrkas/
   image: jeremy.jpg
 
 - name: Eric Gribkoff
   nickname: Eric
-  website: http://homes.cs.washington.edu/~eagribko/
   image: eric.jpg
 
 - name: Sudeepa Roy
@@ -152,7 +143,6 @@
   
 - name: Brandon Myers
   nickname: Brandon
-  website: http://homepage.cs.uiowa.edu/~bdmyers/
   image: brandonM.jpg
   at: University of Iowa
 
@@ -204,19 +194,16 @@
 
 - name: Tomer Kaftan
   nickname: Tomer
-  website: http://homes.cs.washington.edu/~tomerk11/
   image: tomer.jpg
   at: Google Brain
 
 - name: Jingjing Wang
   nickname: Jingjing
-  website: http://homes.cs.washington.edu/~jwang/
   image: jingjing.jpg
   at: Facebook
 
 - name: Shrainik Jain
   nickname: Shrainik
-  website: http://homes.cs.washington.edu/~shrainik/
   image: shrainik.jpg
   at: Snowflake
   
