@@ -4,12 +4,11 @@ title: "NWDS Annual Meeting 2026"
 group: "navigation"
 id: "database_day_2026"
 ---
-
 # Northwest Database Society (NWDS) Annual Meeting 2026
 
 ### **Where**:
 
-[Bill & Melinda Gates Center For Computer Science & Engineering](https://www.washington.edu/maps/#!/cse2)
+[Bill &amp; Melinda Gates Center For Computer Science &amp; Engineering](https://www.washington.edu/maps/#!/cse2)
 
 Zillow Commons (4th floor)
 
@@ -58,6 +57,16 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
     
     He graduated from Purdue University in Spring 2007 with degrees in Computer Science and Mathematics. As an undergraduate, he was fortunate to work with Suresh Jagannathan on the SML compiler MLton. For their Honors Project, advised by Antony Hosking, Tatlock and his good friend Bill Harris designed and implemented a domain specific language to control a giant neon sculpture over the web. He also ran the lab component of Purdue's introductory Java programming course for three years.</p>
 </div>
+
+### **Panel: Agentic AI And Data Management**
+
+Panelists:
+
+* Hossein Ahmadi (Snowflake)
+* Sudipto Das (Amazon)
+* Jenny Ortiz (Google)
+* Vidya Setlur (Tableau Research)
+* Markus Weimer (Microsoft)
 
 ### **Agenda**:
 
