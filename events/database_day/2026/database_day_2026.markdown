@@ -58,9 +58,36 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
     He graduated from Purdue University in Spring 2007 with degrees in Computer Science and Mathematics. As an undergraduate, he was fortunate to work with Suresh Jagannathan on the SML compiler MLton. For their Honors Project, advised by Antony Hosking, Tatlock and his good friend Bill Harris designed and implemented a domain specific language to control a giant neon sculpture over the web. He also ran the lab component of Purdue's introductory Java programming course for three years.</p>
 </div>
 
-### **Panel: Agentic AI And Data Management**
+### **Agenda**:
 
-Panelists:
+**&nbsp;&nbsp;8:30 am&emsp;** Coffee/tea
+
+**&nbsp;&nbsp;9:00 am&emsp;** Keynote: "Relational Equality Saturation: E-graphs Meet Query Engines," Zachary Tatlock (UW Allen School)
+
+**10:00 am&emsp;** BREAK
+
+**10:30 am&emsp;** Session 1
+
+* "Avoiding Thread Stalls and Switches in Key-Value Stores: New Latch-Free Techniques and More," David Lomet
+* "I Can't Believe It's Not Yannakakis: Pragmatic Bitmap Filters in Microsoft SQL Server," Hangdong Zhao (Microsoft)
+* "Scaling Datalog on GPU," Yihao Sun (Syracuse University)
+* "KalDB: A Polystore for Search and Analytics Workloads," Suman Karumuri (KalDB)
+* "Querying with Conflict of Interest," Arash Termehchy (Oregon State University)
+* "Progress Indication for Deep Learning Model Training," Gang Luo (School of Medicine, UW)
+
+**12:00 pm&emsp;** Lunch with posters
+
+**&nbsp;&nbsp;1:30 pm&emsp;** Session 2
+
+* "From Sight to Insight: Visual Memory for Smarter Assistants," Luna Dong (Meta)
+* "What's New in BigQuery AI/ML," Xi Cheng (Google)
+* "Snowflake Semantic View: Unlocking Efficient and Trusted AI-powered BI," Evelyn Li and Tian Gao (Snowflake)
+* "What Does Responsible AI Mean? A Cross-Area Perspective," Leilani Battle (Allen School, UW)
+* "TraversRL: Reinforcement Learning for Urban Data Repair," Bill Howe (Information School, UW)
+
+**&nbsp;&nbsp;3:00 pm&emsp;** BREAK
+
+**&nbsp;&nbsp;3:30 pm&emsp;** Panel: "Agentic AI And Data Management"
 
 * Hossein Ahmadi (Snowflake)
 * Sudipto Das (Amazon)
@@ -68,9 +95,7 @@ Panelists:
 * Vidya Setlur (Tableau Research)
 * Markus Weimer (Microsoft)
 
-### **Agenda**:
-
-TBD
+**&nbsp;&nbsp;4:30 pm&emsp;** EVENT ENDS
 
 <!-- TODO: This is copied from last year. Fill this out with appropriate information. -->
 <!-- ### **Accommodations**:
