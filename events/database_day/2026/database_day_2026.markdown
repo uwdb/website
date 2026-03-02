@@ -97,8 +97,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **&nbsp;&nbsp;4:30 pm&emsp;** EVENT ENDS
 
-<!-- TODO: This is copied from last year. Fill this out with appropriate information. -->
-<!-- ### **Accommodations**:
+### **Accommodations**:
 
 The following are suggested hotels near the University of Washington.
 Please contact them for further information.
@@ -111,7 +110,7 @@ Please contact them for further information.
 
 [Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa)
 
-[Graduate Seattle](https://www.graduatehotels.com/seattle/) (formerly the Hotel Deca)
+[Graduate Seattle](https://www.hilton.com/en/hotels/seagsgu-graduate-seattle/) (formerly the Hotel Deca)
 
 ### **Contact Information**:
 
@@ -125,7 +124,14 @@ Please contact them for further information.
 
 We thank the UWDB industry affiliate partners for supporting this event.
 
-TBD -->
+* Amazon
+* Google
+* Microsoft
+* MotherDuck
+* Numbers Station
+* Snowflake
+* Teradata
+* Western Digital
 
 ### **Previous Meetings**:
 
