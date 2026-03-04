@@ -90,7 +90,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 **&nbsp;&nbsp;3:30 pm&emsp;** Panel: "Agentic AI And Data Management"
 
 * Hossein Ahmadi (Snowflake)
-* Sudipto Das (Amazon)
+* Sudipto Das (Databricks)
 * Jenny Ortiz (Google)
 * Vidya Setlur (Tableau Research)
 * Markus Weimer (Microsoft)
