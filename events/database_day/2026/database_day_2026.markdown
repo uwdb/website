@@ -62,11 +62,13 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **&nbsp;&nbsp;8:30 am&emsp;** Coffee/tea
 
-**&nbsp;&nbsp;9:00 am&emsp;** Keynote: "Relational Equality Saturation: E-graphs Meet Query Engines," Zachary Tatlock (UW Allen School)
+**&nbsp;&nbsp;9:00 am&emsp;** Welcome (Magda Balazinska)
+
+**&nbsp;&nbsp;9:05 am&emsp;** Keynote: "Relational Equality Saturation: E-graphs Meet Query Engines," Zachary Tatlock (UW Allen School) (Session chair: Dan Suciu)
 
 **10:00 am&emsp;** BREAK
 
-**10:30 am&emsp;** Session 1
+**10:30 am&emsp;** Session 1 (Session chair: Leilani Battle)
 
 * "Avoiding Thread Stalls and Switches in Key-Value Stores: New Latch-Free Techniques and More," David Lomet
 * "I Can't Believe It's Not Yannakakis: Pragmatic Bitmap Filters in Microsoft SQL Server," Hangdong Zhao (Microsoft)
@@ -77,7 +79,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **12:00 pm&emsp;** Lunch with posters
 
-**&nbsp;&nbsp;1:30 pm&emsp;** Session 2
+**&nbsp;&nbsp;1:30 pm&emsp;** Session 2 (Session chair: Dan Suciu)
 
 * "From Sight to Insight: Visual Memory for Smarter Assistants," Luna Dong (Meta)
 * "What's New in BigQuery AI/ML," Xi Cheng (Google)
@@ -87,7 +89,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **&nbsp;&nbsp;3:00 pm&emsp;** BREAK
 
-**&nbsp;&nbsp;3:30 pm&emsp;** Panel: "Agentic AI And Data Management"
+**&nbsp;&nbsp;3:30 pm&emsp;** Panel: "Agentic AI And Data Management" (Session chair: Magda Balazinska)
 
 * Hossein Ahmadi (Snowflake)
 * Sudipto Das (Databricks)
