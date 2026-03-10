@@ -41,6 +41,7 @@ id: "projects"
   <!-- <img src="../../images/projects/kathdb-icon.png" alt="Logo" style="width: 36em" /> -->
   <h1 class="title">KathDB</h1>
   <p>An Explainable Multimodal Database System with Human-AI Collaboration</p>
+  <a class="btn btn-secondary btn-sm" href="https://www.vldb.org/cidrdb/2026/kathdb-explainable-multimodal-database-management-system-with-human-ai-collaboration.html" role="button">Paper</a>
 </div>
 
 ## About KathDB
