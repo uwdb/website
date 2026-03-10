@@ -117,6 +117,6 @@ Please contact Guorui Xiao.
 
 ## Acknowledgments
 
-This work was supported in part by the National Science Foundation through awards 2211133.
+This work was supported in part by the National Science Foundation through awards 2211133 and <a href="https://www.teradata.com/">Teradata</a>.
 
 &nbsp;
