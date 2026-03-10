@@ -92,7 +92,7 @@ Unlike black-box LLM-based systems, KathDB keeps users in the loop through inter
 
 	<div class="flex-item person" title="Nicole Sullivan">
 		<a href="https://nicolesullivan.xyz/">
-			<img src="{{ site.baseurl }}/images/people/female_unknown.png" alt=""/>
+			<img src="{{ site.baseurl }}/images/people/nicole.jpg" alt=""/>
 			<p>Nicole Sullivan</p>
 		</a>
 	</div>
