@@ -1,7 +1,7 @@
 <div class="current-projects flex-container image-container">
 
-  {% include project name="KathDB" caption="A Multimodal DBMS powered by LLMs" 
-  link="https://db.cs.washington.edu/projects/kathdb" %}
+  {% include project name="KathDB" caption="A Multimodal DBMS powered by LLMs"
+  image="logo_incoming.png" link="https://db.cs.washington.edu/projects/kathdb" %}
 
   {% include project name="Sparse Tensor Optimization" caption="Modern Query Optimization for Sparse Tensor Programming"
   image="galley.png" link="https://db.cs.washington.edu/projects/galley" %}

@@ -1,8 +1,10 @@
 <div class="flex-item project">
   <a id="{{ include.id }}" href="{{ include.link }}">
     <div class="logo-container">
+      {% if include.image %}
       <img src="{{ site.baseurl }}/images/projects/{{ include.image }}"
         alt="{{ include.name }} - {{ include.caption }}" />
+      {% endif %}
     </div>
     <h3 class="heading">{{ include.name }}</h3>
     <p class="caption">{{ include.caption }}</p>
