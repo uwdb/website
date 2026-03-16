@@ -30,6 +30,10 @@ Friday, March 13th, 9:00am - 4:30pm.
 
 The Northwest Database Society Annual Meeting brings together researchers and practitioners from the greater Pacific Northwest for a day of technical talks and networking on the broad topic of data management systems.
 
+<img src="pictures/nwds1.jpg" class="img-responsive" alt="NWDS 2026 event photo 1" style="width: 100%;"/>
+
+<img src="pictures/nwds2.jpg" class="img-responsive" alt="NWDS 2026 event photo 2" style="width: 100%;"/>
+
 ## **Keynote: "Relational Equality Saturation: E-graphs Meet Query Engines," Zachary Tatlock (UW Allen School)**
 
 > Equality saturation (EqSat) has emerged as a practical way to do rule-based optimization and reasoning in compilers, theorem provers, and even query optimizers. Instead of relying on delicate rewrite scheduling heuristics, EqSat approximates applying "all rewrites in every order" by using e-graphs to represent a large equivalence class of expressions compactly, then performs cost-based extraction to pick the best version.
@@ -134,12 +138,6 @@ We thank the UWDB industry affiliate partners for supporting this event.
 * Snowflake
 * Teradata
 * Western Digital
-
-## **Pictures**:
-
-<img src="pictures/nwds1.jpg" class="img-responsive" alt="NWDS 2026 event photo 1" style="width: 100%;"/>
-
-<img src="pictures/nwds2.jpg" class="img-responsive" alt="NWDS 2026 event photo 2" style="width: 100%;"/>
 
 ## **Previous Meetings**:
 
