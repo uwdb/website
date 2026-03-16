@@ -30,9 +30,10 @@ Friday, March 13th, 9:00am - 4:30pm.
 
 The Northwest Database Society Annual Meeting brings together researchers and practitioners from the greater Pacific Northwest for a day of technical talks and networking on the broad topic of data management systems.
 
-<img src="pictures/nwds1.jpg" class="img-responsive" alt="NWDS 2026 event photo 1" style="width: 100%;"/>
-
-<img src="pictures/nwds2.jpg" class="img-responsive" alt="NWDS 2026 event photo 2" style="width: 100%;"/>
+<div class="nwds-photo-row">
+  <img src="pictures/nwds1.jpg" class="img-responsive nwds-photo" alt="NWDS 2026 event photo 1"/>
+  <img src="pictures/nwds2.jpg" class="img-responsive nwds-photo" alt="NWDS 2026 event photo 2"/>
+</div>
 
 ## **Keynote: "Relational Equality Saturation: E-graphs Meet Query Engines," Zachary Tatlock (UW Allen School)**
 
