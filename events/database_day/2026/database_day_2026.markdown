@@ -6,7 +6,7 @@ id: "database_day_2026"
 ---
 # Northwest Database Society (NWDS) Annual Meeting 2026
 
-### **Where**:
+## **Where**:
 
 [Bill &amp; Melinda Gates Center For Computer Science &amp; Engineering](https://www.washington.edu/maps/#!/cse2)
 
@@ -22,15 +22,15 @@ Seattle, WA 98195-2355
 
 Wifi will be available to participants.
 
-### **When**:
+## **When**:
 
 Friday, March 13th, 9:00am - 4:30pm.
 
-### **Description**:
+## **Description**:
 
 The Northwest Database Society Annual Meeting brings together researchers and practitioners from the greater Pacific Northwest for a day of technical talks and networking on the broad topic of data management systems.
 
-### **Keynote: "Relational Equality Saturation: E-graphs Meet Query Engines," Zachary Tatlock (UW Allen School)**
+## **Keynote: "Relational Equality Saturation: E-graphs Meet Query Engines," Zachary Tatlock (UW Allen School)**
 
 > Equality saturation (EqSat) has emerged as a practical way to do rule-based optimization and reasoning in compilers, theorem provers, and even query optimizers. Instead of relying on delicate rewrite scheduling heuristics, EqSat approximates applying "all rewrites in every order" by using e-graphs to represent a large equivalence class of expressions compactly, then performs cost-based extraction to pick the best version.
 >
@@ -58,7 +58,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
     He graduated from Purdue University in Spring 2007 with degrees in Computer Science and Mathematics. As an undergraduate, he was fortunate to work with Suresh Jagannathan on the SML compiler MLton. For their Honors Project, advised by Antony Hosking, Tatlock and his good friend Bill Harris designed and implemented a domain specific language to control a giant neon sculpture over the web. He also ran the lab component of Purdue's introductory Java programming course for three years.</p>
 </div>
 
-### **Agenda**:
+## **Agenda**:
 
 **&nbsp;&nbsp;8:30 am&emsp;** Coffee/tea
 
@@ -99,7 +99,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **&nbsp;&nbsp;4:30 pm&emsp;** EVENT ENDS
 
-### **Accommodations**:
+## **Accommodations**:
 
 The following are suggested hotels near the University of Washington.
 Please contact them for further information.
@@ -114,7 +114,7 @@ Please contact them for further information.
 
 [Graduate Seattle](https://www.hilton.com/en/hotels/seagsgu-graduate-seattle/) (formerly the Hotel Deca)
 
-### **Contact Information**:
+## **Contact Information**:
 
 [Prof. Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda)
 
@@ -122,7 +122,7 @@ Please contact them for further information.
 
 [Prof. Dan Suciu](https://homes.cs.washington.edu/~suciu/)
 
-### **Sponsors**:
+## **Sponsors**:
 
 We thank the UWDB industry affiliate partners for supporting this event.
 
@@ -135,13 +135,13 @@ We thank the UWDB industry affiliate partners for supporting this event.
 * Teradata
 * Western Digital
 
-### **Pictures**:
+## **Pictures**:
 
 <img src="pictures/nwds1.jpg" class="img-responsive" alt="NWDS 2026 event photo 1" style="width: 100%;"/>
 
 <img src="pictures/nwds2.jpg" class="img-responsive" alt="NWDS 2026 event photo 2" style="width: 100%;"/>
 
-### **Previous Meetings**:
+## **Previous Meetings**:
 
 This is the ninth meeting of the series. Previous meetings were held at:
 
