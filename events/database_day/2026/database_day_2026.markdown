@@ -43,7 +43,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 <div class="people" style="overflow: hidden;">
     <div class="person image-container" style="float: left; margin-right: 15px; margin-bottom: 10px;">
         <a href='https://www.cs.washington.edu/people/faculty/zachary-tatlock/'>
-            <img src="pictures/zach.jpg" alt="Zachary Tatlock"/>
+            <img src="pictures/zach.jpg" alt=""/>
             <p>Zachary Tatlock</p>
         </a>
     </div>
@@ -64,28 +64,28 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **&nbsp;&nbsp;9:00 am&emsp;** Welcome (Magda Balazinska)
 
-**&nbsp;&nbsp;9:05 am&emsp;** Keynote: "Relational Equality Saturation: E-graphs Meet Query Engines," Zachary Tatlock (UW Allen School) (Session chair: Dan Suciu)
+**&nbsp;&nbsp;9:05 am&emsp;** Keynote: "Relational Equality Saturation: E-graphs Meet Query Engines," Zachary Tatlock (UW Allen School) <!-- [(slides)](slides/tatlock-keynote.pdf) --> (Session chair: Dan Suciu)
 
 **10:00 am&emsp;** BREAK
 
 **10:30 am&emsp;** Session 1 (Session chair: Leilani Battle)
 
-* "Avoiding Thread Stalls and Switches in Key-Value Stores: New Latch-Free Techniques and More," David Lomet
-* "I Can't Believe It's Not Yannakakis: Pragmatic Bitmap Filters in Microsoft SQL Server," Hangdong Zhao (Microsoft)
-* "Scaling Datalog on GPU," Yihao Sun (Syracuse University)
-* "KalDB: A Polystore for Search and Analytics Workloads," Suman Karumuri (KalDB)
-* "Querying with Conflict of Interest," Arash Termehchy (Oregon State University)
-* "Progress Indication for Deep Learning Model Training," Gang Luo (School of Medicine, UW)
+* "Avoiding Thread Stalls and Switches in Key-Value Stores: New Latch-Free Techniques and More," David Lomet [(slides)](slides/lomet.pdf)
+* "I Can't Believe It's Not Yannakakis: Pragmatic Bitmap Filters in Microsoft SQL Server," Hangdong Zhao (Microsoft) [(slides)](slides/zhao.pdf)
+* "Scaling Datalog on GPU," Yihao Sun (Syracuse University) [(slides)](slides/sun.pdf)
+* "KalDB: A Polystore for Search and Analytics Workloads," Suman Karumuri (KalDB) <!-- [(slides)](slides/karumuri.pdf) -->
+* "Querying with Conflict of Interest," Arash Termehchy (Oregon State University) <!-- [(slides)](slides/termehchy.pdf) -->
+* "Progress Indication for Deep Learning Model Training," Gang Luo (School of Medicine, UW) [(slides)](slides/luo.pdf)
 
 **12:00 pm&emsp;** Lunch with posters
 
 **&nbsp;&nbsp;1:30 pm&emsp;** Session 2 (Session chair: Dan Suciu)
 
-* "From Sight to Insight: Visual Memory for Smarter Assistants," Luna Dong (Meta)
-* "What's New in BigQuery AI/ML," Xi Cheng (Google)
-* "Snowflake Semantic View: Unlocking Efficient and Trusted AI-powered BI," Evelyn Li and Tian Gao (Snowflake)
-* "What Does Responsible AI Mean? A Cross-Area Perspective," Leilani Battle (Allen School, UW)
-* "TraversRL: Reinforcement Learning for Urban Data Repair," Bill Howe (Information School, UW)
+* "From Sight to Insight: Visual Memory for Smarter Assistants," Luna Dong (Meta) <!-- [(slides)](slides/dong.pdf) -->
+* "What's New in BigQuery AI/ML," Xi Cheng (Google) [(slides)](slides/cheng.pdf)
+* "Snowflake Semantic View: Unlocking Efficient and Trusted AI-powered BI," Evelyn Li and Tian Gao (Snowflake) <!-- [(slides)](slides/li-gao.pdf) -->
+* "What Does Responsible AI Mean? A Cross-Area Perspective," Leilani Battle (Allen School, UW) <!-- [(slides)](slides/battle.pdf) -->
+* "TraversRL: Reinforcement Learning for Urban Data Repair," Bill Howe (Information School, UW) <!-- [(slides)](slides/howe.pdf) -->
 
 **&nbsp;&nbsp;3:00 pm&emsp;** BREAK
 
@@ -134,6 +134,12 @@ We thank the UWDB industry affiliate partners for supporting this event.
 * Snowflake
 * Teradata
 * Western Digital
+
+### **Pictures**:
+
+<img src="pictures/nwds1.jpg" class="img-responsive" alt="NWDS 2026 event photo 1" style="width: 100%;"/>
+
+<img src="pictures/nwds2.jpg" class="img-responsive" alt="NWDS 2026 event photo 2" style="width: 100%;"/>
 
 ### **Previous Meetings**:
 
