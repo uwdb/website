@@ -69,7 +69,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 **&nbsp;&nbsp;9:00 am&emsp;** Welcome (Magda Balazinska)
 
-**&nbsp;&nbsp;9:05 am&emsp;** Keynote: "Relational Equality Saturation: E-graphs Meet Query Engines," Zachary Tatlock (UW Allen School) <!-- [(slides)](slides/tatlock-keynote.pdf) --> (Session chair: Dan Suciu)
+**&nbsp;&nbsp;9:05 am&emsp;** Keynote: "Relational Equality Saturation: E-graphs Meet Query Engines," Zachary Tatlock (UW Allen School) [(slides)](slides/keynote.pdf) (Session chair: Dan Suciu)
 
 **10:00 am&emsp;** BREAK
 
