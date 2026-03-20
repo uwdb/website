@@ -88,7 +88,7 @@ The Northwest Database Society Annual Meeting brings together researchers and pr
 
 * "From Sight to Insight: Visual Memory for Smarter Assistants," Luna Dong (Meta) <!-- [(slides)](slides/dong.pdf) -->
 * "What's New in BigQuery AI/ML," Xi Cheng (Google) [(slides)](slides/cheng.pdf)
-* "Snowflake Semantic View: Unlocking Efficient and Trusted AI-powered BI," Evelyn Li and Tian Gao (Snowflake) <!-- [(slides)](slides/li-gao.pdf) -->
+* "Snowflake Semantic View: Unlocking Efficient and Trusted AI-powered BI," Evelyn Li and Tian Gao (Snowflake) [(slides)](slides/li-gao.pdf)
 * "What Does Responsible AI Mean? A Cross-Area Perspective," Leilani Battle (Allen School, UW) <!-- [(slides)](slides/battle.pdf) -->
 * "TraversRL: Reinforcement Learning for Urban Data Repair," Bill Howe (Information School, UW) <!-- [(slides)](slides/howe.pdf) -->
 
