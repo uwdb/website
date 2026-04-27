@@ -9,7 +9,7 @@ The UW database group has done several projects over the years which attempt to 
 
 ## Quasi-Stable Cardinality Estimation
 
-<div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em; color: #222; text-shadow: none;">
+<div class="project-banner shaded">
   <img src="../../images/projects/COLOR-intro.png" alt="Lifted Counting Example" style="width: 40rem" />
   <p class="lead">Overview of the Quasi-Stable Cardinality Estimation project.</p>
   <p>
@@ -23,7 +23,7 @@ Graph workloads pose a particularly challenging problem for query optimizers. Th
 
 ## SafeBound
 
-<div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em; color: #222; text-shadow: none;">
+<div class="project-banner shaded">
   <img src="../../images/projects/SafeBoundLogo.png" alt="Safebound Logo" style="width: 40rem" />
   <p class="lead">A practical system for generating provable cardinality bounds.</p>
   <p>
@@ -50,7 +50,7 @@ NSF-BSF 2109922) and a gift from Amazon through the UW Amazon Science Hub.
 
 ## Pessimistic Query Optimization
 
-<div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em; color: #222; text-shadow: none;">
+<div class="project-banner shaded">
   <img src="../../images/projects/pqo.png" alt="hypergraph" style="width: 40rem" />
   <p class="lead">Tighter bounds for intermediate join cardinalities.</p>
   <p>

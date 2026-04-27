@@ -39,7 +39,7 @@ id: "projects"
 	}
 </style>
 
-<div class="jumbotron" style="background-image: none; background-color: inherit; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em; color: #333;">
+<div class="project-banner">
   <img src="../../images/projects/deepeverest-icon.png" alt="Logo" style="width: 36em" />
   <h1 class="title">DeepEverest</h1>
   <p>A System for Efficient DNN Interpretation</p>

@@ -6,7 +6,7 @@ id: "projects"
 ---
 # Sparse Tensor Optimization
 
-<div class="jumbotron" style="background-image: none; background-color: #ddd; background-size: cover; height: auto; padding: 5px 0 10px 0; margin-top: 2em; color: #222; text-shadow: none;">
+<div class="project-banner shaded">
   <img src="../../images/projects/galley.png" alt="Figure 5 from the paper" style="width: 40rem" />
   <p>Galley: Modern Query Optimization for Sparse Tensor Programs</p>
   <p>

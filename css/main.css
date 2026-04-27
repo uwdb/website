@@ -79,7 +79,7 @@ img.logo {
   margin-top: -6px;
 }
 
-.jumbotron {
+.hero {
   text-align: center;
   border-bottom: 1px solid #E7E7E7;
   /* Dark blue-gray fallback for white text contrast */
@@ -95,19 +95,30 @@ img.logo {
   justify-content: center;
 }
 
-.jumbotron h1 {
+.hero h1 {
   font-size: 4.5rem;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8),
     3px 3px 6px rgba(0, 0, 0, 0.6);
 }
 
-.jumbotron .lead {
+.hero .lead {
   max-width: 1000px
 }
 
-.jumbotron .lead a {
+.hero .lead a {
   color: white;
   text-decoration: underline;
+}
+
+.project-banner {
+  text-align: center;
+  border-bottom: 1px solid #E7E7E7;
+  padding: 5px 0 10px 0;
+  margin-top: 2em;
+}
+
+.project-banner.shaded {
+  background-color: #ddd;
 }
 
 .content {
@@ -117,7 +128,7 @@ img.logo {
 /*
  * Accessible in-body links
  * - Darker blue improves contrast against default body text
- * Scope to .content so nav/footer/jumbotron/project tiles can keep their own styling.
+ * Scope to .content so nav/footer/hero/project tiles can keep their own styling.
  * Exclude .btn so Bootstrap buttons keep their original colors.
  */
 .content a:not(.btn) {
