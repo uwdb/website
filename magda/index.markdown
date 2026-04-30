@@ -12,9 +12,9 @@ permalink: /people/magda
 
 __Director, Professor, and&nbsp;Bill &amp; Melinda Gates Chair, [Paul G. Allen School of Computer Science &amp; Engineering.](http://www.cs.washington.edu)__
 
-__Member of the American Academy of Arts and Sciences
+__Member of the American Academy of Arts and Sciences__
 
-__Member of the Washington State Academy of Sciences
+__Member of the Washington State Academy of Sciences__
 
 __Senior Data Science Fellow, [UW eScience Institute.](http://escience.washington.edu/)__
 
