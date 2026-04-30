@@ -16,7 +16,7 @@ My current work focuses on data management for multimodal data (video, images, t
 ### Current Projects:
 
 * __[KathDB](https://db.cs.washington.edu/projects/kathdb/): Data management for multimodal data.__
-  We are building new data management systems and techniques that leverage LLMs and other approaches to manage multimodal data, which includes videos, images, text, and relational data.
+  We are building a new data management system and developing techniques that leverage LLMs and other approaches to manage multimodal data, which includes videos, images, text, and relational data.
 
 * __Data management and AI__ (website forthcoming)
   We are redesigning data mangement systems for the new world of AI Agents and AI methods.
