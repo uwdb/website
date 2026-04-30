@@ -10,8 +10,8 @@ permalink: /people/magda/students
 
 ## Current Students
 
-* Kyle Deeds
-
+* David Alexander
+  
 * Nicole Sullivan
 
 * Guorui Xiao
@@ -21,6 +21,8 @@ permalink: /people/magda/students
 
 ## Former PhD Students, First Employment, and Thesis
 
+* __Kyle Deeds,__ 2025, Boston University XXX Add Thesis XXX
+  
 * __Dong He,__ 2024, Meta<br>Thesis on [Data Systems for Explainable AI and Incorporating AI Infrastructure into Data Systems](http://homes.cs.washington.edu/~magda/theses/he_thesis_2024.pdf)
 
 * __Maureen Daum,__ 2023, Numbers Station<br>Thesis on [Data Storage and Exploration in a Video Data Management System](http://homes.cs.washington.edu/~magda/theses/daum_thesis_2023.pdf)
