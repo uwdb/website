@@ -10,6 +10,18 @@ permalink: /people/magda/honors
 
 ## Awards and Honors
 
+* Member of the American Academy of Arts and Sciences as of 2026.
+
+* Member of the Washington State Academy of Science as of 2025.
+
+* Test of Time Award, 2025, CIDR. 
+
+* PVLDBVol16 Distinguished Associate Editor, 2023.
+
+* Bill and Melinda Gates Chair in Computer Science, 2022 - Present
+
+* ACM Fellow as of 2019.
+
 * Best Paper Candidate at VLDB 2017. Invited to VLDB 2017 special issue in VLDB Journal.
 
 * [ACM SIGMOD's Test of Time Award (2017)](https://sigmod.org/sigmod-awards/citations/2017-sigmod-test-of-time-award/).
