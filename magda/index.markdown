@@ -37,10 +37,8 @@ Email: magda <span>'@'</span> cs.washington.edu
 
 Phone: (206) 616-1069
 
-Fax: (206) 543-2969
-
 Mail:  
-Magdalena Balazinska, Associate Professor  
+Magdalena Balazinska, Professor  
 University of Washington  
 Computer Science &amp; Engineering  
 Box 352350  
