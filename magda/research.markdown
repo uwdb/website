@@ -36,7 +36,7 @@ My current work focuses on data management for multimodal data (video, images, t
 * [Myria](http://myria.cs.washington.edu): Big data management as a cloud service. In this project, we are building a new big data management system as
     a cloud service and are studying the various associated technical challenges.
 
-* [Data Eco$y$tem](http://data-pricing.cs.washington.edu): Data Management and Pricing in the Cloud.
+* Data Eco$y$tem: Data Management, Data Policies, and Pricing in the Cloud: [paper](https://www.vldb.org/pvldb/vol9/p1695-upadhyaya.pdf), [paper](https://dl.acm.org/doi/10.1145/2770870), [paper](https://doi.org/10.1145/2723372.2723721), [paper](http://cidrdb.org/cidr2013/Papers/CIDR13_Paper64.pdf), [paper](https://doi.org/10.1145/2463676.2465335), [paper](https://doi.org/10.1145/2463676.2465264), [paper](http://vldb.org/pvldb/vol5/p562_prasangupadhyaya_vldb2012.pdf), [paper](http://vldb.org/pvldb/vol5/p1962_paraschoskoutris_vldb2012.pdf)
 
 * [CQMS](http://cqms.cs.washington.edu/): Collaborative query management.
 
