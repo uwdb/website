@@ -30,10 +30,8 @@ My current work focuses on data management for multimodal data (video, images, t
 * [VisualWorldDB](https://db.cs.washington.edu/projects/visualworld/) (scroll down past VOCAL): Video data storage, benchmarking, and AR/VR video data management.
 
 * Several small projects on data management and ML including [NeuralArtifactDB](https://db.cs.washington.edu/projects/neuralartifactdb/), [CENTS](https://www.vldb.org/pvldb/vol18/p4574-xiao.pdf), [Querying DNN weights](https://ieeexplore.ieee.org/document/9101606), [DeepQuery](https://dl.acm.org/doi/10.1145/3209889.3209890). 
-  
-* [DeepQuery](http://db.cs.washington.edu/projects/deepQuery/): Machine learning for database systems.
-  
-* [Themis](http://db.cs.washington.edu/projects/themis/): Open world data management and analytics system.
+    
+* [Mosaic](https://vldb.org/cidrdb/2020/mosaic-a-sample-based-database-system-for-open-world-query-processing.html): Open world data management and analytics system.
 
 * [Myria](http://myria.cs.washington.edu): Big data management as a cloud service. In this project, we are building a new big data management system as
     a cloud service and are studying the various associated technical challenges.
