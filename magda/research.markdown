@@ -16,27 +16,28 @@ image and video analytics, database systems for VR/AR, and machine learning + da
 
 ### Current Projects:
 
-* __[VisualWorldDB](https://db.cs.washington.edu/projects/visualworld/): Data management for video data.__
-  We are building new data management systems and techniques for video data. Our work includes&nbsp; a new benchmark, called
-  [Visual Road](http://db.cs.washington.edu/projects/visualroad/), for this type of workloads.
+* __[KathDB](https://db.cs.washington.edu/projects/kathdb/): Data management for multimodal data.__
+  We are building new data management systems and techniques that leverage LLMs and other approaches to manage multimodal data, which includes videos, images, text, and relational data.
 
-* __[Image analytics](http://db.cs.washington.edu/projects/imageAnalytics/): Database support for machine learning workloads__.
-  We are developing new data management techniques to support novel workloads, including machine learning. Our focus so far has been on accelerating and better
-  supporting deep learning over scientific image databases.&nbsp;
+* __Data management and AI__ (website forthcoming)
+  We are redesigning data mangement systems for the new world of AI Agents and AI methods.
 
-* __[DeepQuery](http://db.cs.washington.edu/projects/deepQuery/):__ __Machine learning for database systems.__
-  We study how machine learning, including deep learning, can serve to improve data management systems. This project also included the
-  [Cuttlefish](http://db.cs.washington.edu/projects/cuttlefish/) work that applied reinforcement learning to adaptive query processing.
+* __[VOCAL](https://db.cs.washington.edu/projects/visualworld/): Data management for video data.__
+  We are building new data management systems and techniques for video data. 
 
-* __[Themis](http://db.cs.washington.edu/projects/themis/): Open world data management and analytics system__:
-  We are developing a new type of data management and analytics system designed to work with samples of real-world data, yet answer analytical queries about that world.
-  This work also includes work on [query optimization](http://db.cs.washington.edu/projects/pqo/)
-  and the [EntropyDB](http://db.cs.washington.edu/projects/entropydb/) system.
 
 ### Past Projects:
 
+* [VisualWorldDB](https://db.cs.washington.edu/projects/visualworld/): Video data storage, benchmarking, and AR/VR video data management.
+
+* [Image analytics](http://db.cs.washington.edu/projects/imageAnalytics/): Database support for image analytics workloads
+  
+* [DeepQuery](http://db.cs.washington.edu/projects/deepQuery/): Machine learning for database systems.
+  
+* [Themis](http://db.cs.washington.edu/projects/themis/): Open world data management and analytics system.
+
 * [Myria](http://myria.cs.washington.edu): Big data management as a cloud service. In this project, we are building a new big data management system as
-    a cloud service and are studying the various associated technical challenges..
+    a cloud service and are studying the various associated technical challenges.
 
 * [Data Eco$y$tem](http://data-pricing.cs.washington.edu): Data Management and Pricing in the Cloud.
 
