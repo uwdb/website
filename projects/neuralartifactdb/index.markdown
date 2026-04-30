@@ -108,6 +108,27 @@ image masks while guaranteeing the correctness of query results. MaskSearch leve
 }
 ```
 
+```
+@inproceedings{DBLP:conf/icde/HeZDRB25,
+  author       = {Dong He and
+                  Jieyu Zhang and
+                  Maureen Daum and
+                  Alexander Ratner and
+                  Magdalena Balazinska},
+  title        = {MaskSearch: Querying Image Masks at Scale},
+  booktitle    = {41st {IEEE} International Conference on Data Engineering, {ICDE} 2025,
+                  Hong Kong, May 19-23, 2025},
+  pages        = {2436--2449},
+  publisher    = {{IEEE}},
+  year         = {2025},
+  url          = {https://doi.org/10.1109/ICDE65448.2025.00184},
+  doi          = {10.1109/ICDE65448.2025.00184},
+  timestamp    = {Fri, 05 Sep 2025 21:24:36 +0200},
+  biburl       = {https://dblp.org/rec/conf/icde/HeZDRB25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
 
 ## People
 
