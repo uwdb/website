@@ -27,9 +27,9 @@ My current work focuses on data management for multimodal data (video, images, t
 
 ### Past Projects:
 
-* [VisualWorldDB](https://db.cs.washington.edu/projects/visualworld/): Video data storage, benchmarking, and AR/VR video data management.
+* [VisualWorldDB] (scroll down past VOCAL) (https://db.cs.washington.edu/projects/visualworld/): Video data storage, benchmarking, and AR/VR video data management.
 
-* [Image analytics](http://db.cs.washington.edu/projects/imageAnalytics/): Database support for image analytics workloads
+* Several small projects on data management and ML including [NeuralArtifactDB] (https://db.cs.washington.edu/projects/neuralartifactdb/), [CENTS](https://www.vldb.org/pvldb/vol18/p4574-xiao.pdf), [Querying DNN weights](https://ieeexplore.ieee.org/document/9101606), [DeepQuery](https://dl.acm.org/doi/10.1145/3209889.3209890). 
   
 * [DeepQuery](http://db.cs.washington.edu/projects/deepQuery/): Machine learning for database systems.
   
