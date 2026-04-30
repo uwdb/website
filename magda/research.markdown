@@ -11,8 +11,7 @@ permalink: /people/magda/research
 ## Research
 
 My interests are broadly in the fields of databases and distributed systems.
-My current work focuses on data management for data science, cloud computing,
-image and video analytics, database systems for VR/AR, and machine learning + databases.
+My current work focuses on data management for multimodal data (video, images, text, and relational) as well as interactions between AI and data management. My past project included work on cloud computing, big data processing, stream processing, and much more.
 
 ### Current Projects:
 
