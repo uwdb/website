@@ -95,7 +95,7 @@ image masks while guaranteeing the correctness of query results. MaskSearch leve
 
 <p>
 	<strong>MaskSearch: Querying Image Masks at Scale.</strong>
-	<a class="btn btn-primary btn-sm" href="https://dongheuw.github.io/files/masksearch-icde2025.pdf" role="button">Main Paper</a>
+	<a class="btn btn-primary btn-sm" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11113218" role="button">Main Paper</a>
 	<a class="btn btn-success btn-sm" href="https://github.com/uwdb/masksearch" role="button">Code</a>
 </p>
 
@@ -125,6 +125,29 @@ image masks while guaranteeing the correctness of query results. MaskSearch leve
   doi          = {10.1109/ICDE65448.2025.00184},
   timestamp    = {Fri, 05 Sep 2025 21:24:36 +0200},
   biburl       = {https://dblp.org/rec/conf/icde/HeZDRB25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+```
+@article{DBLP:journals/pvldb/WeiYYZHB24,
+  author       = {Lindsey Linxi Wei and
+                  Chung Yik Edward Yeung and
+                  Hongjian Yu and
+                  Jingchuan Zhou and
+                  Dong He and
+                  Magdalena Balazinska},
+  title        = {Demonstration of MaskSearch: Efficiently Querying Image Masks for
+                  Machine Learning Workflows},
+  journal      = {Proc. {VLDB} Endow.},
+  volume       = {17},
+  number       = {12},
+  pages        = {4297--4300},
+  year         = {2024},
+  url          = {https://www.vldb.org/pvldb/vol17/p4297-he.pdf},
+  doi          = {10.14778/3685800.3685859},
+  timestamp    = {Mon, 06 Oct 2025 08:05:52 +0200},
+  biburl       = {https://dblp.org/rec/journals/pvldb/WeiYYZHB24.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
