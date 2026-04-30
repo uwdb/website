@@ -46,22 +46,22 @@ My current work focuses on data management for multimodal data (video, images, t
 
 * [RFID Ecosystem](http://rfid.cs.washington.edu/): Experimenting with a pervasive RFID-based infrastructure.
 
-* [Lahar](http://mstreams.cs.washington.edu/): Markovian Stream Processing.
+* Lahar: Markovian Stream Processing.
 
-* [Moirae](http://db.cs.washington.edu/projects/moirae/): Exploiting history in monitoring applications.
+* Moirae: Exploiting history in monitoring applications.
 
-* [PEEX](http://data.cs.washington.edu/projects/peex/): Probabilistic Event EXtractor for RFID data.
+* PEEX: Probabilistic Event EXtractor for RFID data.
 
-* [FlowDB](http://data.cs.washington.edu/nids/ovmi.html): Using relational databases in network forensic analysis.
+* FlowDB: Using relational databases in network forensic analysis.
 
-* [StreamClean](http://data.cs.washington.edu/projects/streamclean/): Cleaning sensor data.
+* StreamClean: Cleaning sensor data.
 
-* [HomeViews](http://data.cs.washington.edu/projects/sharedviews/sharedviews.html): Helping home users organize and share their data.
+* HomeViews: Helping home users organize and share their data.
 
-* Distributed stream processing with [Borealis](http://nms.lcs.mit.edu/projects/borealis/) and [Medusa](http://nms.lcs.mit.edu/projects/medusa/).
+* Distributed stream processing with Borealis and Medusa.
 
 * Study of user mobility patterns and network utilization in a [corporate WLAN](https://homes.cs.washington.edu/~magda/wireless/).
 
-* [Twine](http://nms.lcs.mit.edu/projects/twine/): scalable resource discovery system for pervasive computing environments.
+* Twine: scalable resource discovery system for pervasive computing environments.
 
-* [Infranet](http://nms.lcs.mit.edu/projects/infranet/) : Internet censorship circumvention system.
+* Infranet: Internet censorship circumvention system.
