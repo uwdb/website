@@ -95,7 +95,7 @@ image masks while guaranteeing the correctness of query results. MaskSearch leve
 
 <p>
 	<strong>MaskSearch: Querying Image Masks at Scale.</strong>
-	<a class="btn btn-primary btn-sm" href="https://dongheuw.github.io/files/masksearch-icde2025.pdf" role="button">Preprint</a>
+	<a class="btn btn-primary btn-sm" href="https://dongheuw.github.io/files/masksearch-icde2025.pdf" role="button">Main Paper</a>
 	<a class="btn btn-success btn-sm" href="https://github.com/uwdb/masksearch" role="button">Code</a>
 </p>
 
