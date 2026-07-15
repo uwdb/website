@@ -1,3 +1,9 @@
+- name: Enhao Zhang
+  nickname: Enhao
+  website: https://zhang-eh.github.io/
+  image: enhao.jpeg
+  at: Google
+
 - name: Dong He
   nickname: Dong
   website: https://dongheuw.github.io/
@@ -59,33 +65,33 @@
 - name: Gibbs Geng
   website: https://www.linkedin.com/in/zixuan-gibbs-geng-4969181a2
   image: gibbs.jpeg
-  
+
 - name: Helga Guðmundsdóttir
   nickname: Helga
   website: https://www.linkedin.com/in/helgag/
   image: helga.jpg
 
 - name: Jay Garlapati
-  nickname: Jay	
-  website: https://www.linkedin.com/in/jay-garlapati-77016429	
-  image: jay.jpg	
-  
+  nickname: Jay
+  website: https://www.linkedin.com/in/jay-garlapati-77016429
+  image: jay.jpg
+
 - name: Yuqing Guo
   nickname: Yuqing
   website: https://www.linkedin.com/in/yuqing-guo/
   image: placeholder.jpg
 
-- name: Daniel Li	
-  nickname: Daniel	
-  image: placeholder.jpg	
+- name: Daniel Li
+  nickname: Daniel
+  image: placeholder.jpg
 
-- name: Shengliang Xu	
-  nickname: Shengliang	
-  image: shengliang.jpg	
-  
+- name: Shengliang Xu
+  nickname: Shengliang
+  image: shengliang.jpg
+
 - name: Seung-Hee Bae
   nickname: Seung-Hee
-  image: seunghee.jpg  
+  image: seunghee.jpg
 
 - name: Prasang Upadhyaya
   nickname: Prasang
@@ -140,7 +146,7 @@
 - name: Andrew Whitaker
   nickname: Andrew
   image: andrew.jpg
-  
+
 - name: Brandon Myers
   nickname: Brandon
   image: brandonM.jpg
@@ -206,7 +212,7 @@
   nickname: Shrainik
   image: shrainik.jpg
   at: Snowflake
-  
+
 - name: Dominik Moritz
   nickname: Dominik
   website: https://www.domoritz.de/
@@ -218,7 +224,7 @@
   website: https://cs.stanford.edu/people/lorr1/
   image: laurel.jpg
   at: Stanford
-  
+
 - name: Srini Iyer
   nickname: Srini
   website: http://sriniiyer.github.io/
