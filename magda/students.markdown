@@ -16,7 +16,6 @@ permalink: /people/magda/students
 
 * Guorui Xiao
 
-* Enhao Zhang
 
 
 ## Former PhD Students, First Employment, and Thesis
