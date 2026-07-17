@@ -21,7 +21,9 @@ permalink: /people/magda/students
 
 ## Former PhD Students, First Employment, and Thesis
 
-* __Kyle Deeds,__ 2025, Boston University XXX Add Thesis XXX
+* __Enhao Zhang,__ 2026, Google<br>Thesis on [AI-assisted video data management for compositional and high-level queries](http://homes.cs.washington.edu/~magda/theses/zhang_thesis_2026.pdf)
+
+* __Kyle Deeds,__ 2025, Boston University on [AI-assisted video data management for compositional and high-level queries](http://homes.cs.washington.edu/~magda/theses/deeds_thesis_2025.pdf)
   
 * __Dong He,__ 2024, Meta<br>Thesis on [Data Systems for Explainable AI and Incorporating AI Infrastructure into Data Systems](http://homes.cs.washington.edu/~magda/theses/he_thesis_2024.pdf)
 
