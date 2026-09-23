@@ -64,6 +64,11 @@ Unlike black-box LLM-based systems, KathDB keeps users in the loop through inter
 
 ## Related Publications
 <p>
+	<strong>KathDB-FAO: Synthesized Query Plans in a Multimodal DBMS.</strong>
+	<a class="btn btn-primary btn-sm" href="kdb-sep-22.pdf" role="button" aria-label="Read the KathDB-FAO preprint (PDF)">Preprint</a>
+</p>
+
+<p>
 	<strong>KathDB: Explainable Multimodal Database Management System with Human-AI Collaboration.</strong>
 	Guorui Xiao, Enhao Zhang, Nicole Sullivan, Will Hansen, Magdalena Balazinska.
 	<strong><i>CIDR</i></strong>, 2026.
