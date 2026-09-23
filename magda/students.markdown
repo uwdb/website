@@ -22,7 +22,7 @@ permalink: /people/magda/students
 
 * __Enhao Zhang,__ 2026, Google<br>Thesis on [AI-assisted video data management for compositional and high-level queries](http://homes.cs.washington.edu/~magda/theses/zhang_thesis_2026.pdf)
 
-* __Kyle Deeds,__ 2025, Boston University<br> Thesis on [Data-Aware Complexity Analysis and Program Optimization](http://homes.cs.washington.edu/~magda/theses/deeds_thesis_2025.pdf)
+* __Kyle Deeds,__ 2025, Boston University<br> Thesis on [Data-Aware Complexity Analysis and Program Optimization](https://digital.lib.washington.edu/researchworks/items/c82f58b2-dd6e-4cce-a956-e3c32e6a18f2)
   
 * __Dong He,__ 2024, Meta<br>Thesis on [Data Systems for Explainable AI and Incorporating AI Infrastructure into Data Systems](http://homes.cs.washington.edu/~magda/theses/he_thesis_2024.pdf)
 
