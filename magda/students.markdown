@@ -20,7 +20,7 @@ permalink: /people/magda/students
 
 ## Former PhD Students, First Employment, and Thesis
 
-* __Enhao Zhang,__ 2026, Google<br>Thesis on [AI-assisted video data management for compositional and high-level queries](http://homes.cs.washington.edu/~magda/theses/zhang_thesis_2026.pdf)
+* __Enhao Zhang,__ 2026, Google<br>Thesis on [AI-Assisted Video Data Management for Compositional and High-Level Queries](http://homes.cs.washington.edu/~magda/theses/zhang_thesis_2026.pdf)
 
 * __Kyle Deeds,__ 2025, Boston University<br> Thesis on [Data-Aware Complexity Analysis and Program Optimization](https://digital.lib.washington.edu/researchworks/items/c82f58b2-dd6e-4cce-a956-e3c32e6a18f2)
   
